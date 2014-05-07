@@ -1,0 +1,11 @@
+<ColorMap units="%">
+              <ColorMapEntry rgb="30,0,234" transparent="false" value="[1,20)" label="1-20 %" />
+              <ColorMapEntry rgb="3,107,244" transparent="false" value="[20,30)" label="20-30 %" />
+              <ColorMapEntry rgb="0,221,241" transparent="false" value="[30,40)" label="30-40 %" />
+              <ColorMapEntry rgb="3,249,54" transparent="false" value="[40,50)" label="40-50 %" />
+              <ColorMapEntry rgb="81,201,0" transparent="false" value="[50,60)" label="50-60 %" />
+              <ColorMapEntry rgb="214,224,0" transparent="false" value="[60,70)" label="60-70 %" />
+              <ColorMapEntry rgb="251,204,0" transparent="false" value="[70,80)" label="70-80 %" />
+              <ColorMapEntry rgb="255,99,0" transparent="false" value="[80,90)" label="80-90 %" />
+              <ColorMapEntry rgb="207,5,0" transparent="false" value="[90,100]" label="90-100 %" />
+</ColorMap>

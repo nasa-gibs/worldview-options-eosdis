@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ColorMap>
+  <ColorMapEntry rgb="139,0,0" transparent="true" sourceValue="0" label="Missing Data"/>
+  <ColorMapEntry rgb="184,184,184" transparent="true" sourceValue="1" label="No Decision"/>
+  <ColorMapEntry rgb="225,225,150" transparent="true" sourceValue="11" label="Night"/>
+  <ColorMapEntry rgb="0,255,0" transparent="true" sourceValue="25" label="Land"/>
+  <ColorMapEntry rgb="35,35,117" transparent="true" sourceValue="37" label="Inland Water"/>
+  <ColorMapEntry rgb="035,036,117" transparent="true" sourceValue="39" label="Ocean"/>
+  <ColorMapEntry rgb="100,200,255" transparent="true" sourceValue="50" label="Cloud"/>
+  <ColorMapEntry rgb="255,176,255" transparent="true" sourceValue="100" label="Lake Ice"/>
+  <ColorMapEntry rgb="255,0,0" transparent="true" sourceValue="200" label="Sea Ice"/>
+  <ColorMapEntry rgb="001,001,001" transparent="true" sourceValue="254" label="Detector Saturated"/>
+  <ColorMapEntry rgb="001,001,002" transparent="true" sourceValue="255" label="Fill"/>
+</ColorMap>

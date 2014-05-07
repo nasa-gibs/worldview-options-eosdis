@@ -1,0 +1,18 @@
+<ColorMap units="K">
+              <ColorMapEntry rgb="102,0,119" transparent="false" value="220" label="220 K" />
+              <ColorMapEntry rgb="183,15,141" transparent="false" value="225" label="225 K" />
+              <ColorMapEntry rgb="0,0,100" transparent="false" value="229" label="229 K" />
+              <ColorMapEntry rgb="0,0,170" transparent="false" value="234" label="234 K" />
+              <ColorMapEntry rgb="0,0,255" transparent="false" value="239" label="239 K" />
+              <ColorMapEntry rgb="0,136,238" transparent="false" value="243" label="243 K" />
+              <ColorMapEntry rgb="0,80,0" transparent="false" value="248" label="248 K" />
+              <ColorMapEntry rgb="0,136,0" transparent="false" value="253" label="253 K" />
+              <ColorMapEntry rgb="0,220,0" transparent="false" value="257" label="257 K" />
+              <ColorMapEntry rgb="255,255,0" transparent="false" value="262" label="262 K" />
+              <ColorMapEntry rgb="240,190,64" transparent="false" value="267" label="267 K" />
+              <ColorMapEntry rgb="187,136,0" transparent="false" value="271" label="271 K" />
+              <ColorMapEntry rgb="122,90,3" transparent="false" value="276" label="276 K" />
+              <ColorMapEntry rgb="110,0,0" transparent="false" value="281" label="281 K" />
+              <ColorMapEntry rgb="170,0,0" transparent="false" value="285" label="285 K" />
+              <ColorMapEntry rgb="255,0,0" transparent="false" value="290" label="290 K" />
+</ColorMap>

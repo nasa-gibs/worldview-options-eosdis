@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ColorMap units="class number">
+  <ColorMapEntry rgb="134,201,226" transparent="true" sourceValue="0" label="Water"/>
+  <ColorMapEntry rgb="33,138,33" transparent="true" sourceValue="1" label="Evergreen Needleleaf Forest"/>
+  <ColorMapEntry rgb="49,205,49" transparent="true" sourceValue="2" label="Evergreen Broadleaf Forest"/>
+  <ColorMapEntry rgb="154,205,49" transparent="true" sourceValue="3" label="Deciduous Needleleaf Forest"/>
+  <ColorMapEntry rgb="151,250,151" transparent="true" sourceValue="4" label="Deciduous Broadleaf Forest"/>
+  <ColorMapEntry rgb="143,187,143" transparent="true" sourceValue="5" label="Mixed Forests"/>
+  <ColorMapEntry rgb="187,143,143" transparent="true" sourceValue="6" label="Closed Shrubland"/>
+  <ColorMapEntry rgb="245,222,179" transparent="true" sourceValue="7" label="Open Shrublands"/>
+  <ColorMapEntry rgb="218,235,157" transparent="true" sourceValue="8" label="Woody Savannas"/>
+  <ColorMapEntry rgb="255,214,0" transparent="true" sourceValue="9" label="Savannas"/>
+  <ColorMapEntry rgb="239,184,102" transparent="true" sourceValue="10" label="Grasslands"/>
+  <ColorMapEntry rgb="70,130,180" transparent="true" sourceValue="11" label="Permanent Wetlands"/>
+  <ColorMapEntry rgb="250,238,115" transparent="true" sourceValue="12" label="Croplands"/>
+  <ColorMapEntry rgb="255,0,0" transparent="true" sourceValue="13" label="Urban and Built-Up"/>
+  <ColorMapEntry rgb="153,147,85" transparent="true" sourceValue="14" label="Cropland/Natural Vegetation Mosaic"/>
+  <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="15" label="Snow and Ice"/>
+  <ColorMapEntry rgb="190,190,189" transparent="true" sourceValue="16" label="Barren or Sparsely Vegetated"/>
+</ColorMap>

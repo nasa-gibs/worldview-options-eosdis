@@ -1,0 +1,17 @@
+{
+    "layers": {
+        "OMI_Absorbing_Aerosol_Optical_Depth": {
+            "id":       "OMI_Absorbing_Aerosol_Optical_Depth",
+            "title":    "Absorbing Aerosol Optical Depth",
+            "subtitle": "Aura / OMI",
+            "group":    "overlays",
+            "product":  "OMAERUV",
+            "tags":     "aod",
+
+            "palette": {
+                "id":           "OMI_Absorbing_Aerosol_Optical_Depth",
+                "recommended":  ["orange_1"]
+            }
+        }
+    }
+}

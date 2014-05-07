@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ColorMap>
+  <ColorMapEntry rgb="035,035,117" transparent="true" sourceValue="0" label="Missing Input Data"/>
+  <ColorMapEntry rgb="035,036,117" transparent="true" sourceValue="3" label="Water"/>
+  <ColorMapEntry rgb="050,150,255" transparent="true" sourceValue="4" label="Cloud"/>
+  <ColorMapEntry rgb="000,255,000" transparent="true" sourceValue="5" label="Non-Fire"/>
+  <ColorMapEntry rgb="255,255,000" transparent="true" sourceValue="6" label="Unknown"/>
+  <ColorMapEntry rgb="255,000,000" transparent="true" sourceValue="7" label="Fire (Low Confidence)"/>
+  <ColorMapEntry rgb="255,000,001" transparent="true" sourceValue="8" label="Fire (Nominal Confidence)"/>
+  <ColorMapEntry rgb="255,001,001" transparent="true" sourceValue="9" label="Fire (High Confidence)"/>
+</ColorMap>

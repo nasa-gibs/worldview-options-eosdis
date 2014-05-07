@@ -1,0 +1,11 @@
+<ColorMap units="">
+	<ColorMapEntry rgb="255,254,227" transparent="false" value="[360-360.65)" label="360"/>
+	<ColorMapEntry rgb="255,251,209" transparent="false" value="[360.65-380)" label="360.65"/>
+	<ColorMapEntry rgb="254,241,175" transparent="false" value="[380-400)" label="380"/>
+	<ColorMapEntry rgb="254,222,135" transparent="false" value="[400-420)" label="400"/>
+	<ColorMapEntry rgb="254,196,79" transparent="false" value="[420-440)" label="420"/>
+	<ColorMapEntry rgb="254,160,48" transparent="false" value="[440-460)" label="440"/>
+	<ColorMapEntry rgb="242,125,27" transparent="false" value="[460-480)" label="460"/>
+	<ColorMapEntry rgb="219,93,10" transparent="false" value="[480-500)" label="480"/>
+	<ColorMapEntry rgb="182,65,2" transparent="false" value="[500-1000]" label=">= 500"/>
+</ColorMap>
