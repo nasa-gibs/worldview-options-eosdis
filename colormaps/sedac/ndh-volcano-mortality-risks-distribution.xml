@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+    <ColorMapEntry rgb="254,232,200" transparent="false" label="1st - 4th"/>
+    <ColorMapEntry rgb="253,187,132" transparent="false" label="5th - 7th"/>
+    <ColorMapEntry rgb="227,74,51" transparent="false" label="8th - 10th"/>
+</ColorMap>

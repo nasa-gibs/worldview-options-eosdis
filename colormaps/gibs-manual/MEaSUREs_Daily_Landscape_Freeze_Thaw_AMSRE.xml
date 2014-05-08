@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+  <ColorMapEntry rgb="0,0,255" sourceValue="0" transparent="false" label="Frozen"/>
+  <ColorMapEntry rgb="255,0,0" sourceValue="1" transparent="false" label="Thawed"/>
+  <ColorMapEntry rgb="165,165,165" sourceValue="2" transparent="false" label="Transitional"/>
+  <ColorMapEntry rgb="0,255,0" sourceValue="3" transparent="false" label="Inv Transitional"/>
+  <ColorMapEntry rgb="255,255,255" sourceValue="251" transparent="true" label="No FT Status"/>
+  <ColorMapEntry rgb="17,17,17" sourceValue="252" transparent="true" label="Non-Cold Area"/>
+  <ColorMapEntry rgb="119,85,51" sourceValue="254" transparent="true" label="Open Water"/>
+  <ColorMapEntry rgb="119,153,187" sourceValue="255" transparent="true" label="Fill"/>
+</ColorMap>

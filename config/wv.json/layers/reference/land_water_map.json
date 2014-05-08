@@ -14,15 +14,15 @@
             "projections": {
                 "arctic": {
                     "source":       "GIBS:arctic",
-                    "matrixSet":    "GIBS:EPSG3413_250m"
+                    "matrixSet":    "EPSG3413_250m"
                 },
                 "antarctic": {
                     "source":       "GIBS:antarctic",
-                    "matrixSet":    "GIBS:EPSG3031_250m"
+                    "matrixSet":    "EPSG3031_250m"
                 },
                 "geographic": {
                     "source":       "GIBS:geographic",
-                    "matrixSet":    "GIBS:EPSG4326_250m"
+                    "matrixSet":    "EPSG4326_250m"
                 }
             }
         }

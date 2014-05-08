@@ -19,7 +19,7 @@
                     "source": "SEDAC:wms"
                 }
             },
-            
+
             "palette": {
             	"id":			"grump-v1-population-count_2000",
             	"classified": 	"true"

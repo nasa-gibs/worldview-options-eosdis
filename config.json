@@ -1,11 +1,4 @@
 {
-    "skip": [
-        "Sea_Surface_Temp_Microwave",
-        "Sea_Surface_Temp_Blended",
-        "arctic_graticule_3413_reverb",
-        "blue_marble_arctic",
-        "OMI_SO2_Planetary_Boundary_Layer"
-    ],
     "wv-options-fetch": [
         {
             "from": "https://map1.vis.earthdata.nasa.gov/wmts-geo/wmts.cgi?request=GetCapabilities",

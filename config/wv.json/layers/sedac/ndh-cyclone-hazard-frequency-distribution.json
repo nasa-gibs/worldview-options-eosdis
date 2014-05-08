@@ -16,7 +16,7 @@
                     "source": "SEDAC:wms"
                 }
             },
-            
+
             "palette": {
             	"id":			"ndh-cyclone-hazard-frequency-distribution",
             	"classified": 	"true"

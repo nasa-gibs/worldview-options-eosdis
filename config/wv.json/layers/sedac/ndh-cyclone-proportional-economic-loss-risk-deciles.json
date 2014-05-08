@@ -16,7 +16,7 @@
                     "source": "SEDAC:wms"
                 }
             },
-            
+
             "palette": {
             	"id":			"ndh-cyclone-proportional-economic-loss-risk-deciles",
             	"classified": 	"true"

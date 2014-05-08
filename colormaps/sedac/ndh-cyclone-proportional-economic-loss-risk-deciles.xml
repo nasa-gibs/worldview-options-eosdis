@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+    <ColorMapEntry rgb="236,231,242" transparent="false" label="1st - 4th, lower risk"/>
+    <ColorMapEntry rgb="166,189,219" transparent="false" label="5th - 7th, middle risk"/>
+    <ColorMapEntry rgb="43,140,190" transparent="false" label="8th - 10th, high risk"/>
+</ColorMap>

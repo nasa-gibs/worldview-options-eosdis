@@ -17,7 +17,7 @@
             "projections": {
                 "geographic": {
                     "source":       "GIBS:geographic",
-                    "matrixSet":    "GIBS:EPSG4326_2km"
+                    "matrixSet":    "EPSG4326_2km"
                 }
             },
 
