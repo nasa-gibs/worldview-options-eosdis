@@ -15,7 +15,7 @@
             "projections": {
                 "antarctic": {
                     "source":       "GIBS:antarctic",
-                    "matrixSet":    "GIBS:EPSG3031_250m"
+                    "matrixSet":    "EPSG3031_250m"
                 }
             }
         }

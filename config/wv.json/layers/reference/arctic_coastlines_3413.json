@@ -15,7 +15,7 @@
             "projections": {
                 "arctic": {
                     "source":       "GIBS:arctic",
-                    "matrixSet":    "GIBS:EPSG3413_250m"
+                    "matrixSet":    "EPSG3413_250m"
                 }
             }
         }
