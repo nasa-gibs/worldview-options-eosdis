@@ -1,4 +1,5 @@
 {
+    "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
             "from": "https://map1.vis.earthdata.nasa.gov/wmts-geo/wmts.cgi?request=GetCapabilities",
