@@ -9,14 +9,13 @@
             "tileSize": [512, 512],
             "type":     "wms",
             "product":  "CIESIN_CHRR_NDH_DROUGHT_HFD",
-            "opacity":  0.75,
 
             "projections": {
                 "geographic": {
                     "source": "SEDAC:wms"
                 }
             },
-            
+
             "palette": {
             	"id":			"ndh-drought-hazard-frequency-distribution",
             	"classified": 	"true"

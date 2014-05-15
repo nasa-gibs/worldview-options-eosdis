@@ -9,7 +9,6 @@
             "tileSize": [512, 512],
             "type":     "wms",
             "product":  "CIESIN_SEDAC_GRUMPv1_POPCOUNT",
-            "opacity":  0.55,
 
             "projections": {
                 "arctic": {

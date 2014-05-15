@@ -9,7 +9,6 @@
             "tileSize": [512, 512],
             "type":     "wms",
             "product":  "CIESIN_CHRR_NDH_CYCLONE_HFD",
-            "opacity":  0.75,
 
             "projections": {
                 "geographic": {

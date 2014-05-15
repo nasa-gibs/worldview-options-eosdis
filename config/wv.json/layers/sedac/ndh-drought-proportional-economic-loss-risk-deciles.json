@@ -9,14 +9,13 @@
             "tileSize": [512, 512],
             "type":     "wms",
             "product":  "CIESIN_CHRR_NDH_DROUGHT_PELRD",
-            "opacity":  0.75,
 
             "projections": {
                 "geographic": {
                     "source": "SEDAC:wms"
                 }
             },
-            
+
             "palette": {
             	"id":			"ndh-drought-proportional-economic-loss-risk-deciles",
             	"classified": 	"true"
