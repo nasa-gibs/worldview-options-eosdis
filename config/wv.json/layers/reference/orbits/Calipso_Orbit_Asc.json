@@ -16,6 +16,10 @@
                 "geographic": {
                     "source":   "GIBS:wms"
                 }
+            },
+            
+            "palette": {
+                "id": "Calipso_Orbit"
             }
         }
     }

@@ -22,6 +22,10 @@
                 "geographic": {
                     "source":   "GIBS:wms"
                 }
+            },
+            
+            "palette": {
+                "id": "Terra_Orbit"
             }
         }
     }
