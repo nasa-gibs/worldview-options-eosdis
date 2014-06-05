@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ColorMap>
-    <ColorMapEntry rgb="216,186,25" transparent="false" label="Calipso"/>
+    <ColorMapEntry rgb="216,186,25" transparent="false" label="Calipso UTC"/>
 </ColorMap>

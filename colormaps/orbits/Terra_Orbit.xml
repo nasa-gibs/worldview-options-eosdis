@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ColorMap>
-    <ColorMapEntry rgb="242,135,34" transparent="false" label="Terra"/>
+    <ColorMapEntry rgb="242,135,34" transparent="false" label="Terra UTC"/>
 </ColorMap>
