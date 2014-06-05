@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ColorMap>
-    <ColorMapEntry rgb="21,192,230" transparent="false" label="Aqua UTC"/>
+    <ColorMapEntry rgb="21,192,230" transparent="false" label="Acquisition Time (UTC)"/>
 </ColorMap>
