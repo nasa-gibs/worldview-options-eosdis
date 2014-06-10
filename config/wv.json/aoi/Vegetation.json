@@ -16,6 +16,9 @@
                 "MODIS_Terra_Land_Surface_Temp_Night",
                 "MODIS_Aqua_Land_Surface_Temp_Day",
                 "MODIS_Aqua_Land_Surface_Temp_Night",
+                "MODIS_Fires_All",
+                "MODIS_Fires_Terra",
+                "MODIS_Fires_Aqua",
                 "land_mask"
             ]
         }
