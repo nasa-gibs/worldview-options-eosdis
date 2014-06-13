@@ -2,8 +2,8 @@
     "layers": {
         "MODIS_Fires_All": {
             "id":       "MODIS_Fires_All",
-            "title":    "Fires (Day and Night)",
-            "subtitle": "Terra/ and Aqua/MODIS Fire and Thermal Anomalies",
+            "title":    "Fires and Thermal Anomalies (Day and Night)",
+            "subtitle": "Terra and Aqua/MODIS",
             "tags":     "hotspot",
             "group":    "overlays",
             "format":   "image/png",
