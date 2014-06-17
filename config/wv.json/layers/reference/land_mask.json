@@ -1,25 +1,30 @@
 {
     "layers": {
-        "land_mask": {
-            "id":       "land_mask",
+        "Land_Mask": {
+            "id":       "Land_Mask",
             "title":    "Land Mask",
-            "subtitle": "OpenStreetMap / Coastlines",
             "tags":     "borders mask",
             "group":    "overlays",
             "format":   "image/png",
-            "type":		"wmts",
+            "type":     "wmts",
             "tileSize": [ 512, 512 ],
 
             "projections": {
             	"antarctic": {
+                    "layer":         "SCAR_Land_Mask",
+                    "subtitle":      "Polarview / Coastlines",
             		"source": 	   "GIBS:antarctic",
             		"matrixSet":	 "EPSG3031_250m"
             	},
             	"arctic": {
+                    "layer":         "OSM_Land_Mask",
+                    "subtitle":      "OpenStreetMap / Coastlines",
             		"source": 	   "GIBS:arctic",
             		"matrixSet":	 "EPSG3413_250m"
             	},
             	"geographic": {
+                    "layer":         "OSM_Land_Mask",
+                    "subtitle":      "OpenStreetMap / Coastlines",
             		"source":		"GIBS:geographic",
             		"matrixSet":	 "EPSG4326_250m"
             	}

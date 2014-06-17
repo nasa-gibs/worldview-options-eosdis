@@ -1,32 +1,34 @@
 {
     "layers": {
-        "Land_Water_Map": {
-            "id":       "Land_Water_Map",
-            "title":    "Land / Water Map",
+        "Coastlines": {
+            "id":       "Coastlines",
+            "title":    "Coastlines",
             "tags":     "borders",
-            "group":    "baselayers",
+            "group":    "overlays",
             "format":   "image/png",
             "type":     "wmts",
             "tileSize": [ 512, 512 ],
 
             "projections": {
                 "antarctic": {
-                    "layer":        "SCAR_Land_Water_Map",
-                    "subtitle":     "Polarview / Coastlines",
+                    "subtitle":     "ADD SCAR / Coastlines",
+                    "type":         "wmts",
+                    "noTransition": "true",
                     "source":       "GIBS:antarctic",
                     "matrixSet":    "EPSG3031_250m"
                 },
                 "arctic": {
-                    "layer":        "OSM_Land_Water_Map",
                     "subtitle":     "OpenStreetMap / Coastlines",
+                    "type":         "wmts",
+                    "noTransition": "true",
                     "source":       "GIBS:arctic",
                     "matrixSet":    "EPSG3413_250m"
                 },
                 "geographic": {
-                    "layer":        "OSM_Land_Water_Map",
-                    "subtitle":     "OpenStreetMap / Coastlines",
-                    "source":       "GIBS:geographic",
-                    "matrixSet":    "EPSG4326_250m"
+                    "subtitle":     "SEDAC / Coastlines v3",
+                    "layer":        "gpw-v3-coastlines",
+                    "type":         "wms",
+                    "source":       "SEDAC:wms"
                 }
             }
         }
