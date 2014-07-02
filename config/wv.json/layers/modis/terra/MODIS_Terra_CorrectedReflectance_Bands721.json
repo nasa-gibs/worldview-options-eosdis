@@ -5,7 +5,9 @@
             "title":    "Corrected Reflectance (7-2-1)",
             "subtitle": "Terra / MODIS",
             "tags":     "cr",
-            "group":    "baselayers"
+            "group":    "baselayers",
+            
+            "metadata": "modis/CorrectedReflectance_Bands721"
         }
     }
 }

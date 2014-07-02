@@ -8,6 +8,7 @@
             "group":    "overlays",
             "product":  "MOD04_L2",
 
+            "metadata": "modis/Aerosol",
             "palette": {
                 "id":           "MODIS_Terra_Aerosol",
                 "recommended":  ["orange_1"]

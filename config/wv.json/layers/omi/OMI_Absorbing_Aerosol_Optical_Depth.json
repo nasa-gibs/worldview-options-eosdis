@@ -8,6 +8,7 @@
             "product":  "OMAERUV",
             "tags":     "aod",
 
+            "metadata": "omi/Absorbing_Aerosol_Optical_Depth",
             "palette": {
                 "id":           "OMI_Absorbing_Aerosol_Optical_Depth",
                 "recommended":  ["orange_1"]
