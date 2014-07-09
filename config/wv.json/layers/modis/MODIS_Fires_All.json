@@ -18,11 +18,6 @@
                 "geographic": {
                     "source": "GIBS:wms"
                 }
-            },
-
-            "palette": {
-                "id":       "MODIS_Fires_All",
-                "single":   "true"
             }
         }
     }

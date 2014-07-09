@@ -9,7 +9,6 @@
             "product":  "AIRIBRAD_NIGHT",
 
             "palette": {
-                "id": "AIRS_Prata_SO2_D",
                 "recommended": ["orange_1", "red_1"]
             }
         }

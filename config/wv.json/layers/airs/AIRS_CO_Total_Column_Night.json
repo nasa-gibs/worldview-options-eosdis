@@ -10,7 +10,6 @@
 
             "metadata": "airs/CO_Total_Column",
             "palette": {
-                "id": "AIRS_COTotalColumn_D",
                 "recommended": ["red_1"]
             }
         }

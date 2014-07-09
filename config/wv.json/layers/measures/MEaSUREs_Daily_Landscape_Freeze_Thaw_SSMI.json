@@ -5,12 +5,7 @@
             "title":    "Freeze/Thaw (Daily Landscape)",
             "subtitle": "DMSP / SSMI",
             "group":    "overlays",
-            "inactive": "true",
-
-            "palette": {
-                "id": "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
-                "classified": "true"
-            }
+            "inactive": "true"
         }
     }
 }

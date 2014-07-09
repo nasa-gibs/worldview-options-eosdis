@@ -5,12 +5,7 @@
             "title":    "Sea Ice",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD29",
-
-            "palette": {
-                "id":       "MODIS_Aqua_Sea_Ice",
-                "single":   "true"
-            }
+            "product":  "MYD29"
         }
     }
 }

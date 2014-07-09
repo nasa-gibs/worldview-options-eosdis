@@ -1,4 +1,8 @@
 {
+    "skip": [
+        "Sea_Surface_Temp_Blended",
+        "Sea_Surface_Temp_Microwave"
+    ],
     "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {

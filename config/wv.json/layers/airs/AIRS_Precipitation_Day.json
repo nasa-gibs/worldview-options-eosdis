@@ -8,7 +8,6 @@
             "product":  "AIRX2SUP_DAY",
 
             "palette": {
-                "id": "AIRS_Precipitation_A",
                 "recommended": ["blue_1", "blue_3"]
             }
         }

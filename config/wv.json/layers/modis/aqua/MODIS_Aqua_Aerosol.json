@@ -10,7 +10,6 @@
 
             "metadata": "modis/Aerosol",
             "palette": {
-                "id":           "MODIS_Aqua_Aerosol",
                 "recommended":  ["orange_1"]
             }
         }

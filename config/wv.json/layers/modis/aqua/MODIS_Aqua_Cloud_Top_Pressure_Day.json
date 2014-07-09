@@ -8,7 +8,6 @@
             "product":  "MYD06_L2_DAY",
 
             "palette": {
-                "id":           "MODIS_Aqua_Cloud_Top_Pressure_Day",
                 "recommended":  ["blue_4"]
             }
         }

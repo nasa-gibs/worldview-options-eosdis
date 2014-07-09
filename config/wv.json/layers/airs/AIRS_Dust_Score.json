@@ -9,7 +9,6 @@
 
             "metadata": "airs/Dust_Score",
             "palette": {
-                "id":       "AIRS_DustScore_A",
                 "exclude":  ["orange_1"]
             }
         }

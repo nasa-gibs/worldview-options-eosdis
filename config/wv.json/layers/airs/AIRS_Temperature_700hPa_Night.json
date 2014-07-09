@@ -19,10 +19,6 @@
                     "source":       "GIBS:geographic",
                     "matrixSet":    "EPSG4326_2km"
                 }
-            },
-
-            "palette": {
-                "id":   "AIRS_T700_D"
             }
         }
     }

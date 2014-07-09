@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<ColorMap>
-  <ColorMapEntry rgb="100,100,100" transparent="true" sourceValue="0" label="Fill"/>
-  <ColorMapEntry rgb="0,0,100" transparent="true" sourceValue="1" label="Clear"/>
-  <ColorMapEntry rgb="188,210,254" transparent="true" sourceValue="2" label="Liquid Water Cloud"/>
-  <ColorMapEntry rgb="120,38,32" transparent="true" sourceValue="3" label="Ice Cloud"/>
-  <ColorMapEntry rgb="192,192,193" transparent="true" sourceValue="4" label="Undetermined Phase Cloud"/>
-</ColorMap>

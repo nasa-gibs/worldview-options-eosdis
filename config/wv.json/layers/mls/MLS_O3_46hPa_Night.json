@@ -6,11 +6,7 @@
             "subtitle": "Aura / MLS",
             "tags":     "o3",
             "group":    "overlays",
-            "product":  "ML2O3",
-
-            "palette": {
-                "id":   "MLS_O3_46hPa_Night"
-            }
+            "product":  "ML2O3"
         }
     }
 }
