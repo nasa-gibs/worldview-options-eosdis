@@ -19,6 +19,10 @@
                     "source":       "GIBS:geographic",
                     "matrixSet":    "EPSG4326_2km"
                 }
+            },
+
+            "palette": {
+                "id":   "AIRS_Temperature_600hPa_Day"
             }
         }
     }
