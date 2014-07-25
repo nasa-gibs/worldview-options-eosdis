@@ -1,7 +1,8 @@
 {
     "features": {
         "dataDownload": true,
-        "urlShortening": true
+        "urlShortening": true,
+        "customPalettes": true
     },
     "scripts": [
         "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
