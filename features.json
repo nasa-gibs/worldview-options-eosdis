@@ -6,6 +6,6 @@
     },
     "scripts": [
         "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
-        "https://fbm.earthdata.nasa.gov/for/worldview/feedback.js"
+        "https://fbm.uat.earthdata.nasa.gov/for/worldview_uat/feedback.js"
     ]
 }
