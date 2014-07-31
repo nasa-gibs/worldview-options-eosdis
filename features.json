@@ -2,7 +2,10 @@
     "features": {
         "dataDownload": true,
         "urlShortening": true,
-        "customPalettes": true
+        "customPalettes": true,
+        "tour": true,
+        "whatsNew": true,
+        "feedback": true
     },
     "scripts": [
         "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
