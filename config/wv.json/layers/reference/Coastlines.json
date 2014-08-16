@@ -3,7 +3,6 @@
         "Coastlines": {
             "id":       "Coastlines",
             "title":    "Coastlines",
-            "tags":     "borders",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wmts",
@@ -12,23 +11,15 @@
             "projections": {
                 "antarctic": {
                     "subtitle":     "ADD SCAR / Coastlines",
-                    "type":         "wmts",
-                    "noTransition": "true",
-                    "source":       "GIBS:antarctic",
-                    "matrixSet":    "EPSG3031_250m"
-                },
-                "arctic": {
-                    "subtitle":     "OpenStreetMap / Coastlines",
-                    "type":         "wmts",
-                    "noTransition": "true",
-                    "source":       "GIBS:arctic",
-                    "matrixSet":    "EPSG3413_250m"
+                    "tags":         "borders reference"
                 },
                 "geographic": {
-                    "subtitle":     "SEDAC / Coastlines v3",
-                    "layer":        "gpw-v3-coastlines",
-                    "type":         "wms",
-                    "source":       "SEDAC:wms"
+                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>, Natural Earth",
+                    "tags":         "borders reference osm"
+                },
+                "arctic": {
+                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>, Natural Earth",
+                    "tags":         "borders reference osm"
                 }
             }
         }
