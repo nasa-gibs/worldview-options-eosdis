@@ -18,13 +18,13 @@
                 },
                 "arctic": {
                     "layer":         "OSM_Land_Mask",
-                    "subtitle":      "OpenStreetMap / Coastlines",
+                    "subtitle":      "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
                     "source":        "GIBS:arctic",
                     "matrixSet":     "EPSG3413_250m"
                 },
                 "geographic": {
                     "layer":         "OSM_Land_Mask",
-                    "subtitle":      "OpenStreetMap / Coastlines",
+                    "subtitle":      "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
                     "source":        "GIBS:geographic",
                     "matrixSet":     "EPSG4326_250m"
                 }
