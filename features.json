@@ -5,7 +5,8 @@
         "customPalettes": true,
         "tour": true,
         "whatsNew": true,
-        "feedback": true
+        "feedback": true,
+        "arcticProjectionChange": true
     },
     "scripts": [
         "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
