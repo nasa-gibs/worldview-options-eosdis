@@ -12,10 +12,6 @@
         {
             "from": "https://map1.vis.earthdata.nasa.gov/wmts-antarctic/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
-        },
-        {
-            "from": "https://map1.vis.earthdata.nasa.gov/wmts-webmerc/wmts.cgi?request=GetCapabilities",
-            "to": "gibs-webmerc.xml"
         }
     ],
     "wv-options-wmts": [
@@ -39,13 +35,13 @@
             "to": "gibs-antarctic.json",
             "projection": "antarctic",
             "maxResolution": 8192.0
-        },
-        {
-            "source": "GIBS:webmerc",
-            "from": "gibs-webmerc.xml",
-            "to": "gibs-webmerc.json",
-            "projection": "webmerc",
-            "maxResolution": 156543.03390625
         }
+    ],
+    "skipPalettes": [
+        "AMSRE_Sea_Ice_Concentration_25km",
+        "AMSRE_Snow_Depth_Over_Ice_12km",
+        "AMSRE_Sea_Ice_Concentration_12km",
+        "AMSRE_Sea_Ice_Brightness_Temp_89V",
+        "AMSRE_Sea_Ice_Brightness_Temp_89H"
     ]
 }

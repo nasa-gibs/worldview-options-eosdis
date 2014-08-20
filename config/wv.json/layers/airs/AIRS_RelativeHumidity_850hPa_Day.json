@@ -23,7 +23,7 @@
             },
 
             "palette": {
-                "id": "AIRS_RH850_A"
+                "id": "AIRS_RelativeHumidity_850hPa_Day"
             }
         }
     }

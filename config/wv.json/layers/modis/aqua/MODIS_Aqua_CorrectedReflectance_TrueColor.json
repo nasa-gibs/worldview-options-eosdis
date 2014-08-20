@@ -5,7 +5,9 @@
             "title":    "Corrected Reflectance (True Color)",
             "subtitle": "Aqua / MODIS",
             "tags":     "natural color cr",
-            "group":    "baselayers"
+            "group":    "baselayers",
+            
+            "metadata": "modis/CorrectedReflectance_TrueColor"
         }
     }
 }

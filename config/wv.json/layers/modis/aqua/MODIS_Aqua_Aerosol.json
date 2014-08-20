@@ -8,8 +8,8 @@
             "group":    "overlays",
             "product":  "MYD04_L2",
 
+            "metadata": "modis/Aerosol",
             "palette": {
-                "id":           "MODIS_Aqua_Aerosol",
                 "recommended":  ["orange_1"]
             }
         }

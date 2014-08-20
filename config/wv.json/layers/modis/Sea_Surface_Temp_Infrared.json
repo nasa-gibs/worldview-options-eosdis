@@ -8,7 +8,6 @@
             "group":    "overlays",
 
             "palette": {
-                "id":           "Sea_Surface_Temp_Infrared",
                 "recommended":  ["purple_2"]
             }
         }

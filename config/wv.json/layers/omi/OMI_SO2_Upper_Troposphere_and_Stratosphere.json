@@ -8,8 +8,8 @@
             "product":  "OMSO2",
             "tags":     "so2",
 
+            "metadata": "omi/SO2_Upper_Troposphere_and_Stratosphere",
             "palette": {
-                "id":           "OMI_SO2_Upper_Troposphere_and_Stratosphere",
                 "recommended":  ["orange_1", "red_1"]
             }
         }

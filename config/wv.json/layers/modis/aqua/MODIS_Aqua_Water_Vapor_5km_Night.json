@@ -8,7 +8,6 @@
             "product":  "MYD05_L2_NIGHT",
 
             "palette": {
-                "id":           "MODIS_Aqua_Water_Vapor_5km_Night",
                 "recommended":  ["blue_1"]
             }
         }

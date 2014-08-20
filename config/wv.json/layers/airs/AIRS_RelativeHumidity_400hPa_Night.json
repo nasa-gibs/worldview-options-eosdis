@@ -23,7 +23,7 @@
             },
 
             "palette": {
-                "id": "AIRS_RH400_D"
+                "id": "AIRS_RelativeHumidity_400hPa_Night"
             }
         }
     }

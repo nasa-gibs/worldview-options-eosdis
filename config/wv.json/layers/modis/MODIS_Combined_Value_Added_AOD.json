@@ -9,7 +9,6 @@
             "product":  "MYD04_L2",
 
             "palette": {
-                "id":           "MODIS_Combined_Value_Added_AOD",
                 "recommended":  ["orange_1"]
             }
         }

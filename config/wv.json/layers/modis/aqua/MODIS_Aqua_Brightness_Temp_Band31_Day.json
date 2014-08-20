@@ -4,11 +4,7 @@
             "id":       "MODIS_Aqua_Brightness_Temp_Band31_Day",
             "title":    "Brightness Temperature (Band 31-Day)",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays",
-
-            "palette": {
-                "id":   "MODIS_Aqua_Brightness_Temp_Band31_Day"
-            }
+            "group":    "overlays"
         }
     }
 }

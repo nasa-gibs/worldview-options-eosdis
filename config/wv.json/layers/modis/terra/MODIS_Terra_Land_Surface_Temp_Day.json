@@ -8,7 +8,6 @@
             "product":  "MOD11_L2_DAY",
 
             "palette": {
-                "id":   "MODIS_Terra_Land_Surface_Temp_Day",
                 "recommended": ["rainbow_1", "purple_2"]
             }
         }

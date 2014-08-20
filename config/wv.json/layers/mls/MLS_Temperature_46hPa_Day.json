@@ -5,11 +5,7 @@
             "title":    "Temperature (46 hPa, Day)",
             "subtitle": "Aura / MLS",
             "group":    "overlays",
-            "product":  "ML2T",
-
-            "palette": {
-                "id":   "MLS_Temperature_46hPa_Day"
-            }
+            "product":  "ML2T"
         }
     }
 }

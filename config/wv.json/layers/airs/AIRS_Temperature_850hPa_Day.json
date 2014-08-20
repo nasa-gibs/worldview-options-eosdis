@@ -22,7 +22,7 @@
             },
 
             "palette": {
-                "id":   "AIRS_T850_A"
+                "id":   "AIRS_Temperature_850hPa_Day"
             }
         }
     }

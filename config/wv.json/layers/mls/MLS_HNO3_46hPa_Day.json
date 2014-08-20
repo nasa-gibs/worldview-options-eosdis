@@ -6,11 +6,7 @@
             "subtitle": "Aura / MLS",
             "tags":     "hno3",
             "group":    "overlays",
-            "product":  "ML2HNO3",
-
-            "palette": {
-                "id":   "MLS_HNO3_46hPa_Day"
-            }
+            "product":  "ML2HNO3"
         }
     }
 }

@@ -6,11 +6,7 @@
             "subtitle": "Aura / MLS",
             "tags":     "so2",
             "group":    "overlays",
-            "product":  "ML2SO2",
-
-            "palette": {
-                "id":   "MLS_SO2_147hPa_Night"
-            }
+            "product":  "ML2SO2"
         }
     }
 }

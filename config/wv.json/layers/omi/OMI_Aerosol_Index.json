@@ -7,8 +7,8 @@
             "group":    "overlays",
             "product":  "OMAERUV",
 
+            "metadata": "omi/Aerosol_Index",
             "palette": {
-                "id":           "OMI_Aerosol_Index",
                 "recommended":  ["orange_1"]
             }
         }
