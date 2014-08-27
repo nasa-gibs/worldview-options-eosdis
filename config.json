@@ -36,12 +36,5 @@
             "projection": "antarctic",
             "maxResolution": 8192.0
         }
-    ],
-    "skipPalettes": [
-        "AMSRE_Sea_Ice_Concentration_25km",
-        "AMSRE_Snow_Depth_Over_Ice_12km",
-        "AMSRE_Sea_Ice_Concentration_12km",
-        "AMSRE_Sea_Ice_Brightness_Temp_89V",
-        "AMSRE_Sea_Ice_Brightness_Temp_89H"
     ]
 }
