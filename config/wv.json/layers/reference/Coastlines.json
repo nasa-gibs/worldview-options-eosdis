@@ -11,7 +11,7 @@
 
             "projections": {
                 "antarctic": {
-                    "subtitle":     "ADD SCAR / Coastlines",
+                    "subtitle":     "SCAR Antarctic Digital Database / Coastlines",
                     "tags":         "borders reference"
                 },
                 "geographic": {
