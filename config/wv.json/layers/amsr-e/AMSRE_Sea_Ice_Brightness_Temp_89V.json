@@ -5,11 +5,7 @@
             "title":    "Sea Ice Brightness Temperature (89V GHz B Scan)",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
-            "inactive": true,
-
-            "palette": {
-                "recommended": ["blue_4", "purple_2"]
-            }
+            "inactive": true
         }
     }
 }
