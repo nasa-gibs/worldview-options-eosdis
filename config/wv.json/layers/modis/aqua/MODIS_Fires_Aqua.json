@@ -23,8 +23,7 @@
             },
 
             "palette": {
-                "id":       "MODIS_Fires_Aqua",
-                "single":   "true"
+                "id":       "MODIS_Fires_Aqua"
             }
         }
     }

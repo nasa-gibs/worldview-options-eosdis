@@ -23,8 +23,7 @@
             },
 
             "palette": {
-                "id":       "MODIS_Fires_Terra",
-                "single":   "true"
+                "id":       "MODIS_Fires_Terra"
             }
         }
     }

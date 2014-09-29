@@ -18,6 +18,10 @@
                 "geographic": {
                     "source": "GIBS:wms"
                 }
+            },
+
+            "palette": {
+                "id":       "MODIS_Fires_Terra"
             }
         }
     }
