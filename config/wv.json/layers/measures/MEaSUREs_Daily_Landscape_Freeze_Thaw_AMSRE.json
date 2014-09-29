@@ -5,7 +5,11 @@
             "title":    "Freeze/Thaw (Daily Landscape)",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
-            "inactive": "true"
+            "inactive": true,
+
+            "palette": {
+                "immutable": true
+            }
         }
     }
 }

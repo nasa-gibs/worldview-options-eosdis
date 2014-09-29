@@ -18,7 +18,7 @@
 
             "palette": {
             	"id":			"ndh-flood-proportional-economic-loss-risk-deciles",
-            	"classified": 	"true"
+                "immutable":    true
             }
         }
     }

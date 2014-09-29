@@ -18,7 +18,7 @@
 
             "palette": {
             	"id":			"ndh-drought-mortality-risks-distribution",
-            	"classified": 	"true"
+                "immutable":    true
             }
         }
     }

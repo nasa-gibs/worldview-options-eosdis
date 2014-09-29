@@ -1,0 +1,17 @@
+{
+    "blue": {
+        "id": "blue",
+        "name": "Blue",
+        "colors": ["0000ffff"]
+    },
+    "red": {
+        "id": "red",
+        "name": "Red",
+        "colors": ["ff0000ff"]
+    },
+    "green": {
+        "id": "green",
+        "name": "Green",
+        "colors": ["00ff00ff"]
+    }
+}

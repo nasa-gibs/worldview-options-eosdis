@@ -18,7 +18,7 @@
 
             "palette": {
             	"id":			"ndh-cyclone-hazard-frequency-distribution",
-            	"classified": 	"true"
+                "immutable":    true
             }
         }
     }

@@ -18,7 +18,7 @@
 
             "palette": {
             	"id":			"ndh-flood-hazard-frequency-distribution",
-            	"classified": 	"true"
+                "immutable":    true
             }
         }
     }
