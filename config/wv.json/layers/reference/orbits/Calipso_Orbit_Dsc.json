@@ -17,9 +17,10 @@
                     "source":   "GIBS:wms"
                 }
             },
-            
+
             "palette": {
-                "id": "Calipso_Orbit"
+                "id": "Calipso_Orbit",
+                "immutable": true
             }
         }
     }
