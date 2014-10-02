@@ -12,9 +12,9 @@
     * A bar on the timeline indicates the temporal ranges of the layers
     being shown on the map.
     * A specific date can be typed into the text boxes on the left side
-    of the timeline
-* The opacity for each layer can now be adjusted
-* Hovering over color legends now displays data values for that color
+    of the timeline.
+* The opacity for each layer can now be adjusted.
+* Hovering over color legends now displays data values for that color.
 * The maximum and minimum values can now be adjusted for overlays with
   color legends.
 * In image download, additional files can now be downloaded to assist in
@@ -25,20 +25,19 @@
 ## Updates
 
 * Image download
-    * Imagery with user-modified palettes can now be downloaded.
-    * Image artifacts no longer appear in base layers for GeoTIFF or PNG 
+    * Image artifacts no longer appear in base layers for GeoTIFF or PNG
     files.
     * A time parameter is now embedded into downloaded KMZ files to allow playback
-  of images over time in Google Earth.
+    of images over time in Google Earth.
     * Base layers that are completely obscured by other base layers are no
-  longer visible.
+    longer visible.
 * The "data not available" message is no longer incorrectly shown when
   crossing certain month boundaries.
 * The permalink format has been updated. Old permalinks are still supported.
 * Missing color legends for certain layers have been added.  
-* User feedback is now submitted through an online form rather than direct 
+* User feedback is now submitted through an online form rather than direct
   email.
-* Various bugfixes and user interface updates
+* Various bugfixes and user interface updates.
 
 
 ---
