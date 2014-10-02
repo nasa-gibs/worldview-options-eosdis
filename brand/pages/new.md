@@ -1,19 +1,18 @@
 <input type="hidden" autofocus>
 # New in Version 0.7
 
-* New timeline interface to explore imagery over a larger time span.
-  Temporal area of interest can be changed to weeks, months, years,
-  or decades.
-* Selected day can be changed by clicking on the timeline or dragging
-  the selection marker.
-* Easily go to the next or previous day using buttons on the interface
-  or the arrows on the keyboard. Hold down to continuously change the
-  current day.
-* A bar on the timeline indicates the temporal ranges of the layers
-  being shown on the map.
-* A specific date can be selected by textual input.  
-* The day, month, or year can be adjusted in increments by using buttons
-  that appear when hovering over the date label.
+* New timeline interface to explore imagery over a larger time span
+    * Selected day can be changed by clicking on the timeline or dragging
+    the selection marker.
+    * Temporal area of interest can be changed to weeks, months, years,
+    or decades.
+    * Easily go to the next or previous day using buttons on the interface
+    or the arrows on the keyboard. Hold down to continuously change the
+    current day.
+    * A bar on the timeline indicates the temporal ranges of the layers
+    being shown on the map.
+    * A specific date can be typed into the text boxes on the left side
+    of the timeline
 * The opacity for each layer can now be adjusted
 * Hovering over color legends now displays data values for that color
 * The maximum and minimum values can now be adjusted for overlays with
@@ -25,26 +24,22 @@
 
 ## Updates
 
-* Improved user interface.
-* Larger checkboxes are used in the add layers list.
-* Image download now supports custom palettes.
-* Image artifacts no longer appear in base layers when using image download
-  with GeoTIFF or PNG files.
-* A time parameter is now given when downloading KMZ files.
-* Base layers that are completely obscured by other base layers are no
-  longer visible when using image download.  
-* On mobile devices, drop down menus can be closed by tapping elsewhere
-  on the screen.
+* Image download
+    * Imagery with user-modified palettes can now be downloaded.
+    * Image artifacts no longer appear in base layers for GeoTIFF or PNG 
+    files.
+    * A time parameter is now embedded into downloaded KMZ files to allow playback
+  of images over time in Google Earth.
+    * Base layers that are completely obscured by other base layers are no
+  longer visible.
 * The "data not available" message is no longer incorrectly shown when
   crossing certain month boundaries.
-* Additional layers added to the various application areas of interest.
-* Data download and orbit tracks now indicate that times are in
-  Universal Coordinated Time (UTC)
-* The application window no longer pulls slightly off the screen when reaching
-  the end of scroll lists
 * The permalink format has been updated. Old permalinks are still supported.
 * Missing color legends for certain layers have been added.  
-* Integration with the standard Earthdata Feedback module.
+* User feedback is now submitted through an online form rather than direct 
+  email.
+* Various bugfixes and user interface updates
+
 
 ---
 
