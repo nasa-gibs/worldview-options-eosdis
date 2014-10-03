@@ -2,8 +2,8 @@
     "layers": {
         "BlueMarble_NextGeneration": {
             "id":       "BlueMarble_NextGeneration",
-            "title":    "Blue Marble",
-            "subtitle": "MODIS / Earth Observatory",
+            "title":    "Blue Marble (August 2004)",
+            "subtitle": "MODIS / NASA Earth Observatory",
             "tags":     "bm bmng",
             "group":    "baselayers"
         }

@@ -2,8 +2,8 @@
     "layers": {
         "BlueMarble_ShadedRelief_Bathymetry": {
             "id":       "BlueMarble_ShadedRelief_Bathymetry",
-            "title":    "Blue Marble (Shaded Relief &amp; Bathymetry)",
-            "subtitle": "MODIS / Earth Observatory",
+            "title":    "Blue Marble (August 2004, Shaded Relief and Bathymetry)",
+            "subtitle": "MODIS / NASA Earth Observatory",
             "tags":     "bm bmng",
             "group":    "baselayers"
         }
