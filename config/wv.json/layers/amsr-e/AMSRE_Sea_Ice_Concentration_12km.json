@@ -5,6 +5,7 @@
             "title":    "Sea Ice Concentration, 12km",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
+            "product":  "AE_SI12",
             "inactive": true,
 
             "palette": {
