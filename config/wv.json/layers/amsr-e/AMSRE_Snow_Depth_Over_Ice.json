@@ -5,6 +5,7 @@
             "title":    "Snow Depth Over Ice, 12km",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
+            "products": "AE_SI12",
             "inactive": true,
 
             "palette": {
