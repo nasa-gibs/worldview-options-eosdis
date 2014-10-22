@@ -8,6 +8,7 @@
             "format":   "image/png",
             "tileSize": [ 512, 512 ],
             "noTransition":     "true",
+            "type":     "variable",
 
             "projections": {
                 "arctic": {
