@@ -1,8 +1,5 @@
 {
     "paletteOrder": [
-        "red",
-        "green",
-        "blue",
         "orange_1",
         "red_1",
         "red_2",
@@ -19,6 +16,19 @@
         "purple_2",
         "rainbow_1",
         "rainbow_2",
-        "green_1"
+        "green_1",
+
+        "blue_light",
+        "blue_dark",
+        "green_light",
+        "green_dark",
+        "pink",
+        "red",
+        "orange_light",
+        "orange_dark",
+        "purple_light",
+        "purple_dark",
+        "yellow",
+        "brown"
     ]
 }
