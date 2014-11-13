@@ -7,7 +7,7 @@
             "tags":     "osm reference",
             "group":    "overlays",
             "type":     "wmts",
-
+            "tags":     "country, countries, state, provence",
             "noTransition":     "true"
         }
     }
