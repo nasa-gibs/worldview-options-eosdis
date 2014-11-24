@@ -6,10 +6,8 @@
             "subtitle": "Terra / MODIS",
             "tags":     "cr",
             "group":    "baselayers",
-
-            "metadata": "modis/CorrectedReflectance_Bands367",
-
-            "startDate": "2012-05-08"
+            
+            "metadata": "modis/CorrectedReflectance_Bands367"
         }
     }
 }

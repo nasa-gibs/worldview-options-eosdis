@@ -6,9 +6,7 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "lsr",
             "group":    "baselayers",
-            "product":  "MYD09GQ",
-
-            "startDate": "2012-05-08"
+            "product":  "MYD09GQ"
         }
     }
 }
