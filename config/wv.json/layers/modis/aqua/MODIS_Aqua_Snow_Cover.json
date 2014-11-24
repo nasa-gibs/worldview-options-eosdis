@@ -9,7 +9,9 @@
 
             "palette": {
                 "recommended":  ["blue_4"]
-            }
+            },
+
+            "startDate": "2012-05-08"
         }
     }
 }

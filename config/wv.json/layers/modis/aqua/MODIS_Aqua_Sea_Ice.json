@@ -5,7 +5,9 @@
             "title":    "Sea Ice",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD29"
+            "product":  "MYD29",
+
+            "startDate": "2012-05-08"
         }
     }
 }

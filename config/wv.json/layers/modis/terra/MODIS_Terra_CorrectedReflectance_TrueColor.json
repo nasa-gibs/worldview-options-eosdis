@@ -6,8 +6,10 @@
             "subtitle": "Terra / MODIS",
             "tags":     "natural color cr",
             "group":    "baselayers",
-            
-            "metadata": "modis/CorrectedReflectance_TrueColor"
+
+            "metadata": "modis/CorrectedReflectance_TrueColor",
+
+            "startDate": "2012-05-08"
         }
     }
 }
