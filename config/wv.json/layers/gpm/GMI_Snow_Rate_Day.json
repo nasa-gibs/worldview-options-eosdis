@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Snow_Rate_Day": {
+            "id":       "GMI_Snow_Rate_Day",
+            "title":    "Snow Rate (Day)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Snow_Rate_Night": {
+            "id":       "GMI_Snow_Rate_Night",
+            "title":    "Snow Rate (Night)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}

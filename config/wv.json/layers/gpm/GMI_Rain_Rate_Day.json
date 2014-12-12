@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Rain_Rate_Day": {
+            "id":       "GMI_Rain_Rate_Day",
+            "title":    "Rain Rate (Day)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}

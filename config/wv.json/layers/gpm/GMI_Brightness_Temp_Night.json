@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Brightness_Temp_Night": {
+            "id":       "GMI_Brightness_Temp_Night",
+            "title":    "Brightness Temperature (Night)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}

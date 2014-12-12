@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Brightness_Temp_Day": {
+            "id":       "GMI_Brightness_Temp_Day",
+            "title":    "Brightness Temperature (Day)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}
