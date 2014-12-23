@@ -1,4 +1,18 @@
 <input type="hidden" autofocus>
+# Updates in Version 0.7.1
+
+* Application should no longer randomly crash on iOS.
+* Timeline can scroll when the pick is at the edges.
+* Easier to select the current date when timeline is zoomed out to years.
+* Map centers properly on mobile devices.
+* Timeline expands if collapsed during the tour.
+* Tabs ignore arrow keys when focused.
+* A blank tab or window no longer shows up when the feedback button is a
+  mailto link
+* Font size in data download increased.
+* Coordinate display is now in degrees, minutes, and seconds in latitude
+  and longitude order.
+
 # New in Version 0.7
 
 * New timeline interface to explore imagery over a larger time span
