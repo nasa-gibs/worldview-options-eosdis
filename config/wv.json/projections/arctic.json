@@ -19,6 +19,7 @@
                 5000000
             ],
             "resolutions": [
+                16384.0,
                 8192.0,
                 4096.0,
                 2048.0,
@@ -26,7 +27,7 @@
                 512.0,
                 256.0
             ],
-            "numZoomLevels": 6,
+            "numZoomLevels": 7,
             "fractionalZoom": false,
             "startCenter": [
                 0,
