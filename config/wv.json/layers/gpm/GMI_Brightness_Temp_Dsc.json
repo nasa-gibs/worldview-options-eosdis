@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "GMI_Brightness_Temp_Dsc": {
+            "id":       "GMI_Brightness_Temp_Dsc",
+            "title":    "Brightness Temperature (Descending)",
+            "subtitle": "GPM / GMI",
+            "group":    "overlays"
+        }
+    }
+}
