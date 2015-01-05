@@ -1,6 +1,7 @@
 <input type="hidden" autofocus>
 # Updates in Version 0.7.1
 
+* Added six new GPM layers. 
 * Application should no longer randomly crash on iOS.
 * Timeline can scroll when the pick is at the edges.
 * Easier to select the current date when timeline is zoomed out to years.
