@@ -12,6 +12,7 @@
 * Font size in data download increased.
 * Coordinate display is now in degrees, minutes, and seconds in latitude
   and longitude order.
+* Earthdata feedback module removed until permalink issues can be resolved.
 
 # New in Version 0.7
 
