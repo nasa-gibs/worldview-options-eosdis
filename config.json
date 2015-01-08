@@ -1,4 +1,18 @@
 {
+    "tolerant": true,
+    "skip": [
+        "MODIS_Terra_Chlorophyll_A",
+        "MODIS_Aqua_Chlorophyll_A",
+        "Sea_Surface_Temp_Blended",
+        "Sea_Surface_Temp_Infrared",
+        "Sea_Surface_Temp_Microwave",
+        "GMI_Rain_Rate_Asc",
+        "GMI_Rain_Rate_Dsc",
+        "GMI_Brightness_Temp_Asc",
+        "GMI_Brightness_Temp_Dsc",
+        "GMI_Snow_Rate_Asc",
+        "GMI_Snow_Rate_Dsc"
+    ],
     "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
