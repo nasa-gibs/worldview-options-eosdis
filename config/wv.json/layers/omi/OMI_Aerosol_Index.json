@@ -5,7 +5,6 @@
             "title":    "Aerosol Index",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
-            "product":  "OMAERUV",
 
             "metadata": "omi/Aerosol_Index",
             "palette": {
