@@ -4,7 +4,8 @@
             "id":       "GMI_Brightness_Temp_Asc",
             "title":    "Brightness Temperature (Ascending)",
             "subtitle": "GPM / GMI",
-            "group":    "overlays"
+            "group":    "overlays",
+            "product":  "GPM_1CGPMGMI"
         }
     }
 }

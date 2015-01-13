@@ -4,7 +4,8 @@
             "id":       "GMI_Rain_Rate_Asc",
             "title":    "Rain Rate (Ascending)",
             "subtitle": "GPM / GMI",
-            "group":    "overlays"
+            "group":    "overlays",
+            "product":  "GPM_2AGPROFGPMGMI"
         }
     }
 }
