@@ -4,7 +4,8 @@
             "id":       "GMI_Brightness_Temp_Dsc",
             "title":    "Brightness Temperature (Descending)",
             "subtitle": "GPM / GMI",
-            "group":    "overlays"
+            "group":    "overlays",
+            "product":  "GPM_1CGPMGMI"
         }
     }
 }
