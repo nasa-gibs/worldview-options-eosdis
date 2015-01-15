@@ -1,4 +1,9 @@
 <input type="hidden" autofocus>
+# Updates in Version 0.7.2
+
+* In the time slider, changed the horizontal scroll direction and a zoom is
+no longer triggered when panning.
+
 # Updates in Version 0.7.1
 
 * Added six new GPM layers. 
