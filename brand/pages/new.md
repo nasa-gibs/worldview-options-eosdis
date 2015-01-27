@@ -1,4 +1,25 @@
 <input type="hidden" autofocus>
+# Updates in Version 0.7.2
+
+* In the time slider, changed the horizontal scroll direction and a zoom is
+no longer triggered when panning.
+
+# Updates in Version 0.7.1
+
+* Added six new GPM layers. 
+* Application should no longer randomly crash on iOS.
+* Timeline can scroll when the pick is at the edges.
+* Easier to select the current date when timeline is zoomed out to years.
+* Map centers properly on mobile devices.
+* Timeline expands if collapsed during the tour.
+* Tabs ignore arrow keys when focused.
+* A blank tab or window no longer shows up when the feedback button is a
+  mailto link
+* Font size in data download increased.
+* Coordinate display is now in degrees, minutes, and seconds in latitude
+  and longitude order.
+* Earthdata feedback module removed until permalink issues can be resolved.
+
 # New in Version 0.7
 
 * New timeline interface to explore imagery over a larger time span
