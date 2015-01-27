@@ -2,7 +2,7 @@
     "products": {
         "AE_SI25": {
             "name": "AMSR-E/Aqua Daily L3 25 km Tb and Sea Ice Concentration Polar Grids",
-            "handler": "List",
+            "handler": "DailyGranuleList",
             "query": {
                 "shortName": "AE_SI25",
                 "dataCenterId": "NSIDC_ECS"
