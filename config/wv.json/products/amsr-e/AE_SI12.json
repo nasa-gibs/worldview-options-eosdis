@@ -1,0 +1,12 @@
+{
+    "products": {
+        "AE_SI12": {
+            "name": "AMSR-E/Aqua Daily L3 12.5 km Tb, Sea Ice Conc., &amp; Snow Depth Polar Grids",
+            "handler": "List",
+            "query": {
+                "shortName": "AE_SI12",
+                "dataCenterId": "NSIDC_ECS"
+            }
+        }
+    }
+}
