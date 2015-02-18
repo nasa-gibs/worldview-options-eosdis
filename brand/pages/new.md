@@ -3,6 +3,7 @@
 
 * Map renderer upgraded to [OpenLayers 3](http://openlayers.org/).
 * AMSR-E layers are now available in data download.
+* Image download now works on devices that are exactly 720 pixels in width.
 
 ---
 
