@@ -9,6 +9,7 @@
         "arcticProjectionChange": true
     },
     "scripts": [
-        "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js"
+        "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
+        "https://fbm.earthdata.nasa.gov/for/worldview/feedback.js"
     ]
 }
