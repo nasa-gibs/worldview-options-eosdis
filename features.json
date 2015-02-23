@@ -6,7 +6,11 @@
         "tour": true,
         "whatsNew": true,
         "feedback": true,
-        "arcticProjectionChange": true
+        "arcticProjectionChange": true,
+        "imageDownload": {
+            "host": "http://map2.vis.earthdata.nasa.gov",
+            "path": "image-download"
+        }
     },
     "scripts": [
         "https://earthdata.nasa.gov/sites/all/themes/earthdata/js/ntpagetag.js",
