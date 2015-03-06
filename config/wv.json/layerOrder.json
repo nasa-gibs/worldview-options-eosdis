@@ -116,6 +116,7 @@
         "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE",
         "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
         "Land_Mask",
+        "ASTER_GDEM_Color_Index",
         "ndh-cyclone-hazard-frequency-distribution",
         "ndh-cyclone-mortality-risks-distribution",
         "ndh-cyclone-proportional-economic-loss-risk-deciles",
