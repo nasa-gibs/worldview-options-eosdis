@@ -1,65 +1,9 @@
 <input type="hidden" autofocus>
-# Updates in Version 0.7.2
+# New in Version 0.8
 
-* In the time slider, changed the horizontal scroll direction and a zoom is
-no longer triggered when panning.
-
-# Updates in Version 0.7.1
-
-* Added six new GPM layers. 
-* Application should no longer randomly crash on iOS.
-* Timeline can scroll when the pick is at the edges.
-* Easier to select the current date when timeline is zoomed out to years.
-* Map centers properly on mobile devices.
-* Timeline expands if collapsed during the tour.
-* Tabs ignore arrow keys when focused.
-* A blank tab or window no longer shows up when the feedback button is a
-  mailto link
-* Font size in data download increased.
-* Coordinate display is now in degrees, minutes, and seconds in latitude
-  and longitude order.
-* Earthdata feedback module removed until permalink issues can be resolved.
-
-# New in Version 0.7
-
-* New timeline interface to explore imagery over a larger time span
-    * Selected day can be changed by clicking on the timeline or dragging
-    the selection marker.
-    * Temporal area of interest can be changed to weeks, months, years,
-    or decades.
-    * Easily go to the next or previous day using buttons on the interface
-    or the arrows on the keyboard. Hold down to continuously change the
-    current day.
-    * A bar on the timeline indicates the temporal ranges of the layers
-    being shown on the map.
-    * A specific date can be typed into the text boxes on the left side
-    of the timeline.
-* The opacity for each layer can now be adjusted.
-* Hovering over color legends now displays data values for that color.
-* The maximum and minimum values can now be adjusted for overlays with
-  color legends.
-* In image download, additional files can now be downloaded to assist in
-  geo-referencing the image in GIS applications.
-
----
-
-## Updates
-
-* Image download
-    * Image artifacts no longer appear in base layers for GeoTIFF or PNG
-    files.
-    * A time parameter is now embedded into downloaded KMZ files to allow playback
-    of images over time in Google Earth.
-    * Base layers that are completely obscured by other base layers are no
-    longer visible.
-* The "data not available" message is no longer incorrectly shown when
-  crossing certain month boundaries.
-* The permalink format has been updated. Old permalinks are still supported.
-* Missing color legends for certain layers have been added.  
-* User feedback is now submitted through an online form rather than direct
-  email.
-* Various bugfixes and user interface updates.
-
+* Map renderer upgraded to [OpenLayers 3](http://openlayers.org/).
+* AMSR-E layers are now available in data download.
+* Image download now works on devices that are exactly 720 pixels in width.
 
 ---
 

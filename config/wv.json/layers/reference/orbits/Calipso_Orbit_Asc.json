@@ -3,7 +3,7 @@
         "Calipso_Orbit_Asc": {
             "id":       "Calipso_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / Calipso",
+            "subtitle": "Space-Track.org / CALIPSO",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",

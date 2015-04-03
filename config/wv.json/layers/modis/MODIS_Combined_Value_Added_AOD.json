@@ -6,7 +6,7 @@
             "subtitle": "Terra and Aqua / MODIS",
             "tags":     "aod",
             "group":    "overlays",
-            "product":  "MYD04_L2",
+            "product":  "MCDAODHD",
 
             "palette": {
                 "recommended":  ["orange_1"]
