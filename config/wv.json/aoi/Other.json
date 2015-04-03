@@ -31,7 +31,7 @@
                 "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
                 "Sea_Surface_Temp_Infrared",
                 "MODIS_Terra_Chlorophyll_A",
-                "MODIS_Aqua_Chlorophyll_A"              
+                "MODIS_Aqua_Chlorophyll_A"
             ]
         }
     }

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+    <ColorMapEntry rgb="220,220,220" transparent="false" label="Rural"/>
+    <ColorMapEntry rgb="227,26,28"   transparent="false" label="Urban"/>
+</ColorMap>
