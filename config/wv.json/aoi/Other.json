@@ -31,7 +31,13 @@
                 "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
                 "Sea_Surface_Temp_Infrared",
                 "MODIS_Terra_Chlorophyll_A",
-                "MODIS_Aqua_Chlorophyll_A"
+                "MODIS_Aqua_Chlorophyll_A",
+                "energy-pop-exposure-nuclear-plants-locations_plants",
+                "grand-v1-dams-rev01",
+                "grand-v1-reservoirs-rev01",
+                "grump-v1-settlement-points",
+                "grump-v1-urban-extents",
+                "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m"
             ]
         }
     }
