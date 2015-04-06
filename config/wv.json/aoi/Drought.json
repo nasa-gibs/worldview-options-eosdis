@@ -17,7 +17,9 @@
                 "land_mask",
                 "ndh-drought-hazard-frequency-distribution",
                 "ndh-drought-mortality-risks-distribution",
-                "ndh-drought-proportional-economic-loss-risk-deciles"
+                "ndh-drought-proportional-economic-loss-risk-deciles",
+                "grand-v1-dams-rev01",
+                "grand-v1-reservoirs-rev01"
             ]
         }
     }

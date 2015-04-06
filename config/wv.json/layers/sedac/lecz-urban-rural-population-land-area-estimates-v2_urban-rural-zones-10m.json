@@ -1,0 +1,29 @@
+{
+    "layers": {
+        "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m": {
+            "id":       "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
+            "layer":    "lecz:lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
+            "title":    "Urban Rural Extents in the 10m Low Elevation Zone",
+            "subtitle": "SEDAC Urban-Rural Population and Land Area Estimates, v2 (1990, 2000, 2010, 2100)",
+            "group":    "overlays",
+            "format":   "image/png",
+            "tileSize": [512, 512],
+            "type":     "wms",
+            "product":  "CIESIN_SEDAC_LECZ_URPLAEv2",
+
+            "projections": {
+                "arctic": {
+                    "source": "SEDAC:wms"
+                },
+                "geographic": {
+                    "source": "SEDAC:wms"
+                }
+            },
+
+            "palette": {
+                "id":           "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
+                "immutable":    true
+            }
+        }
+    }
+}

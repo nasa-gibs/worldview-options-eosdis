@@ -19,7 +19,8 @@
                 "MODIS_Fires_All",
                 "MODIS_Fires_Terra",
                 "MODIS_Fires_Aqua",
-                "land_mask"
+                "land_mask",
+                "lulc-global-mangrove-forests-distribution-2000"
             ]
         }
     }

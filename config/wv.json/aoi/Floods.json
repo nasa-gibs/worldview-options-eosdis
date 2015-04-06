@@ -18,7 +18,10 @@
                 "land_mask",
                 "ndh-flood-hazard-frequency-distribution",
                 "ndh-flood-mortality-risks-distribution",
-                "ndh-flood-proportional-economic-loss-risk-deciles"
+                "ndh-flood-proportional-economic-loss-risk-deciles",
+                "grand-v1-dams-rev01",
+                "grand-v1-reservoirs-rev01",
+                "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m"
             ]
         }
     }

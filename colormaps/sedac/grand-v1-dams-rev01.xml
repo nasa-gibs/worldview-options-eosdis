@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+    <ColorMapEntry rgb="255,255,255" transparent="false" label="Not Classified"/>
+    <ColorMapEntry rgb="152,230,0"   transparent="false" label="Fisheries"/>
+    <ColorMapEntry rgb="168,0,0"     transparent="false" label="Flood Control"/>
+    <ColorMapEntry rgb="230,230,0"   transparent="false" label="Hydroelectricity"/>
+    <ColorMapEntry rgb="137,112,68"  transparent="false" label="Irrigation"/>
+    <ColorMapEntry rgb="230,152,0"   transparent="false" label="Navigation"/>
+    <ColorMapEntry rgb="255,190,232" transparent="false" label="Other"/>
+    <ColorMapEntry rgb="132,0,168"   transparent="false" label="Recreation"/>
+    <ColorMapEntry rgb="38,115,0"    transparent="false" label="Water Supply"/>
+</ColorMap>
