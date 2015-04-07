@@ -9,6 +9,7 @@
             "format":   "image/png",
             "tileSize": [512, 512],
             "type":     "wms",
+            "styles":   "grump-v1-settlement-points:scale-dependent",
             "product":  "CIESIN_SEDAC_GRUMPv1_STLMNT",
 
             "projections": {
