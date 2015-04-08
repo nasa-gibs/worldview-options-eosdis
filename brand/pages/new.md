@@ -1,4 +1,16 @@
 <input type="hidden" autofocus>
+# Updates to Version 0.8
+
+* Timeline now provides a buffer at each end.
+* When applying a color palette threshold, the color range can now be clamped
+or squashed.
+* Animated zoom effect disabled when using Firefox.
+* Graticle layer in the geographic projection can now have its visiblity
+toggled.
+* Parententical number of layers now updated when swtiching projections.
+
+---
+
 # New in Version 0.8
 
 * Map renderer upgraded to [OpenLayers 3](http://openlayers.org/).
