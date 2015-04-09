@@ -1,7 +1,7 @@
 <input type="hidden" autofocus>
 # Updates to Version 0.8
 
-* Timeline now provides a buffer at each end.
+* The ends of the timeline now have some additional padding.
 * When applying a color palette threshold, the color range can now be clamped
 or squashed.
 * Animated zoom effect disabled when using Firefox.
