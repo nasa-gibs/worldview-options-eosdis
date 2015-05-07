@@ -1,0 +1,27 @@
+{
+    "layers": {
+        "AMSR2_Wind_Speed_Night": {
+            "id":       "AMSR2_Wind_Speed_Night",
+            "title":    "Wind Speed (Night)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "type":     "wmts",
+            "format":   "image/png",
+            "period":   "daily",
+            "startDate":"2015-04-22",
+            "endDate":  "2015-04-24",
+            "inactive": true,
+
+            "projections": {
+                "geographic": {
+                    "source":       "GIBS:geographic",
+                    "matrixSet":    "EPSG4326_2km"
+                }
+            },
+
+            "palette": {
+                "id": "AMSR2_Wind_Speed_Night"
+            }
+        }
+    }
+}
