@@ -1,0 +1,14 @@
+{
+    "products": {
+        "CIESIN_SEDAC_GRUMPv1_EXT": {
+            "name": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Urban Extents Grid",
+            "handler": "CollectionList",
+            "query": {
+                "collection": "true",
+                "shortName": "CIESIN_SEDAC_GRUMPv1_EXT",
+                "dataCenterId": "SEDAC"
+            },
+            "noBulkDownload": "true"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "products": {
+        "CIESIN_SEDAC_ENERGY_NPPL": {
+            "name": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations",
+            "handler": "CollectionList",
+            "query": {
+                "collection": "true",
+                "shortName": "CIESIN_SEDAC_ENERGY_NPPL",
+                "dataCenterId": "SEDAC"
+            },
+            "noBulkDownload": "true"
+        }
+    }
+}
