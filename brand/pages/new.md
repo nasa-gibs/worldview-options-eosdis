@@ -1,13 +1,15 @@
 <input type="hidden" autofocus>
 # Updates to Version 0.8
 
+* Layers provided by the Socioeconomic Data and Applications Center (SEDAC)
+are now available through image download.
 * The ends of the timeline now have some additional padding.
 * When applying a color palette threshold, the color range can now be clamped
 or squashed.
 * Animated zoom effect disabled when using Firefox.
-* Graticle layer in the geographic projection can now have its visiblity
+* Graticule layer in the geographic projection can now have its visiblity
 toggled.
-* Parententical number of layers now updated when swtiching projections.
+* Parenthetical number of layers now updated when swtiching projections.
 
 ---
 
