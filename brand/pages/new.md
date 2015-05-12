@@ -1,6 +1,9 @@
 <input type="hidden" autofocus>
 # Updates to Version 0.8
 
+* Coordinate display can now be toggled between decimal degrees and
+degrees, minutes, and seconds.
+* Coordinates are now displayed in the image download crop window.
 * Layers provided by the Socioeconomic Data and Applications Center (SEDAC)
 are now available through image download.
 * The ends of the timeline now have some additional padding.
