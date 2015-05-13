@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMap>
+    <ColorMapEntry rgb="177,89,40" transparent="false" label="Acquisition Time (UTC)"/>
+</ColorMap>

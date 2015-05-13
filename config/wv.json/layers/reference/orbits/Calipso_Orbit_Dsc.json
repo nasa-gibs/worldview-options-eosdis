@@ -14,7 +14,7 @@
 
             "projections": {
                 "geographic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 }
             },
 

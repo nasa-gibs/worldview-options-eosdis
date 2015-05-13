@@ -1,25 +1,31 @@
 {
     "layers": {
-        "Calipso_Orbit_Asc": {
-            "id":       "Calipso_Orbit_Asc",
+        "GCOM_W1_Orbit_Asc": {
+            "id":       "GCOM_W1_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / CALIPSO",
+            "subtitle": "Space-Track.org / GCOM-W1",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2013-09-19",
+            "startDate": "2012-07-03",
 
             "projections": {
+                "antarctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
+                "arctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
                 "geographic": {
                     "source":   "GIBS:orbit-tracks"
                 }
             },
 
             "palette": {
-                "id": "Calipso_Orbit",
+                "id":     "GCOM_W1_Orbit",
                 "immutable": true
             }
         }

@@ -154,7 +154,17 @@
         "Calipso_Orbit_Asc",
         "Calipso_Orbit_Dsc",
         "GPM_Orbit_Asc",
-        "GPM_Orbit_Dsc"
+        "GPM_Orbit_Dsc",
+        "Suomi_NPP_Orbit_Asc",
+        "Suomi_NPP_Orbit_Dsc",
+        "GCOM_W1_Orbit_Asc",
+        "GCOM_W1_Orbit_Dsc",
+        "ISS_Orbit_Asc",
+        "ISS_Orbit_Dsc",
+        "Landsat_8_Orbit_Asc",
+        "Landsat_8_Orbit_Dsc",
+        "GOSAT_Orbit_Asc",
+        "GOSAT_Orbit_Dsc"
     ],
     "layerOrderExceptions": [
         "SCAR_Land_Mask",

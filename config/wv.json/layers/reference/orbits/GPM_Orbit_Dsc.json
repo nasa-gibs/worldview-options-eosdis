@@ -2,7 +2,7 @@
     "layers": {
         "GPM_Orbit_Dsc": {
             "id":       "GPM_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Day)",
+            "title":    "Orbital Track (Descending)",
             "subtitle": "Space-Track.org / GPM",
             "group":    "overlays",
             "format":   "image/png",
@@ -14,7 +14,7 @@
 
             "projections": {
                 "geographic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 }
             },
 

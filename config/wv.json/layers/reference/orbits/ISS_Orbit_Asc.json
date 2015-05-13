@@ -1,16 +1,17 @@
 {
     "layers": {
-        "Aqua_Orbit_Dsc": {
-            "id":       "Aqua_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / Aqua",
+        "ISS_Orbit_Asc": {
+            "id":       "ISS_Orbit_Asc",
+            "title":    "Orbital Track (Ascending)",
+            "subtitle": "Space-Track.org / International Space Station",
+            "tags":     "iss",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2015-01-01",
 
             "projections": {
                 "antarctic": {
@@ -25,7 +26,7 @@
             },
 
             "palette": {
-                "id":     "Aqua_Orbit",
+                "id":     "ISS_Orbit",
                 "immutable": true
             }
         }

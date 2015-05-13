@@ -1,16 +1,16 @@
 {
     "layers": {
-        "Aqua_Orbit_Dsc": {
-            "id":       "Aqua_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / Aqua",
+        "Landsat_8_Orbit_Asc": {
+            "id":       "Landsat_8_Orbit_Asc",
+            "title":    "Orbital Track (Ascending/Night)",
+            "subtitle": "Space-Track.org / Landsat 8",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2013-03-21",
 
             "projections": {
                 "antarctic": {
@@ -25,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "Aqua_Orbit",
+                "id":     "Landsat_8_Orbit",
                 "immutable": true
             }
         }
