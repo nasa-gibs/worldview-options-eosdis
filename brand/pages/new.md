@@ -1,28 +1,14 @@
 <input type="hidden" autofocus>
-# Updates to Version 0.8
+
+# Version 0.8.2
+
+## New Features
 
 * Coordinate display can now be toggled between decimal degrees and
 degrees, minutes, and seconds.
 * Coordinates are now displayed in the image download crop window.
 * Layers provided by the Socioeconomic Data and Applications Center (SEDAC)
 are now available through image download.
-* The ends of the timeline now have some additional padding.
-* When applying a color palette threshold, the color range can now be clamped
-or squashed.
-* Animated zoom effect disabled when using Firefox.
-* Graticule layer in the geographic projection can now have its visiblity
-toggled.
-* Parenthetical number of layers now updated when swtiching projections.
-
----
-
-# New in Version 0.8
-
-* Map renderer upgraded to [OpenLayers 3](http://openlayers.org/).
-* AMSR-E layers are now available in data download.
-* Image download now works on devices that are exactly 720 pixels in width.
-
----
 
 ## Known Issues
 
@@ -36,6 +22,36 @@ toggled.
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.1
+
+## New Features
+
+* When applying a color palette threshold, the color range can now be clamped
+or squashed.
+
+## Updates
+
+* The ends of the timeline now have some additional padding.
+* Animated zoom effect disabled when using Firefox.
+* Graticule layer in the geographic projection can now have its visiblity
+toggled.
+* Parenthetical number of layers now updated when swtiching projections.
+
+---
+
+# Version 0.8.0
+
+## New Features
+
+* Map renderer upgraded to [OpenLayers 3](http://openlayers.org/).
+* AMSR-E layers are now available in data download.
+
+## Updates
+
+* Image download now works on devices that are exactly 720 pixels in width.
 
 ---
 
