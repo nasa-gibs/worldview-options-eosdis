@@ -153,6 +153,8 @@
         "Aura_Orbit_Dsc",
         "Calipso_Orbit_Asc",
         "Calipso_Orbit_Dsc",
+        "Cloudsat_Orbit_Asc",
+        "Cloudsat_Orbit_Dsc",
         "GPM_Orbit_Asc",
         "GPM_Orbit_Dsc",
         "Suomi_NPP_Orbit_Asc",
