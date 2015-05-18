@@ -16,8 +16,8 @@
             "url": "http://sedac.ciesin.columbia.edu/geoserver/wms"
         },
         "GIBS:orbit-tracks": {
-            "xurl": "http://vis-dev.vis.earthdata.nasa.gov/orbit-tracks",
-            "url": "//localhost:8888/orbit-tracks-devel",
+            "url": "http://vis-dev.vis.earthdata.nasa.gov/orbit-tracks",
+            "zurl": "//localhost:8888/orbit-tracks-devel",
             "yurl": "http://map2.vis.earthdata.nasa.gov/worldview/dit/orbit-tracks.cgi"
         }
     }

@@ -1,25 +1,31 @@
 {
     "layers": {
-        "GPM_Orbit_Dsc": {
-            "id":       "GPM_Orbit_Dsc",
+        "SMAP_Orbit_Dsc": {
+            "id":       "SMAP_Orbit_Dsc",
             "title":    "Orbital Track (Descending)",
-            "subtitle": "Space-Track.org / GPM",
+            "subtitle": "Space-Track.org / SMAP",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2014-02-01",
+            "startDate": "2015-03-13",
 
             "projections": {
+                "antarctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
+                "arctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
                 "geographic": {
                     "source":   "GIBS:orbit-tracks"
                 }
             },
 
             "palette": {
-                "id": "GPM_Orbit",
+                "id":     "SMAP_Orbit",
                 "immutable": true
             }
         }

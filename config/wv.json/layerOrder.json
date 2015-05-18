@@ -157,6 +157,8 @@
         "Cloudsat_Orbit_Dsc",
         "GPM_Orbit_Asc",
         "GPM_Orbit_Dsc",
+        "SMAP_Orbit_Asc",
+        "SMAP_Orbit_Dsc",
         "Suomi_NPP_Orbit_Asc",
         "Suomi_NPP_Orbit_Dsc",
         "GCOM_W1_Orbit_Asc",
