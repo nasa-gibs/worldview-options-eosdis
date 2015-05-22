@@ -9,8 +9,6 @@
             "format":   "image/png",
             "period":   "daily",
             "startDate":"2015-04-22",
-            "endDate":  "2015-04-24",
-            "inactive": true,
 
             "projections": {
                 "geographic": {
