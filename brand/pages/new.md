@@ -1,14 +1,18 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.2
+# Version 0.8.3
 
 ## New Features
 
-* Coordinate display can now be toggled between decimal degrees and
-degrees, minutes, and seconds.
-* Coordinates are now displayed in the image download crop window.
-* Layers provided by the Socioeconomic Data and Applications Center (SEDAC)
-are now available through image download.
+* Added the following orbital tracks:
+  * Cloudsat
+  * SMAP
+  * Suomi NPP
+  * GCOM-W1
+  * International Space Station
+  * Landsat-8
+  * GOSAT
+* Back processed all orbital tracks to mission start
 
 ## Known Issues
 
@@ -22,6 +26,18 @@ are now available through image download.
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.2
+
+## New Features
+
+* Coordinate display can now be toggled between decimal degrees and
+degrees, minutes, and seconds.
+* Coordinates are now displayed in the image download crop window.
+* Layers provided by the Socioeconomic Data and Applications Center (SEDAC)
+are now available through image download.
 
 ---
 
