@@ -1,16 +1,16 @@
 {
     "layers": {
-        "Aqua_Orbit_Dsc": {
-            "id":       "Aqua_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / Aqua",
+        "GOSAT_Orbit_Dsc": {
+            "id":       "GOSAT_Orbit_Dsc",
+            "title":    "Orbital Track (Descending/Day)",
+            "subtitle": "Space-Track.org / GOSAT (IBUKI)",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2002-07-07",
+            "startDate": "2009-02-07",
 
             "projections": {
                 "antarctic": {
@@ -25,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "Aqua_Orbit",
+                "id":     "GOSAT_Orbit",
                 "immutable": true
             }
         }

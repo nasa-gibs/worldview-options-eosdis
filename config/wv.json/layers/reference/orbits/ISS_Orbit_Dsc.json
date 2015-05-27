@@ -1,25 +1,32 @@
 {
     "layers": {
-        "GPM_Orbit_Dsc": {
-            "id":       "GPM_Orbit_Dsc",
+        "ISS_Orbit_Dsc": {
+            "id":       "ISS_Orbit_Dsc",
             "title":    "Orbital Track (Descending)",
-            "subtitle": "Space-Track.org / GPM",
+            "subtitle": "Space-Track.org / International Space Station",
+            "tags":     "iss",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2014-02-01",
+            "startDate": "2014-01-01",
 
             "projections": {
+                "antarctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
+                "arctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
                 "geographic": {
                     "source":   "GIBS:orbit-tracks"
                 }
             },
 
             "palette": {
-                "id": "GPM_Orbit",
+                "id":     "ISS_Orbit",
                 "immutable": true
             }
         }

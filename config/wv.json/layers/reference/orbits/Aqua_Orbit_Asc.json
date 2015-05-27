@@ -10,17 +10,17 @@
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2002-07-07",
 
             "projections": {
                 "antarctic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 },
                 "arctic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 },
                 "geographic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 }
             },
 

@@ -2,7 +2,7 @@
     "layers": {
         "GPM_Orbit_Asc": {
             "id":       "GPM_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
+            "title":    "Orbital Track (Ascending)",
             "subtitle": "Space-Track.org / GPM",
             "group":    "overlays",
             "format":   "image/png",
@@ -10,11 +10,11 @@
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2014-04-03",
+            "startDate": "2014-02-01",
 
             "projections": {
                 "geographic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 }
             },
 

@@ -1,25 +1,32 @@
 {
     "layers": {
-        "Calipso_Orbit_Asc": {
-            "id":       "Calipso_Orbit_Asc",
+        "Suomi_NPP_Orbit_Asc": {
+            "id":       "Suomi_NPP_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / CALIPSO",
+            "subtitle": "Space-Track.org / Suomi NPP",
+            "tags":     "snpp s-npp",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2006-06-07",
+            "startDate": "2011-11-21",
 
             "projections": {
+                "antarctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
+                "arctic": {
+                    "source":   "GIBS:orbit-tracks"
+                },
                 "geographic": {
                     "source":   "GIBS:orbit-tracks"
                 }
             },
 
             "palette": {
-                "id": "Calipso_Orbit",
+                "id":     "Suomi_NPP_Orbit",
                 "immutable": true
             }
         }

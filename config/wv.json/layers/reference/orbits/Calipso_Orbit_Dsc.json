@@ -10,11 +10,11 @@
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2013-09-19",
+            "startDate": "2006-06-07",
 
             "projections": {
                 "geographic": {
-                    "source":   "GIBS:wms"
+                    "source":   "GIBS:orbit-tracks"
                 }
             },
 
