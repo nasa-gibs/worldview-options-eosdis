@@ -240,4 +240,5 @@
       <ColorMapEntry rgb="255,237,237" transparent="false" sourceValue="[79.330544,79.665268)" value="[79.330544,79.665268)" label="79.331 - 79.665 mm" ref="238"/>
       <ColorMapEntry rgb="255,246,246" transparent="false" sourceValue="[79.665268,80.000000)" value="[79.665268,80.000000)" label="79.665 - 80.000 mm" ref="239"/>
       <ColorMapEntry rgb="255,255,255" transparent="false" sourceValue="[80.000000]" value="[80.000000]" label="80.000 mm" ref="240"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" ref="241"/>
   </ColorMap>

@@ -241,4 +241,5 @@
       <ColorMapEntry rgb="255,240,240" transparent="false" sourceValue="[24.790794,24.895397)" value="[24.790794,24.895397)" label="24.791 - 24.895 mm/hr" ref="238"/>
       <ColorMapEntry rgb="255,248,248" transparent="false" sourceValue="[24.895397,25.000000)" value="[24.895397,25.000000)" label="24.895 - 25.000 mm/hr" ref="239"/>
       <ColorMapEntry rgb="255,255,255" transparent="false" sourceValue="[25.000000,100.000000]" value="[25.000000,100.000000]" label=">= 25.000 mm/hr" ref="240"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" ref="241"/>
   </ColorMap>
