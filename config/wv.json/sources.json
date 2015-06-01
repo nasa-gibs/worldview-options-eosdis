@@ -14,9 +14,6 @@
         },
         "SEDAC:wms": {
             "url": "http://sedac.ciesin.columbia.edu/geoserver/wms"
-        },
-        "GIBS:orbit-tracks": {
-            "url": "http://map2.vis.earthdata.nasa.gov/orbit-tracks"
         }
     }
 }
