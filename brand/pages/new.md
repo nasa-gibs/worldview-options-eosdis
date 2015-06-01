@@ -4,7 +4,7 @@
 
 ## Updates
 
-* Updated for EarthData 3.0.
+* Updated for Earthdata 3.0.
 
 ## Known Issues
 
