@@ -2,17 +2,9 @@
 
 # Version 0.8.3
 
-## New Features
+## Updates
 
-* Added the following orbital tracks:
-  * Cloudsat
-  * SMAP
-  * Suomi NPP
-  * GCOM-W1
-  * International Space Station
-  * Landsat-8
-  * GOSAT
-* Back processed all orbital tracks to mission start
+* Updated for EarthData 3.0.
 
 ## Known Issues
 
