@@ -12,7 +12,7 @@
             "projections": {
                 "antarctic": {
                     "layer":        "SCAR_Land_Water_Map",
-                    "subtitle":     "Polarview / Coastlines",
+                    "subtitle":     "SCAR Antarctic Digital Database",
                     "source":       "GIBS:antarctic",
                     "matrixSet":    "EPSG3031_250m"
                 },
