@@ -5,21 +5,7 @@
             "title":    "Surface Precipitation Rate (Day)",
             "subtitle": "GCOM-W1 / AMSR2",
             "group":    "overlays",
-            "type":     "wmts",
-            "format":   "image/png",
-            "period":   "daily",
-            "startDate":"2015-04-22",
-
-            "projections": {
-                "geographic": {
-                    "source":       "GIBS:geographic",
-                    "matrixSet":    "EPSG4326_2km"
-                }
-            },
-
-            "palette": {
-                "id": "AMSR2_Surface_Precipitation_Rate_Day"
-            }
+            "product":  "A2_RainOcn_NRT"
         }
     }
 }
