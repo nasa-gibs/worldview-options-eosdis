@@ -164,7 +164,9 @@
         "Calipso_Orbit_Asc",
         "Calipso_Orbit_Dsc",
         "GPM_Orbit_Asc",
-        "GPM_Orbit_Dsc"
+        "GPM_Orbit_Dsc",
+        "GCOM_W1_Orbit_Asc",
+        "GCOM_W1_Orbit_Dsc"
     ],
     "layerOrderExceptions": [
         "SCAR_Land_Mask",
