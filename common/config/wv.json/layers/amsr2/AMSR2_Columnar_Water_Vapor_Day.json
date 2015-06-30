@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Columnar_Water_Vapor_Day": {
+            "id":       "AMSR2_Columnar_Water_Vapor_Day",
+            "title":    "Columnar Water Vapor (Day)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_RainOcn_NRT"
+        }
+    }
+}

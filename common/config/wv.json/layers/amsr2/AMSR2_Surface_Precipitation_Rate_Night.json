@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Surface_Precipitation_Rate_Night": {
+            "id":       "AMSR2_Surface_Precipitation_Rate_Night",
+            "title":    "Surface Precipitation Rate (Night)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_RainOcn_NRT"
+        }
+    }
+}
