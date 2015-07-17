@@ -1,0 +1,9 @@
+{
+    "measurements": {
+        "Aerosol Index": {
+            "Aura/OMI": [
+                "OMI_Aerosol_Index"
+            ]
+        }
+    }
+}

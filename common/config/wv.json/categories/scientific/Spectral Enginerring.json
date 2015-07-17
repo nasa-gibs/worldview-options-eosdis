@@ -1,0 +1,26 @@
+{
+    "aoi": {
+        "Spectral/Engineering": {
+            "projections": [ "geographic" ],
+            "baselayers": [
+                "land_water_map"
+            ],
+            "overlays": [
+
+                "AMSRE_Brightness_Temp_89H_Day",
+                "AMSRE_Brightness_Temp_89H_Night",
+                "AMSRE_Brightness_Temp_89V_Day",
+                "AMSRE_Brightness_Temp_89V_Night",
+                "MODIS_Terra_Brightness_Temp_Band31_Day",
+                "MODIS_Terra_Brightness_Temp_Band31_Night",
+                "MODIS_Aqua_Brightness_Temp_Band31_Day",
+                "MODIS_Aqua_Brightness_Temp_Band31_Night",
+                "GMI_Brightness_Temp_Asc",
+                "GMI_Brightness_Temp_Dsc",
+
+                "AMSRE_Sea_Ice_Brightness_Temp_89H",
+                "AMSRE_Sea_Ice_Brightness_Temp_89V",
+            ]
+        }
+    }
+}

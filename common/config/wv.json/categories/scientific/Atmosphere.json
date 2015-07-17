@@ -1,0 +1,111 @@
+{
+    "aoi": {
+        "Atmosphere": {
+            "projections": [ "geographic" ],
+            "baselayers": [
+                "land_water_map"
+            ],
+            "overlays": [
+
+                //Angstrom Exponent
+                "OMI_Aerosol_Optical_Depth",
+                "MODIS_Terra_Aerosol",
+                "MODIS_Aqua_Aerosol",
+                "MODIS_Combined_Value_Added_AOD",
+
+                "OMI_Absorbing_Aerosol_Optical_Depth",
+                "OMI_Aerosol_Index",
+                "AIRS_Dust_Score",
+
+                "AIRS_CO_Total_Column_Day",
+                "AIRS_CO_Total_Column_Night",
+                "MLS_CO_215hPa_Day",
+                "MLS_CO_215hPa_Night",
+                //Surface Mixing Ratio, MOPITT, Terra
+
+                "MLS_HNO3_46hPa_Day",
+                "MLS_HNO3_46hPa_Night",
+                "MLS_N2O_46hPa_Day",
+                "MLS_N2O_46hPa_Night",
+                "MLS_O3_46hPa_Day",
+                "MLS_O3_46hPa_Night",
+
+                "AIRS_Prata_SO2_Index_Day",
+                "AIRS_Prata_SO2_Index_Night",
+                "MLS_SO2_147hPa_Day",
+                "MLS_SO2_147hPa_Night",
+                "OMI_SO2_Planetary_Boundary_Layer",
+                "OMI_SO2_Lower_Troposphere",
+                "OMI_SO2_Middle_Troposphere",
+                "OMI_SO2_Upper_Troposphere_and_Stratosphere",
+
+                "ndh-cyclone-hazard-frequency-distribution",
+                "ndh-cyclone-mortality-risks-distribution",
+                "ndh-cyclone-proportional-economic-loss-risk-deciles",
+
+                "ndh-drought-hazard-frequency-distribution",
+                "ndh-drought-mortality-risks-distribution",
+                "ndh-drought-proportional-economic-loss-risk-deciles",
+
+                "AIRS_Temperature_400hPa_Day",
+                "AIRS_Temperature_400hPa_Night",
+                "AIRS_Temperature_500hPa_Day",
+                "AIRS_Temperature_500hPa_Night",
+                "AIRS_Temperature_600hPa_Day",
+                "AIRS_Temperature_600hPa_Night",
+                "AIRS_Temperature_700hPa_Day",
+                "AIRS_Temperature_700hPa_Night",
+                "AIRS_Temperature_850hPa_Day",
+                "AIRS_Temperature_850hPa_Night",
+                "MLS_Temperature_46hPa_Day",
+                "MLS_Temperature_46hPa_Night",
+
+                "MODIS_Terra_Water_Vapor_5km_Day",
+                "MODIS_Terra_Water_Vapor_5km_Night",
+                "MODIS_Aqua_Water_Vapor_5km_Day",
+                "MODIS_Aqua_Water_Vapor_5km_Night",
+                "AMSR2_Columnar_Water_Vapor_Day",
+                "AMSR2_Columnar_Water_Vapor_Night",
+
+                "AIRS_RelativeHumidity_400hPa_Day",
+                "AIRS_RelativeHumidity_400hPa_Night",
+                "AIRS_RelativeHumidity_500hPa_Day",
+                "AIRS_RelativeHumidity_500hPa_Night",
+                "AIRS_RelativeHumidity_600hPa_Day",
+                "AIRS_RelativeHumidity_600hPa_Night",
+                "AIRS_RelativeHumidity_700hPa_Day",
+                "AIRS_RelativeHumidity_700hPa_Night",
+                "AIRS_RelativeHumidity_850hPa_Day",
+                "AIRS_RelativeHumidity_850hPa_Night",
+
+                //Cloud Effective Radius
+                "AMSR2_Cloud_Liquid_Water_Day",
+                "AMSR2_Cloud_Liquid_Water_Night",
+                //Cloud Optical Thickness
+                //Cloud Fraction
+                //Cloud Top Height
+                "MODIS_Terra_Cloud_Top_Pressure_Day",
+                "MODIS_Terra_Cloud_Top_Pressure_Night",
+                "MODIS_Aqua_Cloud_Top_Pressure_Day",
+                "MODIS_Aqua_Cloud_Top_Pressure_Night",
+                "MODIS_Terra_Cloud_Top_Temp_Day",
+                "MODIS_Terra_Cloud_Top_Temp_Night",
+                "MODIS_Aqua_Cloud_Top_Temp_Day",
+                "MODIS_Aqua_Cloud_Top_Temp_Night",
+
+                "AIRS_Precipitation_Day",
+                "AIRS_Precipitation_Night",
+                "GMI_Rain_Rate_Asc",
+                "GMI_Rain_Rate_Dsc",
+                "GMI_Snow_Rate_Asc",
+                "GMI_Snow_Rate_Dsc",
+                "AMSR2_Surface_Precipitation_Rate_Day",
+                "AMSR2_Surface_Precipitation_Rate_Night",
+                "AMSR2_Surface_Rain_Rate_Day",
+                "AMSR2_Surface_Rain_Rate_Night"
+                
+
+            ]
+        }
+    }
+}

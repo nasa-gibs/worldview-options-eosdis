@@ -1,0 +1,15 @@
+{
+    "aoi": {
+        "Solid Earth": {
+            "projections": [ "geographic" ],
+            "baselayers": [
+                "land_water_map"
+            ],
+            "overlays": [
+                "ndh-volcano-hazard-frequency-distribution",
+                "ndh-volcano-mortality-risks-distribution",
+                "ndh-volcano-proportional-economic-loss-risk-deciles",
+            ]
+        }
+    }
+}

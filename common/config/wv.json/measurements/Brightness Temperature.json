@@ -1,0 +1,24 @@
+{
+    "measurements": {
+        "Brightness Temperature": {
+            "Aqua/AMSR-E": [
+                "AMSRE_Brightness_Temp_89H_Day",
+                "AMSRE_Brightness_Temp_89H_Night",
+                "AMSRE_Brightness_Temp_89V_Day",
+                "AMSRE_Brightness_Temp_89V_Night"
+            ],
+            "Aqua/MODIS": [
+                "MODIS_Aqua_Brightness_Temp_Band31_Day",
+                "MODIS_Aqua_Brightness_Temp_Band31_Night"
+            ],
+            "Terra/MODIS": [
+                "MODIS_Terra_Brightness_Temp_Band31_Day",
+                "MODIS_Terra_Brightness_Temp_Band31_Night"
+            ],
+            "GPM/GMI": [
+                "GMI_Brightness_Temp_Asc",
+                "GMI_Brightness_Temp_Dsc"
+            ]
+        }
+    }
+}

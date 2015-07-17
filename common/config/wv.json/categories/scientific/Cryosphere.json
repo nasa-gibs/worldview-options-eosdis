@@ -1,0 +1,25 @@
+{
+    "aoi": {
+        "Cryosphere": {
+            "projections": [ "geographic" ],
+            "baselayers": [
+                "land_water_map"
+            ],
+            "overlays": [
+
+                //Ice Surface Temperature
+                "AMSRE_Sea_Ice_Concentration_12km",
+                "AMSRE_Sea_Ice_Concentration_25km",
+                "Sea_Surface_Temp_Infrared",
+                "AMSRE_Snow_Depth_Over_Ice",
+
+                "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE",
+                "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
+                "MODIS_Terra_Sea_Ice",
+                "MODIS_Aqua_Sea_Ice",
+                "MODIS_Terra_Snow_Cover",
+                "MODIS_Aqua_Snow_Cover",
+            ]
+        }
+    }
+}

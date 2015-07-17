@@ -1,0 +1,15 @@
+{
+    "measurements": {
+        "Blue Marble": {
+            "Standard": [
+                "BlueMarble_NextGeneration"
+            ],
+            "Shaded Relief": [
+                "BlueMarble_ShadedRelief"
+            ],
+            "Shaded Relief and Bathymetry": [
+                "BlueMarble_ShadedRelief_Bathymetry"
+            ]
+        }
+    }
+}

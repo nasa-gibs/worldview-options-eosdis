@@ -1,0 +1,14 @@
+{
+    "measurements": {
+        "Carbon Monoxide, Total Column": {
+            "Aqua/AIRS": [
+                "AIRS_CO_Total_Column_Day",
+                "AIRS_CO_Total_Column_Night"
+            ],
+            "Aura/MLS": [
+                "MLS_CO_215hPa_Day",
+                "MLS_CO_215hPa_Night"
+            ]
+        }
+    }
+}

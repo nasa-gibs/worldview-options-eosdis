@@ -1,0 +1,18 @@
+{
+    "aoi": {
+        "Biosphere": {
+            "projections": [ "geographic" ],
+            "baselayers": [
+                "land_water_map"
+            ],
+            "overlays": [
+                //Gross Primary Production
+                "MODIS_Fires_All",
+                "MODIS_Fires_Terra",
+                "MODIS_Fires_Aqua",
+
+                
+            ]
+        }
+    }
+}

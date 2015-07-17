@@ -1,0 +1,15 @@
+{
+    "measurements": {
+        "Aerosol Optical Depth": {
+            "Aura/OMI": [
+                "OMI_Aerosol_Optical_Depth"
+            ],
+            "Aqua/MODIS": [
+                "MODIS_Aqua_Aerosol"
+            ],
+            "Terra/MODIS": [
+                "MODIS_Terra_Aerosol"
+            ]
+        }
+    }
+}
