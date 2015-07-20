@@ -1,0 +1,14 @@
+{
+    "measurements": {
+        "Cloud Top Pressure": {
+            "Aqua/MODIS": [
+                "MODIS_Aqua_Cloud_Top_Pressure_Day",
+                "MODIS_Aqua_Cloud_Top_Pressure_Night"
+            ],
+            "Terra/MODIS": [
+                "MODIS_Terra_Cloud_Top_Pressure_Day",
+                "MODIS_Terra_Cloud_Top_Pressure_Night"
+            ]
+        }
+    }
+}
