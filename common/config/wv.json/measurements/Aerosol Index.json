@@ -1,9 +1,14 @@
 {
     "measurements": {
         "Aerosol Index": {
-            "Aura/OMI": [
-                "OMI_Aerosol_Index"
-            ]
+            "id": "aerosol_index",
+            "title":    "Aerosol Index",
+            "subtitle": "Aura/OMI",
+            "sources": {
+                "Aura/OMI":[
+                    "OMI_Aerosol_Index"
+                ]
+            }
         }
     }
 }

@@ -1,9 +1,9 @@
 {
     "categories": {
-        "scientific": {
-            "Atmosphere": {
-                "title": "Atmosphere",
-                "id": "atmosphere",
+        "hazards and disasters": {
+            "All": {
+                "title": "All",
+                "id": "legacy-all",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

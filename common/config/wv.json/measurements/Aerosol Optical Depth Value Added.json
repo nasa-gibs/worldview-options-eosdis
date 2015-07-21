@@ -1,9 +1,14 @@
 {
     "measurements": {
         "Aerosol Optical Depth, Value Added": {
-            "Aqua and Terra/MODIS": [
-                "MODIS_Combined_Value_Added_AOD"
-            ]
+            "id": "aerosol_optical_depth_value_added",
+            "title":    "Aerosol Optical Depth, Value Added",
+            "subtitle": "Aqua and Terra/MODIS",
+            "sources": {
+                "Aqua and Terra/MODIS": [
+                    "MODIS_Combined_Value_Added_AOD"
+                ]
+            }
         }
     }
 }

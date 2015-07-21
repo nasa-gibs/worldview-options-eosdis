@@ -1,28 +1,14 @@
 {
-    "aoi": {
-        "Oceans": {
-            "projections": [ "geographic" ],
-            "baselayers": [
-
-                "land_water_map"
-            ],
-            "overlays": [
-                "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
-                "lulc-global-mangrove-forests-distribution-2000",
-
-                "MODIS_Terra_Chlorophyll_A",
-                "MODIS_Aqua_Chlorophyll_A",
-
-                "AMSR2_Wind_Speed_Day",
-                "AMSR2_Wind_Speed_Night",
-
-                "AMSRE_Sea_Ice_Concentration_12km",
-                "AMSRE_Sea_Ice_Concentration_25km",
-
-                "Sea_Surface_Temp_Infrared",
-
-                "AMSRE_Snow_Depth_Over_Ice",
-            ]
+    "categories": {
+        "scientific": {
+            "Oceans": {
+                "title": "Oceans",
+                "id": "oceans",
+                "description": "",
+                "measurements": [
+                    
+                ]
+            }
         }
     }
 }

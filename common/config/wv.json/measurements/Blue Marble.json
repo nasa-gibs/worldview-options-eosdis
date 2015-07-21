@@ -1,15 +1,20 @@
 {
     "measurements": {
         "Blue Marble": {
-            "Standard": [
-                "BlueMarble_NextGeneration"
-            ],
-            "Shaded Relief": [
-                "BlueMarble_ShadedRelief"
-            ],
-            "Shaded Relief and Bathymetry": [
-                "BlueMarble_ShadedRelief_Bathymetry"
-            ]
+            "id": "blue_marble",
+            "title":    "Blue Marble",
+            "subtitle": "Standard, Shaded Relief, Shaded Relief and Bathymetry",
+            "sources": {
+                "Standard": [
+                    "BlueMarble_NextGeneration"
+                ],
+                "Shaded Relief": [
+                    "BlueMarble_ShadedRelief"
+                ],
+                "Shaded Relief and Bathymetry": [
+                    "BlueMarble_ShadedRelief_Bathymetry"
+                ]
+            }
         }
     }
 }

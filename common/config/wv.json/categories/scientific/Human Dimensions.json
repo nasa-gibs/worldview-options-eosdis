@@ -1,32 +1,14 @@
 {
-    "aoi": {
-        "Human Dimensions": {
-            "projections": [ "geographic" ],
-            "baselayers": [
-                "land_water_map"
-            ],
-            "overlays": [
-                "grump-v1-urban-extents",
-
-                "grand-v1-dams-rev01",
-                "grand-v1-reservoirs-rev01",
-
-                "energy-pop-exposure-nuclear-plants-locations_plants",
-
-                "ndh-cyclone-hazard-frequency-distribution",
-                "ndh-cyclone-mortality-risks-distribution",
-                "ndh-cyclone-proportional-economic-loss-risk-deciles",
-                "ndh-drought-hazard-frequency-distribution",
-                "ndh-drought-mortality-risks-distribution",
-                "ndh-drought-proportional-economic-loss-risk-deciles",
-                "ndh-volcano-hazard-frequency-distribution",
-                "ndh-volcano-mortality-risks-distribution",
-                "ndh-volcano-proportional-economic-loss-risk-deciles",
-                "grump-v1-population-count_2000",
-                "grump-v1-settlement-points",
-                "grump-v1-urban-extents",
-                "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
-            ]
+    "categories": {
+        "scientific": {
+            "Human Dimensions": {
+                "title": "Human Dimensions",
+                "id": "human_dimensions",
+                "description": "",
+                "measurements": [
+                    
+                ]
+            }
         }
     }
 }

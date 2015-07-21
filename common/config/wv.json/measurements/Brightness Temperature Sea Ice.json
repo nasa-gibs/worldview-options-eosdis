@@ -1,12 +1,17 @@
 {
     "measurements": {
         "Brightness Temperature for Sea Ice": {
-            "89H GHz B Scan": [
-                "AMSRE_Sea_Ice_Brightness_Temp_89H"
-            ],
-            "89V GHz B Scan": [
-                "AMSRE_Sea_Ice_Brightness_Temp_89V"
-            ]
+            "id": "brightness_temperature_sea_ice",
+            "title":    "Brightness Temperature for Sea Ice",
+            "subtitle": "89H GHz B Scan, 89V GHz B Scan",
+            "sources": {
+                "89H GHz B Scan": [
+                    "AMSRE_Sea_Ice_Brightness_Temp_89H"
+                ],
+                "89V GHz B Scan": [
+                    "AMSRE_Sea_Ice_Brightness_Temp_89V"
+                ]
+            }
         }
     }
 }

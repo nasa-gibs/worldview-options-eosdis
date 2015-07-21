@@ -1,10 +1,15 @@
 {
     "measurements": {
         "Cloud Liquid Water, Columnar": {
-            "GCOM-W1/AMSR2": [
-                "AMSR2_Cloud_Liquid_Water_Day",
-                "AMSR2_Cloud_Liquid_Water_Night"
-            ]
+            "id": "cloud_liquid_water_columnar",
+            "title":    "Cloud Liquid Water, Columnar",
+            "subtitle": "GCOM-W1/AMSR2",
+            "sources": {
+                "GCOM-W1/AMSR2": [
+                    "AMSR2_Cloud_Liquid_Water_Day",
+                    "AMSR2_Cloud_Liquid_Water_Night"
+                ]
+            }
         }
     }
 }

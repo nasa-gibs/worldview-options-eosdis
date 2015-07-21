@@ -1,35 +1,14 @@
 {
-    "aoi": {
-        "Land Surface": {
-            "projections": [ "geographic" ],
-            "baselayers": [
-                "MODIS_Terra_CorrectedReflectance_TrueColor",
-                "MODIS_Aqua_CorrectedReflectance_TrueColor",
-                "MODIS_Terra_CorrectedReflectance_Bands367",
-                "MODIS_Terra_CorrectedReflectance_Bands721",
-                "MODIS_Aqua_CorrectedReflectance_Bands721",
-                "MODIS_Terra_SurfaceReflectance_Bands143",
-                "MODIS_Aqua_SurfaceReflectance_Bands143",
-                "MODIS_Terra_SurfaceReflectance_Bands121",
-                "MODIS_Aqua_SurfaceReflectance_Bands121",
-                "MODIS_Terra_SurfaceReflectance_Bands721",
-                "MODIS_Aqua_SurfaceReflectance_Bands721",
-                "land_water_map"
-            ],
-            "overlays": [
-                "MODIS_Fires_All",
-                "MODIS_Fires_Terra",
-                "MODIS_Fires_Aqua",
-
-                "MODIS_Terra_Land_Surface_Temp_Day",
-                "MODIS_Terra_Land_Surface_Temp_Night",
-                "MODIS_Aqua_Land_Surface_Temp_Day",
-                "MODIS_Aqua_Land_Surface_Temp_Night",
-
-                "BlueMarble_NextGeneration",
-                "BlueMarble_ShadedRelief",
-                "BlueMarble_ShadedRelief_Bathymetry",
-            ]
+    "categories": {
+        "scientific": {
+            "Land Surface": {
+                "title": "Land Surface",
+                "id": "land_surface",
+                "description": "",
+                "measurements": [
+                    
+                ]
+            }
         }
     }
 }

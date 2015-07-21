@@ -1,9 +1,14 @@
 {
     "measurements": {
         "Aerosol Optical Depth, Absorbing": {
-            "Aura/OMI": [
-                "OMI_Absorbing_Aerosol_Optical_Depth"
-            ]
+            "id": "aerosol_optical_depth_absorbing",
+            "title":    "Aerosol Optical Depth, Absorbing",
+            "subtitle": "Aura/OMI",
+            "sources": {
+                "Aura/OMI": [
+                    "OMI_Absorbing_Aerosol_Optical_Depth"
+                ]
+            }
         }
     }
 }
