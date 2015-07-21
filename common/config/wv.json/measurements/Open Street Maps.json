@@ -1,0 +1,16 @@
+{
+    "measurements": {
+        "Reference Map": {
+            "openstreetmap.org": [
+                "Reference_Features",
+                "Reference_Labels",
+                "Coastlines",
+                "Land_Mask",
+                "Land_Water_Map"
+            ],
+            "SCAR Antarctic Digital Database": [
+                "SCAR_Land_Water_Map"
+            ]
+        }
+    }
+}

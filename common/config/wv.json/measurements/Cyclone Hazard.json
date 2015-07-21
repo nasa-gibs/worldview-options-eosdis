@@ -1,0 +1,15 @@
+{
+    "measurements": {
+        "Cyclone Hazard": {
+            "Frequency and Distribution": [
+                "ndh-cyclone-hazard-frequency-distribution"
+            ],
+            "Mortality Risks": [
+                "ndh-cyclone-mortality-risks-distribution"
+            ],
+            "Proportional Economic Loss Risk Deciles": [
+                "ndh-cyclone-proportional-economic-loss-risk-deciles"
+            ]
+        }
+    }
+}
