@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Cloud Top Temperature": {
-            "id": "cloud_top_temperature",
+            "id": "cloud-top-temperature",
             "title":    "Cloud Top Temperature",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
+                    "id": "aqua-modis",
                     "title": "Aqua/MODIS",
                     "description": "no description",
                     "image": "",
@@ -15,6 +16,7 @@
                     ]
                 },
                 "Terra/MODIS": {
+                    "id": "terra-modis",
                     "title": "Terra/MODIS",
                     "description": "no description",
                     "image": "",

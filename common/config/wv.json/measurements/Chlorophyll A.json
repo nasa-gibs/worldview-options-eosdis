@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Chlorophyll A": {
-            "id": "chlorophyll_a",
+            "id": "chlorophyll-a",
             "title":    "Chlorophyll A",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
+                    "id": "aqua-modis",
                     "title": "Aqua/MODIS",
                     "description": "no description",
                     "image": "",
@@ -14,6 +15,7 @@
                     ]
                 },
                 "Terra/MODIS": {
+                    "id": "terra-modis",
                     "title": "Terra/MODIS",
                     "description": "no description",
                     "image": "",

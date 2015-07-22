@@ -7,6 +7,7 @@
             "multichoice": true,
             "sources": {
                 "OpenStreetMap.org": {
+                    "id": "openstreetmap",
                     "title": "OpenStreetMap.org",
                     "description": "no description",
                     "image": "",
@@ -19,6 +20,7 @@
                     ]
                 },
                 "SCAR Antarctic Digital Database": {
+                    "id": "scar-antarctic-digital-database",
                     "title": "SCAR Antarctic Digital Database",
                     "description": "no description",
                     "image": "",

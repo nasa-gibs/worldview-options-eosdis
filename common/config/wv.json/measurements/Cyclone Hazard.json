@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Cyclone Hazard": {
-            "id": "cyclone_hazard",
+            "id": "cyclone-hazard",
             "title":    "Cyclone Hazard",
             "subtitle": "Frequency and Distribution, Mortality Risks, Proportional Economic Loss Risk Deciles",
             "sources": {
                 "Frequency and Distribution": {
+                    "id": "frequency-distribution",
                     "title": "Frequency and Distribution",
                     "description": "no description",
                     "image": "",
@@ -14,6 +15,7 @@
                     ]
                 },
                 "Mortality Risks": {
+                    "id": "mortality-risks",
                     "title": "Mortality Risks",
                     "description": "no description",
                     "image": "",
@@ -22,6 +24,7 @@
                     ]
                 },
                 "Proportional Economic Loss Risk Deciles": {
+                    "id": "proportional-economic-loss-risk-deciles",
                     "title": "Proportional Economic Loss Risk Deciles",
                     "description": "no description",
                     "image": "",

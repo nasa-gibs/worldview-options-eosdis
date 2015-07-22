@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Corrected Reflectance": {
-            "id": "corrected_reflectance",
+            "id": "corrected-reflectance",
             "title":    "Corrected Reflectance",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
+                    "id": "aqua-modis",
                     "title": "Aqua/MODIS",
                     "description": "no description",
                     "image": "",
@@ -15,6 +16,7 @@
                     ]
                 },
                 "Terra/MODIS": {
+                    "id": "terra-modis",
                     "title": "Terra/MODIS",
                     "description": "no description",
                     "image": "",

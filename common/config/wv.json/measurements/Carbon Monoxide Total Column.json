@@ -1,11 +1,13 @@
 {
     "measurements": {
         "Carbon Monoxide, Total Column": {
-            "id": "carbon_monoxide_total_column",
+            "id": "carbon-monoxide-total-column",
             "title":    "Carbon Monoxide, Total Column",
             "subtitle": "Aqua/AIRS, Aura/MLS",
             "sources": {
                 "Aqua/AIRS": {
+                    "id": "aqua-airs",
+                    "title": "Aqua/AIRS",
                     "description": "no description",
                     "image": "",
                     "settings": [
@@ -14,6 +16,8 @@
                     ]
                 },
                 "Aura/MLS": {
+                    "id": "aura-mls",
+                    "title": "Aura/MLS",
                     "description": "no description",
                     "image": "",
                     "settings": [

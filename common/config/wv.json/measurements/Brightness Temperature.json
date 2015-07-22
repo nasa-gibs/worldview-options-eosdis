@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Brightness Temperature": {
-            "id": "brightness_temperature",
+            "id": "brightness-temperature",
             "title":    "Brightness Temperature",
             "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI",
             "sources": {
                 "Aqua/AMSR-E": {
+                    "id": "aqua-amsre",
                     "title": "Aqua/AMSR-E",
                     "description": "no description",
                     "image": "",
@@ -17,6 +18,7 @@
                     ]
                 },
                 "Aqua/MODIS": {
+                    "id": "aqua-modis",
                     "title": "Aqua/MODIS",
                     "description": "no description",
                     "image": "",
@@ -26,6 +28,7 @@
                     ]
                 },
                 "Terra/MODIS": {
+                    "id": "terra-modis",
                     "title": "Terra/MODIS",
                     "description": "no description",
                     "image": "",
@@ -35,6 +38,7 @@
                     ]
                 },
                 "GPM/GMI": {
+                    "id": "gpm-gmi",
                     "title": "GPM/GMI",
                     "description": "no description",
                     "image": "",

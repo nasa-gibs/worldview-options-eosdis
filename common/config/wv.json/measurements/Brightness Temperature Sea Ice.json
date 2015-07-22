@@ -1,11 +1,12 @@
 {
     "measurements": {
         "Brightness Temperature for Sea Ice": {
-            "id": "brightness_temperature_sea_ice",
+            "id": "brightness-temperature-sea-ice",
             "title":    "Brightness Temperature for Sea Ice",
             "subtitle": "89H GHz B Scan, 89V GHz B Scan",
             "sources": {
                 "89H GHz B Scan": {
+                    "id": "89h-ghz-b-scan",
                     "title": "89H GHz B Scan",
                     "description": "no description",
                     "image": "",
@@ -14,6 +15,7 @@
                     ]
                 },
                 "89V GHz B Scan": {
+                    "id": "89v-ghz-b-scan",
                     "title": "89V GHz B Scan",
                     "description": "no description",
                     "image": "",
