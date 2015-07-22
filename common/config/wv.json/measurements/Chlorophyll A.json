@@ -5,12 +5,22 @@
             "title":    "Chlorophyll A",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
-                "Aqua/MODIS": [
-                    "MODIS_Aqua_Chlorophyll_A"
-                ],
-                "Terra/MODIS": [
-                    "MODIS_Terra_Chlorophyll_A"
-                ]
+                "Aqua/MODIS": {
+                    "title": "Aqua/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Chlorophyll_A"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "title": "Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Chlorophyll_A"
+                    ]
+                }
             }
         }
     }

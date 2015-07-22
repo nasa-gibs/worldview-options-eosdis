@@ -1,14 +1,29 @@
 {
     "measurements": {
         "Cloud Top Pressure": {
-            "Aqua/MODIS": [
-                "MODIS_Aqua_Cloud_Top_Pressure_Day",
-                "MODIS_Aqua_Cloud_Top_Pressure_Night"
-            ],
-            "Terra/MODIS": [
-                "MODIS_Terra_Cloud_Top_Pressure_Day",
-                "MODIS_Terra_Cloud_Top_Pressure_Night"
-            ]
+            "id": "cloud_top_pressure",
+            "title":    "Cloud Top Pressure",
+            "subtitle": "Aqua/MODIS, Terra/MODIS",
+            "sources": {
+                "Aqua/MODIS": {
+                    "title": "Aqua/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Cloud_Top_Pressure_Day",
+                        "MODIS_Aqua_Cloud_Top_Pressure_Night"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "title": "Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Cloud_Top_Pressure_Day",
+                        "MODIS_Terra_Cloud_Top_Pressure_Night"
+                    ]
+                }
+            }
         }
     }
 }

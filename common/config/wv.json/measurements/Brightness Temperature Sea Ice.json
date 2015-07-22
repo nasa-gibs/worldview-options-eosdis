@@ -5,12 +5,22 @@
             "title":    "Brightness Temperature for Sea Ice",
             "subtitle": "89H GHz B Scan, 89V GHz B Scan",
             "sources": {
-                "89H GHz B Scan": [
-                    "AMSRE_Sea_Ice_Brightness_Temp_89H"
-                ],
-                "89V GHz B Scan": [
-                    "AMSRE_Sea_Ice_Brightness_Temp_89V"
-                ]
+                "89H GHz B Scan": {
+                    "title": "89H GHz B Scan",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AMSRE_Sea_Ice_Brightness_Temp_89H"
+                    ]
+                },
+                "89V GHz B Scan": {
+                    "title": "89V GHz B Scan",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AMSRE_Sea_Ice_Brightness_Temp_89V"
+                    ]
+                }
             }
         }
     }

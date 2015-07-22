@@ -1,15 +1,30 @@
 {
     "measurements": {
         "Corrected Reflectance": {
-            "Aqua/MODIS": [
-                "MODIS_Aqua_CorrectedReflectance_TrueColor",
-                "MODIS_Aqua_CorrectedReflectance_Bands721"
-            ],
-            "Terra/MODIS": [
-                "MODIS_Terra_CorrectedReflectance_TrueColor",
-                "MODIS_Terra_CorrectedReflectance_Bands367",
-                "MODIS_Terra_CorrectedReflectance_Bands721"
-            ]
+            "id": "corrected_reflectance",
+            "title":    "Corrected Reflectance",
+            "subtitle": "Aqua/MODIS, Terra/MODIS",
+            "sources": {
+                "Aqua/MODIS": {
+                    "title": "Aqua/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_CorrectedReflectance_TrueColor",
+                        "MODIS_Aqua_CorrectedReflectance_Bands721"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "title": "Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_CorrectedReflectance_TrueColor",
+                        "MODIS_Terra_CorrectedReflectance_Bands367",
+                        "MODIS_Terra_CorrectedReflectance_Bands721"
+                    ]
+                }
+            }
         }
     }
 }

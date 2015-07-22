@@ -5,15 +5,30 @@
             "title":    "Blue Marble",
             "subtitle": "Standard, Shaded Relief, Shaded Relief and Bathymetry",
             "sources": {
-                "Standard": [
-                    "BlueMarble_NextGeneration"
-                ],
-                "Shaded Relief": [
-                    "BlueMarble_ShadedRelief"
-                ],
-                "Shaded Relief and Bathymetry": [
-                    "BlueMarble_ShadedRelief_Bathymetry"
-                ]
+                "Standard": {
+                    "title": "Standard",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "BlueMarble_NextGeneration"
+                    ]
+                },
+                "Shaded Relief": {
+                    "title": "Shaded Relief",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "BlueMarble_ShadedRelief"
+                    ]
+                },
+                "Shaded Relief and Bathymetry": {
+                    "title": "Shaded Relief and Bathymetry",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "BlueMarble_ShadedRelief_Bathymetry"
+                    ]
+                }
             }
         }
     }

@@ -1,15 +1,35 @@
 {
     "measurements": {
         "Cyclone Hazard": {
-            "Frequency and Distribution": [
-                "ndh-cyclone-hazard-frequency-distribution"
-            ],
-            "Mortality Risks": [
-                "ndh-cyclone-mortality-risks-distribution"
-            ],
-            "Proportional Economic Loss Risk Deciles": [
-                "ndh-cyclone-proportional-economic-loss-risk-deciles"
-            ]
+            "id": "cyclone_hazard",
+            "title":    "Cyclone Hazard",
+            "subtitle": "Frequency and Distribution, Mortality Risks, Proportional Economic Loss Risk Deciles",
+            "sources": {
+                "Frequency and Distribution": {
+                    "title": "Frequency and Distribution",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-cyclone-hazard-frequency-distribution"
+                    ]
+                },
+                "Mortality Risks": {
+                    "title": "Mortality Risks",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-cyclone-mortality-risks-distribution"
+                    ]
+                },
+                "Proportional Economic Loss Risk Deciles": {
+                    "title": "Proportional Economic Loss Risk Deciles",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-cyclone-proportional-economic-loss-risk-deciles"
+                    ]
+                }
+            }
         }
     }
 }

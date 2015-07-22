@@ -5,15 +5,30 @@
             "title":    "Aerosol Optical Depth",
             "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS",
             "sources": {
-                "Aura/OMI": [
-                    "OMI_Aerosol_Optical_Depth"
-                ],
-                "Aqua/MODIS": [
-                    "MODIS_Aqua_Aerosol"
-                ],
-                "Terra/MODIS": [
-                    "MODIS_Terra_Aerosol"
-                ]
+                "Aura/OMI": {
+                    "title": "Aura/OMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "OMI_Aerosol_Optical_Depth"
+                    ]
+                },
+                "Aqua/MODIS": {
+                    "title": "Aqua/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Aerosol"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "title": "Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Aerosol"
+                    ]
+                }
             }
         }
     }

@@ -5,9 +5,14 @@
             "title":    "Aerosol Optical Depth, Value Added",
             "subtitle": "Aqua and Terra/MODIS",
             "sources": {
-                "Aqua and Terra/MODIS": [
-                    "MODIS_Combined_Value_Added_AOD"
-                ]
+                "Aqua and Terra/MODIS": {
+                    "title": "Aqua ande Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Combined_Value_Added_AOD"
+                    ]
+                }
             }
         }
     }

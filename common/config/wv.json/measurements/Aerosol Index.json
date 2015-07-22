@@ -5,9 +5,14 @@
             "title":    "Aerosol Index",
             "subtitle": "Aura/OMI",
             "sources": {
-                "Aura/OMI":[
-                    "OMI_Aerosol_Index"
-                ]
+                "Aura/OMI": {
+                    "title": "Aura/OMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "OMI_Aerosol_Index"
+                    ]
+                }
             }
         }
     }

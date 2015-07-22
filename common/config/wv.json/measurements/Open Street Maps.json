@@ -1,16 +1,32 @@
 {
     "measurements": {
         "Reference Map": {
-            "openstreetmap.org": [
-                "Reference_Features",
-                "Reference_Labels",
-                "Coastlines",
-                "Land_Mask",
-                "Land_Water_Map"
-            ],
-            "SCAR Antarctic Digital Database": [
-                "SCAR_Land_Water_Map"
-            ]
+            "id": "reference_map",
+            "title":    "Reference Map",
+            "subtitle": "OpenStreetMap.org, SCAR Antarctic Digital Database",
+            "multichoice": true,
+            "sources": {
+                "OpenStreetMap.org": {
+                    "title": "OpenStreetMap.org",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "Reference_Features",
+                        "Reference_Labels",
+                        "Coastlines",
+                        "Land_Mask",
+                        "Land_Water_Map"
+                    ]
+                },
+                "SCAR Antarctic Digital Database": {
+                    "title": "SCAR Antarctic Digital Database",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SCAR_Land_Water_Map"
+                    ]
+                }
+            }
         }
     }
 }
