@@ -10,8 +10,17 @@
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
-                    "Carbon Monoxide, Total Column"
-                    
+                    "Blue Marble",
+                    "Brightness Temperature",
+                    "Brightness Temperature for Sea Ice",
+                    "Carbon Monoxide, Total Column",
+                    "Chlorophyll A",
+                    "Cloud Liquid Water, Columnar",
+                    "Cloud Top Pressure",
+                    "Cloud Top Temperature",
+                    "Corrected Reflectance",
+                    "Cyclone Hazard",
+                    "Reference Map"
                 ]
             }
         }

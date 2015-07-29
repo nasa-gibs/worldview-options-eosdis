@@ -18,15 +18,6 @@
                         "Land_Mask",
                         "Land_Water_Map"
                     ]
-                },
-                "SCAR Antarctic Digital Database": {
-                    "id": "scar-antarctic-digital-database",
-                    "title": "SCAR Antarctic Digital Database",
-                    "description": "no description",
-                    "image": "",
-                    "settings": [
-                        "SCAR_Land_Water_Map"
-                    ]
                 }
             }
         }
