@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "SMAP_L1_Passive_Brightness_Temp_Fore_H": {
+            "id":       "SMAP_L1_Passive_Brightness_Temp_Fore_H",
+            "title":    "Uncorrected Brightness Temperature (L1, Passive, Fore, H Polarization)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays"
+        }
+    }
+}

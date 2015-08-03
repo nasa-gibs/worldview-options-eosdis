@@ -1,0 +1,10 @@
+{
+    "layers": {
+        "SMAP_L3_Active_Sigma0_HH": {
+            "id":       "SMAP_L3_Active_Sigma0_HH",
+            "title":    "Sigma0 (L3, Active, HH Polarization)",
+            "subtitle": "SMAP / Radar",
+            "group":    "overlays"
+        }
+    }
+}
