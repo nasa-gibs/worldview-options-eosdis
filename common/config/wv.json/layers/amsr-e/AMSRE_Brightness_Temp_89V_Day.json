@@ -5,7 +5,7 @@
             "title":    "Brightness Temperature (89V GHz B Scan, Day)",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
-            "product":  "AE_L2A",
+            "product":  "AE_L2A_DAY",
             "inactive": true
         }
     }
