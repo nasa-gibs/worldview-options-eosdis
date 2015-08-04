@@ -1,0 +1,18 @@
+{
+    "products": {
+        "SPL1CTB": {
+            "name": "SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures V001",
+            "handler": "HalfOrbit",
+            "query": {
+                "shortName": "SPL1CTB",
+                "dataCenterId": "NSIDC_ECS"
+            },
+            "orbit": {
+                "type": "regex_group",
+                "field": "producer_granule_id",
+                "regex": ".*([AD])_.*\\.h5$",
+                "match": "D"
+            }
+        }
+    }
+}
