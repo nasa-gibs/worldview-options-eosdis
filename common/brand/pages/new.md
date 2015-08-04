@@ -5,7 +5,6 @@
 ## New Features
 
 * Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
-* Added the ability to rotate polar views.
 * Added Data Download for AMSR-E and SMAP layers.
 
 ## Updates
