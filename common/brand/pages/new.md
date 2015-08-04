@@ -1,15 +1,17 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.4
+# Version 0.8.5
 
 ## New Features
 
-* Added new AMSR2 layers: Columnar Cloud Liquid Water, Columnar Water Vapor, Surface Preciptation Rate, Surface Rain Rate, Wind Speed.
-* Added new orbit track: GCOM-W1
+* Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
+* Added the ability to rotate polar views.
+* Added Data Download for AMSR-E and SMAP layers.
 
 ## Updates
 
-* Fixed Earthdata links for content that was moved.
+* Data Download can now handle larger granules.
+* Updated Documentation for Data Download.
 
 ## Known Issues
 
@@ -23,6 +25,19 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.4
+
+## New Features
+
+* Added new AMSR2 layers: Columnar Cloud Liquid Water, Columnar Water Vapor, Surface Preciptation Rate, Surface Rain Rate, Wind Speed.
+* Added new orbit track: GCOM-W1
+
+## Updates
+
+* Fixed Earthdata links for content that was moved.
 
 ---
 
