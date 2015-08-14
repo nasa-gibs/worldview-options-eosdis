@@ -60,6 +60,7 @@
         "AMSR2_Cloud_Liquid_Water_Night",
         "AMSR2_Columnar_Water_Vapor_Day",
         "AMSR2_Columnar_Water_Vapor_Night",
+        "AMSR2_Snow_Water_Equivalent",
         "AMSR2_Surface_Precipitation_Rate_Day",
         "AMSR2_Surface_Precipitation_Rate_Night",
         "AMSR2_Surface_Rain_Rate_Day",

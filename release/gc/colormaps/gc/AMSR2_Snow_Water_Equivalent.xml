@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <ColorMap units="mm">
+      <ColorMapEntry rgb="17,17,17" transparent="true" value="[0]" label="0 mm" sourceValue="[0]" ref="1"/>
+      <ColorMapEntry rgb="168,0,200" transparent="false" value="[1]" label="1 mm" sourceValue="[2]" ref="2"/>
+      <ColorMapEntry rgb="144,0,208" transparent="false" value="[2]" label="2 mm" sourceValue="[4]" ref="3"/>
+      <ColorMapEntry rgb="120,0,216" transparent="false" value="[3]" label="3 mm" sourceValue="[6]" ref="4"/>
+      <ColorMapEntry rgb="96,0,224" transparent="false" value="[4]" label="4 mm" sourceValue="[8]" ref="5"/>
+      <ColorMapEntry rgb="72,0,231" transparent="false" value="[5]" label="5 mm" sourceValue="[10]" ref="6"/>
+      <ColorMapEntry rgb="48,0,239" transparent="false" value="[6]" label="6 mm" sourceValue="[12]" ref="7"/>
+      <ColorMapEntry rgb="24,0,247" transparent="false" value="[7]" label="7 mm" sourceValue="[14]" ref="8"/>
+      <ColorMapEntry rgb="0,0,255" transparent="false" value="[8]" label="8 mm" sourceValue="[16]" ref="9"/>
+      <ColorMapEntry rgb="0,032,255" transparent="false" value="[9]" label="9 mm" sourceValue="[18]" ref="10"/>
+      <ColorMapEntry rgb="0,064,255" transparent="false" value="[10]" label="10 mm" sourceValue="[20]" ref="11"/>
+      <ColorMapEntry rgb="0,096,255" transparent="false" value="[11]" label="11 mm" sourceValue="[22]" ref="12"/>
+      <ColorMapEntry rgb="0,128,255" transparent="false" value="[12]" label="12 mm" sourceValue="[24]" ref="13"/>
+      <ColorMapEntry rgb="0,159,255" transparent="false" value="[13]" label="13 mm" sourceValue="[26]" ref="14"/>
+      <ColorMapEntry rgb="0,191,255" transparent="false" value="[14]" label="14 mm" sourceValue="[28]" ref="15"/>
+      <ColorMapEntry rgb="0,223,255" transparent="false" value="[15]" label="15 mm" sourceValue="[30]" ref="16"/>
+      <ColorMapEntry rgb="0,255,255" transparent="false" value="[16]" label="16 mm" sourceValue="[32]" ref="17"/>
+      <ColorMapEntry rgb="0,244,223" transparent="false" value="[17]" label="17 mm" sourceValue="[34]" ref="18"/>
+      <ColorMapEntry rgb="0,234,191" transparent="false" value="[18]" label="18 mm" sourceValue="[36]" ref="19"/>
+      <ColorMapEntry rgb="0,223,159" transparent="false" value="[19]" label="19 mm" sourceValue="[38]" ref="20"/>
+      <ColorMapEntry rgb="0,212,127" transparent="false" value="[20]" label="20 mm" sourceValue="[40]" ref="21"/>
+      <ColorMapEntry rgb="0,202,96" transparent="false" value="[21]" label="21 mm" sourceValue="[42]" ref="22"/>
+      <ColorMapEntry rgb="0,191,64" transparent="false" value="[22]" label="22 mm" sourceValue="[44]" ref="23"/>
+      <ColorMapEntry rgb="0,181,32" transparent="false" value="[23]" label="23 mm" sourceValue="[46]" ref="24"/>
+      <ColorMapEntry rgb="0,170,0" transparent="false" value="[24]" label="24 mm" sourceValue="[48]" ref="25"/>
+      <ColorMapEntry rgb="32,181,0" transparent="false" value="[25]" label="25 mm" sourceValue="[50]" ref="26"/>
+      <ColorMapEntry rgb="64,191,0" transparent="false" value="[26]" label="26 mm" sourceValue="[52]" ref="27"/>
+      <ColorMapEntry rgb="96,202,0" transparent="false" value="[27]" label="27 mm" sourceValue="[54]" ref="28"/>
+      <ColorMapEntry rgb="128,213,0" transparent="false" value="[28]" label="28 mm" sourceValue="[56]" ref="29"/>
+      <ColorMapEntry rgb="159,223,0" transparent="false" value="[29]" label="29 mm" sourceValue="[58]" ref="30"/>
+      <ColorMapEntry rgb="191,234,0" transparent="false" value="[30]" label="30 mm" sourceValue="[60]" ref="31"/>
+      <ColorMapEntry rgb="223,244,0" transparent="false" value="[31]" label="31 mm" sourceValue="[62]" ref="32"/>
+      <ColorMapEntry rgb="255,255,0" transparent="false" value="[32]" label="32 mm" sourceValue="[64]" ref="33"/>
+      <ColorMapEntry rgb="247,223,0" transparent="false" value="[33]" label="33 mm" sourceValue="[66]" ref="34"/>
+      <ColorMapEntry rgb="239,191,0" transparent="false" value="[34]" label="34 mm" sourceValue="[68]" ref="35"/>
+      <ColorMapEntry rgb="231,159,0" transparent="false" value="[35]" label="35 mm" sourceValue="[70]" ref="36"/>
+      <ColorMapEntry rgb="223,127,0" transparent="false" value="[36]" label="36 mm" sourceValue="[72]" ref="37"/>
+      <ColorMapEntry rgb="216,96,0" transparent="false" value="[37]" label="37 mm" sourceValue="[74]" ref="38"/>
+      <ColorMapEntry rgb="208,64,0" transparent="false" value="[38]" label="38 mm" sourceValue="[76]" ref="39"/>
+      <ColorMapEntry rgb="200,32,0" transparent="false" value="[39]" label="39 mm" sourceValue="[78]" ref="40"/>
+      <ColorMapEntry rgb="192,0,0" transparent="false" value="[40,240]" label="&gt;= 40 mm" sourceValue="[80,480]" ref="41"/>
+  </ColorMap>
