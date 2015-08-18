@@ -1,16 +1,11 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.5
+
+# Version 0.8.6
 
 ## New Features
 
-* Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
-* Added Data Download for AMSR-E and SMAP layers.
-
-## Updates
-
-* Data Download can now handle larger granules.
-* Updated Documentation for Data Download.
+* Added layer GCOM-W1 / AMSR2 Snow Water Equivalent.
 
 ## Known Issues
 
@@ -24,6 +19,20 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.5
+
+## New Features
+
+* Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
+* Added Data Download for AMSR-E and SMAP layers.
+
+## Updates
+
+* Data Download can now handle larger granules.
+* Updated Documentation for Data Download.
 
 ---
 
