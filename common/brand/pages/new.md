@@ -1,11 +1,10 @@
 <input type="hidden" autofocus>
 
-
-# Version 0.8.6
+# Version 0.8.7
 
 ## New Features
 
-* Added layer GCOM-W1 / AMSR2 Snow Water Equivalent.
+* Added new SMAP layers: Sigma0, Sigma0 QA, Sigma0 RFI 
 
 ## Known Issues
 
@@ -19,6 +18,14 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.6
+
+## New Features
+
+* Added layer GCOM-W1 / AMSR2 Snow Water Equivalent.
 
 ---
 
