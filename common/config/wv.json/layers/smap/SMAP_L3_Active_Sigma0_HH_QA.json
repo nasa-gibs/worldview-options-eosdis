@@ -4,7 +4,9 @@
             "id":       "SMAP_L3_Active_Sigma0_HH_QA",
             "title":    "Sigma0 QA (L3, Active, HH Polarization)",
             "subtitle": "SMAP / Radar",
-            "group":    "overlays"
+            "group":    "overlays",
+            "inactive": true
+               
         }
     }
 }

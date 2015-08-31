@@ -4,7 +4,8 @@
             "id":       "SMAP_L3_Active_Sigma0_VV_QA",
             "title":    "Sigma0 QA (L3, Active, VV Polarization)",
             "subtitle": "SMAP",
-            "group":    "overlays"
+            "group":    "overlays",
+            "inactive": true
         }
     }
 }
