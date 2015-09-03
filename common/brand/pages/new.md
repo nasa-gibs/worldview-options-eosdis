@@ -1,10 +1,10 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.3
+# Version 0.8.8
 
 ## Updates
 
-* Updated for Earthdata 3.0.
+* Fixed URL shortening bug
 
 ## Known Issues
 
@@ -18,6 +18,57 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.7
+
+## New Features
+
+* Added new SMAP layers: Sigma0, Sigma0 QA, Sigma0 RFI 
+
+---
+
+# Version 0.8.6
+
+## New Features
+
+* Added layer GCOM-W1 / AMSR2 Snow Water Equivalent.
+
+---
+
+# Version 0.8.5
+
+## New Features
+
+* Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
+* Added Data Download for AMSR-E and SMAP layers.
+
+## Updates
+
+* Data Download can now handle larger granules.
+* Updated Documentation for Data Download.
+
+---
+
+# Version 0.8.4
+
+## New Features
+
+* Added new AMSR2 layers: Columnar Cloud Liquid Water, Columnar Water Vapor, Surface Preciptation Rate, Surface Rain Rate, Wind Speed.
+* Added new orbit track: GCOM-W1
+
+## Updates
+
+* Fixed Earthdata links for content that was moved.
+
+---
+
+# Version 0.8.3
+
+## Updates
+
+* Updated for Earthdata 3.0.
 
 ---
 

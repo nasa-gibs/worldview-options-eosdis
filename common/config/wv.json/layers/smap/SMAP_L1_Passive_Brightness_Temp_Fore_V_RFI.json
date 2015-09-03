@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L1_Passive_Brightness_Temp_Fore_V_RFI": {
+            "id":       "SMAP_L1_Passive_Brightness_Temp_Fore_V_RFI",
+            "title":    "Uncorrected Brightness Temperature RFI (L1, Passive, Fore, V Polarization)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL1CTB"
+        }
+    }
+}

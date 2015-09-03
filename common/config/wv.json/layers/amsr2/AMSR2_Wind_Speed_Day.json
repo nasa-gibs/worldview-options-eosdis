@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Wind_Speed_Day": {
+            "id":       "AMSR2_Wind_Speed_Day",
+            "title":    "Wind Speed (Day)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_RainOcn_NRT"
+        }
+    }
+}

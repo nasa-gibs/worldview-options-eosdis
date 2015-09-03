@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Surface_Precipitation_Rate_Day": {
+            "id":       "AMSR2_Surface_Precipitation_Rate_Day",
+            "title":    "Surface Precipitation Rate (Day)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_RainOcn_NRT"
+        }
+    }
+}

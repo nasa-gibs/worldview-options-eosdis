@@ -1,0 +1,33 @@
+{
+    "layers": {
+        "GCOM_W1_Orbit_Asc": {
+            "id":       "GCOM_W1_Orbit_Asc",
+            "title":    "Orbital Track (Ascending/Day)",
+            "subtitle": "Space-Track.org / GCOM-W1",
+            "group":    "overlays",
+            "format":   "image/png",
+            "type":     "wms",
+            "tileSize": [512, 512],
+            "period":   "daily",
+
+            "startDate": "2015-06-26",
+
+            "projections": {
+                "antarctic": {
+                    "source":   "GIBS:wms"
+                },
+                "arctic": {
+                    "source":   "GIBS:wms"
+                },
+                "geographic": {
+                    "source":   "GIBS:wms"
+                }
+            },
+
+            "palette": {
+                "id":     "GCOM_W1_Orbit",
+                "immutable": true
+            }
+        }
+    }
+}

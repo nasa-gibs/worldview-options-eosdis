@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L3_Active_Sigma0_HH_RFI": {
+            "id":       "SMAP_L3_Active_Sigma0_HH_RFI",
+            "title":    "Sigma0 RFI (L3, Active, HH Polarization)",
+            "subtitle": "SMAP / Radar",
+            "group":    "overlays",
+            "inactive": true
+        }
+    }
+}

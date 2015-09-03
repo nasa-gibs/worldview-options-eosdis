@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "AMSR2_Snow_Water_Equivalent": {
+            "id":       "AMSR2_Snow_Water_Equivalent",
+            "title":    "Snow / Water Equivalent",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product": "A2_DySno_NRT",
+            "tags": ""
+        }
+    }
+}
