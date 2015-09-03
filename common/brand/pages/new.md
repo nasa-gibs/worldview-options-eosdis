@@ -1,10 +1,10 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.7
+# Version 0.8.8
 
-## New Features
+## Updates
 
-* Added new SMAP layers: Sigma0, Sigma0 QA, Sigma0 RFI 
+* Fixed URL shortening bug
 
 ## Known Issues
 
@@ -18,6 +18,14 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.7
+
+## New Features
+
+* Added new SMAP layers: Sigma0, Sigma0 QA, Sigma0 RFI 
 
 ---
 
