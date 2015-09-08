@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "ASTER_GDEM_Greyscale_Shaded_Relief": {
+            "id":       "ASTER_GDEM_Greyscale_Shaded_Relief",
+            "title":    "Global Digital Elevation Map (Greyscale Shaded Relief)",
+            "subtitle": "Terra / ASTER",
+            "tags":     "gdem",
+            "group":    "baselayers",
+            "type":     "wmts"
+        }
+    }
+}
