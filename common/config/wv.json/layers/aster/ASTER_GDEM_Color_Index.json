@@ -6,7 +6,8 @@
             "subtitle": "Terra / ASTER",
             "tags":     "gdem",
             "group":    "overlays",
-            "type":     "wmts"
+            "type":     "wmts",
+            "product":  "ASTGTM"
         }
     }
 }
