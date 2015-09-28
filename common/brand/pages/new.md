@@ -1,10 +1,12 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.8
+# Version 0.8.9
 
-## Updates
+## New Features
 
-* Fixed URL shortening bug
+* Added capability to support 30m/px imagery
+* Added ASTER GDEM Layers: Color Index, Color Shaded Relief, and Greyscale Shaded Relief
+* Added a UI indicator and tooltip per layer to show when a layer is overzoomed
 
 ## Known Issues
 
@@ -18,6 +20,13 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+
+# Version 0.8.8
+
+## Updates
+
+* Fixed URL shortening bug
 
 ---
 

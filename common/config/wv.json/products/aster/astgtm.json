@@ -1,0 +1,14 @@
+{
+    "products": {
+        "ASTGTM": {
+            "name": "Aster Global Digital Elevation Map",
+            "handler": "CollectionList",
+            "query": {
+                "collection": "true",
+                "shortName": "ASTGTM",
+                "dataCenterId": "LPDAAC"
+            },
+            "noBulkDownload": "true"
+        }
+    }
+}
