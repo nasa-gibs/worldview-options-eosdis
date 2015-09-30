@@ -1,7 +1,7 @@
 {
     "products": {
         "ASTGTM": {
-            "name": "Aster Global Digital Elevation Map",
+            "name": "ASTER Global Digital Elevation Map",
             "handler": "CollectionList",
             "query": {
                 "collection": "true",
