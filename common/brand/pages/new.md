@@ -7,6 +7,11 @@
 * Added capability to support 30m/px imagery
 * Added ASTER GDEM Layers: Color Index, Color Shaded Relief, and Greyscale Shaded Relief
 * Added a UI indicator and tooltip per layer to show when a layer is overzoomed
+* Added SMAP L2/L3 Passive layers
+
+## Updates
+
+* Due to the base url change for shortened links, a (?) tooltip now exists to help users to migrate their saved links.
 
 ## Known Issues
 
