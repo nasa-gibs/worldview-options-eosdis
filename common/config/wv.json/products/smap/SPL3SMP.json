@@ -2,16 +2,9 @@
     "products": {
         "SPL3SMP": {
             "name": "SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture V001",
-            "handler": "HalfOrbit",
+            "handler": "List",
             "query": {
-                "shortName": "SPL3SMP",
-                "dataCenterId": "NSIDC_ECS"
-            },
-            "orbit": {
-                "type": "regex_group",
-                "field": "producer_granule_id",
-                "regex": ".*([AD])_.*\\.h5$",
-                "match": "D"
+                "shortName": "SPL3SMP"
             }
         }
     }
