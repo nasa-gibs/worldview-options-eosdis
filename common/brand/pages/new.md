@@ -26,6 +26,7 @@
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
 
+---
 
 # Version 0.8.8
 
