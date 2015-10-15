@@ -3,7 +3,7 @@
         "SMAP_L3_Passive_Brightness_Temp_H": {
             "id":       "SMAP_L3_Passive_Brightness_Temp_H",
             "title":    "Corrected Brightness Temperature (L3, Passive, H Polarization)",
-            "subtitle": "SMAP / Radar",
+            "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
             "product":  "SPL3SMP"
         }

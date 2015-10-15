@@ -3,7 +3,7 @@
         "SMAP_L2_Passive_Soil_Moisture_Option3": {
             "id":       "SMAP_L2_Passive_Soil_Moisture_Option3",
             "title":    "Soil Moisture (Option 3, L2, Passive)",
-            "subtitle": "SMAP / Radar",
+            "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
             "product":  "SPL2SMP"
         }

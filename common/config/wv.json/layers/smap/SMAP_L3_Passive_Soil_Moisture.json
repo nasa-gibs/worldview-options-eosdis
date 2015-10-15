@@ -3,7 +3,7 @@
         "SMAP_L3_Passive_Soil_Moisture": {
             "id":       "SMAP_L3_Passive_Soil_Moisture",
             "title":    "Soil Moisture (L3, Passive)",
-            "subtitle": "SMAP / Radar",
+            "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
             "product":  "SPL3SMP"
         }
