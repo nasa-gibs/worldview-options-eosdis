@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
   <ColorMap units="°">
       <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data"/>
       <ColorMapEntry rgb="255,162,0" transparent="false" sourceValue="[-10.00,-9.92)" value="[-10.00,-9.92)" label="-10.00 – -9.92 °"/>

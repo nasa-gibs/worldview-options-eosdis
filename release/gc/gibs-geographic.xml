@@ -83,6 +83,31 @@
    </ows:OperationsMetadata>
    <Contents>
       <Layer>
+         <ows:Title>AMSR2_Snow_Water_Equivalent</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>AMSR2_Snow_Water_Equivalent</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-14</Default>
+           <Current>false</Current>
+           <Value>2015-07-30/2015-10-14/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/AMSR2_Snow_Water_Equivalent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
          <ows:Title>AMSR2_Cloud_Liquid_Water_Day</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
@@ -98,9 +123,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -123,9 +148,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -148,9 +173,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -173,9 +198,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -198,9 +223,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -223,9 +248,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -248,9 +273,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -273,9 +298,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -298,9 +323,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -323,9 +348,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-06-07/2015-07-28/P1D</Value>
+           <Value>2015-06-07/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -573,9 +598,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-11-18/2015-07-28/P1D</Value>
+           <Value>2013-11-18/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -598,9 +623,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-11-18/2015-07-28/P1D</Value>
+           <Value>2013-11-18/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -623,9 +648,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -648,9 +673,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -673,9 +698,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -698,9 +723,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -723,9 +748,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -749,6 +774,40 @@
             <TileMatrixSet>EPSG4326_31m</TileMatrixSet>
          </TileMatrixSetLink>
          <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/ASTER_GDEM_Color_Index/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>ASTER_GDEM_Color_Shaded_Relief</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>ASTER_GDEM_Color_Shaded_Relief</ows:Identifier>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/jpeg</Format>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_31m</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/ASTER_GDEM_Color_Shaded_Relief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpg"/>
+      </Layer>
+      <Layer>
+         <ows:Title>ASTER_GDEM_Greyscale_Shaded_Relief</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>ASTER_GDEM_Greyscale_Shaded_Relief</ows:Identifier>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/jpeg</Format>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_31m</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/ASTER_GDEM_Greyscale_Shaded_Relief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpg"/>
       </Layer>
       <Layer>
          <ows:Title>BlueMarble_NextGeneration</ows:Title>
@@ -834,9 +893,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-25</Default>
+           <Default>2015-10-11</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-25/P1D</Value>
+           <Value>2014-03-04/2015-10-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -859,9 +918,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-25</Default>
+           <Default>2015-10-11</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-25/P1D</Value>
+           <Value>2014-03-04/2015-10-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -883,9 +942,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-26</Default>
+           <Default>2015-10-12</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-26/P1D</Value>
+           <Value>2014-03-04/2015-10-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -907,9 +966,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-26</Default>
+           <Default>2015-10-12</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-26/P1D</Value>
+           <Value>2014-03-04/2015-10-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -932,9 +991,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-25</Default>
+           <Default>2015-10-11</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-25/P1D</Value>
+           <Value>2014-03-04/2015-10-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -957,9 +1016,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-25</Default>
+           <Default>2015-10-11</Default>
            <Current>false</Current>
-           <Value>2014-10-11/2015-07-25/P1D</Value>
+           <Value>2014-03-04/2015-10-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -982,9 +1041,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-01-31/2015-07-28/P1D</Value>
+           <Value>2013-01-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1057,9 +1116,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1082,9 +1141,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1107,9 +1166,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1132,9 +1191,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1157,9 +1216,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1182,9 +1241,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1207,9 +1266,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1232,9 +1291,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1257,9 +1316,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1282,9 +1341,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1307,9 +1366,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1332,9 +1391,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1357,9 +1416,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1382,9 +1441,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-05-09/2015-07-28/P1D</Value>
+           <Value>2013-05-09/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1407,9 +1466,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-07-02/2015-07-28/P1D</Value>
+           <Value>2013-07-02/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1450,9 +1509,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -1475,9 +1534,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1500,9 +1559,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1525,9 +1584,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1550,9 +1609,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1575,9 +1634,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1600,9 +1659,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-06-22/2015-07-28/P1D</Value>
+           <Value>2012-06-22/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1625,9 +1684,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1650,9 +1709,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1675,9 +1734,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1700,9 +1759,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1725,9 +1784,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1750,9 +1809,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -1774,9 +1833,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -1798,9 +1857,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -1822,9 +1881,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -1846,9 +1905,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -1870,9 +1929,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -1894,9 +1953,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -1919,9 +1978,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -1944,9 +2003,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-07-02/2015-07-28/P1D</Value>
+           <Value>2013-07-02/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -1969,9 +2028,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -1994,9 +2053,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2019,9 +2078,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2044,9 +2103,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2069,9 +2128,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2094,9 +2153,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2119,9 +2178,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-06-22/2015-07-28/P1D</Value>
+           <Value>2012-06-22/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2144,9 +2203,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2169,9 +2228,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2194,9 +2253,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2219,9 +2278,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2244,9 +2303,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2269,9 +2328,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2293,9 +2352,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -2317,9 +2376,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -2341,9 +2400,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -2365,9 +2424,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -2389,9 +2448,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -2414,9 +2473,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_250m</TileMatrixSet>
@@ -2439,9 +2498,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2464,9 +2523,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2489,9 +2548,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2514,9 +2573,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2012-05-08/2015-07-28/P1D</Value>
+           <Value>2012-05-08/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2539,9 +2598,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-08</Default>
            <Current>false</Current>
-           <Value>2014-04-23/2015-07-28/P1D</Value>
+           <Value>2014-04-23/2015-10-08/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2564,9 +2623,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-08</Default>
            <Current>false</Current>
-           <Value>2014-04-23/2015-07-28/P1D</Value>
+           <Value>2014-04-23/2015-10-08/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2589,9 +2648,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-08</Default>
            <Current>false</Current>
-           <Value>2014-04-23/2015-07-28/P1D</Value>
+           <Value>2014-04-23/2015-10-08/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2648,9 +2707,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-25</Default>
+           <Default>2015-10-11</Default>
            <Current>false</Current>
-           <Value>2013-04-13/2015-07-25/P1D</Value>
+           <Value>2013-04-13/2015-10-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_1km</TileMatrixSet>
@@ -2673,9 +2732,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2013-04-13/2015-07-28/P1D</Value>
+           <Value>2013-04-13/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_500m</TileMatrixSet>
@@ -2698,9 +2757,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-12</Default>
            <Current>false</Current>
-           <Value>2013-04-13/2015-07-28/P1D</Value>
+           <Value>2013-04-13/2015-10-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_16km</TileMatrixSet>
@@ -2757,9 +2816,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2782,9 +2841,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2807,9 +2866,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2832,9 +2891,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2857,9 +2916,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2882,9 +2941,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2907,9 +2966,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2932,9 +2991,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2957,9 +3016,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -2982,9 +3041,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3007,9 +3066,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3032,9 +3091,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3057,9 +3116,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3082,14 +3141,89 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-28</Default>
+           <Default>2015-10-14</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-28/P1D</Value>
+           <Value>2015-03-31/2015-10-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
          </TileMatrixSetLink>
          <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L1_Passive_Brightness_Temp_Fore_V_RFI/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L2_Passive_Soil_Moisture_Option1</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L2_Passive_Soil_Moisture_Option1</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L2_Passive_Soil_Moisture_Option1.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-13</Default>
+           <Current>false</Current>
+           <Value>2015-09-09/2015-10-13/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L2_Passive_Soil_Moisture_Option1/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L2_Passive_Soil_Moisture_Option2</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L2_Passive_Soil_Moisture_Option2</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L2_Passive_Soil_Moisture_Option2.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-13</Default>
+           <Current>false</Current>
+           <Value>2015-09-09/2015-10-13/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L2_Passive_Soil_Moisture_Option2/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L2_Passive_Soil_Moisture_Option3</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L2_Passive_Soil_Moisture_Option3</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L2_Passive_Soil_Moisture_Option3.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-13</Default>
+           <Current>false</Current>
+           <Value>2015-09-09/2015-10-13/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L2_Passive_Soil_Moisture_Option3/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title>SMAP_L3_Active_Sigma0_HH</ows:Title>
@@ -3107,9 +3241,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3132,9 +3266,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3157,9 +3291,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3182,9 +3316,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3207,9 +3341,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3232,9 +3366,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3257,9 +3391,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3282,9 +3416,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
@@ -3307,14 +3441,89 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-07-20</Default>
+           <Default>2015-07-07</Default>
            <Current>false</Current>
-           <Value>2015-04-24/2015-07-20/P1D</Value>
+           <Value>2015-04-13/2015-07-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
          </TileMatrixSetLink>
          <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L3_Active_Sigma0_XPOL_RFI/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L3_Passive_Soil_Moisture</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L3_Passive_Soil_Moisture</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L3_Passive_Soil_Moisture.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-12</Default>
+           <Current>false</Current>
+           <Value>2015-09-10/2015-10-12/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L3_Passive_Soil_Moisture/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L3_Passive_Brightness_Temp_H</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L3_Passive_Brightness_Temp_H</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L3_Passive_Brightness_Temp_H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-12</Default>
+           <Current>false</Current>
+           <Value>2015-09-10/2015-10-12/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L3_Passive_Brightness_Temp_H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>SMAP_L3_Passive_Brightness_Temp_V</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 -90</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:Identifier>SMAP_L3_Passive_Brightness_Temp_V</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/SMAP_L3_Passive_Brightness_Temp_V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2015-10-12</Default>
+           <Current>false</Current>
+           <Value>2015-09-10/2015-10-12/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG4326_2km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-geo/SMAP_L3_Passive_Brightness_Temp_V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title>VIIRS_EarthAtNight_2012</ows:Title>

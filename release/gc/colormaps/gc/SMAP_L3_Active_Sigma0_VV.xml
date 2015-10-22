@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
   <ColorMap units="db">
       <ColorMapEntry rgb="0,0,0" sourceValue="[-9999]" value="[-9999]" transparent="true" label="No Data" nodata="true"/>
       <ColorMapEntry rgb="1,1,1" sourceValue="[-40.00,-39.84)" value="[-40.00,-39.84)" transparent="false" label="-40.00 – -39.84 db" ref="0"/>

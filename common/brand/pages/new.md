@@ -1,15 +1,17 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.4
+# Version 0.8.9
 
 ## New Features
 
-* Added new AMSR2 layers: Columnar Cloud Liquid Water, Columnar Water Vapor, Surface Preciptation Rate, Surface Rain Rate, Wind Speed.
-* Added new orbit track: GCOM-W1
+* Added capability to support 30m/px imagery
+* Added ASTER GDEM Layers: Color Index, Color Shaded Relief, and Greyscale Shaded Relief
+* Added a UI indicator and tooltip per layer to show when a layer is overzoomed
+* Added SMAP L2/L3 Passive layers
 
 ## Updates
 
-* Fixed Earthdata links for content that was moved.
+* Due to the base url change for shortened links, a (?) tooltip now exists to help users to migrate their saved links.
 
 ## Known Issues
 
@@ -23,6 +25,57 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.8
+
+## Updates
+
+* Fixed URL shortening bug
+
+---
+
+# Version 0.8.7
+
+## New Features
+
+* Added new SMAP layers: Sigma0, Sigma0 QA, Sigma0 RFI 
+
+---
+
+# Version 0.8.6
+
+## New Features
+
+* Added layer GCOM-W1 / AMSR2 Snow Water Equivalent.
+
+---
+
+# Version 0.8.5
+
+## New Features
+
+* Added new SMAP layers: Uncorrected Brightness Temperature, Faraday Rotation Angle.
+* Added Data Download for AMSR-E and SMAP layers.
+
+## Updates
+
+* Data Download can now handle larger granules.
+* Updated Documentation for Data Download.
+
+---
+
+# Version 0.8.4
+
+## New Features
+
+* Added new AMSR2 layers: Columnar Cloud Liquid Water, Columnar Water Vapor, Surface Preciptation Rate, Surface Rain Rate, Wind Speed.
+* Added new orbit track: GCOM-W1
+
+## Updates
+
+* Fixed Earthdata links for content that was moved.
 
 ---
 

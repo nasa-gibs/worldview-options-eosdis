@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?> 
   <ColorMap>
       <ColorMapEntry rgb="0,0,0" transparent="true" sourceValue="0" label="No Data" nodata="true" ref="0"/>
       <ColorMapEntry rgb="49,161,49" transparent="false" sourceValue="1" label="Approved" ref="1"/>
