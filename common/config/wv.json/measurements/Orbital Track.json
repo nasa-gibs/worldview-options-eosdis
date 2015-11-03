@@ -1,0 +1,31 @@
+{
+    "measurements": {
+        "Orbital Track": {
+            "id": "orbital-track",
+            "title":    "Orbital Track",
+            "subtitle": "Space-Track.org",
+            "sources": {
+                "Space-Track.org": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "Terra_Orbit_Asc",
+                        "Terra_Orbit_Dsc",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc",
+                        "Calipso_Orbit_Asc",
+                        "Calipso_Orbit_Dsc",
+                        "GPM_Orbit_Asc",
+                        "GPM_Orbit_Dsc",
+                        "GCOM_W1_Orbit_Asc",
+                        "GCOM_W1_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

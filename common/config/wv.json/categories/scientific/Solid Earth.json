@@ -3,10 +3,10 @@
         "scientific": {
             "Solid Earth": {
                 "title": "Solid Earth",
-                "id": "solid_earth",
+                "id": "solid-earth",
                 "description": "",
                 "measurements": [
-                    
+                    "Volcano Hazard"
                 ]
             }
         }

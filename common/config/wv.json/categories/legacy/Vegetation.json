@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "hazards and disasters": {
+            "Vegetation": {
+                "title": "Vegetation",
+                "id": "vegetation",
+                "description": "",
+                "measurements": [
+                    "Corrected Reflectance",
+                    "Land Surface Reflectance",                    
+                    "Fires and Thermal Anomalies",
+                    "Forests, Mangrove",
+                    "Land Surface Temperature",
+                    "Snow Cover"
+                ]
+            }
+        }
+    }
+}

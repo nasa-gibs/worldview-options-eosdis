@@ -11,7 +11,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "OMI_Aerosol_Index"
+                        "OMI_Aerosol_Index",
+                        "Aura_Orbit_Asc"
                     ]
                 }
             }

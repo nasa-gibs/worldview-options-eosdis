@@ -1,0 +1,47 @@
+{
+    "measurements": {
+        "Water Vapor": {
+            "id": "water-vapor",
+            "title":    "Water Vapor",
+            "subtitle": "",
+            "sources": {
+                "Aqua/MODIS": {
+                    "id": "aqua-modis",
+                    "title": "Aqua / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Water_Vapor_5km_Day",
+                        "MODIS_Aqua_Water_Vapor_5km_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Aura/MLS": {
+                    "id": "aura-mls",
+                    "title": "Aura / MLS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MLS_H2O_46hPa_Day",
+                        "MLS_H2O_46hPa_Night",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "id": "terra-modis",
+                    "title": "Terra / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Water_Vapor_5km_Day",
+                        "MODIS_Terra_Water_Vapor_5km_Night",
+                        "Terra_Orbit_Asc",
+                        "Terra_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

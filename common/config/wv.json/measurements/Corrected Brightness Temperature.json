@@ -1,0 +1,21 @@
+{
+    "measurements": {
+        "Corrected Brightness Temperature": {
+            "id": "brightness-temperature-corrected",
+            "title":    "Corrected Brightness Temperature",
+            "subtitle": "SMAP / Radiometer",
+            "sources": {
+                "SMAP/Radiometer": {
+                    "id": "smap-radiometer",
+                    "title": "SMAP / Radiometer",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SMAP_L3_Passive_Brightness_Temp_H",
+                        "SMAP_L3_Passive_Brightness_Temp_V"
+                    ]
+                }
+            }
+        }
+    }
+}

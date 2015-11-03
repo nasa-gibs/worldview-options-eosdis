@@ -1,0 +1,23 @@
+{
+    "measurements": {
+        "Surface Rain Rate": {
+            "id": "surface-rain-rate",
+            "title":    "Surface Rain Rate",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "sources": {
+                "GCOM-W1/AMSR2": {
+                    "id": "gcom-w1-amsr2",
+                    "title": "GCOM-W1 / AMSR2",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AMSR2_Surface_Rain_Rate_Day",
+                        "AMSR2_Surface_Rain_Rate_Night",
+                        "GCOM_W1_Orbit_Asc",
+                        "GCOM_W1_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

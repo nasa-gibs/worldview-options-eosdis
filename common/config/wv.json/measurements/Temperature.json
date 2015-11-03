@@ -1,0 +1,31 @@
+{
+    "measurements": {
+        "Temperature": {
+            "id": "temperature",
+            "title":    "Temperature",
+            "subtitle": "Aqua / AIRS",
+            "sources": {
+                "Aqua/AIRS": {
+                    "id": "aqua-airs",
+                    "title": "Aqua / AIRS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AIRS_Temperature_400hPa_Day",
+                        "AIRS_Temperature_400hPa_Night",
+                        "AIRS_Temperature_500hPa_Day",
+                        "AIRS_Temperature_500hPa_Night",
+                        "AIRS_Temperature_600hPa_Day",
+                        "AIRS_Temperature_600hPa_Night",
+                        "AIRS_Temperature_700hPa_Day",
+                        "AIRS_Temperature_700hPa_Night",
+                        "AIRS_Temperature_850hPa_Day",
+                        "AIRS_Temperature_850hPa_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

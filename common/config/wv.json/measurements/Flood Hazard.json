@@ -1,0 +1,38 @@
+{
+    "measurements": {
+        "Flood Hazard": {
+            "id": "flood-hazard",
+            "title":    "Flood Hazard",
+            "subtitle": "Frequency and Distribution, Mortality Risks, Proportional Economic Loss Risk Deciles",
+            "sources": {
+                "Frequency and Distribution": {
+                    "id": "frequency-distribution",
+                    "title": "Frequency and Distribution",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-flood-hazard-frequency-distribution"
+                    ]
+                },
+                "Mortality Risks": {
+                    "id": "mortality-risks",
+                    "title": "Mortality Risks",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-flood-mortality-risks-distribution"
+                    ]
+                },
+                "Proportional Economic Loss Risk Deciles": {
+                    "id": "proportional-economic-loss-risk-deciles",
+                    "title": "Proportional Economic Loss Risk Deciles",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-flood-proportional-economic-loss-risk-deciles"
+                    ]
+                }
+            }
+        }
+    }
+}

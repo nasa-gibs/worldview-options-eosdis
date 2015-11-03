@@ -3,10 +3,11 @@
         "scientific": {
             "Spectral/Engineering": {
                 "title": "Spectral/Engineering",
-                "id": "spectral_engineering",
+                "id": "spectral-engineering",
                 "description": "",
                 "measurements": [
-                    
+                    "Brightness Temperature",
+                    "Brightness Temperature for Sea Ice"
                 ]
             }
         }

@@ -1,0 +1,20 @@
+{
+    "measurements": {
+        "Power Plants, Nuclear": {
+            "id": "power-plants-nuclear",
+            "title":    "Power Plants, Nuclear",
+            "subtitle": "SEDAC",
+            "sources": {
+                "SEDAC": {
+                    "id": "sedac",
+                    "title": "SEDAC",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "energy-pop-exposure-nuclear-plants-locations_plants"
+                    ]
+                }
+            }
+        }
+    }
+}

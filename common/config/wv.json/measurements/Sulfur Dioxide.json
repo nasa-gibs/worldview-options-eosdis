@@ -1,0 +1,46 @@
+{
+    "measurements": {
+        "Sulfur Dioxide": {
+            "id": "sulfur-dioxide",
+            "title":    "Sulfur Dioxide",
+            "subtitle": "",
+            "sources": {
+                "Aqua/AIRS": {
+                    "id": "aqua-airs",
+                    "title": "Aqua / AIRS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AIRS_Prata_SO2_Index_Day",
+                        "AIRS_Prata_SO2_Index_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Aura/MLS": {
+                    "id": "aura-mls",
+                    "title": "Aura / MLS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MLS_SO2_147hPa_Day",
+                        "MLS_SO2_147hPa_Night",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc"
+                    ]
+                },
+                "Aura/OMI": {
+                    "id": "aura-omi",
+                    "title": "Aura / OMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "OMI_SO2_Lower_Troposphere",
+                        "OMI_SO2_Middle_Troposphere",
+                        "OMI_SO2_Upper_Troposphere_and_Stratosphere"
+                    ]
+                }
+            }
+        }
+    }
+}

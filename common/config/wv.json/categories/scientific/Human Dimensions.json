@@ -3,10 +3,19 @@
         "scientific": {
             "Human Dimensions": {
                 "title": "Human Dimensions",
-                "id": "human_dimensions",
+                "id": "human-dimensions",
                 "description": "",
                 "measurements": [
-                    
+                    "Cyclone Hazard",
+                    "Dams",
+                    "Drought Hazard",
+                    "Population Density",
+                    "Power Plants, Nuclear",
+                    "Reservoirs",
+                    "Settlements",
+                    "Urban Extents",
+                    "Urban Rural Extents in the 10m Low Elevation Zone",
+                    "Volcano Hazard"
                 ]
             }
         }

@@ -10,8 +10,10 @@
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
-                    "Carbon Monoxide, Total Column"
-                    
+                    "Carbon Monoxide",
+                    "Corrected Reflectance",
+                    "Fires and Thermal Anomalies",
+                    "Sulfur Dioxide"
                 ]
             }
         }

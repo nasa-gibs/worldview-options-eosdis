@@ -2,25 +2,19 @@
     "measurements": {
         "Brightness Temperature for Sea Ice": {
             "id": "brightness-temperature-sea-ice",
-            "title":    "Brightness Temperature for Sea Ice",
-            "subtitle": "89H GHz B Scan, 89V GHz B Scan",
+            "title":    "Sea Ice Brightness Temperature",
+            "subtitle": "Aqua / AMSR-E",
             "sources": {
-                "89H GHz B Scan": {
-                    "id": "89h-ghz-b-scan",
-                    "title": "89H GHz B Scan",
+                "Aqua/AMSR-E": {
+                    "id": "aqua-amsr-e",
+                    "title": "Aqua / AMSR-E",
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "AMSRE_Sea_Ice_Brightness_Temp_89H"
-                    ]
-                },
-                "89V GHz B Scan": {
-                    "id": "89v-ghz-b-scan",
-                    "title": "89V GHz B Scan",
-                    "description": "no description",
-                    "image": "",
-                    "settings": [
-                        "AMSRE_Sea_Ice_Brightness_Temp_89V"
+                        "AMSRE_Sea_Ice_Brightness_Temp_89H",
+                        "AMSRE_Sea_Ice_Brightness_Temp_89V",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
                     ]
                 }
             }

@@ -1,28 +1,32 @@
 {
     "measurements": {
-        "Carbon Monoxide, Total Column": {
-            "id": "carbon-monoxide-total-column",
-            "title":    "Carbon Monoxide, Total Column",
+        "Carbon Monoxide": {
+            "id": "carbon-monoxide",
+            "title":    "Carbon Monoxide",
             "subtitle": "Aqua/AIRS, Aura/MLS",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
-                    "title": "Aqua/AIRS",
+                    "title": "Aqua / AIRS",
                     "description": "no description",
                     "image": "",
                     "settings": [
                         "AIRS_CO_Total_Column_Day",
-                        "AIRS_CO_Total_Column_Night"
+                        "AIRS_CO_Total_Column_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
                     ]
                 },
                 "Aura/MLS": {
                     "id": "aura-mls",
-                    "title": "Aura/MLS",
+                    "title": "Aura / MLS",
                     "description": "no description",
                     "image": "",
                     "settings": [
                         "MLS_CO_215hPa_Day",
-                        "MLS_CO_215hPa_Night"
+                        "MLS_CO_215hPa_Night",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc"
                     ]
                 }
             }

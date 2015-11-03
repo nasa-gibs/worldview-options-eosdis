@@ -1,0 +1,22 @@
+{
+    "measurements": {
+        "Dust Score": {
+            "id": "dust-score",
+            "title":    "Dust Score",
+            "subtitle": "Aqua / AIRS",
+            "sources": {
+                "Aqua/AIRS": {
+                    "id": "aqua-airs",
+                    "title": "Aqua / AIRS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AIRS_Dust_Score",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

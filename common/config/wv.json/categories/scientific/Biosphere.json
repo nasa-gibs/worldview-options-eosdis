@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "scientific": {
+            "Biosphere": {
+                "title": "Biosphere",
+                "id": "biosphere",
+                "description": "",
+                "measurements": [
+                    "Fires and Thermal Anomalies"
+                ]
+            }
+        }
+    }
+}

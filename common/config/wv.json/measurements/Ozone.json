@@ -1,0 +1,23 @@
+{
+    "measurements": {
+        "Ozone": {
+            "id": "ozone",
+            "title":    "Ozone",
+            "subtitle": "Aura / MLS",
+            "sources": {
+                "Aura/MLS": {
+                    "id": "aura-mls",
+                    "title": "Aura / MLS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MLS_O3_46hPa_Day",
+                        "MLS_O3_46hPa_Night",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}
