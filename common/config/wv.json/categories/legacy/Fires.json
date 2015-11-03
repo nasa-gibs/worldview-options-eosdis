@@ -1,17 +1,21 @@
 {
     "categories": {
         "hazards and disasters": {
-            "Air Quality": {
-                "title": "Air Quality",
-                "id": "air-quality",
+            "Fires": {
+                "title": "Fires",
+                "id": "fires",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
-                    "Carbon Monoxide, Total Column"
-                    
+                    "Carbon Monoxide",
+                    "Corrected Reflectance",
+                    "Fires and Thermal Anomalies",
+                    "Land Surface Reflectance",
+                    "Land Surface Temperature",
+                    "Sulfur Dioxide"
                 ]
             }
         }

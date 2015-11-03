@@ -1,0 +1,23 @@
+{
+    "measurements": {
+        "Soil Moisture": {
+            "id": "soil-moisture",
+            "title":    "soil-moisture",
+            "subtitle": "SMAP / Radiometer",
+            "sources": {
+                "SMAP/Radiometer": {
+                    "id": "smap-radiometer",
+                    "title": "SMAP / Radiometer",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SMAP_L2_Passive_Soil_Moisture_Option1",
+                        "SMAP_L2_Passive_Soil_Moisture_Option2",
+                        "SMAP_L2_Passive_Soil_Moisture_Option3",
+                        "SMAP_L3_Passive_Soil_Moisture"
+                    ]
+                }
+            }
+        }
+    }
+}

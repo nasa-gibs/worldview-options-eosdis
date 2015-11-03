@@ -1,0 +1,21 @@
+{
+    "categories": {
+        "hazards and disasters": {
+            "Floods": {
+                "title": "Floods",
+                "id": "floods",
+                "description": "",
+                "measurements": [
+                    "Corrected Reflectance",
+                    "Land Surface Reflectance",
+                    "Precipitation Estimate",
+                    "Flood Hazard",
+                    "Reservoirs",
+                    "Dams",
+                    "Urban Rural Extents in the 10m Low Elevation Zone",
+                    "Global 250m Water Map"                    
+                ]
+            }
+        }
+    }
+}

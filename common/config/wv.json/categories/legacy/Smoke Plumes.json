@@ -1,17 +1,19 @@
 {
     "categories": {
         "hazards and disasters": {
-            "Atmosphere": {
-                "title": "Atmosphere",
-                "id": "atmosphere",
+            "Smoke Plumes": {
+                "title": "Smoke Plumes",
+                "id": "smoke-plumes",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
-                    "Carbon Monoxide, Total Column"
-                    
+                    "Carbon Monoxide",
+                    "Corrected Reflectance",
+                    "Fires and Thermal Anomalies",
+                    "Land Surface Reflectance"
                 ]
             }
         }

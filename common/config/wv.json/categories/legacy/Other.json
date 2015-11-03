@@ -1,0 +1,29 @@
+{
+    "categories": {
+        "hazards and disasters": {
+            "Other": {
+                "title": "Other",
+                "id": "legacy-other",
+                "description": "",
+                "measurements": [
+                    "Areas of No Data (mask)",
+                    "Brightness Temperature",
+                    "Chlorophyll A",
+                    "Dams",
+                    "Earth at Night 2012",
+                    "Freeze / Thaw",
+                    "Global 250m Water Map",
+                    "Latitude-Longitude Lines",
+                    "Orbital Track",
+                    "Population Density",
+                    "Power Plants, Nuclear",
+                    "Reference Map",
+                    "Reservoirs",
+                    "Sea Surface Temperature",
+                    "Settlements",
+                    "Urban Rural Extents in the 10m Low Elevation Zone"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "measurements": {
+        "Snow Rate": {
+            "id": "snow-rate",
+            "title":    "Snow Rate",
+            "subtitle": "GPM / GMI",
+            "sources": {
+                "GPM/GMI": {
+                    "id": "gpm-gmi",
+                    "title": "GPM / GMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "GMI_Snow_Rate_Asc",
+                        "GMI_Snow_Rate_Dsc",
+                        "GPM_Orbit_Asc",
+                        "GPM_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

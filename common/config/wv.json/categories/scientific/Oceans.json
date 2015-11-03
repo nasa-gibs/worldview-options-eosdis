@@ -6,7 +6,13 @@
                 "id": "oceans",
                 "description": "",
                 "measurements": [
-                    
+                    "Chlorophyll A",
+                    "Forests, Mangrove",
+                    "Sea Ice Concentration",
+                    "Sea Surface Temperature",
+                    "Snow Depth Over Ice",
+                    "Urban Rural Extents in the 10m Low Elevation Zone",
+                    "Wind Speed"
                 ]
             }
         }

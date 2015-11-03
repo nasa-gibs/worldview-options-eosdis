@@ -1,0 +1,20 @@
+{
+    "measurements": {
+        "Population Density": {
+            "id": "population-density",
+            "title": "Population Density",
+            "subtitle": "SEDAC",
+            "sources": {
+                "SEDAC": {
+                    "id": "sedac",
+                    "title": "SEDAC",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "grump-v1-population-count_2000"
+                    ]
+                }
+            }
+        }
+    }
+}

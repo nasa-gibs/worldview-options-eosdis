@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "scientific": {
+            "Other": {
+                "title": "Other",
+                "id": "scientific-other",
+                "description": "",
+                "measurements": [
+                    "Areas of No Data (mask)",
+                    "Earth at Night 2012",
+                    "Latitude-Longitude Lines",
+                    "Orbital Track",
+                    "Reference Map"
+                ]
+            }
+        }
+    }
+}

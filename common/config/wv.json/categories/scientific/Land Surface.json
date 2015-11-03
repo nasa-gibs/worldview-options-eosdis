@@ -3,10 +3,15 @@
         "scientific": {
             "Land Surface": {
                 "title": "Land Surface",
-                "id": "land_surface",
+                "id": "land-surface",
                 "description": "",
                 "measurements": [
-                    
+                    "Blue Marble",
+                    "Corrected Reflectance",
+                    "Global Digital Elevation Map",
+                    "Land Surface Reflectance",
+                    "Land Surface Temperature",
+                    "Fires and Thermal Anomalies"
                 ]
             }
         }

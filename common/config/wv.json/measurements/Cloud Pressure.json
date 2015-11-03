@@ -1,0 +1,21 @@
+{
+    "measurements": {
+        "Cloud Pressure": {
+            "id": "cloud-pressure",
+            "title":    "Cloud Pressure",
+            "subtitle": "Aura/OMI",
+            "sources": {
+                "Aura/OMI": {
+                    "id": "aura-omi",
+                    "title": "Aura/OMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "OMI_Cloud_Pressure",
+                        "Aura_Orbit_Asc"
+                    ]
+                }
+            }
+        }
+    }
+}

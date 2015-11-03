@@ -11,7 +11,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "OMI_Aerosol_Optical_Depth"
+                        "OMI_Aerosol_Optical_Depth",
+                        "Aura_Orbit_Asc"
                     ]
                 },
                 "Aqua/MODIS": {
@@ -20,7 +21,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Aerosol"
+                        "MODIS_Aqua_Aerosol",
+                        "Aqua_Orbit_Asc"
                     ]
                 },
                 "Terra/MODIS": {
@@ -29,7 +31,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Aerosol"
+                        "MODIS_Terra_Aerosol",
+                        "Terra_Orbit_Dsc"
                     ]
                 }
             }

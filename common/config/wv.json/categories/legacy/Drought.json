@@ -1,0 +1,20 @@
+{
+    "categories": {
+        "hazards and disasters": {
+            "Drought": {
+                "title": "Drought",
+                "id": "drought",
+                "description": "",
+                "measurements": [
+                    "Corrected Reflectance",
+                    "Dams",
+                    "Drought Hazard",
+                    "Land Surface Reflectance",
+                    "Precipitation Estimate",
+                    "Reservoirs",
+                    "Snow Cover"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "measurements": {
+        "Drought Hazard": {
+            "id": "drought-hazard",
+            "title":    "Drought Hazard",
+            "subtitle": "",
+            "sources": {
+                "Frequency and Distribution": {
+                    "id": "frequency-distribution",
+                    "title": "Frequency and Distribution",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-drought-hazard-frequency-distribution"
+                    ]
+                },
+                "Mortality Risks": {
+                    "id": "mortality-risks",
+                    "title": "Mortality Risks",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-drought-mortality-risks-distribution"
+                    ]
+                },
+                "Proportional Economic Loss Risk Deciles": {
+                    "id": "proportional-economic-loss-risk-deciles",
+                    "title": "Proportional Economic Loss Risk Deciles",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "ndh-drought-proportional-economic-loss-risk-deciles"
+                    ]
+                }
+            }
+        }
+    }
+}

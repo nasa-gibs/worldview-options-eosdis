@@ -11,7 +11,9 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Chlorophyll_A"
+                        "MODIS_Aqua_Chlorophyll_A",
+                        "Aqua_Orbit_Asc"
+
                     ]
                 },
                 "Terra/MODIS": {
@@ -20,7 +22,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Chlorophyll_A"
+                        "MODIS_Terra_Chlorophyll_A",
+                        "Terra_Orbit_Dsc"
                     ]
                 }
             }

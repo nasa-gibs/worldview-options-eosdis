@@ -1,0 +1,23 @@
+{
+    "categories": {
+        "hazards and disasters": {
+            "Severe Storms": {
+                "title": "Severe Storms",
+                "id": "severe-storms",
+                "description": "",
+                "measurements": [                    
+                    "Cloud Pressure",
+                    "Cloud Top Pressure",
+                    "Cloud Top Temperature",
+                    "Corrected Reflectance",
+                    "Cyclone Hazard",
+                    "Flood Hazard",
+                    "Precipitation Estimate",
+                    "Relative Humidity",
+                    "Temperature",
+                    "Water Vapor"
+                ]
+            }
+        }
+    }
+}

@@ -10,8 +10,24 @@
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
-                    "Carbon Monoxide, Total Column"
-                    
+                    "Carbon Monoxide",
+                    "Cloud Liquid Water, Columnar",
+                    "Cloud Top Pressure",
+                    "Cloud Top Temperature",
+                    "Cyclone Hazard",
+                    "Drought Hazard",
+                    "Nitric Acid",
+                    "Nitrous Oxide",
+                    "Ozone",
+                    "Precipitation Estimate",
+                    "Rain Rate",
+                    "Snow Rate",
+                    "Surface Precipitation Rate",
+                    "Surface Rain Rate",
+                    "Sulfur Dioxide",
+                    "Relative Humidity",
+                    "Temperature",
+                    "Water Vapor"
                 ]
             }
         }

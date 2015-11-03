@@ -1,0 +1,23 @@
+{
+    "measurements": {
+        "Rain Rate": {
+            "id": "rain-rate",
+            "title":    "Rain Rate",
+            "subtitle": "GPM / GMI",
+            "sources": {
+                "GPM/GMI": {
+                    "id": "gpm-gmi",
+                    "title": "GPM / GMI",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "GMI_Rain_Rate_Asc",
+                        "GMI_Rain_Rate_Dsc",
+                        "GPM_Orbit_Asc",
+                        "GPM_Orbit_Dsc"
+                    ]
+                }
+            }
+        }
+    }
+}

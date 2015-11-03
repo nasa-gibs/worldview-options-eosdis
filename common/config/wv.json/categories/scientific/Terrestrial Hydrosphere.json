@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "scientific": {
+            "Terrestrial Hydrosphere": {
+                "title": "Terrestrial Hydrosphere",
+                "id": "terrestrial-hydrosphere",
+                "description": "",
+                "measurements": [
+                    "Flood Hazard",
+                    "Freeze / Thaw",
+                    "Global 250m Water Map",
+                    "Sea Ice",
+                    "Snow Cover",
+                    "Snow Water Equivalent"
+                ]
+            }
+        }
+    }
+}

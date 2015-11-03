@@ -1,9 +1,9 @@
 {
     "measurements": {
         "Reference Map": {
-            "id": "reference_map",
+            "id": "Reference Map",
             "title":    "Reference Map",
-            "subtitle": "OpenStreetMap.org, SCAR Antarctic Digital Database",
+            "subtitle": "OpenStreetMap.org",
             "multichoice": true,
             "sources": {
                 "OpenStreetMap.org": {

@@ -1,0 +1,35 @@
+{
+    "measurements": {
+        "Land Surface Temperature": {
+            "id": "land-surface-temperature",
+            "title":    "Land Surface Temperature",
+            "subtitle": "Aqua / MODIS, Terra / MODIS",
+            "sources": {
+                "Aqua/MODIS": {
+                    "id": "aqua-modis",
+                    "title": "Aqua / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Land_Surface_Temp_Day",
+                        "MODIS_Aqua_Land_Surface_Temp_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "id": "terra-modis",
+                    "title": "Terra / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Land_Surface_Temp_Day",
+                        "MODIS_Terra_Land_Surface_Temp_Night",
+                        "Terra_Orbit_Dsc",
+                        "Terra_Orbit_Asc"
+                    ]
+                }
+            }
+        }
+    }
+}
