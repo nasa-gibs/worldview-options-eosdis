@@ -4,6 +4,7 @@
             "Land Surface": {
                 "title": "Land Surface",
                 "id": "land-surface",
+                "image": "land-surface.jpg",
                 "description": "",
                 "measurements": [
                     "Blue Marble",

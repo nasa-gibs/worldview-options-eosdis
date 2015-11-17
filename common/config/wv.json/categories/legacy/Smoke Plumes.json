@@ -4,6 +4,7 @@
             "Smoke Plumes": {
                 "title": "Smoke Plumes",
                 "id": "smoke-plumes",
+                "image": "smoke-plumes.jpg",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

@@ -4,6 +4,7 @@
             "Shipping": {
                 "title": "Shipping",
                 "id": "shipping",
+                "image": "shipping.jpg",
                 "description": "",
                 "measurements": [
                     "Brightness Temperature",

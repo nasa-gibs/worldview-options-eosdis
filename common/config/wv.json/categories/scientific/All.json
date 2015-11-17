@@ -4,6 +4,7 @@
             "All": {
                 "title": "All",
                 "id": "scientific-all",
+                "placement": "first",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

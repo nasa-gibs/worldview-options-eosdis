@@ -4,6 +4,7 @@
             "Vegetation": {
                 "title": "Vegetation",
                 "id": "vegetation",
+                "image": "vegetation.jpg",
                 "description": "",
                 "measurements": [
                     "Corrected Reflectance",

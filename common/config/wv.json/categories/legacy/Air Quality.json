@@ -4,6 +4,7 @@
             "Air Quality": {
                 "title": "Air Quality",
                 "id": "air-quality",
+                "image": "air-quality.jpg",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

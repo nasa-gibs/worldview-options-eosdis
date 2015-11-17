@@ -4,6 +4,7 @@
             "Dust Storms": {
                 "title": "Dust Storms",
                 "id": "dust-storms",
+                "image": "dust-storms.jpg",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

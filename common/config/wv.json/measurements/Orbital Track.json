@@ -3,24 +3,64 @@
         "Orbital Track": {
             "id": "orbital-track",
             "title":    "Orbital Track",
-            "subtitle": "Space-Track.org",
+            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1",
             "sources": {
-                "Space-Track.org": {
+                "Space-Track.org / Terra": {
                     "id": "space-track-org",
-                    "title": "Space-Track.org",
+                    "title": "Space-Track.org / Terra",
                     "description": "no description",
                     "image": "",
                     "settings": [
                         "Terra_Orbit_Asc",
-                        "Terra_Orbit_Dsc",
+                        "Terra_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / Aqua": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org / Aqua",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
                         "Aqua_Orbit_Asc",
-                        "Aqua_Orbit_Dsc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / Aura": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org / Aura",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
                         "Aura_Orbit_Asc",
-                        "Aura_Orbit_Dsc",
+                        "Aura_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / CALIPSO": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org / CALIPSO",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
                         "Calipso_Orbit_Asc",
-                        "Calipso_Orbit_Dsc",
+                        "Calipso_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / GPM": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org / GPM",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
                         "GPM_Orbit_Asc",
-                        "GPM_Orbit_Dsc",
+                        "GPM_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / GCOM-W1": {
+                    "id": "space-track-org",
+                    "title": "Space-Track.org / GCOM-W1",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]

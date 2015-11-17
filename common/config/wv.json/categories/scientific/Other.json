@@ -4,6 +4,7 @@
             "Other": {
                 "title": "Other",
                 "id": "scientific-other",
+                "placement": "last",
                 "description": "",
                 "measurements": [
                     "Areas of No Data (mask)",

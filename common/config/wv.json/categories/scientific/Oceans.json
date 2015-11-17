@@ -4,6 +4,7 @@
             "Oceans": {
                 "title": "Oceans",
                 "id": "oceans",
+                "image": "oceans.jpg",
                 "description": "",
                 "measurements": [
                     "Chlorophyll A",

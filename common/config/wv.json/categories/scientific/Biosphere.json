@@ -4,6 +4,7 @@
             "Biosphere": {
                 "title": "Biosphere",
                 "id": "biosphere",
+                "image": "biosphere.jpg",
                 "description": "",
                 "measurements": [
                     "Fires and Thermal Anomalies"

@@ -4,6 +4,7 @@
             "Cryosphere": {
                 "title": "Cryosphere",
                 "id": "cryosphere",
+                "image": "cryosphere.jpg",
                 "description": "",
                 "measurements": [
                     "Freeze / Thaw",

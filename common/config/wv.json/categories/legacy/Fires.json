@@ -4,6 +4,7 @@
             "Fires": {
                 "title": "Fires",
                 "id": "fires",
+                "image": "fires.jpg",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

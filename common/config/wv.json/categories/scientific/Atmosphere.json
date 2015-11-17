@@ -4,6 +4,7 @@
             "Atmosphere": {
                 "title": "Atmosphere",
                 "id": "atmosphere",
+                "image": "atmosphere.jpg",
                 "description": "",
                 "measurements": [
                     "Aerosol Index",

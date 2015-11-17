@@ -5,6 +5,7 @@
                 "title": "Ash Plumes",
                 "id": "ash-plumes",
                 "description": "",
+                "image": "ash-plumes.jpg",
                 "measurements": [
                     "Corrected Reflectance",
                     "Land Surface Reflectance",

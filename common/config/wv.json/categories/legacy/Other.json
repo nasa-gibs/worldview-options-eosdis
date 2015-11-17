@@ -3,6 +3,7 @@
         "hazards and disasters": {
             "Other": {
                 "title": "Other",
+                "placement": "last",
                 "id": "legacy-other",
                 "description": "",
                 "measurements": [

@@ -4,6 +4,7 @@
             "Severe Storms": {
                 "title": "Severe Storms",
                 "id": "severe-storms",
+                "image": "severe-storms.jpg",
                 "description": "",
                 "measurements": [                    
                     "Cloud Pressure",

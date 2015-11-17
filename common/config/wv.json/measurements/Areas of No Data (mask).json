@@ -2,7 +2,7 @@
     "measurements": {
         "Areas of No Data (mask)": {
             "id": "no-data",
-            "title":    "Areas of Na Data (mask)",
+            "title":    "Areas of No Data (mask)",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
