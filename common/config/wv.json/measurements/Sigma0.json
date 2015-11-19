@@ -2,7 +2,7 @@
     "measurements": {
         "Sigma0": {
             "id": "sigma0",
-            "title":    "sigma0",
+            "title":    "Sigma0",
             "subtitle": "SMAP / Radar",
             "sources": {
                 "SMAP/Radar": {

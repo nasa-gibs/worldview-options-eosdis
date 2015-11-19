@@ -3,7 +3,7 @@
         "Sulfur Dioxide": {
             "id": "sulfur-dioxide",
             "title":    "Sulfur Dioxide",
-            "subtitle": "",
+            "subtitle": "Aqua / AIRS, Aura / MLS, Aura / OMI",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",

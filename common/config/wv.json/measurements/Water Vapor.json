@@ -3,7 +3,7 @@
         "Water Vapor": {
             "id": "water-vapor",
             "title":    "Water Vapor",
-            "subtitle": "",
+            "subtitle": "Aqua / MODIS, Aura / MLS, Terra / MODIS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",

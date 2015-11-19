@@ -3,32 +3,16 @@
         "Blue Marble": {
             "id": "blue-marble",
             "title":    "Blue Marble",
-            "subtitle": "Standard, Shaded Relief, Shaded Relief and Bathymetry",
+            "subtitle": "MODIS / NASA EO",
             "sources": {
-                "Standard": {
-                    "id": "standard",
-                    "title": "Standard",
+                "MODIS/NASAEO": {
+                    "id": "modis-nasaeo",
+                    "title": "MODIS / NASA EO",
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "BlueMarble_NextGeneration"
-                    ]
-                },
-                "Shaded Relief": {
-                    "id": "shaded-relief",
-                    "title": "Shaded Relief",
-                    "description": "no description",
-                    "image": "",
-                    "settings": [
-                        "BlueMarble_ShadedRelief"
-                    ]
-                },
-                "Shaded Relief and Bathymetry": {
-                    "id": "shaded-relief-bathymetry",
-                    "title": "Shaded Relief and Bathymetry",
-                    "description": "no description",
-                    "image": "",
-                    "settings": [
+                        "BlueMarble_NextGeneration",
+                        "BlueMarble_ShadedRelief",
                         "BlueMarble_ShadedRelief_Bathymetry"
                     ]
                 }

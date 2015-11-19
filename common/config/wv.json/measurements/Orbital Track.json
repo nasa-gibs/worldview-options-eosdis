@@ -6,7 +6,7 @@
             "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1",
             "sources": {
                 "Space-Track.org / Terra": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-terra",
                     "title": "Space-Track.org / Terra",
                     "description": "no description",
                     "image": "",
@@ -16,7 +16,7 @@
                     ]
                 },
                 "Space-Track.org / Aqua": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-aqua",
                     "title": "Space-Track.org / Aqua",
                     "description": "no description",
                     "image": "",
@@ -26,7 +26,7 @@
                     ]
                 },
                 "Space-Track.org / Aura": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-aura",
                     "title": "Space-Track.org / Aura",
                     "description": "no description",
                     "image": "",
@@ -36,7 +36,7 @@
                     ]
                 },
                 "Space-Track.org / CALIPSO": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-calipso",
                     "title": "Space-Track.org / CALIPSO",
                     "description": "no description",
                     "image": "",
@@ -46,7 +46,7 @@
                     ]
                 },
                 "Space-Track.org / GPM": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-gpm",
                     "title": "Space-Track.org / GPM",
                     "description": "no description",
                     "image": "",
@@ -56,7 +56,7 @@
                     ]
                 },
                 "Space-Track.org / GCOM-W1": {
-                    "id": "space-track-org",
+                    "id": "space-track-org-gcom",
                     "title": "Space-Track.org / GCOM-W1",
                     "description": "no description",
                     "image": "",

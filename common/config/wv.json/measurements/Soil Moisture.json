@@ -2,7 +2,7 @@
     "measurements": {
         "Soil Moisture": {
             "id": "soil-moisture",
-            "title":    "soil-moisture",
+            "title":    "Soil Moisture",
             "subtitle": "SMAP / Radiometer",
             "sources": {
                 "SMAP/Radiometer": {
