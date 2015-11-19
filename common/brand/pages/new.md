@@ -1,17 +1,10 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.9
-
-## New Features
-
-* Added capability to support 30m/px imagery
-* Added ASTER GDEM Layers: Color Index, Color Shaded Relief, and Greyscale Shaded Relief
-* Added a UI indicator and tooltip per layer to show when a layer is overzoomed
-* Added SMAP L2/L3 Passive layers
+# Version 0.8.10
 
 ## Updates
 
-* Due to the base url change for shortened links, a (?) tooltip now exists to help users to migrate their saved links.
+* Fixed a bug where data download results were not being filled in fully
 
 ## Known Issues
 
@@ -25,6 +18,21 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 0.8.9
+
+## New Features
+
+* Added capability to support 30m/px imagery
+* Added ASTER GDEM Layers: Color Index, Color Shaded Relief, and Greyscale Shaded Relief
+* Added a UI indicator and tooltip per layer to show when a layer is overzoomed
+* Added SMAP L2/L3 Passive layers
+
+## Updates
+
+* Due to the base url change for shortened links, a (?) tooltip now exists to help users to migrate their saved links.
 
 ---
 
