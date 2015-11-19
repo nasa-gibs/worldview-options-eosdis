@@ -1,7 +1,7 @@
 {
     "measurements": {
         "Freeze / Thaw": {
-            "id": "Freeze / Thaw",
+            "id": "freeze-thaw",
             "title":    "Freeze / Thaw",
             "subtitle": "Aqua / AMSR-E, DMSP / SSMI",
             "sources": {
