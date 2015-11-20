@@ -3,7 +3,7 @@
         "Drought Hazard": {
             "id": "drought-hazard",
             "title":    "Drought Hazard",
-            "subtitle": "",
+            "subtitle": "SEDAC",
             "sources": {
                 "SEDAC": {
                     "id": "sedac",
