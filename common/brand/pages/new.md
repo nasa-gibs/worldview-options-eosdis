@@ -1,10 +1,23 @@
 <input type="hidden" autofocus>
 
-# Version 0.8.10
+# Version 0.9.0
+
+## New Features
+
+* New product picker
+** All layers are now ordered by measurement, then source (or instrument).
+** Categories and Metacategories organize measurements.
+** Related Orbital Tracks option now present when adding layers.
+** Add Layers button added to the bottom of the Active Layers tab.
+** Space created for adding Metadata to products.
 
 ## Updates
 
-* Fixed a bug where data download results were not being filled in fully
+* The Active Layers and Data Download windows' height is now correctly calculated.
+* Base Layers and Overlays are now one scrollable window instead of two.
+* Overlays placement has switched with Base Layers to reflect the map's layer order.
+* Download Selected Data button moved to the bottom of the Data Download tab window.
+* Tour updates.
 
 ## Known Issues
 
@@ -18,6 +31,13 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+---
+
+# Version 0.8.10
+
+## Updates
+
+* Fixed a bug where data download results were not being filled in fully
 
 ---
 
