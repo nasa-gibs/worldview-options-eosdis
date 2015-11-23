@@ -7,13 +7,13 @@
                 "image": "fires.jpg",
                 "description": "",
                 "measurements": [
+                    "Fires and Thermal Anomalies",
                     "Aerosol Index",
                     "Aerosol Optical Depth",
                     "Aerosol Optical Depth, Value Added",
                     "Aerosol Optical Depth, Absorbing",
                     "Carbon Monoxide",
                     "Corrected Reflectance",
-                    "Fires and Thermal Anomalies",
                     "Land Surface Reflectance",
                     "Land Surface Temperature",
                     "Sulfur Dioxide"

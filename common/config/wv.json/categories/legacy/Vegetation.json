@@ -8,9 +8,9 @@
                 "description": "",
                 "measurements": [
                     "Corrected Reflectance",
-                    "Land Surface Reflectance",                    
-                    "Fires and Thermal Anomalies",
+                    "Land Surface Reflectance",
                     "Forests, Mangrove",
+                    "Freeze / Thaw",
                     "Land Surface Temperature",
                     "Snow Cover"
                 ]
