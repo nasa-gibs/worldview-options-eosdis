@@ -4,12 +4,12 @@
 
 ## New Features
 
-* New product picker
-** All layers are now ordered by measurement, then source (or instrument).
-** Categories and Metacategories organize measurements.
-** Related Orbital Tracks option now present when adding layers.
-** Add Layers button added to the bottom of the Active Layers tab.
-** Space created for adding Metadata to products.
+* New product picker has replaced the Add Layers tab:
+* All layers are now ordered by measurement, then source (or instrument).
+* Categories and Metacategories organize measurements.
+* Related Orbital Tracks option now present when adding layers.
+* Add Layers button added to the bottom of the Active Layers tab.
+* Space created for adding Metadata to products.
 
 ## Updates
 
