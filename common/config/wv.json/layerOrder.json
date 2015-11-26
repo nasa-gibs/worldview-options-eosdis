@@ -1,5 +1,8 @@
 {
     "layerOrder": [
+        "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+        "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
+        "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
         "MODIS_Terra_CorrectedReflectance_TrueColor",
         "MODIS_Aqua_CorrectedReflectance_TrueColor",
         "MODIS_Terra_SurfaceReflectance_Bands143",
@@ -17,6 +20,8 @@
         "VIIRS_CityLights_2012",
         "Land_Water_Map",
 
+		"VIIRS_SNPP_Fires_375m_Day",
+		"VIIRS_SNPP_Fires_375m_Night",
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
         "MODIS_Combined_Value_Added_AOD",

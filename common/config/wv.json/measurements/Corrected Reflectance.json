@@ -3,7 +3,7 @@
         "Corrected Reflectance": {
             "id": "corrected-reflectance",
             "title":    "Corrected Reflectance",
-            "subtitle": "Aqua / MODIS, Terra / MODIS",
+            "subtitle": "Aqua / MODIS, Terra / MODIS, Suomi NPP / VIIRS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
@@ -27,6 +27,17 @@
                         "MODIS_Terra_CorrectedReflectance_Bands721",
                         "Terra_Orbit_Dsc"
                     ]
+                },
+                "S-NPP/VIIRS": {
+                	"id": "snpp-viirs",
+                	"title": "Suomi NPP / VIIRS",
+                	"description": "no description",
+                	"image": "",
+                	"settings": [
+                		"VIIRS_SNPP_CorrectedReflectance_TrueColor",
+                		"VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
+                		"VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11"
+                		]
                 }
             }
         }
