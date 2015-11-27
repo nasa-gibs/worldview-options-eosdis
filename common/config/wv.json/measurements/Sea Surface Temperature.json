@@ -3,7 +3,7 @@
         "Sea Surface Temperature": {
             "id": "sea-surface-temperature",
             "title":    "Sea Surface Temperature",
-            "subtitle": "PODAAC / MODIS / Terra and Aqua",
+            "subtitle": "PODAAC / MODIS / Terra and Aqua / GHRSST",
             "sources": {
                 "PODAAC": {
                     "id": "podaac",
@@ -12,6 +12,16 @@
                     "image": "",
                     "settings": [
                         "Sea_Surface_Temp_Infrared"
+                    ]
+                },
+                "GHRSST": {
+                    "id": "ghrsst",
+                    "title": "GHRSST",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "GHRSST_L4_G1SST_Sea_Surface_Temperature",
+                        "GHRSST_L4_MUR_Sea_Surface_Temperature"
                     ]
                 }
             }

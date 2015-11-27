@@ -2,15 +2,15 @@
     "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
-            "from": "https://map1.vis.earthdata.nasa.gov/wmts-geo/wmts.cgi?request=GetCapabilities",
+            "from": "http://map1.vis.earthdata.nasa.gov/wmts-geo/wmts.cgi?request=GetCapabilities",
             "to": "gibs-geographic.xml"
         },
         {
-            "from": "https://map1.vis.earthdata.nasa.gov/wmts-arctic/wmts.cgi?request=GetCapabilities",
+            "from": "http://map1.vis.earthdata.nasa.gov/wmts-arctic/wmts.cgi?request=GetCapabilities",
             "to": "gibs-arctic.xml"
         },
         {
-            "from": "https://map1.vis.earthdata.nasa.gov/wmts-antarctic/wmts.cgi?request=GetCapabilities",
+            "from": "http://map1.vis.earthdata.nasa.gov/wmts-antarctic/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
         }
     ],

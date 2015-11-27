@@ -159,6 +159,8 @@
         "MLS_H2O_46hPa_Night",
         "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE",
         "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI",
+        "GHRSST_L4_G1SST_Sea_Surface_Temperature",
+        "GHRSST_L4_MUR_Sea_Surface_Temperature",
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
         "ASTER_GDEM_Color_Shaded_Relief",

@@ -1,0 +1,12 @@
+{
+    "products": {
+        "GHRSST_L4MUR_LL": {
+            "name": "GHRSST LEVEL 4 MUR GLOBAL SST",
+            "handler": "List",
+            "query": {
+                "shortName": "GHRSST Level 4 MUR Global SST:1"
+            },
+            "version": 0
+        }
+    }
+}
