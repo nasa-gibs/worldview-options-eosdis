@@ -4,7 +4,7 @@
             "name": "GHRSST LEVEL 4 MUR GLOBAL SST",
             "handler": "List",
             "query": {
-                "shortName": "GHRSST Level 4 MUR Global SST:1"
+                "shortName": "JPL-L4UHFND-GLOB-MUR"
             },
             "version": 0
         }
