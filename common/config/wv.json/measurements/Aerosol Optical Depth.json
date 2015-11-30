@@ -20,7 +20,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "no description",
+                    "description": "modis/Aerosol",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Aerosol",
@@ -30,7 +30,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "no description",
+                    "description": "modis/Aerosol",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Aerosol",
