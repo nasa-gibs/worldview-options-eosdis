@@ -3,7 +3,7 @@
         "Brightness Temperature": {
             "id": "brightness-temperature",
             "title":    "Brightness Temperature",
-            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI",
+            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI, SMAP/Radar/Radiometer",
             "sources": {
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
@@ -45,6 +45,16 @@
                     "settings": [
                         "GMI_Brightness_Temp_Asc",
                         "GMI_Brightness_Temp_Dsc"
+                    ]
+                },
+                "SMAP/Radar/Radiometer": {
+                    "id": "smap-radar-radiometer",
+                    "title": "SMAP/Radar/Radiometer",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SMAP_L3_Active_Passive_Brightness_Temp_H",
+				        "SMAP_L3_Active_Passive_Brightness_Temp_V"
                     ]
                 }
             }

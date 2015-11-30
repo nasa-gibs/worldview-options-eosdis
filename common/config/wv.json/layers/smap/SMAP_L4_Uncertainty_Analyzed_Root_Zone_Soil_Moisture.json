@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture": {
+            "id":       "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
+            "title":    "Root Zone Soil Moisture Uncertainty (L4, 12z Instantaneous)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL4SMAU"
+        }
+    }
+}
