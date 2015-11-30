@@ -13,7 +13,7 @@
             "type":     "wms",
 
             "transition":   "true",
-            "startDate":    "2015-11-17",
+            "startDate":    "2015-11-25",
 
             "projections": {
                 "geographic": {
