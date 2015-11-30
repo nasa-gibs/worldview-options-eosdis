@@ -12,6 +12,8 @@
                     "image": "",
                     "settings": [
                         "OMI_Aerosol_Optical_Depth",
+                        "OMI_Absorbing_Aerosol_Optical_Depth",
+                        "OMI_Aerosol_Index",
                         "Aura_Orbit_Asc"
                     ]
                 },
@@ -33,6 +35,15 @@
                     "settings": [
                         "MODIS_Terra_Aerosol",
                         "Terra_Orbit_Dsc"
+                    ]
+                },
+                "Aqua and Terra/MODIS": {
+                    "id": "aqua-terra-modis",
+                    "title": "Aqua and Terra/MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Combined_Value_Added_AOD"
                     ]
                 }
             }

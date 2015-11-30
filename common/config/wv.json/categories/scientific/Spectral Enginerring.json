@@ -6,8 +6,7 @@
                 "id": "spectral-engineering",
                 "description": "",
                 "measurements": [
-                    "Brightness Temperature",
-                    "Brightness Temperature for Sea Ice"
+                    "Brightness Temperature"
                 ]
             }
         }

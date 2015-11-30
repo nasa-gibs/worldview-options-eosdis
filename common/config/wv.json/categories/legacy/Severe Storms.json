@@ -8,12 +8,12 @@
                 "description": "",
                 "measurements": [                    
                     "Cloud Pressure",
-                    "Cloud Top Pressure",
                     "Cloud Top Temperature",
                     "Corrected Reflectance",
                     "Cyclone Hazard",
                     "Flood Hazard",
                     "Precipitation Estimate",
+					"Precipitation Rate",
                     "Relative Humidity",
                     "Temperature",
                     "Water Vapor"

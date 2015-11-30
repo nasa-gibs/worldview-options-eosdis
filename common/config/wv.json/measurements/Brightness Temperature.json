@@ -3,7 +3,7 @@
         "Brightness Temperature": {
             "id": "brightness-temperature",
             "title":    "Brightness Temperature",
-            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI",
+            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI, SMAP / Radiometer",
             "sources": {
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
@@ -14,7 +14,11 @@
                         "AMSRE_Brightness_Temp_89H_Day",
                         "AMSRE_Brightness_Temp_89H_Night",
                         "AMSRE_Brightness_Temp_89V_Day",
-                        "AMSRE_Brightness_Temp_89V_Night"
+                        "AMSRE_Brightness_Temp_89V_Night",
+                        "AMSRE_Sea_Ice_Brightness_Temp_89H",
+                        "AMSRE_Sea_Ice_Brightness_Temp_89V",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
                     ]
                 },
                 "Aqua/MODIS": {
@@ -45,6 +49,28 @@
                     "settings": [
                         "GMI_Brightness_Temp_Asc",
                         "GMI_Brightness_Temp_Dsc"
+                    ]
+                },
+                "SMAP/Radiometer": {
+                    "id": "smap-radiometer",
+                    "title": "SMAP / Radiometer",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V_QA",
+                        "SMAP_L3_Passive_Brightness_Temp_H",
+                        "SMAP_L3_Passive_Brightness_Temp_V"
                     ]
                 }
             }

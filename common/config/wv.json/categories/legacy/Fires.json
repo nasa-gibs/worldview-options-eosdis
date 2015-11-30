@@ -8,10 +8,7 @@
                 "description": "",
                 "measurements": [
                     "Fires and Thermal Anomalies",
-                    "Aerosol Index",
                     "Aerosol Optical Depth",
-                    "Aerosol Optical Depth, Value Added",
-                    "Aerosol Optical Depth, Absorbing",
                     "Carbon Monoxide",
                     "Corrected Reflectance",
                     "Land Surface Reflectance",
