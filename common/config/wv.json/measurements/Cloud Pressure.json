@@ -3,8 +3,32 @@
         "Cloud Pressure": {
             "id": "cloud-pressure",
             "title":    "Cloud Pressure",
-            "subtitle": "Aura/OMI",
+            "subtitle": "Aqua / MODIS, Terra / MODIS, Aura/OMI",
             "sources": {
+                "Aqua/MODIS": {
+                    "id": "aqua-modis",
+                    "title": "Aqua / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Aqua_Cloud_Top_Pressure_Day",
+                        "MODIS_Aqua_Cloud_Top_Pressure_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Terra/MODIS": {
+                    "id": "terra-modis",
+                    "title": "Terra / MODIS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Terra_Cloud_Top_Pressure_Day",
+                        "MODIS_Terra_Cloud_Top_Pressure_Night",
+                        "Terra_Orbit_Asc",
+                        "Terra_Orbit_Dsc"
+                    ]
+                },
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",

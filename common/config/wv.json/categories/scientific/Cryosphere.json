@@ -9,11 +9,12 @@
                 "measurements": [
                     "Freeze / Thaw",
                     "Sea Ice",
-                    "Sea Ice Concentration",
                     "Sea Surface Temperature",
                     "Snow Cover",
                     "Snow Depth Over Ice",
-                    "Snow Water Equivalent"
+                    "Snow Mass",
+                    "Snow Water Equivalent",
+                    "Soil Moisture"
                 ]
             }
         }

@@ -10,6 +10,8 @@
                     "Corrected Reflectance",
                     "Land Surface Reflectance",
                     "Precipitation Estimate",
+					"Precipitation Rate",
+					"Soil Moisture",
                     "Flood Hazard",
                     "Reservoirs",
                     "Dams",

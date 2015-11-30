@@ -3,7 +3,7 @@
         "Water Vapor": {
             "id": "water-vapor",
             "title":    "Water Vapor",
-            "subtitle": "Aqua / MODIS, Aura / MLS, Terra / MODIS",
+            "subtitle": "Aqua / MODIS, Aura / MLS, Terra / MODIS, GCOM-W1 / AMSR2",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
@@ -39,6 +39,18 @@
                         "MODIS_Terra_Water_Vapor_5km_Night",
                         "Terra_Orbit_Asc",
                         "Terra_Orbit_Dsc"
+                    ]
+                },
+                "GCOM-W1/AMSR2": {
+                    "id": "gcom-w1-amsr2",
+                    "title": "GCOM-W1 / AMSR2",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AMSR2_Cloud_Liquid_Water_Day",
+                        "AMSR2_Cloud_Liquid_Water_Night",
+                        "GCOM_W1_Orbit_Asc",
+                        "GCOM_W1_Orbit_Dsc"
                     ]
                 }
             }

@@ -14,7 +14,11 @@
                         "AMSRE_Brightness_Temp_89H_Day",
                         "AMSRE_Brightness_Temp_89H_Night",
                         "AMSRE_Brightness_Temp_89V_Day",
-                        "AMSRE_Brightness_Temp_89V_Night"
+                        "AMSRE_Brightness_Temp_89V_Night",
+                        "AMSRE_Sea_Ice_Brightness_Temp_89H",
+                        "AMSRE_Sea_Ice_Brightness_Temp_89V",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
                     ]
                 },
                 "Aqua/MODIS": {
@@ -55,6 +59,28 @@
                     "settings": [
                         "SMAP_L3_Active_Passive_Brightness_Temp_H",
 				        "SMAP_L3_Active_Passive_Brightness_Temp_V"
+				    ]
+				},
+                "SMAP/Radiometer": {
+                    "id": "smap-radiometer",
+                    "title": "SMAP / Radiometer",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V_RFI",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_H_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_H_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Fore_V_QA",
+                        "SMAP_L1_Passive_Brightness_Temp_Aft_V_QA",
+                        "SMAP_L3_Passive_Brightness_Temp_H",
+                        "SMAP_L3_Passive_Brightness_Temp_V"
                     ]
                 }
             }

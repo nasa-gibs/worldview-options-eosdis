@@ -10,7 +10,9 @@
                     "Freeze / Thaw",
                     "Sea Ice",
                     "Snow Cover",
-                    "Snow Water Equivalent"
+                    "Snow Mass",
+                    "Snow Water Equivalent",
+                    "Soil Moisture"
                 ]
             }
         }

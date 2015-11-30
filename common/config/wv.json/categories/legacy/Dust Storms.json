@@ -7,10 +7,7 @@
                 "image": "dust-storms.jpg",
                 "description": "",
                 "measurements": [
-                    "Aerosol Index",
                     "Aerosol Optical Depth",
-                    "Aerosol Optical Depth, Value Added",
-                    "Aerosol Optical Depth, Absorbing",
                     "Corrected Reflectance",
                     "Dust Score"
                 ]

@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L4_Analyzed_Surface_Soil_Moisture": {
+            "id":       "SMAP_L4_Analyzed_Surface_Soil_Moisture",
+            "title":    "Surface Soil Moisture (L4, 12z Instantaneous)",
+            "subtitle": "SMAP / Model Value-Added",
+            "group":    "overlays",
+            "product":  "SPL4SMAU"
+        }
+    }
+}
