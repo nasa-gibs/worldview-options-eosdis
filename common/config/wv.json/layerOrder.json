@@ -100,6 +100,8 @@
         "SMAP_L3_Active_Sigma0_VV_QA",
         "SMAP_L3_Active_Sigma0_XPOL_QA",
         
+        "SMAP_L3_Active_AM_Freeze_Thaw",
+        
         "SMAP_L3_Active_Soil_Moisture",
         "SMAP_L3_Active_Passive_Soil_Moisture",
         "SMAP_L3_Active_Passive_Brightness_Temp_H",
