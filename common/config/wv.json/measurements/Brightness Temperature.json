@@ -24,7 +24,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "no description",
+                    "description": "modis/BrightnessTemperature",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Brightness_Temp_Band31_Day",
@@ -34,7 +34,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "no description",
+                    "description": "modis/BrightnessTemperature",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Brightness_Temp_Band31_Day",
