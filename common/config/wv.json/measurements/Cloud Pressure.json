@@ -32,7 +32,7 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "no description",
+                    "description": "omi/Cloud_Pressure",
                     "image": "",
                     "settings": [
                         "OMI_Cloud_Pressure",
