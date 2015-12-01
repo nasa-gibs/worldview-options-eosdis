@@ -8,7 +8,7 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "no description",
+                    "description": "airs/CO_Total_Column",
                     "image": "",
                     "settings": [
                         "AIRS_CO_Total_Column_Day",
