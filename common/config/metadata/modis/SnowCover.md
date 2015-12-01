@@ -4,4 +4,4 @@ The MODIS Snow Cover layer shows the percent of snow cover over land and inland 
 
 The MODIS Snow Cover product is available from both the Terra (MOD10) and Aqua (MYD10) satellites. The sensor and imagery resolution is 500m, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
-Reference: http://nsidc.org/data/myd10_l2; http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD10C1_M_SNOW
+References: <http://nsidc.org/data/myd10_l2>; <http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD10C1_M_SNOW>
