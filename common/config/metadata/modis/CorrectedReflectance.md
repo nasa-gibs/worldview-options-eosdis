@@ -6,8 +6,9 @@ These images are called true-color or natural color because this combination of 
 
 The MODIS Corrected Reflectance imagery is available only as near real-time imagery. The imagery can be visualized in Worldview, the Global Imagery Browse Services (GIBS) and Rapid Response. The sensor resolution is 500m and 250m (Bands 1 and 2 have a sensor resolution of 250m, Bands 3 – 7 have a sensor resolution of 500m, and Bands 8 - 36 are 1km. Band 1 is used to sharpen Band 3, 4, 6, and 7), imagery resolution is 250m, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
-References: https://earthdata.nasa.gov/faq#ed-rapid-response-faq; 
-http://biodiversityinformatics.amnh.org/interactives/bandcombination.php
+References: <https://earthdata.nasa.gov/faq#ed-rapid-response-faq>; 
+<http://biodiversityinformatics.amnh.org/interactives/bandcombination.php>
+
 # MODIS (Terra/Aqua) Corrected Reflectance (Bands 7,2,1)
 
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
@@ -47,6 +48,6 @@ Liquid water on the ground will appear very dark since it absorbs in the red and
 
 The MODIS Corrected Reflectance algorithm utilizes MODIS Level 1B data (the calibrated, geolocated radiances). It is not a standard, science quality product. The purpose of this algorithm is to provide natural-looking images by removing gross atmospheric effects, such as Rayleigh scattering, from MODIS visible bands 1-7. The algorithm was developed by the original MODIS Rapid Response team to address the needs of the fire monitoring community who want to see smoke. Corrected Reflectance shows smoke more clearly than the standard Surface Reflectance product. In contrast, the MODIS Land Surface Reflectance product (MOD09) is a more complete atmospheric correction algorithm that includes aerosol correction, and is designed to derive land surface properties. In clear atmospheric conditions the Corrected Reflectance product is very similar to the MOD09 product, but they depart from each other in presence of aerosols. If you wish to perform a complete atmospheric correction, please do not use the Corrected Reflectance algorithm. An additional difference is that the Land Surface Reflectance product is only tuned for calculating the reflectance over land surfaces.
 
-Reference: https://earthdata.nasa.gov/sites/default/files/field/document/MODIS_True_Color.pdf 
+References: <https://earthdata.nasa.gov/sites/default/files/field/document/MODIS_True_Color.pdf> 
 
 
