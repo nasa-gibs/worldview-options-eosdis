@@ -4,4 +4,4 @@ The MODIS Land Surface Temperature layer shows the temperature of the land surfa
 
 The MODIS Land Surface Temperature product is available from both Terra (MOD11) and Aqua (MYD11) satellites. The sensor and imagery resolution is 1km, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
-References: http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD11C1_M_LSTDA; http://www.icess.ucsb.edu/modis/modis-lst.html; http://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf ; https://lpdaac.usgs.gov/products/modis_products_table/myd11_l2 ; https://lpdaac.usgs.gov/products/modis_products_table/mod11_l2 
+References: <http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD11C1_M_LSTDA>; <http://www.icess.ucsb.edu/modis/modis-lst.html>; <http://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf>; <https://lpdaac.usgs.gov/products/modis_products_table/myd11_l2>; <https://lpdaac.usgs.gov/products/modis_products_table/mod11_l2> 
