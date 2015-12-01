@@ -32,7 +32,7 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura / OMI",
-                    "description": "no description",
+                    "description": "omi/SO2",
                     "image": "",
                     "settings": [
                         "OMI_SO2_Lower_Troposphere",
