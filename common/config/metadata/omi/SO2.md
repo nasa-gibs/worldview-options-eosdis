@@ -13,4 +13,4 @@ The OMI Sulfur Dioxide (SO2) Upper Troposphere and Stratosphere layer indicates 
 
 The OMI Sulfur Dioxide (SO2) Lower Troposphere layer is a science parameter of the Ozone Monitoring Instrument (OMI) Level 2 Total Column Sulfur Dioxide (OMSO2) dataset, available from the OMI instrument on the Aura satellite. The sensor resolution is 25km, imagery resolution is 2km, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 – present.
 
-References: http://so2.gsfc.nasa.gov/Documentation/OMSO2Readme_V120_20140926.htm
+References: <http://so2.gsfc.nasa.gov/Documentation/OMSO2Readme_V120_20140926.htm>
