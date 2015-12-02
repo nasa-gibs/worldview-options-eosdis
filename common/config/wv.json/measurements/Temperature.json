@@ -8,7 +8,7 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "no description",
+                    "description": "airs/Temperature",
                     "image": "",
                     "settings": [
                         "AIRS_Temperature_400hPa_Day",
