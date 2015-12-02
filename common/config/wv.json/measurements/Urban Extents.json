@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/UrbanExtents",
                     "image": "",
                     "settings": [
                         "grump-v1-urban-extents"
