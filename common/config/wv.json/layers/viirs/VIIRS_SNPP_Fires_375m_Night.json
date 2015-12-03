@@ -2,7 +2,7 @@
     "layers": {
         "VIIRS_SNPP_Fires_375m_Night": {
             "id":       "VIIRS_SNPP_Fires_375m_Night",
-            "title":    "Fires and Thermal Anomalies (Night)",
+            "title":    "Fires and Thermal Anomalies (Night, 375m)",
             "subtitle": "Suomi NPP / VIIRS",
             "tags":     "hotspot",
             "group":    "overlays",
