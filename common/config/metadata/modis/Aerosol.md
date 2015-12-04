@@ -6,4 +6,4 @@ The MODIS Aerosol Optical Depth layer, using the Optical Depth Land And Ocean pa
 
 Note: The algorithm is not applied over sunglint ocean regions or bright (desert) land regions, therefore gaps will occur at those locations. There is a complementary Deep Blue Algorithm for bright land retrievals.
 
-References: <http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MODAL2_M_AER_OD>; <http://modis-atmos.gsfc.nasa.gov/_docs/ATBD_MOD04_C005_rev2.pdf>
+References: [Aerosol Optical Thickness](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MODAL2_M_AER_OD); [ATBD MOD04, C005](http://modis-atmos.gsfc.nasa.gov/_docs/ATBD_MOD04_C005_rev2.pdf)
