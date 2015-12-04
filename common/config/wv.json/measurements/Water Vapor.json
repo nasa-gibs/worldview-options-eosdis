@@ -20,7 +20,7 @@
                 "Aura/MLS": {
                     "id": "aura-mls",
                     "title": "Aura / MLS",
-                    "description": "no description",
+                    "description": "mls/WaterVapor",
                     "image": "",
                     "settings": [
                         "MLS_H2O_46hPa_Day",
