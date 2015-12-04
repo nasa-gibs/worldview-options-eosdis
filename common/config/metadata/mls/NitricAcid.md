@@ -8,4 +8,4 @@ One of the main objectives of the Aura mission in general and MLS in particular 
 
 The MLS Nitric Acid (HNO3) Mixing Ratio at 46hPa layer is derived from the MLS Nitric Acid  (ML2HNO3_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5km, imagery resolution is 2km, temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is May 9, 2013 – present.
 
-References: [MLS - Nitric Acid] (http://mls.jpl.nasa.gov/products/hno3_product.php)
+References: [MLS - HNO3 Product] (http://mls.jpl.nasa.gov/products/hno3_product.php)
