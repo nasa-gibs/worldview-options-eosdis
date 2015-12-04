@@ -9,7 +9,7 @@
                 "OpenStreetMap.org": {
                     "id": "openstreetmap",
                     "title": "OpenStreetMap.org",
-                    "description": "no description",
+                    "description": "other/ReferenceMap",
                     "image": "",
                     "settings": [
                         "Reference_Features",
