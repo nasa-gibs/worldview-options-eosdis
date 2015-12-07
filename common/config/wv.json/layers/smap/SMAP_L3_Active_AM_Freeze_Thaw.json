@@ -5,7 +5,8 @@
             "title":    "Freeze/Thaw (L3, Active, Radar, SMAP)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
-            "product":  "SPL3FTA"
+            "product":  "SPL3FTA",
+            "inactive": true
         }
     }
 }

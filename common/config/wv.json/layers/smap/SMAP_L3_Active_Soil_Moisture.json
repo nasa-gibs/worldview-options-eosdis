@@ -5,7 +5,8 @@
             "title":    "Soil Moisture (L3, Active)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
-            "product":  "SPL3SMA"
+            "product":  "SPL3SMA",
+            "inactive": true
         }
     }
 }

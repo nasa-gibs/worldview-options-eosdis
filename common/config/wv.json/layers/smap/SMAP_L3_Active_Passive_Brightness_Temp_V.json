@@ -5,7 +5,8 @@
             "title":    "Disaggregated Brightness Temperature (L3, Active/Passive, V Polarization)",
             "subtitle": "SMAP / Radar + Radiometer",
             "group":    "overlays",
-            "product":  "SPL3SMAP"
+            "product":  "SPL3SMAP",
+            "inactive": true
         }
     }
 }
