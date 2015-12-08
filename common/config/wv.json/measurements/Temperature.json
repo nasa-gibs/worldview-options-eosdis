@@ -3,12 +3,12 @@
         "Temperature": {
             "id": "temperature",
             "title":    "Temperature",
-            "subtitle": "Aqua / AIRS",
+            "subtitle": "Aqua / AIRS, Aura / MLS",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "airs/Temperature",
+                    "description": "AIRS/Temperature",
                     "image": "",
                     "settings": [
                         "AIRS_Temperature_400hPa_Day",
@@ -23,6 +23,18 @@
                         "AIRS_Temperature_850hPa_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "Aura/MLS": {
+                    "id": "aura-mls",
+                    "title": "Aura / MLS",
+                    "description": "MLS/Temperature",
+                    "image": "",
+                    "settings": [
+                        "MLS_Temperature_46hPa_Day",
+                        "MLS_Temperature_46hPa_Night",
+                        "Aura_Orbit_Asc",
+                        "Aura_Orbit_Dsc"
                     ]
                 }
             }
