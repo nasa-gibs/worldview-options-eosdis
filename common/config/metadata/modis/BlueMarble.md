@@ -13,4 +13,4 @@ The MODIS Blue Marble, Next Generation layer with Shaded Relief and Bathymetry i
 
 The MODIS Blue Marble is a static product. It was created with data from the MODIS instrument on board the Terra satellite. The image resolution is 500km. It can be viewed in Worldview/GIBS. Images for January – December 2014 can be downloaded from [NASA’s Visible Earth] (http://visibleearth.nasa.gov/view.php?id=74117). 
 
-References: <http://earthobservatory.nasa.gov/Features/BlueMarble/>; <http://visibleearth.nasa.gov/view_cat.php?categoryID=1484&p=2>; <http://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB>
+References: [NASA Earth Observatory - Blue Marble] (http://earthobservatory.nasa.gov/Features/BlueMarble/); [NASA Earth Observations - Blue Marble](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB)

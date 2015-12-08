@@ -5,5 +5,4 @@ This level 3 gridded product is designed for quantitative applications including
 
 The MODIS Combined Value-Added Aerosol Optical Depth layer is a near real-time layer and available as a combined Terra satellite and Aqua satellite layer (MCDAODHD). The sensor resolution is 0.5 degrees, imagery resolution is 2km,  temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is January 31, 2013 - present.
 
-Reference: https://earthdata.nasa.gov/about-eosdis/news/nrt-value-added-modis-aerosol-optical-depth-product-available
-GCMD: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&MetadataType=0&MetadataView=Full&KeywordPath=&EntryId=[GCMD]MCDAODHD 
+References: [NASA Earthdata - NRT Value-Added MODIS AOD Product] (https://earthdata.nasa.gov/about-eosdis/news/nrt-value-added-modis-aerosol-optical-depth-product-available); [GCMD] (http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&MetadataType=0&MetadataView=Full&KeywordPath=&EntryId=[GCMD]MCDAODHD) 
