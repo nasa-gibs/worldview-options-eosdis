@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1": {
+            "id":       "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
+            "title":    "Corrected Reflectance (Bands M11-I2-I1)",
+            "subtitle": "Suomi NPP / VIIRS",
+            "tags":     "false color s-npp",
+            "group":    "baselayers"
+        }
+    }
+}

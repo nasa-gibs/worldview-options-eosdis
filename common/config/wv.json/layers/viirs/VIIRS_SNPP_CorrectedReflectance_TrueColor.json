@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "VIIRS_SNPP_CorrectedReflectance_TrueColor": {
+            "id":       "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+            "title":    "Corrected Reflectance (True Color)",
+            "subtitle": "Suomi NPP / VIIRS",
+            "tags":     "natural color cr s-npp",
+            "group":    "baselayers"
+        }
+    }
+}

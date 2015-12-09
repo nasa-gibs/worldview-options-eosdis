@@ -1,20 +1,19 @@
 {
     "layers": {
-        "MODIS_Fires_Aqua": {
-            "id":       "MODIS_Fires_Aqua",
-            "title":    "Fires and Thermal Anomalies (Day and Night)",
-            "subtitle": "Aqua / MODIS",
+        "VIIRS_SNPP_Fires_375m_Day": {
+            "id":       "VIIRS_SNPP_Fires_375m_Day",
+            "title":    "Fires and Thermal Anomalies (Day, 375m)",
+            "subtitle": "Suomi NPP / VIIRS",
             "tags":     "hotspot",
             "group":    "overlays",
             "format":   "image/png",
             "period":   "daily",
-            "product":  "MYD14",
 
             "tileSize": [512, 512],
             "type":     "wms",
 
             "transition":   "true",
-            "startDate":    "2012-05-08",
+            "startDate":    "2015-11-25",
 
             "projections": {
                 "geographic": {
@@ -23,7 +22,7 @@
             },
 
             "palette": {
-                "id":       "MODIS_Fires_Aqua",
+                "id":       "VIIRS_SNPP_Fires_375m_Day",
                 "immutable": "true"
             }
         }
