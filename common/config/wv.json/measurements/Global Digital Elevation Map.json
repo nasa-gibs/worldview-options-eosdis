@@ -8,7 +8,7 @@
                 "Terra/ASTER": {
                     "id": "terra-aster",
                     "title": "Terra / ASTER",
-                    "description": "no description",
+                    "description": "aster/GDEM",
                     "image": "",
                     "settings": [
                         "ASTER_GDEM_Color_Index",

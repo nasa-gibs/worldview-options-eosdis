@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/Reservoirs",
                     "image": "",
                     "settings": [
                         "grand-v1-reservoirs-rev01"

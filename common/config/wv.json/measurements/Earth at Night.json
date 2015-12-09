@@ -8,7 +8,7 @@
                 "SuomiNPP/VIIRS": {
                     "id": "aqua-airs",
                     "title": "Suomi NPP / VIIRS",
-                    "description": "no description",
+                    "description": "viirs/EarthAtNight",
                     "image": "",
                     "settings": [
                         "VIIRS_CityLights_2012"

@@ -10,6 +10,8 @@
 * Related Orbital Tracks option now present when adding layers.
 * Add Layers button added to the bottom of the Active Layers tab.
 * Space created for adding Metadata to products.
+* Added the following layers: SRTM, GHRSST, Suomi NPP / VIIRS, various new SMAP L3 Active/Passives, SMAP L4
+
 
 ## Updates
 

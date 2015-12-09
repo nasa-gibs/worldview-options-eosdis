@@ -8,7 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua / MODIS",
-                    "description": "no description",
+                    "description": "modis/Fires_ThermalAnomalies",
                     "image": "",
                     "settings": [
                         "MODIS_Fires_Aqua",
@@ -19,7 +19,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra / MODIS",
-                    "description": "no description",
+                    "description": "modis/Fires_ThermalAnomalies",
                     "image": "",
                     "settings": [
                         "MODIS_Fires_Terra",
@@ -30,7 +30,7 @@
                 "Aqua and Terra/MODIS": {
                     "id": "aqua-terra-modis",
                     "title": "Aqua and Terra / MODIS",
-                    "description": "no description",
+                    "description": "modis/Fires_ThermalAnomalies",
                     "image": "",
                     "settings": [
                         "MODIS_Fires_All"
