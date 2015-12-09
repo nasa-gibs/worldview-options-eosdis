@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "SRTM_Color_Index": {
+            "id":       "SRTM_Color_Index",
+            "title":    "Shuttle Radar Topography Mission (SRTM, Color Index)",
+            "subtitle": "Space Shuttle Endeavour / STS-99",
+            "tags":     "srtm gdem",
+            "group":    "overlays",
+            "type":     "wmts",
+            "product":  "SRTMGL1"
+        }
+    }
+}

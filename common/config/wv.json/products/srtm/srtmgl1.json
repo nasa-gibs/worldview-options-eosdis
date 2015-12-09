@@ -1,0 +1,14 @@
+{
+    "products": {
+        "SRTMGL1": {
+            "name": "Shuttle Radar Topography Mission",
+            "handler": "CollectionList",
+            "query": {
+                "collection": "true",
+                "shortName": "SRTMGL1",
+                "dataCenterId": "LPDAAC"
+            },
+            "noBulkDownload": "true"
+        }
+    }
+}
