@@ -8,7 +8,7 @@
                 "PODAAC": {
                     "id": "podaac",
                     "title": "PODAAC",
-                    "description": "no description",
+                    "description": "modis/SeaSurfaceTemperature",
                     "image": "",
                     "settings": [
                         "Sea_Surface_Temp_Infrared"

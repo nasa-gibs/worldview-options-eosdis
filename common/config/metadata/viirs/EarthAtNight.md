@@ -1,0 +1,6 @@
+#Earth at Night 2012: VIIRS City Lights 2012
+The Earth at Night layer is a night time view of the Earth, showing visible light emanating from sources such as city lights, gas flares, wildfires, auroras and reflected moonlight. The image is a composite of data from the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument on board the Suomi National Polar-orbiting Partnership (Suomi NPP) satellite. The image composite was assembled from clear, cloud free images from 9 days in April 2012 and 13 days in October 2012.
+
+Currently, the Earth at Night imagery is available only as a single snapshot in time. The sensor resolution is 750m and the image resolution is 500m. The imagery can be visualized in Worldview. The imagery can be downloaded from [NASA Earth Observatory/Visible Earth] (http://visibleearth.nasa.gov/view.php?id=79765). 
+
+References: <http://visibleearth.nasa.gov/view.php?id=79765>

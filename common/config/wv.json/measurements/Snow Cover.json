@@ -8,7 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "no description",
+                    "description": "modis/SnowCover",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Snow_Cover"
@@ -17,7 +17,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "no description",
+                    "description": "modis/SnowCover",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Snow_Cover"

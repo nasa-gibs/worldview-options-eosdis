@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/Forest_Mangrove",
                     "image": "",
                     "settings": [
                         "lulc-global-mangrove-forests-distribution-2000"
