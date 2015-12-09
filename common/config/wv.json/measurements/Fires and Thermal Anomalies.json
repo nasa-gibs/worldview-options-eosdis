@@ -3,7 +3,7 @@
         "Fires and Thermal Anomalies": {
             "id": "fires-thermal-anomalies",
             "title":    "Fires and Thermal Anomalies",
-            "subtitle": "Aqua / MODIS, Terra / MODIS, Aqua and Terra / MODIS",
+            "subtitle": "Aqua / MODIS, Terra / MODIS, Aqua and Terra / MODIS, Suomi NPP / VIIRS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
@@ -34,6 +34,16 @@
                     "image": "",
                     "settings": [
                         "MODIS_Fires_All"
+                    ]
+                },
+                "S-NPP/VIIRS": {
+                    "id": "snpp-viirs",
+                    "title": "Suomi NPP / VIIRS",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                	"VIIRS_SNPP_Fires_375m_Day",
+	                "VIIRS_SNPP_Fires_375m_Night"
                     ]
                 }
             }
