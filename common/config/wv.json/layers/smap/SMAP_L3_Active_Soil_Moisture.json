@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SMAP_L3_Active_Soil_Moisture": {
+            "id":       "SMAP_L3_Active_Soil_Moisture",
+            "title":    "Soil Moisture (L3, Active)",
+            "subtitle": "SMAP / Radar",
+            "group":    "overlays",
+            "product":  "SPL3SMA",
+            "inactive": true
+        }
+    }
+}

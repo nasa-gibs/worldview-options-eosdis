@@ -13,7 +13,8 @@
                     "Land Surface Reflectance",
                     "Precipitation Estimate",
                     "Reservoirs",
-                    "Snow Cover"
+                    "Snow Cover",
+                    "Soil Moisture"
                 ]
             }
         }

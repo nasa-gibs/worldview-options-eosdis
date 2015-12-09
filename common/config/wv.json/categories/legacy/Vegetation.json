@@ -11,8 +11,11 @@
                     "Land Surface Reflectance",
                     "Forests, Mangrove",
                     "Freeze / Thaw",
+                    "Gross Primary Productivity",
                     "Land Surface Temperature",
-                    "Snow Cover"
+                    "Snow Cover",
+                    "Snow Mass",
+                    "Soil Moisture"
                 ]
             }
         }

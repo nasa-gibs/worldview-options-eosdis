@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L4_Snow_Mass": {
+            "id":       "SMAP_L4_Snow_Mass",
+            "title":    "Snow Mass (L4, 12z-3z Average)",
+            "subtitle": "SMAP / Model Value-Added",
+            "group":    "overlays",
+            "product":  "SPL4SMGP"
+        }
+    }
+}

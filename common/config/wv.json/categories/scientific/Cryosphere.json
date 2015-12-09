@@ -12,7 +12,9 @@
                     "Sea Surface Temperature",
                     "Snow Cover",
                     "Snow Depth Over Ice",
-                    "Snow Water Equivalent"
+                    "Snow Mass",
+                    "Snow Water Equivalent",
+                    "Soil Moisture"
                 ]
             }
         }

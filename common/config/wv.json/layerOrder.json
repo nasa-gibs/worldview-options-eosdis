@@ -99,6 +99,25 @@
         "SMAP_L3_Active_Sigma0_HH_QA",
         "SMAP_L3_Active_Sigma0_VV_QA",
         "SMAP_L3_Active_Sigma0_XPOL_QA",
+        
+        "SMAP_L3_Active_AM_Freeze_Thaw",
+        
+        "SMAP_L3_Active_Soil_Moisture",
+        "SMAP_L3_Active_Passive_Soil_Moisture",
+        "SMAP_L3_Active_Passive_Brightness_Temp_H",
+        "SMAP_L3_Active_Passive_Brightness_Temp_V",
+        
+        "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
+        "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
+        "SMAP_L4_Analyzed_Surface_Soil_Moisture",
+        "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
+        "SMAP_L4_Soil_Temperature_Layer_1",
+        "SMAP_L4_Snow_Mass",
+        "SMAP_L4_Mean_Net_Ecosystem_Exchange",
+        "SMAP_L4_Mean_Gross_Primary_Productivity",
+        "SMAP_L4_Mean_Heterotrophic_Respiration",
+        "SMAP_L4_Emult_Average",
+        "SMAP_L4_Frozen_Area",
 
         "AMSRE_Brightness_Temp_89H_Day",
         "AMSRE_Brightness_Temp_89H_Night",

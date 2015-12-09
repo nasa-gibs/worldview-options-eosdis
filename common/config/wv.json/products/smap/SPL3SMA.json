@@ -1,0 +1,11 @@
+{
+    "products": {
+        "SPL3SMA": {
+            "name": "SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture V002",
+            "handler": "List",
+            "query": {
+                "shortName": "SPL3SMA"
+            }
+        }
+    }
+}

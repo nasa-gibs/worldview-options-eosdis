@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture": {
+            "id":       "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
+            "title":    "Root Zone Soil Moisture (L4, 12z Instantaneous)",
+            "subtitle": "SMAP / Model Value-Added",
+            "group":    "overlays",
+            "product":  "SPL4SMAU"
+        }
+    }
+}

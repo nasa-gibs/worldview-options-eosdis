@@ -15,6 +15,7 @@
                     "Precipitation Estimate",
 					"Precipitation Rate",
                     "Relative Humidity",
+                    "Soil Moisture",
                     "Temperature",
                     "Water Vapor"
                 ]
