@@ -1,259 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ColorMap units="mm/hr">
-<ColorMapEntry rgb="135,206,250" transparent="false"  sourceValue="[0.25,0.2541)" value="[0.25,0.2541)" label="0.25 - 0.2541 mm/hr"/>
-<ColorMapEntry rgb="134,205,250" transparent="false"  sourceValue="[0.2541,0.2583)" value="[0.2541,0.2583)" label="0.2541 - 0.2583 mm/hr"/>
-<ColorMapEntry rgb="134,204,250" transparent="false"  sourceValue="[0.2583,0.2625)" value="[0.2583,0.2625)" label="0.2583 - 0.2625 mm/hr"/>
-<ColorMapEntry rgb="133,204,249" transparent="false"  sourceValue="[0.2625,0.2669)" value="[0.2625,0.2669)" label="0.2625 - 0.2669 mm/hr"/>
-<ColorMapEntry rgb="133,203,249" transparent="false"  sourceValue="[0.2669,0.2712)" value="[0.2669,0.2712)" label="0.2669 - 0.2712 mm/hr"/>
-<ColorMapEntry rgb="132,202,249" transparent="false"  sourceValue="[0.2712,0.2757)" value="[0.2712,0.2757)" label="0.2712 - 0.2757 mm/hr"/>
-<ColorMapEntry rgb="132,201,249" transparent="false"  sourceValue="[0.2757,0.2802)" value="[0.2757,0.2802)" label="0.2757 - 0.2802 mm/hr"/>
-<ColorMapEntry rgb="131,200,249" transparent="false"  sourceValue="[0.2802,0.2848)" value="[0.2802,0.2848)" label="0.2802 - 0.2848 mm/hr"/>
-<ColorMapEntry rgb="131,200,249" transparent="false"  sourceValue="[0.2848,0.2895)" value="[0.2848,0.2895)" label="0.2848 - 0.2895 mm/hr"/>
-<ColorMapEntry rgb="130,199,248" transparent="false"  sourceValue="[0.2895,0.2943)" value="[0.2895,0.2943)" label="0.2895 - 0.2943 mm/hr"/>
-<ColorMapEntry rgb="130,198,248" transparent="false"  sourceValue="[0.2943,0.2991)" value="[0.2943,0.2991)" label="0.2943 - 0.2991 mm/hr"/>
-<ColorMapEntry rgb="129,197,248" transparent="false"  sourceValue="[0.2991,0.304)" value="[0.2991,0.304)" label="0.2991 - 0.304 mm/hr"/>
-<ColorMapEntry rgb="129,196,248" transparent="false"  sourceValue="[0.304,0.309)" value="[0.304,0.309)" label="0.304 - 0.309 mm/hr"/>
-<ColorMapEntry rgb="128,195,248" transparent="false"  sourceValue="[0.309,0.3141)" value="[0.309,0.3141)" label="0.309 - 0.3141 mm/hr"/>
-<ColorMapEntry rgb="128,195,248" transparent="false"  sourceValue="[0.3141,0.3193)" value="[0.3141,0.3193)" label="0.3141 - 0.3193 mm/hr"/>
-<ColorMapEntry rgb="127,194,247" transparent="false"  sourceValue="[0.3193,0.3245)" value="[0.3193,0.3245)" label="0.3193 - 0.3245 mm/hr"/>
-<ColorMapEntry rgb="127,193,247" transparent="false"  sourceValue="[0.3245,0.3299)" value="[0.3245,0.3299)" label="0.3245 - 0.3299 mm/hr"/>
-<ColorMapEntry rgb="126,192,247" transparent="false"  sourceValue="[0.3299,0.3353)" value="[0.3299,0.3353)" label="0.3299 - 0.3353 mm/hr"/>
-<ColorMapEntry rgb="125,191,247" transparent="false"  sourceValue="[0.3353,0.3408)" value="[0.3353,0.3408)" label="0.3353 - 0.3408 mm/hr"/>
-<ColorMapEntry rgb="125,191,247" transparent="false"  sourceValue="[0.3408,0.3464)" value="[0.3408,0.3464)" label="0.3408 - 0.3464 mm/hr"/>
-<ColorMapEntry rgb="124,190,246" transparent="false"  sourceValue="[0.3464,0.3521)" value="[0.3464,0.3521)" label="0.3464 - 0.3521 mm/hr"/>
-<ColorMapEntry rgb="124,189,246" transparent="false"  sourceValue="[0.3521,0.3579)" value="[0.3521,0.3579)" label="0.3521 - 0.3579 mm/hr"/>
-<ColorMapEntry rgb="123,188,246" transparent="false"  sourceValue="[0.3579,0.3638)" value="[0.3579,0.3638)" label="0.3579 - 0.3638 mm/hr"/>
-<ColorMapEntry rgb="123,187,246" transparent="false"  sourceValue="[0.3638,0.3698)" value="[0.3638,0.3698)" label="0.3638 - 0.3698 mm/hr"/>
-<ColorMapEntry rgb="122,187,246" transparent="false"  sourceValue="[0.3698,0.3759)" value="[0.3698,0.3759)" label="0.3698 - 0.3759 mm/hr"/>
-<ColorMapEntry rgb="122,186,246" transparent="false"  sourceValue="[0.3759,0.382)" value="[0.3759,0.382)" label="0.3759 - 0.382 mm/hr"/>
-<ColorMapEntry rgb="121,185,245" transparent="false"  sourceValue="[0.382,0.3883)" value="[0.382,0.3883)" label="0.382 - 0.3883 mm/hr"/>
-<ColorMapEntry rgb="121,184,245" transparent="false"  sourceValue="[0.3883,0.3947)" value="[0.3883,0.3947)" label="0.3883 - 0.3947 mm/hr"/>
-<ColorMapEntry rgb="120,183,245" transparent="false"  sourceValue="[0.3947,0.4012)" value="[0.3947,0.4012)" label="0.3947 - 0.4012 mm/hr"/>
-<ColorMapEntry rgb="120,183,245" transparent="false"  sourceValue="[0.4012,0.4078)" value="[0.4012,0.4078)" label="0.4012 - 0.4078 mm/hr"/>
-<ColorMapEntry rgb="119,182,245" transparent="false"  sourceValue="[0.4078,0.4145)" value="[0.4078,0.4145)" label="0.4078 - 0.4145 mm/hr"/>
-<ColorMapEntry rgb="119,181,245" transparent="false"  sourceValue="[0.4145,0.4213)" value="[0.4145,0.4213)" label="0.4145 - 0.4213 mm/hr"/>
-<ColorMapEntry rgb="118,180,244" transparent="false"  sourceValue="[0.4213,0.4282)" value="[0.4213,0.4282)" label="0.4213 - 0.4282 mm/hr"/>
-<ColorMapEntry rgb="118,179,244" transparent="false"  sourceValue="[0.4282,0.4353)" value="[0.4282,0.4353)" label="0.4282 - 0.4353 mm/hr"/>
-<ColorMapEntry rgb="117,179,244" transparent="false"  sourceValue="[0.4353,0.4424)" value="[0.4353,0.4424)" label="0.4353 - 0.4424 mm/hr"/>
-<ColorMapEntry rgb="116,178,244" transparent="false"  sourceValue="[0.4424,0.4497)" value="[0.4424,0.4497)" label="0.4424 - 0.4497 mm/hr"/>
-<ColorMapEntry rgb="116,177,244" transparent="false"  sourceValue="[0.4497,0.4571)" value="[0.4497,0.4571)" label="0.4497 - 0.4571 mm/hr"/>
-<ColorMapEntry rgb="115,176,243" transparent="false"  sourceValue="[0.4571,0.4646)" value="[0.4571,0.4646)" label="0.4571 - 0.4646 mm/hr"/>
-<ColorMapEntry rgb="115,175,243" transparent="false"  sourceValue="[0.4646,0.4723)" value="[0.4646,0.4723)" label="0.4646 - 0.4723 mm/hr"/>
-<ColorMapEntry rgb="114,174,243" transparent="false"  sourceValue="[0.4723,0.48)" value="[0.4723,0.48)" label="0.4723 - 0.48 mm/hr"/>
-<ColorMapEntry rgb="114,174,243" transparent="false"  sourceValue="[0.48,0.4879)" value="[0.48,0.4879)" label="0.48 - 0.4879 mm/hr"/>
-<ColorMapEntry rgb="113,173,243" transparent="false"  sourceValue="[0.4879,0.4959)" value="[0.4879,0.4959)" label="0.4879 - 0.4959 mm/hr"/>
-<ColorMapEntry rgb="113,172,243" transparent="false"  sourceValue="[0.4959,0.5041)" value="[0.4959,0.5041)" label="0.4959 - 0.5041 mm/hr"/>
-<ColorMapEntry rgb="112,171,242" transparent="false"  sourceValue="[0.5041,0.5124)" value="[0.5041,0.5124)" label="0.5041 - 0.5124 mm/hr"/>
-<ColorMapEntry rgb="112,170,242" transparent="false"  sourceValue="[0.5124,0.5208)" value="[0.5124,0.5208)" label="0.5124 - 0.5208 mm/hr"/>
-<ColorMapEntry rgb="111,170,242" transparent="false"  sourceValue="[0.5208,0.5294)" value="[0.5208,0.5294)" label="0.5208 - 0.5294 mm/hr"/>
-<ColorMapEntry rgb="111,169,242" transparent="false"  sourceValue="[0.5294,0.5381)" value="[0.5294,0.5381)" label="0.5294 - 0.5381 mm/hr"/>
-<ColorMapEntry rgb="110,168,242" transparent="false"  sourceValue="[0.5381,0.5469)" value="[0.5381,0.5469)" label="0.5381 - 0.5469 mm/hr"/>
-<ColorMapEntry rgb="110,167,242" transparent="false"  sourceValue="[0.5469,0.5559)" value="[0.5469,0.5559)" label="0.5469 - 0.5559 mm/hr"/>
-<ColorMapEntry rgb="109,166,241" transparent="false"  sourceValue="[0.5559,0.5651)" value="[0.5559,0.5651)" label="0.5559 - 0.5651 mm/hr"/>
-<ColorMapEntry rgb="109,166,241" transparent="false"  sourceValue="[0.5651,0.5743)" value="[0.5651,0.5743)" label="0.5651 - 0.5743 mm/hr"/>
-<ColorMapEntry rgb="108,165,241" transparent="false"  sourceValue="[0.5743,0.5838)" value="[0.5743,0.5838)" label="0.5743 - 0.5838 mm/hr"/>
-<ColorMapEntry rgb="107,164,241" transparent="false"  sourceValue="[0.5838,0.5934)" value="[0.5838,0.5934)" label="0.5838 - 0.5934 mm/hr"/>
-<ColorMapEntry rgb="107,163,241" transparent="false"  sourceValue="[0.5934,0.6032)" value="[0.5934,0.6032)" label="0.5934 - 0.6032 mm/hr"/>
-<ColorMapEntry rgb="106,162,240" transparent="false"  sourceValue="[0.6032,0.6131)" value="[0.6032,0.6131)" label="0.6032 - 0.6131 mm/hr"/>
-<ColorMapEntry rgb="106,162,240" transparent="false"  sourceValue="[0.6131,0.6231)" value="[0.6131,0.6231)" label="0.6131 - 0.6231 mm/hr"/>
-<ColorMapEntry rgb="105,161,240" transparent="false"  sourceValue="[0.6231,0.6334)" value="[0.6231,0.6334)" label="0.6231 - 0.6334 mm/hr"/>
-<ColorMapEntry rgb="105,160,240" transparent="false"  sourceValue="[0.6334,0.6438)" value="[0.6334,0.6438)" label="0.6334 - 0.6438 mm/hr"/>
-<ColorMapEntry rgb="104,159,240" transparent="false"  sourceValue="[0.6438,0.6544)" value="[0.6438,0.6544)" label="0.6438 - 0.6544 mm/hr"/>
-<ColorMapEntry rgb="104,158,240" transparent="false"  sourceValue="[0.6544,0.6652)" value="[0.6544,0.6652)" label="0.6544 - 0.6652 mm/hr"/>
-<ColorMapEntry rgb="103,158,239" transparent="false"  sourceValue="[0.6652,0.6761)" value="[0.6652,0.6761)" label="0.6652 - 0.6761 mm/hr"/>
-<ColorMapEntry rgb="103,157,239" transparent="false"  sourceValue="[0.6761,0.6872)" value="[0.6761,0.6872)" label="0.6761 - 0.6872 mm/hr"/>
-<ColorMapEntry rgb="102,156,239" transparent="false"  sourceValue="[0.6872,0.6985)" value="[0.6872,0.6985)" label="0.6872 - 0.6985 mm/hr"/>
-<ColorMapEntry rgb="102,155,239" transparent="false"  sourceValue="[0.6985,0.71)" value="[0.6985,0.71)" label="0.6985 - 0.71 mm/hr"/>
-<ColorMapEntry rgb="101,154,239" transparent="false"  sourceValue="[0.71,0.7217)" value="[0.71,0.7217)" label="0.71 - 0.7217 mm/hr"/>
-<ColorMapEntry rgb="101,153,239" transparent="false"  sourceValue="[0.7217,0.7335)" value="[0.7217,0.7335)" label="0.7217 - 0.7335 mm/hr"/>
-<ColorMapEntry rgb="100,153,238" transparent="false"  sourceValue="[0.7335,0.7456)" value="[0.7335,0.7456)" label="0.7335 - 0.7456 mm/hr"/>
-<ColorMapEntry rgb="100,152,238" transparent="false"  sourceValue="[0.7456,0.7579)" value="[0.7456,0.7579)" label="0.7456 - 0.7579 mm/hr"/>
-<ColorMapEntry rgb="99,151,238" transparent="false"  sourceValue="[0.7579,0.7703)" value="[0.7579,0.7703)" label="0.7579 - 0.7703 mm/hr"/>
-<ColorMapEntry rgb="98,150,238" transparent="false"  sourceValue="[0.7703,0.783)" value="[0.7703,0.783)" label="0.7703 - 0.783 mm/hr"/>
-<ColorMapEntry rgb="98,149,238" transparent="false"  sourceValue="[0.783,0.7959)" value="[0.783,0.7959)" label="0.783 - 0.7959 mm/hr"/>
-<ColorMapEntry rgb="97,149,237" transparent="false"  sourceValue="[0.7959,0.8089)" value="[0.7959,0.8089)" label="0.7959 - 0.8089 mm/hr"/>
-<ColorMapEntry rgb="97,148,237" transparent="false"  sourceValue="[0.8089,0.8222)" value="[0.8089,0.8222)" label="0.8089 - 0.8222 mm/hr"/>
-<ColorMapEntry rgb="96,147,237" transparent="false"  sourceValue="[0.8222,0.8358)" value="[0.8222,0.8358)" label="0.8222 - 0.8358 mm/hr"/>
-<ColorMapEntry rgb="96,146,237" transparent="false"  sourceValue="[0.8358,0.8495)" value="[0.8358,0.8495)" label="0.8358 - 0.8495 mm/hr"/>
-<ColorMapEntry rgb="95,145,237" transparent="false"  sourceValue="[0.8495,0.8635)" value="[0.8495,0.8635)" label="0.8495 - 0.8635 mm/hr"/>
-<ColorMapEntry rgb="95,145,237" transparent="false"  sourceValue="[0.8635,0.8777)" value="[0.8635,0.8777)" label="0.8635 - 0.8777 mm/hr"/>
-<ColorMapEntry rgb="94,144,236" transparent="false"  sourceValue="[0.8777,0.8921)" value="[0.8777,0.8921)" label="0.8777 - 0.8921 mm/hr"/>
-<ColorMapEntry rgb="94,143,236" transparent="false"  sourceValue="[0.8921,0.9068)" value="[0.8921,0.9068)" label="0.8921 - 0.9068 mm/hr"/>
-<ColorMapEntry rgb="93,142,236" transparent="false"  sourceValue="[0.9068,0.9217)" value="[0.9068,0.9217)" label="0.9068 - 0.9217 mm/hr"/>
-<ColorMapEntry rgb="93,141,236" transparent="false"  sourceValue="[0.9217,0.9368)" value="[0.9217,0.9368)" label="0.9217 - 0.9368 mm/hr"/>
-<ColorMapEntry rgb="92,141,236" transparent="false"  sourceValue="[0.9368,0.9523)" value="[0.9368,0.9523)" label="0.9368 - 0.9523 mm/hr"/>
-<ColorMapEntry rgb="92,140,236" transparent="false"  sourceValue="[0.9523,0.9679)" value="[0.9523,0.9679)" label="0.9523 - 0.9679 mm/hr"/>
-<ColorMapEntry rgb="91,139,235" transparent="false"  sourceValue="[0.9679,0.9838)" value="[0.9679,0.9838)" label="0.9679 - 0.9838 mm/hr"/>
-<ColorMapEntry rgb="91,138,235" transparent="false"  sourceValue="[0.9838,1)" value="[0.9838,1)" label="0.9838 - 1 mm/hr"/>
-<ColorMapEntry rgb="90,137,235" transparent="false"  sourceValue="[1,1.0164)" value="[1,1.0164)" label="1 - 1.0164 mm/hr"/>
-<ColorMapEntry rgb="89,137,235" transparent="false"  sourceValue="[1.0164,1.0332)" value="[1.0164,1.0332)" label="1.0164 - 1.0332 mm/hr"/>
-<ColorMapEntry rgb="89,136,235" transparent="false"  sourceValue="[1.0332,1.0501)" value="[1.0332,1.0501)" label="1.0332 - 1.0501 mm/hr"/>
-<ColorMapEntry rgb="88,135,234" transparent="false"  sourceValue="[1.0501,1.0674)" value="[1.0501,1.0674)" label="1.0501 - 1.0674 mm/hr"/>
-<ColorMapEntry rgb="88,134,234" transparent="false"  sourceValue="[1.0674,1.085)" value="[1.0674,1.085)" label="1.0674 - 1.085 mm/hr"/>
-<ColorMapEntry rgb="87,133,234" transparent="false"  sourceValue="[1.085,1.1028)" value="[1.085,1.1028)" label="1.085 - 1.1028 mm/hr"/>
-<ColorMapEntry rgb="87,132,234" transparent="false"  sourceValue="[1.1028,1.1209)" value="[1.1028,1.1209)" label="1.1028 - 1.1209 mm/hr"/>
-<ColorMapEntry rgb="86,132,234" transparent="false"  sourceValue="[1.1209,1.1394)" value="[1.1209,1.1394)" label="1.1209 - 1.1394 mm/hr"/>
-<ColorMapEntry rgb="86,131,234" transparent="false"  sourceValue="[1.1394,1.1581)" value="[1.1394,1.1581)" label="1.1394 - 1.1581 mm/hr"/>
-<ColorMapEntry rgb="85,130,233" transparent="false"  sourceValue="[1.1581,1.1772)" value="[1.1581,1.1772)" label="1.1581 - 1.1772 mm/hr"/>
-<ColorMapEntry rgb="85,129,233" transparent="false"  sourceValue="[1.1772,1.1965)" value="[1.1772,1.1965)" label="1.1772 - 1.1965 mm/hr"/>
-<ColorMapEntry rgb="84,128,233" transparent="false"  sourceValue="[1.1965,1.2162)" value="[1.1965,1.2162)" label="1.1965 - 1.2162 mm/hr"/>
-<ColorMapEntry rgb="84,128,233" transparent="false"  sourceValue="[1.2162,1.2362)" value="[1.2162,1.2362)" label="1.2162 - 1.2362 mm/hr"/>
-<ColorMapEntry rgb="83,127,233" transparent="false"  sourceValue="[1.2362,1.2565)" value="[1.2362,1.2565)" label="1.2362 - 1.2565 mm/hr"/>
-<ColorMapEntry rgb="83,126,233" transparent="false"  sourceValue="[1.2565,1.2772)" value="[1.2565,1.2772)" label="1.2565 - 1.2772 mm/hr"/>
-<ColorMapEntry rgb="82,125,232" transparent="false"  sourceValue="[1.2772,1.2982)" value="[1.2772,1.2982)" label="1.2772 - 1.2982 mm/hr"/>
-<ColorMapEntry rgb="82,124,232" transparent="false"  sourceValue="[1.2982,1.3195)" value="[1.2982,1.3195)" label="1.2982 - 1.3195 mm/hr"/>
-<ColorMapEntry rgb="81,124,232" transparent="false"  sourceValue="[1.3195,1.3412)" value="[1.3195,1.3412)" label="1.3195 - 1.3412 mm/hr"/>
-<ColorMapEntry rgb="80,123,232" transparent="false"  sourceValue="[1.3412,1.3633)" value="[1.3412,1.3633)" label="1.3412 - 1.3633 mm/hr"/>
-<ColorMapEntry rgb="80,122,232" transparent="false"  sourceValue="[1.3633,1.3857)" value="[1.3633,1.3857)" label="1.3633 - 1.3857 mm/hr"/>
-<ColorMapEntry rgb="79,121,231" transparent="false"  sourceValue="[1.3857,1.4085)" value="[1.3857,1.4085)" label="1.3857 - 1.4085 mm/hr"/>
-<ColorMapEntry rgb="79,120,231" transparent="false"  sourceValue="[1.4085,1.4316)" value="[1.4085,1.4316)" label="1.4085 - 1.4316 mm/hr"/>
-<ColorMapEntry rgb="78,120,231" transparent="false"  sourceValue="[1.4316,1.4552)" value="[1.4316,1.4552)" label="1.4316 - 1.4552 mm/hr"/>
-<ColorMapEntry rgb="78,119,231" transparent="false"  sourceValue="[1.4552,1.4791)" value="[1.4552,1.4791)" label="1.4552 - 1.4791 mm/hr"/>
-<ColorMapEntry rgb="77,118,231" transparent="false"  sourceValue="[1.4791,1.5034)" value="[1.4791,1.5034)" label="1.4791 - 1.5034 mm/hr"/>
-<ColorMapEntry rgb="77,117,231" transparent="false"  sourceValue="[1.5034,1.5281)" value="[1.5034,1.5281)" label="1.5034 - 1.5281 mm/hr"/>
-<ColorMapEntry rgb="76,116,230" transparent="false"  sourceValue="[1.5281,1.5533)" value="[1.5281,1.5533)" label="1.5281 - 1.5533 mm/hr"/>
-<ColorMapEntry rgb="76,116,230" transparent="false"  sourceValue="[1.5533,1.5788)" value="[1.5533,1.5788)" label="1.5533 - 1.5788 mm/hr"/>
-<ColorMapEntry rgb="75,115,230" transparent="false"  sourceValue="[1.5788,1.6048)" value="[1.5788,1.6048)" label="1.5788 - 1.6048 mm/hr"/>
-<ColorMapEntry rgb="75,114,230" transparent="false"  sourceValue="[1.6048,1.6311)" value="[1.6048,1.6311)" label="1.6048 - 1.6311 mm/hr"/>
-<ColorMapEntry rgb="74,113,230" transparent="false"  sourceValue="[1.6311,1.658)" value="[1.6311,1.658)" label="1.6311 - 1.658 mm/hr"/>
-<ColorMapEntry rgb="74,112,230" transparent="false"  sourceValue="[1.658,1.6852)" value="[1.658,1.6852)" label="1.658 - 1.6852 mm/hr"/>
-<ColorMapEntry rgb="73,111,229" transparent="false"  sourceValue="[1.6852,1.7129)" value="[1.6852,1.7129)" label="1.6852 - 1.7129 mm/hr"/>
-<ColorMapEntry rgb="73,111,229" transparent="false"  sourceValue="[1.7129,1.7411)" value="[1.7129,1.7411)" label="1.7129 - 1.7411 mm/hr"/>
-<ColorMapEntry rgb="72,110,229" transparent="false"  sourceValue="[1.7411,1.7697)" value="[1.7411,1.7697)" label="1.7411 - 1.7697 mm/hr"/>
-<ColorMapEntry rgb="71,109,229" transparent="false"  sourceValue="[1.7697,1.7988)" value="[1.7697,1.7988)" label="1.7697 - 1.7988 mm/hr"/>
-<ColorMapEntry rgb="71,108,229" transparent="false"  sourceValue="[1.7988,1.8284)" value="[1.7988,1.8284)" label="1.7988 - 1.8284 mm/hr"/>
-<ColorMapEntry rgb="70,107,228" transparent="false"  sourceValue="[1.8284,1.8585)" value="[1.8284,1.8585)" label="1.8284 - 1.8585 mm/hr"/>
-<ColorMapEntry rgb="70,107,228" transparent="false"  sourceValue="[1.8585,1.889)" value="[1.8585,1.889)" label="1.8585 - 1.889 mm/hr"/>
-<ColorMapEntry rgb="69,106,228" transparent="false"  sourceValue="[1.889,1.9201)" value="[1.889,1.9201)" label="1.889 - 1.9201 mm/hr"/>
-<ColorMapEntry rgb="69,105,228" transparent="false"  sourceValue="[1.9201,1.9517)" value="[1.9201,1.9517)" label="1.9201 - 1.9517 mm/hr"/>
-<ColorMapEntry rgb="68,104,228" transparent="false"  sourceValue="[1.9517,1.9838)" value="[1.9517,1.9838)" label="1.9517 - 1.9838 mm/hr"/>
-<ColorMapEntry rgb="68,103,228" transparent="false"  sourceValue="[1.9838,2.0164)" value="[1.9838,2.0164)" label="1.9838 - 2.0164 mm/hr"/>
-<ColorMapEntry rgb="67,103,227" transparent="false"  sourceValue="[2.0164,2.0495)" value="[2.0164,2.0495)" label="2.0164 - 2.0495 mm/hr"/>
-<ColorMapEntry rgb="67,102,227" transparent="false"  sourceValue="[2.0495,2.0832)" value="[2.0495,2.0832)" label="2.0495 - 2.0832 mm/hr"/>
-<ColorMapEntry rgb="66,101,227" transparent="false"  sourceValue="[2.0832,2.1175)" value="[2.0832,2.1175)" label="2.0832 - 2.1175 mm/hr"/>
-<ColorMapEntry rgb="66,100,227" transparent="false"  sourceValue="[2.1175,2.1523)" value="[2.1175,2.1523)" label="2.1175 - 2.1523 mm/hr"/>
-<ColorMapEntry rgb="65,99,227" transparent="false"  sourceValue="[2.1523,2.1877)" value="[2.1523,2.1877)" label="2.1523 - 2.1877 mm/hr"/>
-<ColorMapEntry rgb="65,99,227" transparent="false"  sourceValue="[2.1877,2.2237)" value="[2.1877,2.2237)" label="2.1877 - 2.2237 mm/hr"/>
-<ColorMapEntry rgb="64,98,226" transparent="false"  sourceValue="[2.2237,2.2602)" value="[2.2237,2.2602)" label="2.2237 - 2.2602 mm/hr"/>
-<ColorMapEntry rgb="64,97,226" transparent="false"  sourceValue="[2.2602,2.2974)" value="[2.2602,2.2974)" label="2.2602 - 2.2974 mm/hr"/>
-<ColorMapEntry rgb="63,96,226" transparent="false"  sourceValue="[2.2974,2.3352)" value="[2.2974,2.3352)" label="2.2974 - 2.3352 mm/hr"/>
-<ColorMapEntry rgb="62,95,226" transparent="false"  sourceValue="[2.3352,2.3736)" value="[2.3352,2.3736)" label="2.3352 - 2.3736 mm/hr"/>
-<ColorMapEntry rgb="62,95,226" transparent="false"  sourceValue="[2.3736,2.4126)" value="[2.3736,2.4126)" label="2.3736 - 2.4126 mm/hr"/>
-<ColorMapEntry rgb="61,94,225" transparent="false"  sourceValue="[2.4126,2.4523)" value="[2.4126,2.4523)" label="2.4126 - 2.4523 mm/hr"/>
-<ColorMapEntry rgb="61,93,225" transparent="false"  sourceValue="[2.4523,2.4926)" value="[2.4523,2.4926)" label="2.4523 - 2.4926 mm/hr"/>
-<ColorMapEntry rgb="60,92,225" transparent="false"  sourceValue="[2.4926,2.5336)" value="[2.4926,2.5336)" label="2.4926 - 2.5336 mm/hr"/>
-<ColorMapEntry rgb="60,91,225" transparent="false"  sourceValue="[2.5336,2.5752)" value="[2.5336,2.5752)" label="2.5336 - 2.5752 mm/hr"/>
-<ColorMapEntry rgb="59,90,225" transparent="false"  sourceValue="[2.5752,2.6176)" value="[2.5752,2.6176)" label="2.5752 - 2.6176 mm/hr"/>
-<ColorMapEntry rgb="59,90,225" transparent="false"  sourceValue="[2.6176,2.6606)" value="[2.6176,2.6606)" label="2.6176 - 2.6606 mm/hr"/>
-<ColorMapEntry rgb="58,89,224" transparent="false"  sourceValue="[2.6606,2.7044)" value="[2.6606,2.7044)" label="2.6606 - 2.7044 mm/hr"/>
-<ColorMapEntry rgb="58,88,224" transparent="false"  sourceValue="[2.7044,2.7488)" value="[2.7044,2.7488)" label="2.7044 - 2.7488 mm/hr"/>
-<ColorMapEntry rgb="57,87,224" transparent="false"  sourceValue="[2.7488,2.794)" value="[2.7488,2.794)" label="2.7488 - 2.794 mm/hr"/>
-<ColorMapEntry rgb="57,86,224" transparent="false"  sourceValue="[2.794,2.84)" value="[2.794,2.84)" label="2.794 - 2.84 mm/hr"/>
-<ColorMapEntry rgb="56,86,224" transparent="false"  sourceValue="[2.84,2.8867)" value="[2.84,2.8867)" label="2.84 - 2.8867 mm/hr"/>
-<ColorMapEntry rgb="56,85,224" transparent="false"  sourceValue="[2.8867,2.9342)" value="[2.8867,2.9342)" label="2.8867 - 2.9342 mm/hr"/>
-<ColorMapEntry rgb="55,84,223" transparent="false"  sourceValue="[2.9342,2.9824)" value="[2.9342,2.9824)" label="2.9342 - 2.9824 mm/hr"/>
-<ColorMapEntry rgb="55,83,223" transparent="false"  sourceValue="[2.9824,3.0314)" value="[2.9824,3.0314)" label="2.9824 - 3.0314 mm/hr"/>
-<ColorMapEntry rgb="54,82,223" transparent="false"  sourceValue="[3.0314,3.0813)" value="[3.0314,3.0813)" label="3.0314 - 3.0813 mm/hr"/>
-<ColorMapEntry rgb="53,82,223" transparent="false"  sourceValue="[3.0813,3.132)" value="[3.0813,3.132)" label="3.0813 - 3.132 mm/hr"/>
-<ColorMapEntry rgb="53,81,223" transparent="false"  sourceValue="[3.132,3.1834)" value="[3.132,3.1834)" label="3.132 - 3.1834 mm/hr"/>
-<ColorMapEntry rgb="52,80,222" transparent="false"  sourceValue="[3.1834,3.2358)" value="[3.1834,3.2358)" label="3.1834 - 3.2358 mm/hr"/>
-<ColorMapEntry rgb="52,79,222" transparent="false"  sourceValue="[3.2358,3.289)" value="[3.2358,3.289)" label="3.2358 - 3.289 mm/hr"/>
-<ColorMapEntry rgb="51,78,222" transparent="false"  sourceValue="[3.289,3.3431)" value="[3.289,3.3431)" label="3.289 - 3.3431 mm/hr"/>
-<ColorMapEntry rgb="51,78,222" transparent="false"  sourceValue="[3.3431,3.3981)" value="[3.3431,3.3981)" label="3.3431 - 3.3981 mm/hr"/>
-<ColorMapEntry rgb="50,77,222" transparent="false"  sourceValue="[3.3981,3.4539)" value="[3.3981,3.4539)" label="3.3981 - 3.4539 mm/hr"/>
-<ColorMapEntry rgb="50,76,222" transparent="false"  sourceValue="[3.4539,3.5107)" value="[3.4539,3.5107)" label="3.4539 - 3.5107 mm/hr"/>
-<ColorMapEntry rgb="49,75,221" transparent="false"  sourceValue="[3.5107,3.5684)" value="[3.5107,3.5684)" label="3.5107 - 3.5684 mm/hr"/>
-<ColorMapEntry rgb="49,74,221" transparent="false"  sourceValue="[3.5684,3.6271)" value="[3.5684,3.6271)" label="3.5684 - 3.6271 mm/hr"/>
-<ColorMapEntry rgb="48,74,221" transparent="false"  sourceValue="[3.6271,3.6868)" value="[3.6271,3.6868)" label="3.6271 - 3.6868 mm/hr"/>
-<ColorMapEntry rgb="48,73,221" transparent="false"  sourceValue="[3.6868,3.7474)" value="[3.6868,3.7474)" label="3.6868 - 3.7474 mm/hr"/>
-<ColorMapEntry rgb="47,72,221" transparent="false"  sourceValue="[3.7474,3.809)" value="[3.7474,3.809)" label="3.7474 - 3.809 mm/hr"/>
-<ColorMapEntry rgb="47,71,221" transparent="false"  sourceValue="[3.809,3.8716)" value="[3.809,3.8716)" label="3.809 - 3.8716 mm/hr"/>
-<ColorMapEntry rgb="46,70,220" transparent="false"  sourceValue="[3.8716,3.9353)" value="[3.8716,3.9353)" label="3.8716 - 3.9353 mm/hr"/>
-<ColorMapEntry rgb="46,69,220" transparent="false"  sourceValue="[3.9353,4)" value="[3.9353,4)" label="3.9353 - 4 mm/hr"/>
-<ColorMapEntry rgb="45,69,220" transparent="false"  sourceValue="[4,4.0658)" value="[4,4.0658)" label="4 - 4.0658 mm/hr"/>
-<ColorMapEntry rgb="44,68,220" transparent="false"  sourceValue="[4.0658,4.1326)" value="[4.0658,4.1326)" label="4.0658 - 4.1326 mm/hr"/>
-<ColorMapEntry rgb="44,67,220" transparent="false"  sourceValue="[4.1326,4.2006)" value="[4.1326,4.2006)" label="4.1326 - 4.2006 mm/hr"/>
-<ColorMapEntry rgb="43,66,219" transparent="false"  sourceValue="[4.2006,4.2697)" value="[4.2006,4.2697)" label="4.2006 - 4.2697 mm/hr"/>
-<ColorMapEntry rgb="43,65,219" transparent="false"  sourceValue="[4.2697,4.3399)" value="[4.2697,4.3399)" label="4.2697 - 4.3399 mm/hr"/>
-<ColorMapEntry rgb="42,65,219" transparent="false"  sourceValue="[4.3399,4.4112)" value="[4.3399,4.4112)" label="4.3399 - 4.4112 mm/hr"/>
-<ColorMapEntry rgb="42,64,219" transparent="false"  sourceValue="[4.4112,4.4838)" value="[4.4112,4.4838)" label="4.4112 - 4.4838 mm/hr"/>
-<ColorMapEntry rgb="41,63,219" transparent="false"  sourceValue="[4.4838,4.5575)" value="[4.4838,4.5575)" label="4.4838 - 4.5575 mm/hr"/>
-<ColorMapEntry rgb="41,62,219" transparent="false"  sourceValue="[4.5575,4.6324)" value="[4.5575,4.6324)" label="4.5575 - 4.6324 mm/hr"/>
-<ColorMapEntry rgb="40,61,218" transparent="false"  sourceValue="[4.6324,4.7086)" value="[4.6324,4.7086)" label="4.6324 - 4.7086 mm/hr"/>
-<ColorMapEntry rgb="40,61,218" transparent="false"  sourceValue="[4.7086,4.786)" value="[4.7086,4.786)" label="4.7086 - 4.786 mm/hr"/>
-<ColorMapEntry rgb="39,60,218" transparent="false"  sourceValue="[4.786,4.8647)" value="[4.786,4.8647)" label="4.786 - 4.8647 mm/hr"/>
-<ColorMapEntry rgb="39,59,218" transparent="false"  sourceValue="[4.8647,4.9447)" value="[4.8647,4.9447)" label="4.8647 - 4.9447 mm/hr"/>
-<ColorMapEntry rgb="38,58,218" transparent="false"  sourceValue="[4.9447,5.026)" value="[4.9447,5.026)" label="4.9447 - 5.026 mm/hr"/>
-<ColorMapEntry rgb="38,57,218" transparent="false"  sourceValue="[5.026,5.1087)" value="[5.026,5.1087)" label="5.026 - 5.1087 mm/hr"/>
-<ColorMapEntry rgb="37,57,217" transparent="false"  sourceValue="[5.1087,5.1927)" value="[5.1087,5.1927)" label="5.1087 - 5.1927 mm/hr"/>
-<ColorMapEntry rgb="37,56,217" transparent="false"  sourceValue="[5.1927,5.278)" value="[5.1927,5.278)" label="5.1927 - 5.278 mm/hr"/>
-<ColorMapEntry rgb="36,55,217" transparent="false"  sourceValue="[5.278,5.3648)" value="[5.278,5.3648)" label="5.278 - 5.3648 mm/hr"/>
-<ColorMapEntry rgb="35,54,217" transparent="false"  sourceValue="[5.3648,5.453)" value="[5.3648,5.453)" label="5.3648 - 5.453 mm/hr"/>
-<ColorMapEntry rgb="35,53,217" transparent="false"  sourceValue="[5.453,5.5427)" value="[5.453,5.5427)" label="5.453 - 5.5427 mm/hr"/>
-<ColorMapEntry rgb="34,53,216" transparent="false"  sourceValue="[5.5427,5.6338)" value="[5.5427,5.6338)" label="5.5427 - 5.6338 mm/hr"/>
-<ColorMapEntry rgb="34,52,216" transparent="false"  sourceValue="[5.6338,5.7265)" value="[5.6338,5.7265)" label="5.6338 - 5.7265 mm/hr"/>
-<ColorMapEntry rgb="33,51,216" transparent="false"  sourceValue="[5.7265,5.8206)" value="[5.7265,5.8206)" label="5.7265 - 5.8206 mm/hr"/>
-<ColorMapEntry rgb="33,50,216" transparent="false"  sourceValue="[5.8206,5.9163)" value="[5.8206,5.9163)" label="5.8206 - 5.9163 mm/hr"/>
-<ColorMapEntry rgb="32,49,216" transparent="false"  sourceValue="[5.9163,6.0136)" value="[5.9163,6.0136)" label="5.9163 - 6.0136 mm/hr"/>
-<ColorMapEntry rgb="32,48,216" transparent="false"  sourceValue="[6.0136,6.1125)" value="[6.0136,6.1125)" label="6.0136 - 6.1125 mm/hr"/>
-<ColorMapEntry rgb="31,48,215" transparent="false"  sourceValue="[6.1125,6.213)" value="[6.1125,6.213)" label="6.1125 - 6.213 mm/hr"/>
-<ColorMapEntry rgb="31,47,215" transparent="false"  sourceValue="[6.213,6.3152)" value="[6.213,6.3152)" label="6.213 - 6.3152 mm/hr"/>
-<ColorMapEntry rgb="30,46,215" transparent="false"  sourceValue="[6.3152,6.419)" value="[6.3152,6.419)" label="6.3152 - 6.419 mm/hr"/>
-<ColorMapEntry rgb="30,45,215" transparent="false"  sourceValue="[6.419,6.5246)" value="[6.419,6.5246)" label="6.419 - 6.5246 mm/hr"/>
-<ColorMapEntry rgb="29,44,215" transparent="false"  sourceValue="[6.5246,6.6319)" value="[6.5246,6.6319)" label="6.5246 - 6.6319 mm/hr"/>
-<ColorMapEntry rgb="29,44,215" transparent="false"  sourceValue="[6.6319,6.7409)" value="[6.6319,6.7409)" label="6.6319 - 6.7409 mm/hr"/>
-<ColorMapEntry rgb="28,43,214" transparent="false"  sourceValue="[6.7409,6.8517)" value="[6.7409,6.8517)" label="6.7409 - 6.8517 mm/hr"/>
-<ColorMapEntry rgb="28,42,214" transparent="false"  sourceValue="[6.8517,6.9644)" value="[6.8517,6.9644)" label="6.8517 - 6.9644 mm/hr"/>
-<ColorMapEntry rgb="27,41,214" transparent="false"  sourceValue="[6.9644,7.0789)" value="[6.9644,7.0789)" label="6.9644 - 7.0789 mm/hr"/>
-<ColorMapEntry rgb="26,40,214" transparent="false"  sourceValue="[7.0789,7.1953)" value="[7.0789,7.1953)" label="7.0789 - 7.1953 mm/hr"/>
-<ColorMapEntry rgb="26,40,214" transparent="false"  sourceValue="[7.1953,7.3136)" value="[7.1953,7.3136)" label="7.1953 - 7.3136 mm/hr"/>
-<ColorMapEntry rgb="25,39,213" transparent="false"  sourceValue="[7.3136,7.4339)" value="[7.3136,7.4339)" label="7.3136 - 7.4339 mm/hr"/>
-<ColorMapEntry rgb="25,38,213" transparent="false"  sourceValue="[7.4339,7.5561)" value="[7.4339,7.5561)" label="7.4339 - 7.5561 mm/hr"/>
-<ColorMapEntry rgb="24,37,213" transparent="false"  sourceValue="[7.5561,7.6804)" value="[7.5561,7.6804)" label="7.5561 - 7.6804 mm/hr"/>
-<ColorMapEntry rgb="24,36,213" transparent="false"  sourceValue="[7.6804,7.8067)" value="[7.6804,7.8067)" label="7.6804 - 7.8067 mm/hr"/>
-<ColorMapEntry rgb="23,36,213" transparent="false"  sourceValue="[7.8067,7.935)" value="[7.8067,7.935)" label="7.8067 - 7.935 mm/hr"/>
-<ColorMapEntry rgb="23,35,213" transparent="false"  sourceValue="[7.935,8.0655)" value="[7.935,8.0655)" label="7.935 - 8.0655 mm/hr"/>
-<ColorMapEntry rgb="22,34,212" transparent="false"  sourceValue="[8.0655,8.1981)" value="[8.0655,8.1981)" label="8.0655 - 8.1981 mm/hr"/>
-<ColorMapEntry rgb="22,33,212" transparent="false"  sourceValue="[8.1981,8.3329)" value="[8.1981,8.3329)" label="8.1981 - 8.3329 mm/hr"/>
-<ColorMapEntry rgb="21,32,212" transparent="false"  sourceValue="[8.3329,8.47)" value="[8.3329,8.47)" label="8.3329 - 8.47 mm/hr"/>
-<ColorMapEntry rgb="21,32,212" transparent="false"  sourceValue="[8.47,8.6092)" value="[8.47,8.6092)" label="8.47 - 8.6092 mm/hr"/>
-<ColorMapEntry rgb="20,31,212" transparent="false"  sourceValue="[8.6092,8.7508)" value="[8.6092,8.7508)" label="8.6092 - 8.7508 mm/hr"/>
-<ColorMapEntry rgb="20,30,212" transparent="false"  sourceValue="[8.7508,8.8947)" value="[8.7508,8.8947)" label="8.7508 - 8.8947 mm/hr"/>
-<ColorMapEntry rgb="19,29,211" transparent="false"  sourceValue="[8.8947,9.0409)" value="[8.8947,9.0409)" label="8.8947 - 9.0409 mm/hr"/>
-<ColorMapEntry rgb="19,28,211" transparent="false"  sourceValue="[9.0409,9.1896)" value="[9.0409,9.1896)" label="9.0409 - 9.1896 mm/hr"/>
-<ColorMapEntry rgb="18,27,211" transparent="false"  sourceValue="[9.1896,9.3407)" value="[9.1896,9.3407)" label="9.1896 - 9.3407 mm/hr"/>
-<ColorMapEntry rgb="17,27,211" transparent="false"  sourceValue="[9.3407,9.4943)" value="[9.3407,9.4943)" label="9.3407 - 9.4943 mm/hr"/>
-<ColorMapEntry rgb="17,26,211" transparent="false"  sourceValue="[9.4943,9.6504)" value="[9.4943,9.6504)" label="9.4943 - 9.6504 mm/hr"/>
-<ColorMapEntry rgb="16,25,210" transparent="false"  sourceValue="[9.6504,9.8091)" value="[9.6504,9.8091)" label="9.6504 - 9.8091 mm/hr"/>
-<ColorMapEntry rgb="16,24,210" transparent="false"  sourceValue="[9.8091,9.9704)" value="[9.8091,9.9704)" label="9.8091 - 9.9704 mm/hr"/>
-<ColorMapEntry rgb="15,23,210" transparent="false"  sourceValue="[9.9704,10.1343)" value="[9.9704,10.1343)" label="9.9704 - 10.1343 mm/hr"/>
-<ColorMapEntry rgb="15,23,210" transparent="false"  sourceValue="[10.1343,10.301)" value="[10.1343,10.301)" label="10.1343 - 10.301 mm/hr"/>
-<ColorMapEntry rgb="14,22,210" transparent="false"  sourceValue="[10.301,10.4703)" value="[10.301,10.4703)" label="10.301 - 10.4703 mm/hr"/>
-<ColorMapEntry rgb="14,21,210" transparent="false"  sourceValue="[10.4703,10.6425)" value="[10.4703,10.6425)" label="10.4703 - 10.6425 mm/hr"/>
-<ColorMapEntry rgb="13,20,209" transparent="false"  sourceValue="[10.6425,10.8175)" value="[10.6425,10.8175)" label="10.6425 - 10.8175 mm/hr"/>
-<ColorMapEntry rgb="13,19,209" transparent="false"  sourceValue="[10.8175,10.9954)" value="[10.8175,10.9954)" label="10.8175 - 10.9954 mm/hr"/>
-<ColorMapEntry rgb="12,19,209" transparent="false"  sourceValue="[10.9954,11.1762)" value="[10.9954,11.1762)" label="10.9954 - 11.1762 mm/hr"/>
-<ColorMapEntry rgb="12,18,209" transparent="false"  sourceValue="[11.1762,11.3599)" value="[11.1762,11.3599)" label="11.1762 - 11.3599 mm/hr"/>
-<ColorMapEntry rgb="11,17,209" transparent="false"  sourceValue="[11.3599,11.5467)" value="[11.3599,11.5467)" label="11.3599 - 11.5467 mm/hr"/>
-<ColorMapEntry rgb="11,16,209" transparent="false"  sourceValue="[11.5467,11.7366)" value="[11.5467,11.7366)" label="11.5467 - 11.7366 mm/hr"/>
-<ColorMapEntry rgb="10,15,208" transparent="false"  sourceValue="[11.7366,11.9296)" value="[11.7366,11.9296)" label="11.7366 - 11.9296 mm/hr"/>
-<ColorMapEntry rgb="10,15,208" transparent="false"  sourceValue="[11.9296,12.1257)" value="[11.9296,12.1257)" label="11.9296 - 12.1257 mm/hr"/>
-<ColorMapEntry rgb="9,14,208" transparent="false"  sourceValue="[12.1257,12.3251)" value="[12.1257,12.3251)" label="12.1257 - 12.3251 mm/hr"/>
-<ColorMapEntry rgb="8,13,208" transparent="false"  sourceValue="[12.3251,12.5278)" value="[12.3251,12.5278)" label="12.3251 - 12.5278 mm/hr"/>
-<ColorMapEntry rgb="8,12,208" transparent="false"  sourceValue="[12.5278,12.7338)" value="[12.5278,12.7338)" label="12.5278 - 12.7338 mm/hr"/>
-<ColorMapEntry rgb="7,11,207" transparent="false"  sourceValue="[12.7338,12.9432)" value="[12.7338,12.9432)" label="12.7338 - 12.9432 mm/hr"/>
-<ColorMapEntry rgb="7,11,207" transparent="false"  sourceValue="[12.9432,13.156)" value="[12.9432,13.156)" label="12.9432 - 13.156 mm/hr"/>
-<ColorMapEntry rgb="6,10,207" transparent="false"  sourceValue="[13.156,13.3723)" value="[13.156,13.3723)" label="13.156 - 13.3723 mm/hr"/>
-<ColorMapEntry rgb="6,9,207" transparent="false"  sourceValue="[13.3723,13.5922)" value="[13.3723,13.5922)" label="13.3723 - 13.5922 mm/hr"/>
-<ColorMapEntry rgb="5,8,207" transparent="false"  sourceValue="[13.5922,13.8157)" value="[13.5922,13.8157)" label="13.5922 - 13.8157 mm/hr"/>
-<ColorMapEntry rgb="5,7,207" transparent="false"  sourceValue="[13.8157,14.0429)" value="[13.8157,14.0429)" label="13.8157 - 14.0429 mm/hr"/>
-<ColorMapEntry rgb="4,6,206" transparent="false"  sourceValue="[14.0429,14.2738)" value="[14.0429,14.2738)" label="14.0429 - 14.2738 mm/hr"/>
-<ColorMapEntry rgb="4,6,206" transparent="false"  sourceValue="[14.2738,14.5085)" value="[14.2738,14.5085)" label="14.2738 - 14.5085 mm/hr"/>
-<ColorMapEntry rgb="3,5,206" transparent="false"  sourceValue="[14.5085,14.747)" value="[14.5085,14.747)" label="14.5085 - 14.747 mm/hr"/>
-<ColorMapEntry rgb="3,4,206" transparent="false"  sourceValue="[14.747,14.9895)" value="[14.747,14.9895)" label="14.747 - 14.9895 mm/hr"/>
-<ColorMapEntry rgb="2,3,206" transparent="false"  sourceValue="[14.9895,15.236)" value="[14.9895,15.236)" label="14.9895 - 15.236 mm/hr"/>
-<ColorMapEntry rgb="2,2,206" transparent="false"  sourceValue="[15.236,15.4865)" value="[15.236,15.4865)" label="15.236 - 15.4865 mm/hr"/>
-<ColorMapEntry rgb="1,2,205" transparent="false"  sourceValue="[15.4865,15.7412)" value="[15.4865,15.7412)" label="15.4865 - 15.7412 mm/hr"/>
-<ColorMapEntry rgb="1,1,205" transparent="false"  sourceValue="[15.7412,+INF)" value="[15.7412,+INF)" label="> 15.7412 mm/hr"/>
-<ColorMapEntry rgb="255,255,255" transparent="true" label="No Data"/>
+<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
+          units="mm/hr">
+  <ColorMapEntry rgb="135,206,250" transparent="false"  sourceValue="[0.25,0.2541)" value="[0.25,0.2541)" label="0.25 - 0.2541 mm/hr"/>
+  <ColorMapEntry rgb="134,205,250" transparent="false"  sourceValue="[0.2541,0.2583)" value="[0.2541,0.2583)" label="0.2541 - 0.2583 mm/hr"/>
+  <ColorMapEntry rgb="134,204,250" transparent="false"  sourceValue="[0.2583,0.2625)" value="[0.2583,0.2625)" label="0.2583 - 0.2625 mm/hr"/>
+  <ColorMapEntry rgb="133,204,249" transparent="false"  sourceValue="[0.2625,0.2669)" value="[0.2625,0.2669)" label="0.2625 - 0.2669 mm/hr"/>
+  <ColorMapEntry rgb="133,203,249" transparent="false"  sourceValue="[0.2669,0.2712)" value="[0.2669,0.2712)" label="0.2669 - 0.2712 mm/hr"/>
+  <ColorMapEntry rgb="132,202,249" transparent="false"  sourceValue="[0.2712,0.2757)" value="[0.2712,0.2757)" label="0.2712 - 0.2757 mm/hr"/>
+  <ColorMapEntry rgb="132,201,249" transparent="false"  sourceValue="[0.2757,0.2802)" value="[0.2757,0.2802)" label="0.2757 - 0.2802 mm/hr"/>
+  <ColorMapEntry rgb="131,200,249" transparent="false"  sourceValue="[0.2802,0.2848)" value="[0.2802,0.2848)" label="0.2802 - 0.2848 mm/hr"/>
+  <ColorMapEntry rgb="131,200,249" transparent="false"  sourceValue="[0.2848,0.2895)" value="[0.2848,0.2895)" label="0.2848 - 0.2895 mm/hr"/>
+  <ColorMapEntry rgb="130,199,248" transparent="false"  sourceValue="[0.2895,0.2943)" value="[0.2895,0.2943)" label="0.2895 - 0.2943 mm/hr"/>
+  <ColorMapEntry rgb="130,198,248" transparent="false"  sourceValue="[0.2943,0.2991)" value="[0.2943,0.2991)" label="0.2943 - 0.2991 mm/hr"/>
+  <ColorMapEntry rgb="129,197,248" transparent="false"  sourceValue="[0.2991,0.304)" value="[0.2991,0.304)" label="0.2991 - 0.304 mm/hr"/>
+  <ColorMapEntry rgb="129,196,248" transparent="false"  sourceValue="[0.304,0.309)" value="[0.304,0.309)" label="0.304 - 0.309 mm/hr"/>
+  <ColorMapEntry rgb="128,195,248" transparent="false"  sourceValue="[0.309,0.3141)" value="[0.309,0.3141)" label="0.309 - 0.3141 mm/hr"/>
+  <ColorMapEntry rgb="128,195,248" transparent="false"  sourceValue="[0.3141,0.3193)" value="[0.3141,0.3193)" label="0.3141 - 0.3193 mm/hr"/>
+  <ColorMapEntry rgb="127,194,247" transparent="false"  sourceValue="[0.3193,0.3245)" value="[0.3193,0.3245)" label="0.3193 - 0.3245 mm/hr"/>
+  <ColorMapEntry rgb="127,193,247" transparent="false"  sourceValue="[0.3245,0.3299)" value="[0.3245,0.3299)" label="0.3245 - 0.3299 mm/hr"/>
+  <ColorMapEntry rgb="126,192,247" transparent="false"  sourceValue="[0.3299,0.3353)" value="[0.3299,0.3353)" label="0.3299 - 0.3353 mm/hr"/>
+  <ColorMapEntry rgb="125,191,247" transparent="false"  sourceValue="[0.3353,0.3408)" value="[0.3353,0.3408)" label="0.3353 - 0.3408 mm/hr"/>
+  <ColorMapEntry rgb="125,191,247" transparent="false"  sourceValue="[0.3408,0.3464)" value="[0.3408,0.3464)" label="0.3408 - 0.3464 mm/hr"/>
+  <ColorMapEntry rgb="124,190,246" transparent="false"  sourceValue="[0.3464,0.3521)" value="[0.3464,0.3521)" label="0.3464 - 0.3521 mm/hr"/>
+  <ColorMapEntry rgb="124,189,246" transparent="false"  sourceValue="[0.3521,0.3579)" value="[0.3521,0.3579)" label="0.3521 - 0.3579 mm/hr"/>
+  <ColorMapEntry rgb="123,188,246" transparent="false"  sourceValue="[0.3579,0.3638)" value="[0.3579,0.3638)" label="0.3579 - 0.3638 mm/hr"/>
+  <ColorMapEntry rgb="123,187,246" transparent="false"  sourceValue="[0.3638,0.3698)" value="[0.3638,0.3698)" label="0.3638 - 0.3698 mm/hr"/>
+  <ColorMapEntry rgb="122,187,246" transparent="false"  sourceValue="[0.3698,0.3759)" value="[0.3698,0.3759)" label="0.3698 - 0.3759 mm/hr"/>
+  <ColorMapEntry rgb="122,186,246" transparent="false"  sourceValue="[0.3759,0.382)" value="[0.3759,0.382)" label="0.3759 - 0.382 mm/hr"/>
+  <ColorMapEntry rgb="121,185,245" transparent="false"  sourceValue="[0.382,0.3883)" value="[0.382,0.3883)" label="0.382 - 0.3883 mm/hr"/>
+  <ColorMapEntry rgb="121,184,245" transparent="false"  sourceValue="[0.3883,0.3947)" value="[0.3883,0.3947)" label="0.3883 - 0.3947 mm/hr"/>
+  <ColorMapEntry rgb="120,183,245" transparent="false"  sourceValue="[0.3947,0.4012)" value="[0.3947,0.4012)" label="0.3947 - 0.4012 mm/hr"/>
+  <ColorMapEntry rgb="120,183,245" transparent="false"  sourceValue="[0.4012,0.4078)" value="[0.4012,0.4078)" label="0.4012 - 0.4078 mm/hr"/>
+  <ColorMapEntry rgb="119,182,245" transparent="false"  sourceValue="[0.4078,0.4145)" value="[0.4078,0.4145)" label="0.4078 - 0.4145 mm/hr"/>
+  <ColorMapEntry rgb="119,181,245" transparent="false"  sourceValue="[0.4145,0.4213)" value="[0.4145,0.4213)" label="0.4145 - 0.4213 mm/hr"/>
+  <ColorMapEntry rgb="118,180,244" transparent="false"  sourceValue="[0.4213,0.4282)" value="[0.4213,0.4282)" label="0.4213 - 0.4282 mm/hr"/>
+  <ColorMapEntry rgb="118,179,244" transparent="false"  sourceValue="[0.4282,0.4353)" value="[0.4282,0.4353)" label="0.4282 - 0.4353 mm/hr"/>
+  <ColorMapEntry rgb="117,179,244" transparent="false"  sourceValue="[0.4353,0.4424)" value="[0.4353,0.4424)" label="0.4353 - 0.4424 mm/hr"/>
+  <ColorMapEntry rgb="116,178,244" transparent="false"  sourceValue="[0.4424,0.4497)" value="[0.4424,0.4497)" label="0.4424 - 0.4497 mm/hr"/>
+  <ColorMapEntry rgb="116,177,244" transparent="false"  sourceValue="[0.4497,0.4571)" value="[0.4497,0.4571)" label="0.4497 - 0.4571 mm/hr"/>
+  <ColorMapEntry rgb="115,176,243" transparent="false"  sourceValue="[0.4571,0.4646)" value="[0.4571,0.4646)" label="0.4571 - 0.4646 mm/hr"/>
+  <ColorMapEntry rgb="115,175,243" transparent="false"  sourceValue="[0.4646,0.4723)" value="[0.4646,0.4723)" label="0.4646 - 0.4723 mm/hr"/>
+  <ColorMapEntry rgb="114,174,243" transparent="false"  sourceValue="[0.4723,0.48)" value="[0.4723,0.48)" label="0.4723 - 0.48 mm/hr"/>
+  <ColorMapEntry rgb="114,174,243" transparent="false"  sourceValue="[0.48,0.4879)" value="[0.48,0.4879)" label="0.48 - 0.4879 mm/hr"/>
+  <ColorMapEntry rgb="113,173,243" transparent="false"  sourceValue="[0.4879,0.4959)" value="[0.4879,0.4959)" label="0.4879 - 0.4959 mm/hr"/>
+  <ColorMapEntry rgb="113,172,243" transparent="false"  sourceValue="[0.4959,0.5041)" value="[0.4959,0.5041)" label="0.4959 - 0.5041 mm/hr"/>
+  <ColorMapEntry rgb="112,171,242" transparent="false"  sourceValue="[0.5041,0.5124)" value="[0.5041,0.5124)" label="0.5041 - 0.5124 mm/hr"/>
+  <ColorMapEntry rgb="112,170,242" transparent="false"  sourceValue="[0.5124,0.5208)" value="[0.5124,0.5208)" label="0.5124 - 0.5208 mm/hr"/>
+  <ColorMapEntry rgb="111,170,242" transparent="false"  sourceValue="[0.5208,0.5294)" value="[0.5208,0.5294)" label="0.5208 - 0.5294 mm/hr"/>
+  <ColorMapEntry rgb="111,169,242" transparent="false"  sourceValue="[0.5294,0.5381)" value="[0.5294,0.5381)" label="0.5294 - 0.5381 mm/hr"/>
+  <ColorMapEntry rgb="110,168,242" transparent="false"  sourceValue="[0.5381,0.5469)" value="[0.5381,0.5469)" label="0.5381 - 0.5469 mm/hr"/>
+  <ColorMapEntry rgb="110,167,242" transparent="false"  sourceValue="[0.5469,0.5559)" value="[0.5469,0.5559)" label="0.5469 - 0.5559 mm/hr"/>
+  <ColorMapEntry rgb="109,166,241" transparent="false"  sourceValue="[0.5559,0.5651)" value="[0.5559,0.5651)" label="0.5559 - 0.5651 mm/hr"/>
+  <ColorMapEntry rgb="109,166,241" transparent="false"  sourceValue="[0.5651,0.5743)" value="[0.5651,0.5743)" label="0.5651 - 0.5743 mm/hr"/>
+  <ColorMapEntry rgb="108,165,241" transparent="false"  sourceValue="[0.5743,0.5838)" value="[0.5743,0.5838)" label="0.5743 - 0.5838 mm/hr"/>
+  <ColorMapEntry rgb="107,164,241" transparent="false"  sourceValue="[0.5838,0.5934)" value="[0.5838,0.5934)" label="0.5838 - 0.5934 mm/hr"/>
+  <ColorMapEntry rgb="107,163,241" transparent="false"  sourceValue="[0.5934,0.6032)" value="[0.5934,0.6032)" label="0.5934 - 0.6032 mm/hr"/>
+  <ColorMapEntry rgb="106,162,240" transparent="false"  sourceValue="[0.6032,0.6131)" value="[0.6032,0.6131)" label="0.6032 - 0.6131 mm/hr"/>
+  <ColorMapEntry rgb="106,162,240" transparent="false"  sourceValue="[0.6131,0.6231)" value="[0.6131,0.6231)" label="0.6131 - 0.6231 mm/hr"/>
+  <ColorMapEntry rgb="105,161,240" transparent="false"  sourceValue="[0.6231,0.6334)" value="[0.6231,0.6334)" label="0.6231 - 0.6334 mm/hr"/>
+  <ColorMapEntry rgb="105,160,240" transparent="false"  sourceValue="[0.6334,0.6438)" value="[0.6334,0.6438)" label="0.6334 - 0.6438 mm/hr"/>
+  <ColorMapEntry rgb="104,159,240" transparent="false"  sourceValue="[0.6438,0.6544)" value="[0.6438,0.6544)" label="0.6438 - 0.6544 mm/hr"/>
+  <ColorMapEntry rgb="104,158,240" transparent="false"  sourceValue="[0.6544,0.6652)" value="[0.6544,0.6652)" label="0.6544 - 0.6652 mm/hr"/>
+  <ColorMapEntry rgb="103,158,239" transparent="false"  sourceValue="[0.6652,0.6761)" value="[0.6652,0.6761)" label="0.6652 - 0.6761 mm/hr"/>
+  <ColorMapEntry rgb="103,157,239" transparent="false"  sourceValue="[0.6761,0.6872)" value="[0.6761,0.6872)" label="0.6761 - 0.6872 mm/hr"/>
+  <ColorMapEntry rgb="102,156,239" transparent="false"  sourceValue="[0.6872,0.6985)" value="[0.6872,0.6985)" label="0.6872 - 0.6985 mm/hr"/>
+  <ColorMapEntry rgb="102,155,239" transparent="false"  sourceValue="[0.6985,0.71)" value="[0.6985,0.71)" label="0.6985 - 0.71 mm/hr"/>
+  <ColorMapEntry rgb="101,154,239" transparent="false"  sourceValue="[0.71,0.7217)" value="[0.71,0.7217)" label="0.71 - 0.7217 mm/hr"/>
+  <ColorMapEntry rgb="101,153,239" transparent="false"  sourceValue="[0.7217,0.7335)" value="[0.7217,0.7335)" label="0.7217 - 0.7335 mm/hr"/>
+  <ColorMapEntry rgb="100,153,238" transparent="false"  sourceValue="[0.7335,0.7456)" value="[0.7335,0.7456)" label="0.7335 - 0.7456 mm/hr"/>
+  <ColorMapEntry rgb="100,152,238" transparent="false"  sourceValue="[0.7456,0.7579)" value="[0.7456,0.7579)" label="0.7456 - 0.7579 mm/hr"/>
+  <ColorMapEntry rgb="99,151,238" transparent="false"  sourceValue="[0.7579,0.7703)" value="[0.7579,0.7703)" label="0.7579 - 0.7703 mm/hr"/>
+  <ColorMapEntry rgb="98,150,238" transparent="false"  sourceValue="[0.7703,0.783)" value="[0.7703,0.783)" label="0.7703 - 0.783 mm/hr"/>
+  <ColorMapEntry rgb="98,149,238" transparent="false"  sourceValue="[0.783,0.7959)" value="[0.783,0.7959)" label="0.783 - 0.7959 mm/hr"/>
+  <ColorMapEntry rgb="97,149,237" transparent="false"  sourceValue="[0.7959,0.8089)" value="[0.7959,0.8089)" label="0.7959 - 0.8089 mm/hr"/>
+  <ColorMapEntry rgb="97,148,237" transparent="false"  sourceValue="[0.8089,0.8222)" value="[0.8089,0.8222)" label="0.8089 - 0.8222 mm/hr"/>
+  <ColorMapEntry rgb="96,147,237" transparent="false"  sourceValue="[0.8222,0.8358)" value="[0.8222,0.8358)" label="0.8222 - 0.8358 mm/hr"/>
+  <ColorMapEntry rgb="96,146,237" transparent="false"  sourceValue="[0.8358,0.8495)" value="[0.8358,0.8495)" label="0.8358 - 0.8495 mm/hr"/>
+  <ColorMapEntry rgb="95,145,237" transparent="false"  sourceValue="[0.8495,0.8635)" value="[0.8495,0.8635)" label="0.8495 - 0.8635 mm/hr"/>
+  <ColorMapEntry rgb="95,145,237" transparent="false"  sourceValue="[0.8635,0.8777)" value="[0.8635,0.8777)" label="0.8635 - 0.8777 mm/hr"/>
+  <ColorMapEntry rgb="94,144,236" transparent="false"  sourceValue="[0.8777,0.8921)" value="[0.8777,0.8921)" label="0.8777 - 0.8921 mm/hr"/>
+  <ColorMapEntry rgb="94,143,236" transparent="false"  sourceValue="[0.8921,0.9068)" value="[0.8921,0.9068)" label="0.8921 - 0.9068 mm/hr"/>
+  <ColorMapEntry rgb="93,142,236" transparent="false"  sourceValue="[0.9068,0.9217)" value="[0.9068,0.9217)" label="0.9068 - 0.9217 mm/hr"/>
+  <ColorMapEntry rgb="93,141,236" transparent="false"  sourceValue="[0.9217,0.9368)" value="[0.9217,0.9368)" label="0.9217 - 0.9368 mm/hr"/>
+  <ColorMapEntry rgb="92,141,236" transparent="false"  sourceValue="[0.9368,0.9523)" value="[0.9368,0.9523)" label="0.9368 - 0.9523 mm/hr"/>
+  <ColorMapEntry rgb="92,140,236" transparent="false"  sourceValue="[0.9523,0.9679)" value="[0.9523,0.9679)" label="0.9523 - 0.9679 mm/hr"/>
+  <ColorMapEntry rgb="91,139,235" transparent="false"  sourceValue="[0.9679,0.9838)" value="[0.9679,0.9838)" label="0.9679 - 0.9838 mm/hr"/>
+  <ColorMapEntry rgb="91,138,235" transparent="false"  sourceValue="[0.9838,1)" value="[0.9838,1)" label="0.9838 - 1 mm/hr"/>
+  <ColorMapEntry rgb="90,137,235" transparent="false"  sourceValue="[1,1.0164)" value="[1,1.0164)" label="1 - 1.0164 mm/hr"/>
+  <ColorMapEntry rgb="89,137,235" transparent="false"  sourceValue="[1.0164,1.0332)" value="[1.0164,1.0332)" label="1.0164 - 1.0332 mm/hr"/>
+  <ColorMapEntry rgb="89,136,235" transparent="false"  sourceValue="[1.0332,1.0501)" value="[1.0332,1.0501)" label="1.0332 - 1.0501 mm/hr"/>
+  <ColorMapEntry rgb="88,135,234" transparent="false"  sourceValue="[1.0501,1.0674)" value="[1.0501,1.0674)" label="1.0501 - 1.0674 mm/hr"/>
+  <ColorMapEntry rgb="88,134,234" transparent="false"  sourceValue="[1.0674,1.085)" value="[1.0674,1.085)" label="1.0674 - 1.085 mm/hr"/>
+  <ColorMapEntry rgb="87,133,234" transparent="false"  sourceValue="[1.085,1.1028)" value="[1.085,1.1028)" label="1.085 - 1.1028 mm/hr"/>
+  <ColorMapEntry rgb="87,132,234" transparent="false"  sourceValue="[1.1028,1.1209)" value="[1.1028,1.1209)" label="1.1028 - 1.1209 mm/hr"/>
+  <ColorMapEntry rgb="86,132,234" transparent="false"  sourceValue="[1.1209,1.1394)" value="[1.1209,1.1394)" label="1.1209 - 1.1394 mm/hr"/>
+  <ColorMapEntry rgb="86,131,234" transparent="false"  sourceValue="[1.1394,1.1581)" value="[1.1394,1.1581)" label="1.1394 - 1.1581 mm/hr"/>
+  <ColorMapEntry rgb="85,130,233" transparent="false"  sourceValue="[1.1581,1.1772)" value="[1.1581,1.1772)" label="1.1581 - 1.1772 mm/hr"/>
+  <ColorMapEntry rgb="85,129,233" transparent="false"  sourceValue="[1.1772,1.1965)" value="[1.1772,1.1965)" label="1.1772 - 1.1965 mm/hr"/>
+  <ColorMapEntry rgb="84,128,233" transparent="false"  sourceValue="[1.1965,1.2162)" value="[1.1965,1.2162)" label="1.1965 - 1.2162 mm/hr"/>
+  <ColorMapEntry rgb="84,128,233" transparent="false"  sourceValue="[1.2162,1.2362)" value="[1.2162,1.2362)" label="1.2162 - 1.2362 mm/hr"/>
+  <ColorMapEntry rgb="83,127,233" transparent="false"  sourceValue="[1.2362,1.2565)" value="[1.2362,1.2565)" label="1.2362 - 1.2565 mm/hr"/>
+  <ColorMapEntry rgb="83,126,233" transparent="false"  sourceValue="[1.2565,1.2772)" value="[1.2565,1.2772)" label="1.2565 - 1.2772 mm/hr"/>
+  <ColorMapEntry rgb="82,125,232" transparent="false"  sourceValue="[1.2772,1.2982)" value="[1.2772,1.2982)" label="1.2772 - 1.2982 mm/hr"/>
+  <ColorMapEntry rgb="82,124,232" transparent="false"  sourceValue="[1.2982,1.3195)" value="[1.2982,1.3195)" label="1.2982 - 1.3195 mm/hr"/>
+  <ColorMapEntry rgb="81,124,232" transparent="false"  sourceValue="[1.3195,1.3412)" value="[1.3195,1.3412)" label="1.3195 - 1.3412 mm/hr"/>
+  <ColorMapEntry rgb="80,123,232" transparent="false"  sourceValue="[1.3412,1.3633)" value="[1.3412,1.3633)" label="1.3412 - 1.3633 mm/hr"/>
+  <ColorMapEntry rgb="80,122,232" transparent="false"  sourceValue="[1.3633,1.3857)" value="[1.3633,1.3857)" label="1.3633 - 1.3857 mm/hr"/>
+  <ColorMapEntry rgb="79,121,231" transparent="false"  sourceValue="[1.3857,1.4085)" value="[1.3857,1.4085)" label="1.3857 - 1.4085 mm/hr"/>
+  <ColorMapEntry rgb="79,120,231" transparent="false"  sourceValue="[1.4085,1.4316)" value="[1.4085,1.4316)" label="1.4085 - 1.4316 mm/hr"/>
+  <ColorMapEntry rgb="78,120,231" transparent="false"  sourceValue="[1.4316,1.4552)" value="[1.4316,1.4552)" label="1.4316 - 1.4552 mm/hr"/>
+  <ColorMapEntry rgb="78,119,231" transparent="false"  sourceValue="[1.4552,1.4791)" value="[1.4552,1.4791)" label="1.4552 - 1.4791 mm/hr"/>
+  <ColorMapEntry rgb="77,118,231" transparent="false"  sourceValue="[1.4791,1.5034)" value="[1.4791,1.5034)" label="1.4791 - 1.5034 mm/hr"/>
+  <ColorMapEntry rgb="77,117,231" transparent="false"  sourceValue="[1.5034,1.5281)" value="[1.5034,1.5281)" label="1.5034 - 1.5281 mm/hr"/>
+  <ColorMapEntry rgb="76,116,230" transparent="false"  sourceValue="[1.5281,1.5533)" value="[1.5281,1.5533)" label="1.5281 - 1.5533 mm/hr"/>
+  <ColorMapEntry rgb="76,116,230" transparent="false"  sourceValue="[1.5533,1.5788)" value="[1.5533,1.5788)" label="1.5533 - 1.5788 mm/hr"/>
+  <ColorMapEntry rgb="75,115,230" transparent="false"  sourceValue="[1.5788,1.6048)" value="[1.5788,1.6048)" label="1.5788 - 1.6048 mm/hr"/>
+  <ColorMapEntry rgb="75,114,230" transparent="false"  sourceValue="[1.6048,1.6311)" value="[1.6048,1.6311)" label="1.6048 - 1.6311 mm/hr"/>
+  <ColorMapEntry rgb="74,113,230" transparent="false"  sourceValue="[1.6311,1.658)" value="[1.6311,1.658)" label="1.6311 - 1.658 mm/hr"/>
+  <ColorMapEntry rgb="74,112,230" transparent="false"  sourceValue="[1.658,1.6852)" value="[1.658,1.6852)" label="1.658 - 1.6852 mm/hr"/>
+  <ColorMapEntry rgb="73,111,229" transparent="false"  sourceValue="[1.6852,1.7129)" value="[1.6852,1.7129)" label="1.6852 - 1.7129 mm/hr"/>
+  <ColorMapEntry rgb="73,111,229" transparent="false"  sourceValue="[1.7129,1.7411)" value="[1.7129,1.7411)" label="1.7129 - 1.7411 mm/hr"/>
+  <ColorMapEntry rgb="72,110,229" transparent="false"  sourceValue="[1.7411,1.7697)" value="[1.7411,1.7697)" label="1.7411 - 1.7697 mm/hr"/>
+  <ColorMapEntry rgb="71,109,229" transparent="false"  sourceValue="[1.7697,1.7988)" value="[1.7697,1.7988)" label="1.7697 - 1.7988 mm/hr"/>
+  <ColorMapEntry rgb="71,108,229" transparent="false"  sourceValue="[1.7988,1.8284)" value="[1.7988,1.8284)" label="1.7988 - 1.8284 mm/hr"/>
+  <ColorMapEntry rgb="70,107,228" transparent="false"  sourceValue="[1.8284,1.8585)" value="[1.8284,1.8585)" label="1.8284 - 1.8585 mm/hr"/>
+  <ColorMapEntry rgb="70,107,228" transparent="false"  sourceValue="[1.8585,1.889)" value="[1.8585,1.889)" label="1.8585 - 1.889 mm/hr"/>
+  <ColorMapEntry rgb="69,106,228" transparent="false"  sourceValue="[1.889,1.9201)" value="[1.889,1.9201)" label="1.889 - 1.9201 mm/hr"/>
+  <ColorMapEntry rgb="69,105,228" transparent="false"  sourceValue="[1.9201,1.9517)" value="[1.9201,1.9517)" label="1.9201 - 1.9517 mm/hr"/>
+  <ColorMapEntry rgb="68,104,228" transparent="false"  sourceValue="[1.9517,1.9838)" value="[1.9517,1.9838)" label="1.9517 - 1.9838 mm/hr"/>
+  <ColorMapEntry rgb="68,103,228" transparent="false"  sourceValue="[1.9838,2.0164)" value="[1.9838,2.0164)" label="1.9838 - 2.0164 mm/hr"/>
+  <ColorMapEntry rgb="67,103,227" transparent="false"  sourceValue="[2.0164,2.0495)" value="[2.0164,2.0495)" label="2.0164 - 2.0495 mm/hr"/>
+  <ColorMapEntry rgb="67,102,227" transparent="false"  sourceValue="[2.0495,2.0832)" value="[2.0495,2.0832)" label="2.0495 - 2.0832 mm/hr"/>
+  <ColorMapEntry rgb="66,101,227" transparent="false"  sourceValue="[2.0832,2.1175)" value="[2.0832,2.1175)" label="2.0832 - 2.1175 mm/hr"/>
+  <ColorMapEntry rgb="66,100,227" transparent="false"  sourceValue="[2.1175,2.1523)" value="[2.1175,2.1523)" label="2.1175 - 2.1523 mm/hr"/>
+  <ColorMapEntry rgb="65,99,227" transparent="false"  sourceValue="[2.1523,2.1877)" value="[2.1523,2.1877)" label="2.1523 - 2.1877 mm/hr"/>
+  <ColorMapEntry rgb="65,99,227" transparent="false"  sourceValue="[2.1877,2.2237)" value="[2.1877,2.2237)" label="2.1877 - 2.2237 mm/hr"/>
+  <ColorMapEntry rgb="64,98,226" transparent="false"  sourceValue="[2.2237,2.2602)" value="[2.2237,2.2602)" label="2.2237 - 2.2602 mm/hr"/>
+  <ColorMapEntry rgb="64,97,226" transparent="false"  sourceValue="[2.2602,2.2974)" value="[2.2602,2.2974)" label="2.2602 - 2.2974 mm/hr"/>
+  <ColorMapEntry rgb="63,96,226" transparent="false"  sourceValue="[2.2974,2.3352)" value="[2.2974,2.3352)" label="2.2974 - 2.3352 mm/hr"/>
+  <ColorMapEntry rgb="62,95,226" transparent="false"  sourceValue="[2.3352,2.3736)" value="[2.3352,2.3736)" label="2.3352 - 2.3736 mm/hr"/>
+  <ColorMapEntry rgb="62,95,226" transparent="false"  sourceValue="[2.3736,2.4126)" value="[2.3736,2.4126)" label="2.3736 - 2.4126 mm/hr"/>
+  <ColorMapEntry rgb="61,94,225" transparent="false"  sourceValue="[2.4126,2.4523)" value="[2.4126,2.4523)" label="2.4126 - 2.4523 mm/hr"/>
+  <ColorMapEntry rgb="61,93,225" transparent="false"  sourceValue="[2.4523,2.4926)" value="[2.4523,2.4926)" label="2.4523 - 2.4926 mm/hr"/>
+  <ColorMapEntry rgb="60,92,225" transparent="false"  sourceValue="[2.4926,2.5336)" value="[2.4926,2.5336)" label="2.4926 - 2.5336 mm/hr"/>
+  <ColorMapEntry rgb="60,91,225" transparent="false"  sourceValue="[2.5336,2.5752)" value="[2.5336,2.5752)" label="2.5336 - 2.5752 mm/hr"/>
+  <ColorMapEntry rgb="59,90,225" transparent="false"  sourceValue="[2.5752,2.6176)" value="[2.5752,2.6176)" label="2.5752 - 2.6176 mm/hr"/>
+  <ColorMapEntry rgb="59,90,225" transparent="false"  sourceValue="[2.6176,2.6606)" value="[2.6176,2.6606)" label="2.6176 - 2.6606 mm/hr"/>
+  <ColorMapEntry rgb="58,89,224" transparent="false"  sourceValue="[2.6606,2.7044)" value="[2.6606,2.7044)" label="2.6606 - 2.7044 mm/hr"/>
+  <ColorMapEntry rgb="58,88,224" transparent="false"  sourceValue="[2.7044,2.7488)" value="[2.7044,2.7488)" label="2.7044 - 2.7488 mm/hr"/>
+  <ColorMapEntry rgb="57,87,224" transparent="false"  sourceValue="[2.7488,2.794)" value="[2.7488,2.794)" label="2.7488 - 2.794 mm/hr"/>
+  <ColorMapEntry rgb="57,86,224" transparent="false"  sourceValue="[2.794,2.84)" value="[2.794,2.84)" label="2.794 - 2.84 mm/hr"/>
+  <ColorMapEntry rgb="56,86,224" transparent="false"  sourceValue="[2.84,2.8867)" value="[2.84,2.8867)" label="2.84 - 2.8867 mm/hr"/>
+  <ColorMapEntry rgb="56,85,224" transparent="false"  sourceValue="[2.8867,2.9342)" value="[2.8867,2.9342)" label="2.8867 - 2.9342 mm/hr"/>
+  <ColorMapEntry rgb="55,84,223" transparent="false"  sourceValue="[2.9342,2.9824)" value="[2.9342,2.9824)" label="2.9342 - 2.9824 mm/hr"/>
+  <ColorMapEntry rgb="55,83,223" transparent="false"  sourceValue="[2.9824,3.0314)" value="[2.9824,3.0314)" label="2.9824 - 3.0314 mm/hr"/>
+  <ColorMapEntry rgb="54,82,223" transparent="false"  sourceValue="[3.0314,3.0813)" value="[3.0314,3.0813)" label="3.0314 - 3.0813 mm/hr"/>
+  <ColorMapEntry rgb="53,82,223" transparent="false"  sourceValue="[3.0813,3.132)" value="[3.0813,3.132)" label="3.0813 - 3.132 mm/hr"/>
+  <ColorMapEntry rgb="53,81,223" transparent="false"  sourceValue="[3.132,3.1834)" value="[3.132,3.1834)" label="3.132 - 3.1834 mm/hr"/>
+  <ColorMapEntry rgb="52,80,222" transparent="false"  sourceValue="[3.1834,3.2358)" value="[3.1834,3.2358)" label="3.1834 - 3.2358 mm/hr"/>
+  <ColorMapEntry rgb="52,79,222" transparent="false"  sourceValue="[3.2358,3.289)" value="[3.2358,3.289)" label="3.2358 - 3.289 mm/hr"/>
+  <ColorMapEntry rgb="51,78,222" transparent="false"  sourceValue="[3.289,3.3431)" value="[3.289,3.3431)" label="3.289 - 3.3431 mm/hr"/>
+  <ColorMapEntry rgb="51,78,222" transparent="false"  sourceValue="[3.3431,3.3981)" value="[3.3431,3.3981)" label="3.3431 - 3.3981 mm/hr"/>
+  <ColorMapEntry rgb="50,77,222" transparent="false"  sourceValue="[3.3981,3.4539)" value="[3.3981,3.4539)" label="3.3981 - 3.4539 mm/hr"/>
+  <ColorMapEntry rgb="50,76,222" transparent="false"  sourceValue="[3.4539,3.5107)" value="[3.4539,3.5107)" label="3.4539 - 3.5107 mm/hr"/>
+  <ColorMapEntry rgb="49,75,221" transparent="false"  sourceValue="[3.5107,3.5684)" value="[3.5107,3.5684)" label="3.5107 - 3.5684 mm/hr"/>
+  <ColorMapEntry rgb="49,74,221" transparent="false"  sourceValue="[3.5684,3.6271)" value="[3.5684,3.6271)" label="3.5684 - 3.6271 mm/hr"/>
+  <ColorMapEntry rgb="48,74,221" transparent="false"  sourceValue="[3.6271,3.6868)" value="[3.6271,3.6868)" label="3.6271 - 3.6868 mm/hr"/>
+  <ColorMapEntry rgb="48,73,221" transparent="false"  sourceValue="[3.6868,3.7474)" value="[3.6868,3.7474)" label="3.6868 - 3.7474 mm/hr"/>
+  <ColorMapEntry rgb="47,72,221" transparent="false"  sourceValue="[3.7474,3.809)" value="[3.7474,3.809)" label="3.7474 - 3.809 mm/hr"/>
+  <ColorMapEntry rgb="47,71,221" transparent="false"  sourceValue="[3.809,3.8716)" value="[3.809,3.8716)" label="3.809 - 3.8716 mm/hr"/>
+  <ColorMapEntry rgb="46,70,220" transparent="false"  sourceValue="[3.8716,3.9353)" value="[3.8716,3.9353)" label="3.8716 - 3.9353 mm/hr"/>
+  <ColorMapEntry rgb="46,69,220" transparent="false"  sourceValue="[3.9353,4)" value="[3.9353,4)" label="3.9353 - 4 mm/hr"/>
+  <ColorMapEntry rgb="45,69,220" transparent="false"  sourceValue="[4,4.0658)" value="[4,4.0658)" label="4 - 4.0658 mm/hr"/>
+  <ColorMapEntry rgb="44,68,220" transparent="false"  sourceValue="[4.0658,4.1326)" value="[4.0658,4.1326)" label="4.0658 - 4.1326 mm/hr"/>
+  <ColorMapEntry rgb="44,67,220" transparent="false"  sourceValue="[4.1326,4.2006)" value="[4.1326,4.2006)" label="4.1326 - 4.2006 mm/hr"/>
+  <ColorMapEntry rgb="43,66,219" transparent="false"  sourceValue="[4.2006,4.2697)" value="[4.2006,4.2697)" label="4.2006 - 4.2697 mm/hr"/>
+  <ColorMapEntry rgb="43,65,219" transparent="false"  sourceValue="[4.2697,4.3399)" value="[4.2697,4.3399)" label="4.2697 - 4.3399 mm/hr"/>
+  <ColorMapEntry rgb="42,65,219" transparent="false"  sourceValue="[4.3399,4.4112)" value="[4.3399,4.4112)" label="4.3399 - 4.4112 mm/hr"/>
+  <ColorMapEntry rgb="42,64,219" transparent="false"  sourceValue="[4.4112,4.4838)" value="[4.4112,4.4838)" label="4.4112 - 4.4838 mm/hr"/>
+  <ColorMapEntry rgb="41,63,219" transparent="false"  sourceValue="[4.4838,4.5575)" value="[4.4838,4.5575)" label="4.4838 - 4.5575 mm/hr"/>
+  <ColorMapEntry rgb="41,62,219" transparent="false"  sourceValue="[4.5575,4.6324)" value="[4.5575,4.6324)" label="4.5575 - 4.6324 mm/hr"/>
+  <ColorMapEntry rgb="40,61,218" transparent="false"  sourceValue="[4.6324,4.7086)" value="[4.6324,4.7086)" label="4.6324 - 4.7086 mm/hr"/>
+  <ColorMapEntry rgb="40,61,218" transparent="false"  sourceValue="[4.7086,4.786)" value="[4.7086,4.786)" label="4.7086 - 4.786 mm/hr"/>
+  <ColorMapEntry rgb="39,60,218" transparent="false"  sourceValue="[4.786,4.8647)" value="[4.786,4.8647)" label="4.786 - 4.8647 mm/hr"/>
+  <ColorMapEntry rgb="39,59,218" transparent="false"  sourceValue="[4.8647,4.9447)" value="[4.8647,4.9447)" label="4.8647 - 4.9447 mm/hr"/>
+  <ColorMapEntry rgb="38,58,218" transparent="false"  sourceValue="[4.9447,5.026)" value="[4.9447,5.026)" label="4.9447 - 5.026 mm/hr"/>
+  <ColorMapEntry rgb="38,57,218" transparent="false"  sourceValue="[5.026,5.1087)" value="[5.026,5.1087)" label="5.026 - 5.1087 mm/hr"/>
+  <ColorMapEntry rgb="37,57,217" transparent="false"  sourceValue="[5.1087,5.1927)" value="[5.1087,5.1927)" label="5.1087 - 5.1927 mm/hr"/>
+  <ColorMapEntry rgb="37,56,217" transparent="false"  sourceValue="[5.1927,5.278)" value="[5.1927,5.278)" label="5.1927 - 5.278 mm/hr"/>
+  <ColorMapEntry rgb="36,55,217" transparent="false"  sourceValue="[5.278,5.3648)" value="[5.278,5.3648)" label="5.278 - 5.3648 mm/hr"/>
+  <ColorMapEntry rgb="35,54,217" transparent="false"  sourceValue="[5.3648,5.453)" value="[5.3648,5.453)" label="5.3648 - 5.453 mm/hr"/>
+  <ColorMapEntry rgb="35,53,217" transparent="false"  sourceValue="[5.453,5.5427)" value="[5.453,5.5427)" label="5.453 - 5.5427 mm/hr"/>
+  <ColorMapEntry rgb="34,53,216" transparent="false"  sourceValue="[5.5427,5.6338)" value="[5.5427,5.6338)" label="5.5427 - 5.6338 mm/hr"/>
+  <ColorMapEntry rgb="34,52,216" transparent="false"  sourceValue="[5.6338,5.7265)" value="[5.6338,5.7265)" label="5.6338 - 5.7265 mm/hr"/>
+  <ColorMapEntry rgb="33,51,216" transparent="false"  sourceValue="[5.7265,5.8206)" value="[5.7265,5.8206)" label="5.7265 - 5.8206 mm/hr"/>
+  <ColorMapEntry rgb="33,50,216" transparent="false"  sourceValue="[5.8206,5.9163)" value="[5.8206,5.9163)" label="5.8206 - 5.9163 mm/hr"/>
+  <ColorMapEntry rgb="32,49,216" transparent="false"  sourceValue="[5.9163,6.0136)" value="[5.9163,6.0136)" label="5.9163 - 6.0136 mm/hr"/>
+  <ColorMapEntry rgb="32,48,216" transparent="false"  sourceValue="[6.0136,6.1125)" value="[6.0136,6.1125)" label="6.0136 - 6.1125 mm/hr"/>
+  <ColorMapEntry rgb="31,48,215" transparent="false"  sourceValue="[6.1125,6.213)" value="[6.1125,6.213)" label="6.1125 - 6.213 mm/hr"/>
+  <ColorMapEntry rgb="31,47,215" transparent="false"  sourceValue="[6.213,6.3152)" value="[6.213,6.3152)" label="6.213 - 6.3152 mm/hr"/>
+  <ColorMapEntry rgb="30,46,215" transparent="false"  sourceValue="[6.3152,6.419)" value="[6.3152,6.419)" label="6.3152 - 6.419 mm/hr"/>
+  <ColorMapEntry rgb="30,45,215" transparent="false"  sourceValue="[6.419,6.5246)" value="[6.419,6.5246)" label="6.419 - 6.5246 mm/hr"/>
+  <ColorMapEntry rgb="29,44,215" transparent="false"  sourceValue="[6.5246,6.6319)" value="[6.5246,6.6319)" label="6.5246 - 6.6319 mm/hr"/>
+  <ColorMapEntry rgb="29,44,215" transparent="false"  sourceValue="[6.6319,6.7409)" value="[6.6319,6.7409)" label="6.6319 - 6.7409 mm/hr"/>
+  <ColorMapEntry rgb="28,43,214" transparent="false"  sourceValue="[6.7409,6.8517)" value="[6.7409,6.8517)" label="6.7409 - 6.8517 mm/hr"/>
+  <ColorMapEntry rgb="28,42,214" transparent="false"  sourceValue="[6.8517,6.9644)" value="[6.8517,6.9644)" label="6.8517 - 6.9644 mm/hr"/>
+  <ColorMapEntry rgb="27,41,214" transparent="false"  sourceValue="[6.9644,7.0789)" value="[6.9644,7.0789)" label="6.9644 - 7.0789 mm/hr"/>
+  <ColorMapEntry rgb="26,40,214" transparent="false"  sourceValue="[7.0789,7.1953)" value="[7.0789,7.1953)" label="7.0789 - 7.1953 mm/hr"/>
+  <ColorMapEntry rgb="26,40,214" transparent="false"  sourceValue="[7.1953,7.3136)" value="[7.1953,7.3136)" label="7.1953 - 7.3136 mm/hr"/>
+  <ColorMapEntry rgb="25,39,213" transparent="false"  sourceValue="[7.3136,7.4339)" value="[7.3136,7.4339)" label="7.3136 - 7.4339 mm/hr"/>
+  <ColorMapEntry rgb="25,38,213" transparent="false"  sourceValue="[7.4339,7.5561)" value="[7.4339,7.5561)" label="7.4339 - 7.5561 mm/hr"/>
+  <ColorMapEntry rgb="24,37,213" transparent="false"  sourceValue="[7.5561,7.6804)" value="[7.5561,7.6804)" label="7.5561 - 7.6804 mm/hr"/>
+  <ColorMapEntry rgb="24,36,213" transparent="false"  sourceValue="[7.6804,7.8067)" value="[7.6804,7.8067)" label="7.6804 - 7.8067 mm/hr"/>
+  <ColorMapEntry rgb="23,36,213" transparent="false"  sourceValue="[7.8067,7.935)" value="[7.8067,7.935)" label="7.8067 - 7.935 mm/hr"/>
+  <ColorMapEntry rgb="23,35,213" transparent="false"  sourceValue="[7.935,8.0655)" value="[7.935,8.0655)" label="7.935 - 8.0655 mm/hr"/>
+  <ColorMapEntry rgb="22,34,212" transparent="false"  sourceValue="[8.0655,8.1981)" value="[8.0655,8.1981)" label="8.0655 - 8.1981 mm/hr"/>
+  <ColorMapEntry rgb="22,33,212" transparent="false"  sourceValue="[8.1981,8.3329)" value="[8.1981,8.3329)" label="8.1981 - 8.3329 mm/hr"/>
+  <ColorMapEntry rgb="21,32,212" transparent="false"  sourceValue="[8.3329,8.47)" value="[8.3329,8.47)" label="8.3329 - 8.47 mm/hr"/>
+  <ColorMapEntry rgb="21,32,212" transparent="false"  sourceValue="[8.47,8.6092)" value="[8.47,8.6092)" label="8.47 - 8.6092 mm/hr"/>
+  <ColorMapEntry rgb="20,31,212" transparent="false"  sourceValue="[8.6092,8.7508)" value="[8.6092,8.7508)" label="8.6092 - 8.7508 mm/hr"/>
+  <ColorMapEntry rgb="20,30,212" transparent="false"  sourceValue="[8.7508,8.8947)" value="[8.7508,8.8947)" label="8.7508 - 8.8947 mm/hr"/>
+  <ColorMapEntry rgb="19,29,211" transparent="false"  sourceValue="[8.8947,9.0409)" value="[8.8947,9.0409)" label="8.8947 - 9.0409 mm/hr"/>
+  <ColorMapEntry rgb="19,28,211" transparent="false"  sourceValue="[9.0409,9.1896)" value="[9.0409,9.1896)" label="9.0409 - 9.1896 mm/hr"/>
+  <ColorMapEntry rgb="18,27,211" transparent="false"  sourceValue="[9.1896,9.3407)" value="[9.1896,9.3407)" label="9.1896 - 9.3407 mm/hr"/>
+  <ColorMapEntry rgb="17,27,211" transparent="false"  sourceValue="[9.3407,9.4943)" value="[9.3407,9.4943)" label="9.3407 - 9.4943 mm/hr"/>
+  <ColorMapEntry rgb="17,26,211" transparent="false"  sourceValue="[9.4943,9.6504)" value="[9.4943,9.6504)" label="9.4943 - 9.6504 mm/hr"/>
+  <ColorMapEntry rgb="16,25,210" transparent="false"  sourceValue="[9.6504,9.8091)" value="[9.6504,9.8091)" label="9.6504 - 9.8091 mm/hr"/>
+  <ColorMapEntry rgb="16,24,210" transparent="false"  sourceValue="[9.8091,9.9704)" value="[9.8091,9.9704)" label="9.8091 - 9.9704 mm/hr"/>
+  <ColorMapEntry rgb="15,23,210" transparent="false"  sourceValue="[9.9704,10.1343)" value="[9.9704,10.1343)" label="9.9704 - 10.1343 mm/hr"/>
+  <ColorMapEntry rgb="15,23,210" transparent="false"  sourceValue="[10.1343,10.301)" value="[10.1343,10.301)" label="10.1343 - 10.301 mm/hr"/>
+  <ColorMapEntry rgb="14,22,210" transparent="false"  sourceValue="[10.301,10.4703)" value="[10.301,10.4703)" label="10.301 - 10.4703 mm/hr"/>
+  <ColorMapEntry rgb="14,21,210" transparent="false"  sourceValue="[10.4703,10.6425)" value="[10.4703,10.6425)" label="10.4703 - 10.6425 mm/hr"/>
+  <ColorMapEntry rgb="13,20,209" transparent="false"  sourceValue="[10.6425,10.8175)" value="[10.6425,10.8175)" label="10.6425 - 10.8175 mm/hr"/>
+  <ColorMapEntry rgb="13,19,209" transparent="false"  sourceValue="[10.8175,10.9954)" value="[10.8175,10.9954)" label="10.8175 - 10.9954 mm/hr"/>
+  <ColorMapEntry rgb="12,19,209" transparent="false"  sourceValue="[10.9954,11.1762)" value="[10.9954,11.1762)" label="10.9954 - 11.1762 mm/hr"/>
+  <ColorMapEntry rgb="12,18,209" transparent="false"  sourceValue="[11.1762,11.3599)" value="[11.1762,11.3599)" label="11.1762 - 11.3599 mm/hr"/>
+  <ColorMapEntry rgb="11,17,209" transparent="false"  sourceValue="[11.3599,11.5467)" value="[11.3599,11.5467)" label="11.3599 - 11.5467 mm/hr"/>
+  <ColorMapEntry rgb="11,16,209" transparent="false"  sourceValue="[11.5467,11.7366)" value="[11.5467,11.7366)" label="11.5467 - 11.7366 mm/hr"/>
+  <ColorMapEntry rgb="10,15,208" transparent="false"  sourceValue="[11.7366,11.9296)" value="[11.7366,11.9296)" label="11.7366 - 11.9296 mm/hr"/>
+  <ColorMapEntry rgb="10,15,208" transparent="false"  sourceValue="[11.9296,12.1257)" value="[11.9296,12.1257)" label="11.9296 - 12.1257 mm/hr"/>
+  <ColorMapEntry rgb="9,14,208" transparent="false"  sourceValue="[12.1257,12.3251)" value="[12.1257,12.3251)" label="12.1257 - 12.3251 mm/hr"/>
+  <ColorMapEntry rgb="8,13,208" transparent="false"  sourceValue="[12.3251,12.5278)" value="[12.3251,12.5278)" label="12.3251 - 12.5278 mm/hr"/>
+  <ColorMapEntry rgb="8,12,208" transparent="false"  sourceValue="[12.5278,12.7338)" value="[12.5278,12.7338)" label="12.5278 - 12.7338 mm/hr"/>
+  <ColorMapEntry rgb="7,11,207" transparent="false"  sourceValue="[12.7338,12.9432)" value="[12.7338,12.9432)" label="12.7338 - 12.9432 mm/hr"/>
+  <ColorMapEntry rgb="7,11,207" transparent="false"  sourceValue="[12.9432,13.156)" value="[12.9432,13.156)" label="12.9432 - 13.156 mm/hr"/>
+  <ColorMapEntry rgb="6,10,207" transparent="false"  sourceValue="[13.156,13.3723)" value="[13.156,13.3723)" label="13.156 - 13.3723 mm/hr"/>
+  <ColorMapEntry rgb="6,9,207" transparent="false"  sourceValue="[13.3723,13.5922)" value="[13.3723,13.5922)" label="13.3723 - 13.5922 mm/hr"/>
+  <ColorMapEntry rgb="5,8,207" transparent="false"  sourceValue="[13.5922,13.8157)" value="[13.5922,13.8157)" label="13.5922 - 13.8157 mm/hr"/>
+  <ColorMapEntry rgb="5,7,207" transparent="false"  sourceValue="[13.8157,14.0429)" value="[13.8157,14.0429)" label="13.8157 - 14.0429 mm/hr"/>
+  <ColorMapEntry rgb="4,6,206" transparent="false"  sourceValue="[14.0429,14.2738)" value="[14.0429,14.2738)" label="14.0429 - 14.2738 mm/hr"/>
+  <ColorMapEntry rgb="4,6,206" transparent="false"  sourceValue="[14.2738,14.5085)" value="[14.2738,14.5085)" label="14.2738 - 14.5085 mm/hr"/>
+  <ColorMapEntry rgb="3,5,206" transparent="false"  sourceValue="[14.5085,14.747)" value="[14.5085,14.747)" label="14.5085 - 14.747 mm/hr"/>
+  <ColorMapEntry rgb="3,4,206" transparent="false"  sourceValue="[14.747,14.9895)" value="[14.747,14.9895)" label="14.747 - 14.9895 mm/hr"/>
+  <ColorMapEntry rgb="2,3,206" transparent="false"  sourceValue="[14.9895,15.236)" value="[14.9895,15.236)" label="14.9895 - 15.236 mm/hr"/>
+  <ColorMapEntry rgb="2,2,206" transparent="false"  sourceValue="[15.236,15.4865)" value="[15.236,15.4865)" label="15.236 - 15.4865 mm/hr"/>
+  <ColorMapEntry rgb="1,2,205" transparent="false"  sourceValue="[15.4865,15.7412)" value="[15.4865,15.7412)" label="15.4865 - 15.7412 mm/hr"/>
+  <ColorMapEntry rgb="1,1,205" transparent="false"  sourceValue="[15.7412,+INF)" value="[15.7412,+INF)" label="> 15.7412 mm/hr"/>
+  <ColorMapEntry rgb="255,255,255" transparent="true" label="No Data"/>
 </ColorMap>

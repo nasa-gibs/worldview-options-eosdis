@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ColorMap>
-	<ColorMapEntry rgb="0,0,255" transparent="false" sourceValue="0" label="Frozen"/>
-	<ColorMapEntry rgb="255,0,0" transparent="false" sourceValue="1" label="Thawed"/>
-	<ColorMapEntry rgb="165,165,0" transparent="false" sourceValue="2" label="Transitional"/>
-	<ColorMapEntry rgb="0,255,0" transparent="false" sourceValue="3" label="Inv Transitional"/>
-	<ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="251" label="No FT Status"/>
-	<ColorMapEntry rgb="17,17,17" transparent="true" sourceValue="252" label="Non–Cold Area"/>
-	<ColorMapEntry rgb="119,85,51" transparent="true" sourceValue="254" label="Open Water"/>
-	<ColorMapEntry rgb="119,154,187" transparent="true" sourceValue="255" label="Fill"/>
+<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd">
+	  <ColorMapEntry rgb="0,0,255" transparent="false" sourceValue="0" label="Frozen"/>
+	  <ColorMapEntry rgb="255,0,0" transparent="false" sourceValue="1" label="Thawed"/>
+	  <ColorMapEntry rgb="165,165,0" transparent="false" sourceValue="2" label="Transitional"/>
+	  <ColorMapEntry rgb="0,255,0" transparent="false" sourceValue="3" label="Inv Transitional"/>
+	  <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="251" label="No FT Status"/>
+	  <ColorMapEntry rgb="17,17,17" transparent="true" sourceValue="252" label="Non–Cold Area"/>
+	  <ColorMapEntry rgb="119,85,51" transparent="true" sourceValue="254" label="Open Water"/>
+	  <ColorMapEntry rgb="119,154,187" transparent="true" sourceValue="255" label="Fill"/>
 </ColorMap>
