@@ -8,7 +8,7 @@
                 "Space-Track.org / Terra": {
                     "id": "space-track-org-terra",
                     "title": "Space-Track.org / Terra",
-                    "description": "no description",
+                    "description": "orbitaltrack/Terra",
                     "image": "",
                     "settings": [
                         "Terra_Orbit_Asc",
@@ -18,7 +18,7 @@
                 "Space-Track.org / Aqua": {
                     "id": "space-track-org-aqua",
                     "title": "Space-Track.org / Aqua",
-                    "description": "no description",
+                    "description": "orbitaltrack/Aqua",
                     "image": "",
                     "settings": [
                         "Aqua_Orbit_Asc",
@@ -28,7 +28,7 @@
                 "Space-Track.org / Aura": {
                     "id": "space-track-org-aura",
                     "title": "Space-Track.org / Aura",
-                    "description": "no description",
+                    "description": "orbitaltrack/Aura",
                     "image": "",
                     "settings": [
                         "Aura_Orbit_Asc",
@@ -38,7 +38,7 @@
                 "Space-Track.org / CALIPSO": {
                     "id": "space-track-org-calipso",
                     "title": "Space-Track.org / CALIPSO",
-                    "description": "no description",
+                    "description": "orbitaltrack/CALIPSO",
                     "image": "",
                     "settings": [
                         "Calipso_Orbit_Asc",
@@ -48,7 +48,7 @@
                 "Space-Track.org / GPM": {
                     "id": "space-track-org-gpm",
                     "title": "Space-Track.org / GPM",
-                    "description": "no description",
+                    "description": "orbitaltrack/GPM",
                     "image": "",
                     "settings": [
                         "GPM_Orbit_Asc",
@@ -58,7 +58,7 @@
                 "Space-Track.org / GCOM-W1": {
                     "id": "space-track-org-gcom",
                     "title": "Space-Track.org / GCOM-W1",
-                    "description": "no description",
+                    "description": "orbitaltrack/GCOM-W1",
                     "image": "",
                     "settings": [
                         "GCOM_W1_Orbit_Asc",

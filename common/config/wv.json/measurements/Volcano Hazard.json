@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/VolcanoHazard",
                     "image": "",
                     "settings": [
                         "ndh-volcano-hazard-frequency-distribution",

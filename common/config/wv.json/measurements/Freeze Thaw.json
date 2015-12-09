@@ -8,7 +8,7 @@
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsr-e",
                     "title": "Aqua / AMSR-E",
-                    "description": "no description",
+                    "description": "amsre/FreezeThaw",
                     "image": "",
                     "settings": [
                         "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE"
@@ -17,7 +17,7 @@
                 "DMSP/SSMI": {
                     "id": "dmsp-ssmi",
                     "title": "DMSP / SSMI",
-                    "description": "no description",
+                    "description": "ssmi/FreezeThaw",
                     "image": "",
                     "settings": [
                         "MEaSUREs_Daily_Landscape_Freeze_Thaw_SSMI"

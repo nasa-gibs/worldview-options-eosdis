@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/FloodHazard",
                     "image": "",
                     "settings": [
                         "ndh-flood-hazard-frequency-distribution",

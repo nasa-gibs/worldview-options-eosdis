@@ -8,7 +8,7 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "no description",
+                    "description": "airs/RelativeHumidity",
                     "image": "",
                     "settings": [
                         "AIRS_RelativeHumidity_400hPa_Day",
