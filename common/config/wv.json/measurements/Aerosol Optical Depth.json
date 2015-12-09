@@ -8,17 +8,19 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "no description",
+                    "description": "omi/Aerosol",
                     "image": "",
                     "settings": [
                         "OMI_Aerosol_Optical_Depth",
+                        "OMI_Absorbing_Aerosol_Optical_Depth",
+                        "OMI_Aerosol_Index",
                         "Aura_Orbit_Asc"
                     ]
                 },
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "no description",
+                    "description": "modis/Aerosol",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Aerosol",
@@ -28,11 +30,20 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "no description",
+                    "description": "modis/Aerosol",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Aerosol",
                         "Terra_Orbit_Dsc"
+                    ]
+                },
+                "Aqua and Terra/MODIS": {
+                    "id": "aqua-terra-modis",
+                    "title": "Aqua and Terra/MODIS",
+                    "description": "modis/Aerosol_Combined",
+                    "image": "",
+                    "settings": [
+                        "MODIS_Combined_Value_Added_AOD"
                     ]
                 }
             }

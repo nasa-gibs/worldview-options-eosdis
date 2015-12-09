@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/CycloneHazard",
                     "image": "",
                     "settings": [
                         "ndh-cyclone-hazard-frequency-distribution",

@@ -8,7 +8,7 @@
                 "MODIS/NASAEO": {
                     "id": "modis-nasaeo",
                     "title": "MODIS / NASA EO",
-                    "description": "no description",
+                    "description": "modis/BlueMarble",
                     "image": "",
                     "settings": [
                         "BlueMarble_NextGeneration",

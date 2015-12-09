@@ -9,9 +9,7 @@
                 "measurements": [
                     "Corrected Reflectance",
                     "Land Surface Reflectance",
-                    "Aerosol Index",
                     "Aerosol Optical Depth",
-                    "Aerosol Optical Depth, Value Added",
                     "Sulfur Dioxide",
                     "Fires and Thermal Anomalies",
                     "Volcano Hazard"

@@ -8,7 +8,7 @@
                 "SEDAC": {
                     "id": "sedac",
                     "title": "SEDAC",
-                    "description": "no description",
+                    "description": "sedac/Settlements",
                     "image": "",
                     "settings": [
                         "grump-v1-settlement-points"

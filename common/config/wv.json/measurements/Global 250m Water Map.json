@@ -8,7 +8,7 @@
                 "Terra/MODIS and SRTM": {
                     "id": "terra-modis-srtm",
                     "title": "Terra / MODIS and SRTM",
-                    "description": "no description",
+                    "description": "modis/WaterMask",
                     "image": "",
                     "settings": [
                         "MODIS_Water_Mask"

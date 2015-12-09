@@ -7,10 +7,7 @@
                 "image": "air-quality.jpg",
                 "description": "",
                 "measurements": [
-                    "Aerosol Index",
                     "Aerosol Optical Depth",
-                    "Aerosol Optical Depth, Value Added",
-                    "Aerosol Optical Depth, Absorbing",
                     "Carbon Monoxide",
                     "Corrected Reflectance",
                     "Fires and Thermal Anomalies",
