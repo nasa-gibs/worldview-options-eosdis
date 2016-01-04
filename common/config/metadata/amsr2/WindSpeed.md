@@ -5,5 +5,5 @@ The Advanced Microwave Scanning Radiometer 2 (AMSR2) instrument is a conically s
 
 
 References: [NRT AMSR2 L2B Global Swath GSFC Profiling Algorithm 2010: Surface Precipitation, Wind Speed over Ocean, Water Vapor over Ocean and Cloud Liquid Water over Ocean] (https://ghrc.nsstc.nasa.gov/hydro/details.pl?ds=A2_RainOcn_NRT); 
-[Advanced Microwave Scanning Radiometer for EOS (AMSR-E) and GCOM-W (AMSR2) Rainfall Products] (http://rain.atmos.colostate.edu/RAINMAP10v2/amsr_description.html); http://[]()www.remss.com/measurements/wind
+[Advanced Microwave Scanning Radiometer for EOS (AMSR-E) and GCOM-W (AMSR2) Rainfall Products] (http://rain.atmos.colostate.edu/RAINMAP10v2/amsr_description.html); http://www.[]()remss.com/measurements/wind
 
