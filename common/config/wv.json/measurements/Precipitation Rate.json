@@ -8,7 +8,7 @@
                 "GPM/GMI": {
                     "id": "gpm-gmi",
                     "title": "GPM / GMI",
-                    "description": "no description",
+                    "description": "gmi/RainRate",
                     "image": "",
                     "settings": [
                         "GMI_Rain_Rate_Asc",
