@@ -47,8 +47,8 @@
                     "description": "no description",
                     "image": "",
                     "settings": [
-                        "AMSR2_Cloud_Liquid_Water_Day",
-                        "AMSR2_Cloud_Liquid_Water_Night",
+                        "AMSR2_Columnar_Water_Vapor_Day",
+                        "AMSR2_Columnar_Water_Vapor_Night",
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]
