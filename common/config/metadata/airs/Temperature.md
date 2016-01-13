@@ -3,4 +3,4 @@ The AIRS Temperature  layer indicates the air temperature at varying pressure le
 
 The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Temperature science parameter is a parameter of the AIRS Level 2 standard retrieval product using AIRS and AMSU (AIRX2RET_NRT). The imagery resolution is 2km and sensor resolution is 45km. The temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is July 16, 2013 - present.
 
-References: <http://www.ua.nws.noaa.gov/factsheet.htm>; <http://weatherfaqs.org.uk/book/export/html/174>; <http://airs.jpl.nasa.gov/data/physical_retrievals>
+References: [NOAA National Weather Service - Radiosonde Observations](http://www.ua.nws.noaa.gov/factsheet.htm); [AIRS - The AIRS instrument suite physical retrievals](http://airs.jpl.nasa.gov/data/physical_retrievals)
