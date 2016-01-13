@@ -7,4 +7,4 @@ Water vapor is the dominant greenhouse gas in the troposphere. Its greatest infl
 
 The MLS Water Vapor (H2O) Mixing Ratio 46hPa layer is derived from the MLS Water Vapor product (ML2H2O_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5km, imagery resolution is 2km, temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is May 9, 2013 – present.
 
-References: [MLS - H2O Product] (http://mls.jpl.nasa.gov/products/h2o_product.php)
+References: [MLS - H2O Product](http://mls.jpl.nasa.gov/products/h2o_product.php)
