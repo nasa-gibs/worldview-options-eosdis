@@ -7,7 +7,7 @@ These images are called true-color or natural color because this combination of 
 The MODIS Corrected Reflectance imagery is available only as near real-time imagery. The imagery can be visualized in Worldview, the Global Imagery Browse Services (GIBS) and Rapid Response. The sensor resolution is 500m and 250m (Bands 1 and 2 have a sensor resolution of 250m, Bands 3 – 7 have a sensor resolution of 500m, and Bands 8 - 36 are 1km. Band 1 is used to sharpen Band 3, 4, 6, and 7), imagery resolution is 250m, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
 References: [NASA Earthdata - Rapid Response FAQ](https://earthdata.nasa.gov/faq#ed-rapid-response-faq); 
-[AMNH - Biodiversity Informatics, Band Combination] (http://biodiversityinformatics.amnh.org/interactives/bandcombination.php)
+[AMNH - Biodiversity Informatics, Band Combination](http://biodiversityinformatics.amnh.org/interactives/bandcombination.php)
 
 # MODIS (Terra/Aqua) Corrected Reflectance (Bands 7,2,1)
 
