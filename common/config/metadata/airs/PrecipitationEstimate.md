@@ -10,4 +10,4 @@ AIRS, the Atmospheric Infrared Sounder is a facility instrument aboard the secon
 
 The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Precipitation Estimate (AIRG2SSD) layer is a is a variable of the AIRS Level 2 Support Retrieval (AIRS+AMSU) (AIRX2SUP_NRT). The imagery resolution is 2km and sensor resolution is 45km. The temporal resolution daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
-References: <http://disc.sci.gsfc.nasa.gov/nrt/data-holdings/airs-nrt-products>
+References: [GES DISC - AIRS NRT Products and Images](http://disc.sci.gsfc.nasa.gov/nrt/data-holdings/airs-nrt-products)
