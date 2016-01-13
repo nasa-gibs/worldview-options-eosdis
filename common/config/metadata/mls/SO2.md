@@ -7,4 +7,4 @@ MLS can measure SO2 injected into the upper troposphere and lower stratosphere b
 
 The MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa layer is derived from the MLS Sulfur Dioxide product (ML2SO2_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5km, imagery resolution is 2km, temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is May 9, 2013 – present.
 
-References: [MLS - SO2 Product](http://mls.jpl.nasa.gov/products/so2_product.php); [GES DISC - Sulfur Dioxide] (http://disc.sci.gsfc.nasa.gov/data-holdings/PIP/sulfur_dioxide.shtml)
+References: [MLS - SO2 Product](http://mls.jpl.nasa.gov/products/so2_product.php); [GES DISC - Sulfur Dioxide](http://disc.sci.gsfc.nasa.gov/data-holdings/PIP/sulfur_dioxide.shtml)
