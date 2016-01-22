@@ -14,7 +14,8 @@ References: [NASA Earthdata - Rapid Response FAQ](https://earthdata.nasa.gov/faq
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
 This combination is most useful for distinguishing burn scars from naturally low vegetation or bare soil and enhancing floods.
-This combination can also be used to distinguish snow and ice from clouds. Snow and ice are very reflective in the visible part of the spectrum (Band 1), and absorbent in Bands 2 (near infrared) and 7 (short-wave infrared, or SWIR). Thick ice and snow appear vivid sky blue, while small ice crystals in high-level clouds will also appear blueish, and water clouds will appear white
+This combination can also be used to distinguish snow and ice from clouds. Snow and ice are very reflective in the visible part of the spectrum (Band 1), and absorbent in Bands 2 (near infrared) and 7 (short-wave infrared, or SWIR). Thick ice and snow appear vivid sky blue, while small ice crystals in high-level clouds will also appear blueish, and water clouds will appear white.
+
 The MODIS Corrected Reflectance imagery is available only as near real-time imagery. The imagery can be visualized in Worldview, the Global Imagery Browse Services (GIBS) and Rapid Response. The sensor resolution is 500m and 250m (Bands 1 and 2 have a sensor resolution of 250m, Bands 3 – 7 have a sensor resolution of 500m, and Bands 8 - 36 are 1km. Band 1 is used to sharpen Band 3, 4, 6, and 7), imagery resolution is 250m, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
 ## Vegetation and bare ground
