@@ -7,4 +7,4 @@ N2O studies contribute to the further investigation of stratospheric ozone layer
 
 The MLS Nitrous Oxide (N2O) Mixing Ratio 46hPa layer is derived from the MLS Nitrous Oxide product (ML2N2O_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5km, imagery resolution is 2km, temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is May 9, 2013 – present.
 
-References: [MLS - N2O Product] (mls.jpl.nasa.gov/products/n2o_product.php)
+References: [MLS - N2O Product](mls.jpl.nasa.gov/products/n2o_product.php)

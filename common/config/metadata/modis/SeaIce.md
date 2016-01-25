@@ -4,4 +4,4 @@ The MODIS Sea Ice extent layer shows the presence of sea ice. Ice forms in the s
 
 The MODIS Sea Ice product is available from both the Terra (MOD29) and Aqua (MYD29) satellites. The sensor and imagery resolution is 1km, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is May 8, 2012 - present.
 
-Reference: [NSIDC - MYD29](http://nsidc.org/data/myd29); [NASA Earth Observations - Sea Ice and Snow Extent](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=SCSIE_W).
+Reference: [NSIDC - MYD29](http://nsidc.org/data/myd29); [NASA Earth Observations - Sea Ice and Snow Extent](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=SCSIE_W)
