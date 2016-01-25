@@ -1,5 +1,32 @@
 <input type="hidden" autofocus>
 
+# Version 1.0
+
+## New Features
+
+* Metadata has been added to many products in the product picker.
+
+## Updates
+
+* The width of the product picker is now limited for best viewing results
+* A link to the source code of Worldview is now directly on the Info menu
+* Various bug fixes
+
+## Known Issues
+
+* Internet Explorer 8 and below is not supported.
+* Internet Explorer 9 has difficulties rendering the user interface under
+  certain circumstances, though should remain usable.
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+
+---
+
 # Version 0.9.0
 
 ## New Features
@@ -21,18 +48,6 @@
 * Download Selected Data button moved to the bottom of the Data Download tab window.
 * Tour updates.
 
-## Known Issues
-
-* Internet Explorer 8 and below is not supported.
-* Internet Explorer 9 has difficulties rendering the user interface under
-  certain circumstances, though should remain usable.
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 ---
 
 # Version 0.8.10
