@@ -103,14 +103,130 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2015-06-09/2015-12-09/P1D</Value>
+           <Value>2015-06-09/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
          </TileMatrixSetLink>
          <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-arctic/AMSR2_Snow_Water_Equivalent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>AMSR2_Sea_Ice_Concentration_12km</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 38.807151</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3413">
+            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
+            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
+         </ows:BoundingBox>
+         <ows:Identifier>AMSR2_Sea_Ice_Concentration_12km</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2016-01-26</Default>
+           <Current>false</Current>
+           <Value>2016-01-13/2016-01-26/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-arctic/AMSR2_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>AMSR2_Sea_Ice_Concentration_25km</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 38.807151</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3413">
+            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
+            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
+         </ows:BoundingBox>
+         <ows:Identifier>AMSR2_Sea_Ice_Concentration_25km</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2016-01-26</Default>
+           <Current>false</Current>
+           <Value>2016-01-13/2016-01-26/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-arctic/AMSR2_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>AMSR2_Sea_Ice_Brightness_Temp_6km_89H</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 38.807151</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3413">
+            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
+            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
+         </ows:BoundingBox>
+         <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89H</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/AMSR2_Sea_Ice_Brightness_Temp_6km_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2016-01-26</Default>
+           <Current>false</Current>
+           <Value>2016-01-13/2016-01-26/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-arctic/AMSR2_Sea_Ice_Brightness_Temp_6km_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+      </Layer>
+      <Layer>
+         <ows:Title>AMSR2_Sea_Ice_Brightness_Temp_6km_89V</ows:Title>
+         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:1.3:CRS84">
+            <ows:LowerCorner>-180 38.807151</ows:LowerCorner>
+            <ows:UpperCorner>180 90</ows:UpperCorner>
+         </ows:WGS84BoundingBox>
+         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3413">
+            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
+            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
+         </ows:BoundingBox>
+         <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89V</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://map1.vis.earthdata.nasa.gov/colormaps/AMSR2_Sea_Ice_Brightness_Temp_6km_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <Style isDefault="true">
+            <ows:Title>default</ows:Title>
+            <ows:Identifier>default</ows:Identifier>
+         </Style>
+         <Format>image/png</Format>
+         <Dimension>
+           <ows:Identifier>time</ows:Identifier>
+           <UOM>ISO8601</UOM>
+           <Default>2016-01-26</Default>
+           <Current>false</Current>
+           <Value>2016-01-13/2016-01-26/P1D</Value>
+         </Dimension>
+         <TileMatrixSetLink>
+            <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
+         </TileMatrixSetLink>
+         <ResourceURL format="image/png" resourceType="tile" template="http://map1.vis.earthdata.nasa.gov/wmts-arctic/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title>AMSRE_Sea_Ice_Concentration_12km</ows:Title>
@@ -382,9 +498,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-07/2015-12-09/P1D</Value>
+           <Value>2013-06-07/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_500m</TileMatrixSet>
@@ -411,9 +527,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-07/2015-12-09/P1D</Value>
+           <Value>2013-06-07/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -440,9 +556,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -469,9 +585,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -497,9 +613,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -525,9 +641,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -553,9 +669,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -582,9 +698,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-07/2015-12-09/P1D</Value>
+           <Value>2013-06-07/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_500m</TileMatrixSet>
@@ -611,9 +727,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-07/2015-12-09/P1D</Value>
+           <Value>2013-06-07/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -640,9 +756,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -669,9 +785,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_1km</TileMatrixSet>
@@ -697,9 +813,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -725,9 +841,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2013-06-06/2015-12-09/P1D</Value>
+           <Value>2013-06-06/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -866,9 +982,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2015-11-24/2015-12-09/P1D</Value>
+           <Value>2015-11-24/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -894,9 +1010,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2015-11-24/2015-12-09/P1D</Value>
+           <Value>2015-11-24/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
@@ -922,9 +1038,9 @@
          <Dimension>
            <ows:Identifier>time</ows:Identifier>
            <UOM>ISO8601</UOM>
-           <Default>2015-12-09</Default>
+           <Default>2016-01-26</Default>
            <Current>false</Current>
-           <Value>2015-11-24/2015-12-09/P1D</Value>
+           <Value>2015-11-24/2016-01-26/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
             <TileMatrixSet>EPSG3413_250m</TileMatrixSet>
