@@ -1,4 +1,4 @@
-#MLS Water Vapor (H2O) Mixing Ratio 46hPa Day/Night
+#MLS Water Vapor (H2O) Mixing Ratio 46hPa (Day/Night)
 
 
 The Microwave Limb Sounder (MLS) Water Vapor (H2O) Mixing Ratio layer at 46hPa (hectopascals) indicates water vapor levels at the vertical atmospheric pressure level of 46hPa, and is measured in parts per million by volume (ppmv).
