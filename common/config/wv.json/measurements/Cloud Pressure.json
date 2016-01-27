@@ -8,7 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua / MODIS",
-                    "description": "modis/CloudPressure",
+                    "description": "modis/CloudTopPressure",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Cloud_Top_Pressure_Day",
@@ -20,7 +20,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra / MODIS",
-                    "description": "modis/CloudPressure",
+                    "description": "modis/CloudTopPressure",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Cloud_Top_Pressure_Day",
