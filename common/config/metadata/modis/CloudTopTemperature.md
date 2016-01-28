@@ -1,4 +1,4 @@
-# MODIS (Terra/Aqua) Cloud Top Temperature (day/night)
+# MODIS (Terra/Aqua) Cloud Top Temperature (Day/Night)
 
 The MODIS Cloud Top Temperature layer indicates the atmospheric temperature at the top of the clouds measured in Kelvin (K). Clouds play an important role in the radiative balance of the Earth. Clouds can contain ice or water and each will react differently. Knowing the temperature of the cloud (weather a cold, icy cloud, or a warmer, wet cloud) and the changes in the cloud phase can affect climate feedback mechanism and is useful when included in global climate models. Cloud top temperature can be used to infer tropical convection and precipitation.
 

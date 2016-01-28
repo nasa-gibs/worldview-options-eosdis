@@ -8,7 +8,7 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "AIRS/Temperature",
+                    "description": "airs/Temperature",
                     "image": "",
                     "settings": [
                         "AIRS_Temperature_400hPa_Day",
@@ -28,7 +28,7 @@
                 "Aura/MLS": {
                     "id": "aura-mls",
                     "title": "Aura / MLS",
-                    "description": "MLS/Temperature",
+                    "description": "mls/Temperature",
                     "image": "",
                     "settings": [
                         "MLS_Temperature_46hPa_Day",
