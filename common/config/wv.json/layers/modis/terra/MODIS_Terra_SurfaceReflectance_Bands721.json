@@ -5,7 +5,7 @@
             "title":    "Land Surface Reflectance (Bands 7-2-1)",
             "subtitle": "Terra / MODIS",
             "tags":     "lsr",
-            "group":    "baselayers",
+            "group":    "baselayers m11-i2-i1",
             "product":  "MOD09GA"
         }
     }
