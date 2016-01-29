@@ -39,7 +39,7 @@
                 "S-NPP/VIIRS": {
                     "id": "snpp-viirs",
                     "title": "Suomi NPP / VIIRS",
-                    "description": "no description",
+                    "description": "viirs/Fires_ThermalAnomalies",
                     "image": "",
                     "settings": [
                 	"VIIRS_SNPP_Fires_375m_Day",
