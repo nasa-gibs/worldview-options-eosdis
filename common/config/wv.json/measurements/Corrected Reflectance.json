@@ -31,7 +31,7 @@
                 "S-NPP/VIIRS": {
                 	"id": "snpp-viirs",
                 	"title": "Suomi NPP / VIIRS",
-                	"description": "no description",
+                	"description": "viirs/CorrectedReflectance",
                 	"image": "",
                 	"settings": [
                 		"VIIRS_SNPP_CorrectedReflectance_TrueColor",
