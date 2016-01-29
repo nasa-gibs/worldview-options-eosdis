@@ -1,4 +1,4 @@
-* VIIRS Fires and Thermal Anomalies (Day/Night, 375m)
+# VIIRS Fires and Thermal Anomalies (Day/Night, 375m)
 
 The VIIRS (Visible Infrared Imaging Radiometer Suite) Fire layer shows active fire detections and thermal anomalies, such as volcanoes, and gas flares. Fires can be set naturally, such as by lightning, or by humans, whether intentionally or accidentally. Fire is often thought of as a menace and detriment to life, but in some ecosystems it is necessary to maintain the equilibrium, for example, some plants only release seeds under high temperatures that can only be achieved by fire, fires can also clear undergrowth and brush to help restore forests to good health, humans use fire in slash and burn agriculture, to clear away last year’s crop stubble and provide nutrients for the soil and to clear areas for pasture. The fire layer is useful for studying the spatial and temporal distribution of fire, to locate persistent hot spots such as volcanoes and gas flares, to locate the source of air pollution from smoke that may have adverse human health impacts. 
 
