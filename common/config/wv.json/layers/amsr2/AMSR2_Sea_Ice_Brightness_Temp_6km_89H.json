@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Sea_Ice_Brightness_Temp_6km_89H": {
+            "id":       "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
+            "title":    "Sea Ice Brightness Temperature 6km 89H",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_SI6_NRT"
+        }
+    }
+}
