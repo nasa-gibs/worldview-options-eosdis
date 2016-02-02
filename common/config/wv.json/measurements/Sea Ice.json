@@ -3,7 +3,7 @@
         "Sea Ice": {
             "id": "sea-ice",
             "title":    "Sea Ice",
-            "subtitle": "Aqua / MODIS, Aqua / AMSR-E, Terra / MODIS",
+            "subtitle": "Aqua / MODIS, Aqua / AMSR-E, GCOM-W1 / AMSR2, Terra / MODIS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
@@ -37,6 +37,18 @@
                         "AMSRE_Sea_Ice_Concentration_25km",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "GCOM-W1/AMSR2": {
+                    "id": "gcom-w1-amsr2",
+                    "title": "GCOM-W1 / AMSR2",
+                    "description": "no description",
+                    "image": "",
+                    "settings": [
+                        "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
+                        "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
+                        "AMSR2_Sea_Ice_Concentration_12km",
+                        "AMSR2_Sea_Ice_Concentration_25km"
                     ]
                 }
             }
