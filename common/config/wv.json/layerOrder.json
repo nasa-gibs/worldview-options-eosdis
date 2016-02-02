@@ -72,6 +72,7 @@
         "AMSR2_Surface_Rain_Rate_Night",
         "AMSR2_Wind_Speed_Day",
         "AMSR2_Wind_Speed_Night",
+        "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
 
         "SMAP_L1_Passive_Brightness_Temp_Fore_H",
         "SMAP_L1_Passive_Brightness_Temp_Aft_H",
