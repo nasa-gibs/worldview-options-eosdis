@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Sea_Ice_Concentration_12km": {
+            "id":       "AMSR2_Sea_Ice_Concentration_12km",
+            "title":    "Sea Ice Concentration 12km",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_SI12_NRT"
+        }
+    }
+}
