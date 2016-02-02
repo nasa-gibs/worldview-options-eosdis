@@ -73,6 +73,9 @@
         "AMSR2_Wind_Speed_Day",
         "AMSR2_Wind_Speed_Night",
         "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
+        "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
+        "AMSR2_Sea_Ice_Concentration_12km",
+        "AMSR2_Sea_Ice_Concentration_25km",
 
         "SMAP_L1_Passive_Brightness_Temp_Fore_H",
         "SMAP_L1_Passive_Brightness_Temp_Aft_H",
@@ -105,14 +108,14 @@
         "SMAP_L3_Active_Sigma0_HH_QA",
         "SMAP_L3_Active_Sigma0_VV_QA",
         "SMAP_L3_Active_Sigma0_XPOL_QA",
-        
+
         "SMAP_L3_Active_AM_Freeze_Thaw",
-        
+
         "SMAP_L3_Active_Soil_Moisture",
         "SMAP_L3_Active_Passive_Soil_Moisture",
         "SMAP_L3_Active_Passive_Brightness_Temp_H",
         "SMAP_L3_Active_Passive_Brightness_Temp_V",
-        
+
         "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
         "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
         "SMAP_L4_Analyzed_Surface_Soil_Moisture",
