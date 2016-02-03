@@ -20,8 +20,8 @@
         "VIIRS_CityLights_2012",
         "Land_Water_Map",
 
-		    "VIIRS_SNPP_Fires_375m_Day",
-		    "VIIRS_SNPP_Fires_375m_Night",
+	"VIIRS_SNPP_Fires_375m_Day",
+	"VIIRS_SNPP_Fires_375m_Night",
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
         "MODIS_Combined_Value_Added_AOD",
@@ -61,10 +61,6 @@
         "GMI_Rain_Rate_Dsc",
         "GMI_Snow_Rate_Asc",
         "GMI_Snow_Rate_Dsc",
-        "AMSRE_Surface_Precipitation_Rate_Day_v12_STD",
-        "AMSRE_Surface_Precipitation_Rate_Night_v12_STD",
-        "AMSRE_Surface_Rain_Rate_Day_v12_STD",
-        "AMSRE_Surface_Rain_Rate_Night_v12_STD",
 
         "AMSR2_Cloud_Liquid_Water_Day",
         "AMSR2_Cloud_Liquid_Water_Night",
@@ -133,6 +129,10 @@
         "SMAP_L4_Emult_Average",
         "SMAP_L4_Frozen_Area",
 
+        "AMSRE_Surface_Rain_Rate_Day",
+        "AMSRE_Surface_Rain_Rate_Night",
+        "AMSRE_Surface_Precipitation_Rate_Day",
+        "AMSRE_Surface_Precipitation_Rate_Night",
         "AMSRE_Brightness_Temp_89H_Day",
         "AMSRE_Brightness_Temp_89H_Night",
         "AMSRE_Brightness_Temp_89V_Day",

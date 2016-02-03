@@ -39,10 +39,10 @@
                       "description": "",
                       "image": "",
                       "settings": [
-                          "AMSRE_Surface_Precipitation_Rate_Day_v12_STD",
-                          "AMSRE_Surface_Precipitation_Rate_Night_v12_STD",
-                          "AMSRE_Surface_Rain_Rate_Day_v12_STD",
-                          "AMSRE_Surface_Rain_Rate_Night_v12_STD",
+                          "AMSRE_Surface_Precipitation_Rate_Day",
+                          "AMSRE_Surface_Precipitation_Rate_Night",
+                          "AMSRE_Surface_Rain_Rate_Day",
+                          "AMSRE_Surface_Rain_Rate_Night",
                           "Aqua_Orbit_Asc",
                           "Aqua_Orbit_Dsc"
                       ]

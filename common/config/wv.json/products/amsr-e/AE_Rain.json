@@ -2,10 +2,16 @@
     "products": {
         "AE_Rain": {
             "name": "AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm V003",
-            "handler": "List",
+            "handler": "HalfOrbit",
             "query": {
                 "shortName": "AE_Rain",
                 "dataCenterId": "NSIDC_ECS"
+            },
+            "orbit": {
+                "type": "regex_group",
+                "field": "producer_granule_id",
+                "regex": ".*([AD])\\.hdf$",
+                "match": "A"
             },
             "version": 3
         }
