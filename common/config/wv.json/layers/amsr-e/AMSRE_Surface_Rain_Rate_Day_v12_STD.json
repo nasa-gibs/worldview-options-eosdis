@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSRE_Surface_Rain_Rate_Day_v12_STD": {
+            "id":       "AMSRE_Surface_Rain_Rate_Day_v12_STD",
+            "title":    "Surface Rain Rate (Day)",
+            "subtitle": "Aqua / AMSR-E",
+            "group":    "overlays",
+            "product":  "AE_Rain"
+        }
+    }
+}

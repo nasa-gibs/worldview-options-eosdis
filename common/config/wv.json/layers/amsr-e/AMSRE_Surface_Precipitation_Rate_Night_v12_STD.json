@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSRE_Surface_Precipitation_Rate_Night_v12_STD": {
+            "id":       "AMSRE_Surface_Precipitation_Rate_Night_v12_STD",
+            "title":    "Surface Precipitation Rate (Night)",
+            "subtitle": "Aqua / AMSR-E",
+            "group":    "overlays",
+            "product":  "AE_Rain"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "products": {
+        "AE_Rain": {
+            "name": "AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm V003",
+            "handler": "List",
+            "query": {
+                "shortName": "AE_Rain",
+                "dataCenterId": "NSIDC_ECS"
+            },
+            "version": 3
+        }
+    }
+}

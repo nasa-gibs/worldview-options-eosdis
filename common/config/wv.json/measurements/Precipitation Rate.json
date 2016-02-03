@@ -3,7 +3,7 @@
         "Precipitation Rate": {
             "id": "precipitation-rate",
             "title":    "Precipitation Rate",
-            "subtitle": "GPM / GMI, GCOM-W1 / AMSR2",
+            "subtitle": "GPM / GMI, GCOM-W1 / AMSR2, Aqua / AMSR-E",
             "sources": {
                 "GPM/GMI": {
                     "id": "gpm-gmi",
@@ -32,6 +32,20 @@
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]
+                  },
+                  "Aqua/AMSR-E": {
+                      "id": "aqua-amsr-e",
+                      "title": "Aqua / AMSR-E",
+                      "description": "",
+                      "image": "",
+                      "settings": [
+                          "AMSRE_Surface_Precipitation_Rate_Day_v12_STD",
+                          "AMSRE_Surface_Precipitation_Rate_Night_v12_STD",
+                          "AMSRE_Surface_Rain_Rate_Day_v12_STD",
+                          "AMSRE_Surface_Rain_Rate_Night_v12_STD",
+                          "Aqua_Orbit_Asc",
+                          "Aqua_Orbit_Dsc"
+                      ]
                 }
             }
         }
