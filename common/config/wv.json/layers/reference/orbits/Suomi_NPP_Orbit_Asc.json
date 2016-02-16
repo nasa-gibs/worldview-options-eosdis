@@ -1,0 +1,33 @@
+{
+    "layers": {
+        "Suomi_NPP_Orbit_Asc": {
+            "id":       "Suomi_NPP_Orbit_Asc",
+            "title":    "Orbital Track (Ascending/Night)",
+            "subtitle": "Space-Track.org / Suomi NPP",
+            "group":    "overlays",
+            "format":   "image/png",
+            "type":     "wms",
+            "tileSize": [512, 512],
+            "period":   "daily",
+
+            "startDate": "2012-05-08",
+
+            "projections": {
+                "antarctic": {
+                    "source":   "GIBS:wms"
+                },
+                "arctic": {
+                    "source":   "GIBS:wms"
+                },
+                "geographic": {
+                    "source":   "GIBS:wms"
+                }
+            },
+
+            "palette": {
+                "id": "Suomi_NPP_Orbit",
+                "immutable": true
+            }
+        }
+    }
+}

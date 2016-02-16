@@ -5,6 +5,9 @@
 ## New Features
 
 * Metadata has been added to many products in the product picker.
+* Added AMSR-E Rain layers
+* Added AMSR2 Sea Ice layers
+* Added Suomi NPP Orbit tracks
 
 ## Updates
 

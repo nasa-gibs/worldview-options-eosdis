@@ -3,7 +3,7 @@
         "Orbital Track": {
             "id": "orbital-track",
             "title":    "Orbital Track",
-            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1",
+            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP",
             "sources": {
                 "Space-Track.org / Terra": {
                     "id": "space-track-org-terra",
@@ -63,6 +63,16 @@
                     "settings": [
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / Suomi NPP": {
+                    "id": "space-track-org-suomi-npp",
+                    "title": "Space-Track.org / Suomi NPP",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "Suomi_NPP_Orbit_Asc",
+                        "Suomi_NPP_Orbit_Dsc"
                     ]
                 }
             }
