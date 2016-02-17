@@ -2,15 +2,16 @@
     "layers": {
         "Suomi_NPP_Orbit_Asc": {
             "id":       "Suomi_NPP_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Night)",
+            "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / Suomi NPP",
             "group":    "overlays",
+            "tags":     "snpp s-npp",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2016-01-28",
+            "startDate": "2015-11-14",
 
             "projections": {
                 "antarctic": {
