@@ -43,7 +43,9 @@
                     "image": "",
                     "settings": [
                 	"VIIRS_SNPP_Fires_375m_Day",
-	                "VIIRS_SNPP_Fires_375m_Night"
+	                "VIIRS_SNPP_Fires_375m_Night",
+                        "Suomi_NPP_Orbit_Asc",
+                        "Suomi_NPP_Orbit_Dsc"
                     ]
                 }
             }
