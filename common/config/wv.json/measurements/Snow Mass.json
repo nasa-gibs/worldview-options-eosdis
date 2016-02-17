@@ -8,7 +8,6 @@
                 "SMAP/Model Value-Added": {
                     "id": "smap-model-value-added",
                     "title": "SMAP / Model Value-Added",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "SMAP_L4_Snow_Mass"

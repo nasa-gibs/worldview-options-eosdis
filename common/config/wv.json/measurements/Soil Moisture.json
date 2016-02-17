@@ -8,7 +8,6 @@
                 "SMAP/Radar": {
                     "id": "smap-radar",
                     "title": "SMAP / Radar",
-                    "description": "no description",
                     "image": "",
                     "settings": [
 			"SMAP_L3_Active_Soil_Moisture"
@@ -17,7 +16,6 @@
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "SMAP_L2_Passive_Soil_Moisture_Option1",
@@ -29,7 +27,6 @@
                 "SMAP/Radar/Radiometer": {
                     "id": "smap-radar-radiometer",
                     "title": "SMAP / Radar/Radiometer",
-                    "description": "no description",
                     "image": "",
                     "settings": [
 			"SMAP_L3_Active_Passive_Soil_Moisture"
@@ -38,7 +35,6 @@
                 "SMAP/Model Value-Added": {
                     "id": "smap-model-value-added",
                     "title": "SMAP / Model Value-Added",
-                    "description": "no description",
                     "image": "",
                     "settings": [
 			"SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",

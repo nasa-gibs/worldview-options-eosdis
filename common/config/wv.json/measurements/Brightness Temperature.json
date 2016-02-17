@@ -8,7 +8,6 @@
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
                     "title": "Aqua/AMSR-E",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "AMSRE_Brightness_Temp_89H_Day",
@@ -54,7 +53,6 @@
                 "SMAP/Radar/Radiometer": {
                     "id": "smap-radar-radiometer",
                     "title": "SMAP/Radar/Radiometer",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "SMAP_L3_Active_Passive_Brightness_Temp_H",
@@ -64,7 +62,6 @@
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "SMAP_L1_Passive_Brightness_Temp_Fore_H",

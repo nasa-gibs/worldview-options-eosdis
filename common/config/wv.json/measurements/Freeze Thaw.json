@@ -17,10 +17,9 @@
                 "SMAP/Radar": {
                     "id": "smap-radar",
                     "title": "SMAP / Radar",
-                    "description": "no description",
                     "image": "",
                     "settings": [
-				        "SMAP_L3_Active_AM_Freeze_Thaw"
+			"SMAP_L3_Active_AM_Freeze_Thaw"
                     ]
                 },
                 "DMSP/SSMI": {

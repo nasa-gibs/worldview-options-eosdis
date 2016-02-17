@@ -19,7 +19,6 @@
                 "Space Shuttle Endeavour/STS-99": {
                     "id": "space-shuttle-endeavour-sts-99",
                     "title": "Space Shuttle Endeavour / STS-99",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "SRTM_Color_Index"

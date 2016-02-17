@@ -17,7 +17,6 @@
                 "GHRSST": {
                     "id": "ghrsst",
                     "title": "GHRSST",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "GHRSST_L4_G1SST_Sea_Surface_Temperature",

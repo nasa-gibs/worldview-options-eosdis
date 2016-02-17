@@ -8,7 +8,6 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
-                    "description": "no description",
                     "image": "",
                     "settings": [
                         "AIRS_Dust_Score",

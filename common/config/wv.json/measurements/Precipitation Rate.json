@@ -36,7 +36,6 @@
                   "Aqua/AMSR-E": {
                       "id": "aqua-amsr-e",
                       "title": "Aqua / AMSR-E",
-                      "description": "",
                       "image": "",
                       "settings": [
                           "AMSRE_Surface_Precipitation_Rate_Day",
