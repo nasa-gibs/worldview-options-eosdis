@@ -2,15 +2,16 @@
     "layers": {
         "Terra_Orbit_Asc": {
             "id":       "Terra_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Night)",
+            "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / Terra",
             "group":    "overlays",
+            "tags":     "snpp s-npp",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2015-11-14",
 
             "projections": {
                 "antarctic": {
