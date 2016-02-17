@@ -2,15 +2,16 @@
     "layers": {
         "Suomi_NPP_Orbit_Dsc": {
             "id":       "Suomi_NPP_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Day)",
+            "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / Suomi NPP",
             "group":    "overlays",
+            "tags":     "snpp s-npp",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2015-11-14",
 
             "projections": {
                 "antarctic": {
