@@ -11,6 +11,7 @@
 
 ## Updates
 
+* MODIS/VIIRS fires are now correctly included in kmz image downloads
 * The width of the product picker is now limited for best viewing results
 * A link to the source code of Worldview is now directly on the Info menu
 * Various bug fixes
