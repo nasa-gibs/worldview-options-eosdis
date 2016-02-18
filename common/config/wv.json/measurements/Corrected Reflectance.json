@@ -29,17 +29,16 @@
                     ]
                 },
                 "S-NPP/VIIRS": {
-                	"id": "snpp-viirs",
-                	"title": "Suomi NPP / VIIRS",
-                	"description": "viirs/CorrectedReflectance",
-                	"image": "",
-                	"settings": [
-                	    "VIIRS_SNPP_CorrectedReflectance_TrueColor",
-                	    "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
-                	    "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
-                            "Suomi_NPP_Orbit_Asc",
-                            "Suomi_NPP_Orbit_Dsc"
-                		]
+                    "id": "snpp-viirs",
+                    "title": "Suomi NPP / VIIRS",
+                    "description": "viirs/CorrectedReflectance",
+                    "image": "",
+                    "settings": [
+                	"VIIRS_SNPP_CorrectedReflectance_TrueColor",
+                	"VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
+                	"VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
+                        "Suomi_NPP_Orbit_Asc"
+                    ]
                 }
             }
         }
