@@ -17,7 +17,8 @@
                 "MODIS_Terra_Aerosol",
                 "MODIS_Aqua_Aerosol",
                 "MODIS_Combined_Value_Added_AOD",
-                "AIRS_Dust_Score",
+                "AIRS_Dust_Score_Ocean_Day",
+                "AIRS_Dust_Score_Ocean_Night",
                 "OMI_Aerosol_Index",
                 "OMI_Aerosol_Optical_Depth",
                 "OMI_Absorbing_Aerosol_Optical_Depth"
