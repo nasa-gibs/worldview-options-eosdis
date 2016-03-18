@@ -1,6 +1,6 @@
 {
     "layers": {
-        "AIRS_Dust_Score": {
+        "AIRS_Dust_Score_Ocean_Night": {
             "id":       "AIRS_Dust_Score_Ocean_Night",
             "title":    "Dust Score (Night, Ocean)",
             "subtitle": "Aqua / AIRS",
