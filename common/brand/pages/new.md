@@ -1,5 +1,27 @@
 <input type="hidden" autofocus>
 
+# Version 1.0.1
+
+## Updates
+
+* Fixed a bug that still shows a product as added when it's removed
+* Added a Data Download message for Terra/Aqua fires
+
+## Known Issues
+
+* Internet Explorer 8 and below is not supported.
+* Internet Explorer 9 has difficulties rendering the user interface under
+  certain circumstances, though should remain usable.
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+
+---
+
 # Version 1.0
 
 ## New Features
