@@ -1,6 +1,6 @@
 # worldview-options-eosdis
 
-Visit Worldview at https://earthdata.nasa.gov/worldview
+Visit Worldview at https://worldview.earthdata.nasa.gov
 
 ## About
 
