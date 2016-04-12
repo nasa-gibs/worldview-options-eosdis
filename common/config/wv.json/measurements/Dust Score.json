@@ -10,7 +10,8 @@
                     "title": "Aqua / AIRS",
                     "image": "",
                     "settings": [
-                        "AIRS_Dust_Score",
+                        "AIRS_Dust_Score_Ocean_Day",
+                        "AIRS_Dust_Score_Ocean_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
                     ]
