@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html>
   <head>
@@ -20,7 +21,7 @@
         <a href='https://earthdata.nasa.gov/about' target='_blank'>EOSDIS</a>
         provides the capability to interactively browse global,
         full-resolution satellite imagery and then download the underlying
-        data.  Most of the 100+ available products are updated within three
+        data.  Most of the 150+ available products are updated within three
         hours of observation, essentially showing the entire Earth as it
         looks "right now".  This supports time-critical application areas
         such as wildfire management, air quality measurements, and flood
@@ -47,6 +48,9 @@
         integrate NASA imagery into their existing ones using these
         services.
       </p>
+      <p>
+        <a href='https://earthdata.nasa.gov/faq/worldview-gibs-faq' target='_blank'>Frequently Asked Questions</a>
+      </p>
 
       <hr/>
 
@@ -57,7 +61,7 @@
         and we encourage publication of imagery from @NAME@;  when
         doing so, please cite it as "NASA @NAME@" and also consider
         including a permalink (such as
-        <a href='https://earthdata.nasa.gov/labs/worldview/?map=-126.907471,36.373535,-117.415283,42.815918&products=baselayers,MODIS_Aqua_CorrectedReflectance_TrueColor~overlays,MODIS_Fires_All,sedac_bound&time=2012-08-23&switch=geographic' target='_blank'>this one</a>)
+        <a href='https://worldview.earthdata.nasa.gov/?map=-126.907471,36.373535,-117.415283,42.815918&products=baselayers,MODIS_Aqua_CorrectedReflectance_TrueColor~overlays,MODIS_Fires_All,sedac_bound&time=2012-08-23&switch=geographic' target='_blank'>this one</a>)
         to allow others to explore the imagery.
       </p>
 
@@ -67,10 +71,10 @@
       <p>
         <ul>
           <li>
-            Near-real time data is courtesy of <a href='https://earthdata.nasa.gov/earth-observation-data/near-real-time' target='_blank'>LANCE</a> data providers:
+            Near real-time data is courtesy of <a href='https://earthdata.nasa.gov/lance' target='_blank'>LANCE</a> data providers:
             <ul>
               <li>
-                <a href='https://earthdata.nasa.gov/about/science-system-description/eosdis-components/lance/about-amsr2-sips' target='_blank'>AMSR-E SIPS</a>
+                <a href='https://earthdata.nasa.gov/about/science-system-description/eosdis-components/lance/about-amsr2-sips' target='_blank'>AMSR SIPS</a>
               </li>
               <li>
                 <a href='https://earthdata.nasa.gov/about/science-system-description/eosdis-components/lance/about-ges-disc' target='_blank'>GES DISC</a>
@@ -87,18 +91,24 @@
             </ul>
           </li>
           <li>
-            Ocean color and temperature data provided by
-            <a href='http://oceancolor.gsfc.nasa.gov/' target='_blank'>OBPG</a>
-            and <a href='http://podaac.jpl.nasa.gov/' target='_blank'>PO.DAAC</a>
+            Ocean color and sea surface temperature products provided by
+            <a href='http://oceancolor.gsfc.nasa.gov/' target='_blank'>OB.DAAC</a>
+            and <a href='http://podaac.jpl.nasa.gov/' target='_blank'>PO.DAAC</a>.
           </li>
           <li>
-            Socioeconomic data supplied by
+            Precipitation products provided by
+            <a href="http://pps.gsfc.nasa.gov/" target='_blank'>Precipitation Processing System (PPS)</a> and <a href='https://earthdata.nasa.gov/about/science-system-description/eosdis-components/lance/about-amsr2-sips' target='_blank'>AMSR SIPS</a>.
+          <li>
+            Freeze/Thaw products, soil moisture and related products supplied by
+            <a href='http://nsidc.org/daac' target='_blank'>NSIDC DAAC</a>.
+          </li>
+          <li>
+            Socioeconomic layers supplied by
             <a href='http://sedac.ciesin.org/' target='_blank'>SEDAC</a>.
           </li>
           <li>
-            Freeze / Thaw products supplied by
-            <a href='http://nsidc.org' target='_blank'>NSIDC</a>.
-          </li>
+            Digital Elevation Model layers supplied by
+            <a href='https://lpdaac.usgs.gov/' target='_blank'>LP DAAC</a>.
           <li>
             Orbit tracks provided by
             <a href='https://www.space-track.org' target='_blank'>space-track.org</a>.
@@ -109,10 +119,10 @@
             and <a href='http://www.polarview.aq/' target='_blank'>PolarView</a>.
           </li>
           <li>
-            Borders, roads, and place labels courtesy of
-            <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>.
+            Coastlines,borders, roads, and place labels courtesy of
+            <a href='http://www.openstreetmap.org/' target='_blank'>OpenStreetMap</a> and <a href='http://www.naturalearthdata.com/' target='_blank'>Natural Earth</a>.
             This data is available under the
-            <a href="http://www.openstreetmap.org/copyright" target="_blank">
+            <a href='http://www.openstreetmap.org/copyright' target='_blank'>
             Open Database License.</a>
             &copy; OpenStreetMap contributors.
           <li>
@@ -155,7 +165,7 @@
         This software is licensed under the
         <a href='pages/license.html'>NASA Open Source Software Agreement, Version 1.3.</a>
         Source code is available on
-        <a target='_blank' href="https://github.com/nasa-gibs/worldview.git">github</a>.
+        <a target='_blank' href='https://github.com/nasa-gibs/worldview.git'>github</a>.
       </p>
       <hr/>
 
