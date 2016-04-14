@@ -2,7 +2,7 @@
     "products": {
         "AE_SI6": {
             "name": "AMSR-E/Aqua Daily L3 6.25 km 89 GHz Brightness Temperature (Tb) Polar Grids",
-            "handler": "HalfOrbit",
+            "handler": "List",
             "query": {
                 "shortName": "AE_SI6",
                 "dataCenterId": "NSIDC_ECS",
