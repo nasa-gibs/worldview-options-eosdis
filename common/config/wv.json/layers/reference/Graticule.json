@@ -15,13 +15,13 @@
                     "subtitle":     "Polarview / Graticule",
                     "type":         "wmts",
                     "source":       "GIBS:arctic",
-                    "matrixSet":    "EPSG3413_250m"
+                    "matrixSet":    "250m"
                 },
                 "antarctic": {
                     "subtitle":     "Polarview / Graticule",
                     "type":         "wmts",
                     "source":       "GIBS:antarctic",
-                    "matrixSet":    "EPSG3031_250m"
+                    "matrixSet":    "250m"
                 },
                 "geographic": {
                     "subtitle":     "OpenLayers / Graticule Control",
