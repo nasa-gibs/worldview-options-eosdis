@@ -1,0 +1,33 @@
+{
+    "layers": {
+        "SMAP_Orbit_Asc": {
+            "id":       "SMAP_Orbit_Asc",
+            "title":    "Orbital Track (Ascending/Day)",
+            "subtitle": "Space-Track.org / SMAP",
+            "group":    "overlays",
+            "format":   "image/png",
+            "type":     "wms",
+            "tileSize": [512, 512],
+            "period":   "daily",
+
+            "startDate": "2012-05-08",
+
+            "projections": {
+                "antarctic": {
+                    "source":   "GIBS:wms"
+                },
+                "arctic": {
+                    "source":   "GIBS:wms"
+                },
+                "geographic": {
+                    "source":   "GIBS:wms"
+                }
+            },
+
+            "palette": {
+                "id":     "SMAP_Orbit",
+                "immutable": true
+            }
+        }
+    }
+}

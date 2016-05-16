@@ -10,7 +10,9 @@
                     "title": "SMAP / Model Value-Added",
                     "image": "",
                     "settings": [
-						"SMAP_L4_Mean_Gross_Primary_Productivity"
+			"SMAP_L4_Mean_Gross_Primary_Productivity",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
                     ]
                 }
             }

@@ -3,7 +3,7 @@
         "Orbital Track": {
             "id": "orbital-track",
             "title":    "Orbital Track",
-            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP",
+            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, SMAP, Landsat 8, ISS, GOSAT",
             "sources": {
                 "Space-Track.org / Terra": {
                     "id": "space-track-org-terra",
@@ -73,6 +73,46 @@
                     "settings": [
                         "Suomi_NPP_Orbit_Asc",
                         "Suomi_NPP_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / SMAP": {
+                    "id": "space-track-org-smap",
+                    "title": "Space-Track.org / SMAP",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / Landsat 8": {
+                    "id": "space-track-org-landsat-8",
+                    "title": "Space-Track.org / Landsat 8",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "Landsat_8_Orbit_Asc",
+                        "Landsat_8_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / ISS": {
+                    "id": "space-track-org-iss",
+                    "title": "Space-Track.org / ISS",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "ISS_Orbit_Asc",
+                        "ISS_Orbit_Dsc"
+                    ]
+                },
+                "Space-Track.org / GOSAT": {
+                    "id": "space-track-org-gosat",
+                    "title": "Space-Track.org / GOSAT",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "GOSAT_Orbit_Asc",
+                        "GOSAT_Orbit_Dsc"
                     ]
                 }
             }
