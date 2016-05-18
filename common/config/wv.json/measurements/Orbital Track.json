@@ -68,7 +68,7 @@
                 "Space-Track.org / Suomi NPP": {
                     "id": "space-track-org-suomi-npp",
                     "title": "Space-Track.org / Suomi NPP",
-                    "description": "",
+                    "description": "orbitaltrack/SNPP",
                     "image": "",
                     "settings": [
                         "Suomi_NPP_Orbit_Asc",

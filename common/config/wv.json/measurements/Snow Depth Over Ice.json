@@ -8,6 +8,7 @@
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsr-e",
                     "title": "Aqua / AMSR-E",
+                    "description": "amsre/SnowDepthOverIce",
                     "image": "",
                     "settings": [
                         "AMSRE_Snow_Depth_Over_Ice"
