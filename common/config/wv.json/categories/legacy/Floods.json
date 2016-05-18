@@ -10,13 +10,13 @@
                     "Corrected Reflectance",
                     "Land Surface Reflectance",
                     "Precipitation Estimate",
-					"Precipitation Rate",
-					"Soil Moisture",
+					          "Precipitation Rate",
+					          "Soil Moisture",
                     "Flood Hazard",
                     "Reservoirs",
                     "Dams",
                     "Urban Rural Extents in the 10m Low Elevation Zone",
-                    "Global 250m Water Map"                    
+                    "Global 250m Water Map"
                 ]
             }
         }

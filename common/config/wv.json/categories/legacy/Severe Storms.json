@@ -6,14 +6,14 @@
                 "id": "severe-storms",
                 "image": "severe-storms.jpg",
                 "description": "",
-                "measurements": [                    
+                "measurements": [
                     "Cloud Pressure",
                     "Cloud Top Temperature",
                     "Corrected Reflectance",
                     "Cyclone Hazard",
                     "Flood Hazard",
                     "Precipitation Estimate",
-					"Precipitation Rate",
+					          "Precipitation Rate",
                     "Relative Humidity",
                     "Soil Moisture",
                     "Temperature",

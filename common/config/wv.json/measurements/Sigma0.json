@@ -8,6 +8,7 @@
                 "SMAP/Radar": {
                     "id": "smap-radar",
                     "title": "SMAP / Radar",
+                    "description": "smap/Sigma0",
                     "image": "",
                     "settings": [
                         "SMAP_L3_Active_Sigma0_HH",
