@@ -1,132 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
           units="cm">
-  <ColorMapEntry rgb="169,0,171" transparent="false" value="0.1" label="0.10 cm"/>
-  <ColorMapEntry rgb="162,0,174" transparent="false" value="0.1757" label="0.18 cm"/>
-  <ColorMapEntry rgb="155,0,177" transparent="false" value="0.2514" label="0.25 cm"/>
-  <ColorMapEntry rgb="148,0,179" transparent="false" value="0.3272" label="0.33 cm"/>
-  <ColorMapEntry rgb="141,0,182" transparent="false" value="0.4029" label="0.40 cm"/>
-  <ColorMapEntry rgb="134,0,185" transparent="false" value="0.4786" label="0.48 cm"/>
-  <ColorMapEntry rgb="128,0,188" transparent="false" value="0.5543" label="0.55 cm"/>
-  <ColorMapEntry rgb="121,0,191" transparent="false" value="0.6301" label="0.63 cm"/>
-  <ColorMapEntry rgb="114,0,194" transparent="false" value="0.7058" label="0.71 cm"/>
-  <ColorMapEntry rgb="107,0,196" transparent="false" value="0.7815" label="0.78 cm"/>
-  <ColorMapEntry rgb="100,0,199" transparent="false" value="0.8572" label="0.86 cm"/>
-  <ColorMapEntry rgb="93,0,202" transparent="false" value="0.9330" label="0.93 cm"/>
-  <ColorMapEntry rgb="86,0,205" transparent="false" value="1.0087" label="1.01 cm"/>
-  <ColorMapEntry rgb="79,0,208" transparent="false" value="1.0844" label="1.08 cm"/>
-  <ColorMapEntry rgb="72,0,211" transparent="false" value="1.1601" label="1.16 cm"/>
-  <ColorMapEntry rgb="65,0,213" transparent="false" value="1.2358" label="1.24 cm"/>
-  <ColorMapEntry rgb="58,0,216" transparent="false" value="1.3116" label="1.31 cm"/>
-  <ColorMapEntry rgb="51,0,219" transparent="false" value="1.3873" label="1.39 cm"/>
-  <ColorMapEntry rgb="44,2,222" transparent="false" value="1.4630" label="1.46 cm"/>
-  <ColorMapEntry rgb="38,8,225" transparent="false" value="1.5387" label="1.54 cm"/>
-  <ColorMapEntry rgb="31,13,228" transparent="false" value="1.6145" label="1.61 cm"/>
-  <ColorMapEntry rgb="24,18,230" transparent="false" value="1.6902" label="1.69 cm"/>
-  <ColorMapEntry rgb="17,24,233" transparent="false" value="1.7659" label="1.77 cm"/>
-  <ColorMapEntry rgb="10,29,236" transparent="false" value="1.8416" label="1.84 cm"/>
-  <ColorMapEntry rgb="3,35,239" transparent="false" value="1.9174" label="1.92 cm"/>
-  <ColorMapEntry rgb="0,40,242" transparent="false" value="1.9931" label="1.99 cm"/>
-  <ColorMapEntry rgb="0,46,245" transparent="false" value="2.0688" label="2.07 cm"/>
-  <ColorMapEntry rgb="0,51,247" transparent="false" value="2.1445" label="2.14 cm"/>
-  <ColorMapEntry rgb="0,56,250" transparent="false" value="2.2202" label="2.22 cm"/>
-  <ColorMapEntry rgb="0,62,253" transparent="false" value="2.2960" label="2.30 cm"/>
-  <ColorMapEntry rgb="0,67,255" transparent="false" value="2.3717" label="2.37 cm"/>
-  <ColorMapEntry rgb="0,73,246" transparent="false" value="2.4474" label="2.45 cm"/>
-  <ColorMapEntry rgb="0,78,238" transparent="false" value="2.5231" label="2.52 cm"/>
-  <ColorMapEntry rgb="0,84,238" transparent="false" value="2.5989" label="2.60 cm"/>
-  <ColorMapEntry rgb="0,89,238" transparent="false" value="2.6746" label="2.67 cm"/>
-  <ColorMapEntry rgb="0,94,238" transparent="false" value="2.7503" label="2.75 cm"/>
-  <ColorMapEntry rgb="0,100,238" transparent="false" value="2.8260" label="2.83 cm"/>
-  <ColorMapEntry rgb="0,105,238" transparent="false" value="2.9018" label="2.90 cm"/>
-  <ColorMapEntry rgb="0,111,238" transparent="false" value="2.9775" label="2.98 cm"/>
-  <ColorMapEntry rgb="0,116,228" transparent="false" value="3.0532" label="3.05 cm"/>
-  <ColorMapEntry rgb="0,122,218" transparent="false" value="3.1289" label="3.13 cm"/>
-  <ColorMapEntry rgb="0,127,208" transparent="false" value="3.2046" label="3.20 cm"/>
-  <ColorMapEntry rgb="0,132,198" transparent="false" value="3.2804" label="3.28 cm"/>
-  <ColorMapEntry rgb="0,138,188" transparent="false" value="3.3561" label="3.36 cm"/>
-  <ColorMapEntry rgb="0,143,178" transparent="false" value="3.4318" label="3.43 cm"/>
-  <ColorMapEntry rgb="0,149,168" transparent="false" value="3.5075" label="3.51 cm"/>
-  <ColorMapEntry rgb="0,154,158" transparent="false" value="3.5833" label="3.58 cm"/>
-  <ColorMapEntry rgb="0,160,148" transparent="false" value="3.6590" label="3.66 cm"/>
-  <ColorMapEntry rgb="0,165,138" transparent="false" value="3.7347" label="3.73 cm"/>
-  <ColorMapEntry rgb="0,170,128" transparent="false" value="3.8104" label="3.81 cm"/>
-  <ColorMapEntry rgb="0,176,119" transparent="false" value="3.8862" label="3.89 cm"/>
-  <ColorMapEntry rgb="0,181,109" transparent="false" value="3.9619" label="3.96 cm"/>
-  <ColorMapEntry rgb="0,187,99" transparent="false" value="4.0376" label="4.04 cm"/>
-  <ColorMapEntry rgb="0,192,89" transparent="false" value="4.1133" label="4.11 cm"/>
-  <ColorMapEntry rgb="0,198,79" transparent="false" value="4.1890" label="4.19 cm"/>
-  <ColorMapEntry rgb="0,203,69" transparent="false" value="4.2648" label="4.26 cm"/>
-  <ColorMapEntry rgb="0,208,59" transparent="false" value="4.3405" label="4.34 cm"/>
-  <ColorMapEntry rgb="15,214,49" transparent="false" value="4.4162" label="4.42 cm"/>
-  <ColorMapEntry rgb="30,219,39" transparent="false" value="4.4919" label="4.49 cm"/>
-  <ColorMapEntry rgb="46,225,29" transparent="false" value="4.5677" label="4.57 cm"/>
-  <ColorMapEntry rgb="61,230,19" transparent="false" value="4.6434" label="4.64 cm"/>
-  <ColorMapEntry rgb="77,236,9" transparent="false" value="4.7191" label="4.72 cm"/>
-  <ColorMapEntry rgb="92,241,0" transparent="false" value="4.7948" label="4.79 cm"/>
-  <ColorMapEntry rgb="108,246,0" transparent="false" value="4.8705" label="4.87 cm"/>
-  <ColorMapEntry rgb="123,252,0" transparent="false" value="4.9463" label="4.95 cm"/>
-  <ColorMapEntry rgb="139,255,0" transparent="false" value="5.0220" label="5.02 cm"/>
-  <ColorMapEntry rgb="154,255,0" transparent="false" value="5.0977" label="5.10 cm"/>
-  <ColorMapEntry rgb="170,255,0" transparent="false" value="5.1734" label="5.17 cm"/>
-  <ColorMapEntry rgb="185,255,0" transparent="false" value="5.2492" label="5.25 cm"/>
-  <ColorMapEntry rgb="200,255,0" transparent="false" value="5.3249" label="5.32 cm"/>
-  <ColorMapEntry rgb="216,255,0" transparent="false" value="5.4006" label="5.40 cm"/>
-  <ColorMapEntry rgb="225,254,0" transparent="false" value="5.4763" label="5.48 cm"/>
-  <ColorMapEntry rgb="229,252,0" transparent="false" value="5.5521" label="5.55 cm"/>
-  <ColorMapEntry rgb="232,250,0" transparent="false" value="5.6278" label="5.63 cm"/>
-  <ColorMapEntry rgb="236,248,0" transparent="false" value="5.7035" label="5.70 cm"/>
-  <ColorMapEntry rgb="239,247,0" transparent="false" value="5.7792" label="5.78 cm"/>
-  <ColorMapEntry rgb="242,245,0" transparent="false" value="5.8549" label="5.85 cm"/>
-  <ColorMapEntry rgb="246,243,0" transparent="false" value="5.9307" label="5.93 cm"/>
-  <ColorMapEntry rgb="249,241,0" transparent="false" value="6.0064" label="6.01 cm"/>
-  <ColorMapEntry rgb="253,239,0" transparent="false" value="6.0821" label="6.08 cm"/>
-  <ColorMapEntry rgb="255,236,0" transparent="false" value="6.1578" label="6.16 cm"/>
-  <ColorMapEntry rgb="255,231,0" transparent="false" value="6.2336" label="6.23 cm"/>
-  <ColorMapEntry rgb="255,226,0" transparent="false" value="6.3093" label="6.31 cm"/>
-  <ColorMapEntry rgb="255,220,0" transparent="false" value="6.3850" label="6.38 cm"/>
-  <ColorMapEntry rgb="255,215,0" transparent="false" value="6.4607" label="6.46 cm"/>
-  <ColorMapEntry rgb="255,210,0" transparent="false" value="6.5365" label="6.54 cm"/>
-  <ColorMapEntry rgb="255,205,0" transparent="false" value="6.6122" label="6.61 cm"/>
-  <ColorMapEntry rgb="255,199,0" transparent="false" value="6.6879" label="6.69 cm"/>
-  <ColorMapEntry rgb="255,194,0" transparent="false" value="6.7636" label="6.76 cm"/>
-  <ColorMapEntry rgb="255,189,0" transparent="false" value="6.8393" label="6.84 cm"/>
-  <ColorMapEntry rgb="255,184,0" transparent="false" value="6.9151" label="6.92 cm"/>
-  <ColorMapEntry rgb="255,178,0" transparent="false" value="6.9908" label="6.99 cm"/>
-  <ColorMapEntry rgb="255,173,0" transparent="false" value="7.0665" label="7.07 cm"/>
-  <ColorMapEntry rgb="255,168,0" transparent="false" value="7.1422" label="7.14 cm"/>
-  <ColorMapEntry rgb="255,162,0" transparent="false" value="7.2180" label="7.22 cm"/>
-  <ColorMapEntry rgb="255,157,0" transparent="false" value="7.2937" label="7.29 cm"/>
-  <ColorMapEntry rgb="255,152,0" transparent="false" value="7.3694" label="7.37 cm"/>
-  <ColorMapEntry rgb="255,147,0" transparent="false" value="7.4451" label="7.45 cm"/>
-  <ColorMapEntry rgb="255,141,0" transparent="false" value="7.5209" label="7.52 cm"/>
-  <ColorMapEntry rgb="255,136,0" transparent="false" value="7.5966" label="7.60 cm"/>
-  <ColorMapEntry rgb="255,131,0" transparent="false" value="7.6723" label="7.67 cm"/>
-  <ColorMapEntry rgb="255,126,0" transparent="false" value="7.7480" label="7.75 cm"/>
-  <ColorMapEntry rgb="255,120,0" transparent="false" value="7.8237" label="7.82 cm"/>
-  <ColorMapEntry rgb="255,115,0" transparent="false" value="7.8995" label="7.90 cm"/>
-  <ColorMapEntry rgb="255,110,0" transparent="false" value="7.9752" label="7.98 cm"/>
-  <ColorMapEntry rgb="255,105,0" transparent="false" value="8.0509" label="8.05 cm"/>
-  <ColorMapEntry rgb="255,99,0" transparent="false" value="8.1266" label="8.13 cm"/>
-  <ColorMapEntry rgb="255,94,0" transparent="false" value="8.2024" label="8.20 cm"/>
-  <ColorMapEntry rgb="255,89,0" transparent="false" value="8.2781" label="8.28 cm"/>
-  <ColorMapEntry rgb="255,84,0" transparent="false" value="8.3538" label="8.35 cm"/>
-  <ColorMapEntry rgb="255,78,0" transparent="false" value="8.4295" label="8.43 cm"/>
-  <ColorMapEntry rgb="255,73,0" transparent="false" value="8.5053" label="8.51 cm"/>
-  <ColorMapEntry rgb="255,68,0" transparent="false" value="8.5810" label="8.58 cm"/>
-  <ColorMapEntry rgb="255,63,0" transparent="false" value="8.6567" label="8.66 cm"/>
-  <ColorMapEntry rgb="255,57,0" transparent="false" value="8.7324" label="8.73 cm"/>
-  <ColorMapEntry rgb="255,52,0" transparent="false" value="8.8081" label="8.81 cm"/>
-  <ColorMapEntry rgb="248,47,0" transparent="false" value="8.8839" label="8.88 cm"/>
-  <ColorMapEntry rgb="241,42,0" transparent="false" value="8.9596" label="8.96 cm"/>
-  <ColorMapEntry rgb="234,36,0" transparent="false" value="9.0353" label="9.04 cm"/>
-  <ColorMapEntry rgb="227,31,0" transparent="false" value="9.1110" label="9.11 cm"/>
-  <ColorMapEntry rgb="220,26,0" transparent="false" value="9.1868" label="9.19 cm"/>
-  <ColorMapEntry rgb="214,21,0" transparent="false" value="9.2625" label="9.26 cm"/>
-  <ColorMapEntry rgb="207,15,0" transparent="false" value="9.3382" label="9.34 cm"/>
-  <ColorMapEntry rgb="200,10,0" transparent="false" value="9.4139" label="9.41 cm"/>
-  <ColorMapEntry rgb="193,5,0" transparent="false" value="9.4897" label="9.49 cm"/>
-  <ColorMapEntry rgb="186,0,0" transparent="false" value="9.5654" label="9.57 cm"/>
-  <ColorMapEntry rgb="180,0,0" transparent="false" value="9.6411" label="9.64 cm"/>
+  <ColorMapEntry rgb="220,220,255" transparent="true" label="Fill" />
+  <ColorMapEntry rgb="169,0,171" transparent="false" value="[0,0.1)" label="0.000 – 0.100 cm" />
+  <ColorMapEntry rgb="162,0,174" transparent="false" value="[0.1,0.1037)" label="0.100 – 0.104 cm" />
+  <ColorMapEntry rgb="155,0,177" transparent="false" value="[0.1037,0.1076)" label="0.104 – 0.108 cm" />
+  <ColorMapEntry rgb="148,0,179" transparent="false" value="[0.1076,0.1116)" label="0.108 – 0.112 cm" />
+  <ColorMapEntry rgb="141,0,182" transparent="false" value="[0.1116,0.1157)" label="0.112 – 0.116 cm" />
+  <ColorMapEntry rgb="134,0,185" transparent="false" value="[0.1157,0.1201)" label="0.116 – 0.120 cm" />
+  <ColorMapEntry rgb="128,0,188" transparent="false" value="[0.1201,0.1245)" label="0.120 – 0.124 cm" />
+  <ColorMapEntry rgb="121,0,191" transparent="false" value="[0.1245,0.1292)" label="0.124 – 0.129 cm" />
+  <ColorMapEntry rgb="114,0,194" transparent="false" value="[0.1292,0.134)" label="0.129 – 0.134 cm" />
+  <ColorMapEntry rgb="107,0,196" transparent="false" value="[0.134,0.1389)" label="0.134 – 0.139 cm" />
+  <ColorMapEntry rgb="100,0,199" transparent="false" value="[0.1389,0.1441)" label="0.139 – 0.144 cm" />
+  <ColorMapEntry rgb="93,0,202" transparent="false" value="[0.1441,0.1495)" label="0.144 – 0.149 cm" />
+  <ColorMapEntry rgb="86,0,205" transparent="false" value="[0.1495,0.1551)" label="0.149 – 0.155 cm" />
+  <ColorMapEntry rgb="79,0,208" transparent="false" value="[0.1551,0.1608)" label="0.155 – 0.161 cm" />
+  <ColorMapEntry rgb="72,0,211" transparent="false" value="[0.1608,0.1668)" label="0.161 – 0.167 cm" />
+  <ColorMapEntry rgb="65,0,213" transparent="false" value="[0.1668,0.173)" label="0.167 – 0.173 cm" />
+  <ColorMapEntry rgb="58,0,216" transparent="false" value="[0.173,0.1795)" label="0.173 – 0.179 cm" />
+  <ColorMapEntry rgb="51,0,219" transparent="false" value="[0.1795,0.1861)" label="0.179 – 0.186 cm" />
+  <ColorMapEntry rgb="44,2,222" transparent="false" value="[0.1861,0.1931)" label="0.186 – 0.193 cm" />
+  <ColorMapEntry rgb="38,8,225" transparent="false" value="[0.1931,0.2003)" label="0.193 – 0.200 cm" />
+  <ColorMapEntry rgb="31,13,228" transparent="false" value="[0.2003,0.2077)" label="0.200 – 0.208 cm" />
+  <ColorMapEntry rgb="24,18,230" transparent="false" value="[0.2077,0.2154)" label="0.208 – 0.215 cm" />
+  <ColorMapEntry rgb="17,24,233" transparent="false" value="[0.2154,0.2235)" label="0.215 – 0.224 cm" />
+  <ColorMapEntry rgb="10,29,236" transparent="false" value="[0.2235,0.2318)" label="0.224 – 0.232 cm" />
+  <ColorMapEntry rgb="3,35,239" transparent="false" value="[0.2318,0.2404)" label="0.232 – 0.240 cm" />
+  <ColorMapEntry rgb="0,40,242" transparent="false" value="[0.2404,0.2494)" label="0.240 – 0.249 cm" />
+  <ColorMapEntry rgb="0,46,245" transparent="false" value="[0.2494,0.2586)" label="0.249 – 0.259 cm" />
+  <ColorMapEntry rgb="0,51,247" transparent="false" value="[0.2586,0.2683)" label="0.259 – 0.268 cm" />
+  <ColorMapEntry rgb="0,56,250" transparent="false" value="[0.2683,0.2783)" label="0.268 – 0.278 cm" />
+  <ColorMapEntry rgb="0,62,253" transparent="false" value="[0.2783,0.2886)" label="0.278 – 0.289 cm" />
+  <ColorMapEntry rgb="0,67,255" transparent="false" value="[0.2886,0.2994)" label="0.289 – 0.299 cm" />
+  <ColorMapEntry rgb="0,73,246" transparent="false" value="[0.2994,0.3105)" label="0.299 – 0.310 cm" />
+  <ColorMapEntry rgb="0,78,238" transparent="false" value="[0.3105,0.3221)" label="0.310 – 0.322 cm" />
+  <ColorMapEntry rgb="0,84,238" transparent="false" value="[0.3221,0.334)" label="0.322 – 0.334 cm" />
+  <ColorMapEntry rgb="0,89,238" transparent="false" value="[0.334,0.3465)" label="0.334 – 0.346 cm" />
+  <ColorMapEntry rgb="0,94,238" transparent="false" value="[0.3465,0.3594)" label="0.346 – 0.359 cm" />
+  <ColorMapEntry rgb="0,100,238" transparent="false" value="[0.3594,0.3728)" label="0.359 – 0.373 cm" />
+  <ColorMapEntry rgb="0,105,238" transparent="false" value="[0.3728,0.3866)" label="0.373 – 0.387 cm" />
+  <ColorMapEntry rgb="0,111,238" transparent="false" value="[0.3866,0.401)" label="0.387 – 0.401 cm" />
+  <ColorMapEntry rgb="0,116,228" transparent="false" value="[0.401,0.416)" label="0.401 – 0.416 cm" />
+  <ColorMapEntry rgb="0,122,218" transparent="false" value="[0.416,0.4314)" label="0.416 – 0.431 cm" />
+  <ColorMapEntry rgb="0,127,208" transparent="false" value="[0.4314,0.4475)" label="0.431 – 0.448 cm" />
+  <ColorMapEntry rgb="0,132,198" transparent="false" value="[0.4475,0.4642)" label="0.448 – 0.464 cm" />
+  <ColorMapEntry rgb="0,138,188" transparent="false" value="[0.4642,0.4814)" label="0.464 – 0.481 cm" />
+  <ColorMapEntry rgb="0,143,178" transparent="false" value="[0.4814,0.4994)" label="0.481 – 0.499 cm" />
+  <ColorMapEntry rgb="0,149,168" transparent="false" value="[0.4994,0.5179)" label="0.499 – 0.518 cm" />
+  <ColorMapEntry rgb="0,154,158" transparent="false" value="[0.5179,0.5372)" label="0.518 – 0.537 cm" />
+  <ColorMapEntry rgb="0,160,148" transparent="false" value="[0.5372,0.5572)" label="0.537 – 0.557 cm" />
+  <ColorMapEntry rgb="0,165,138" transparent="false" value="[0.5572,0.578)" label="0.557 – 0.578 cm" />
+  <ColorMapEntry rgb="0,170,128" transparent="false" value="[0.578,0.5995)" label="0.578 – 0.600 cm" />
+  <ColorMapEntry rgb="0,176,119" transparent="false" value="[0.5995,0.6218)" label="0.600 – 0.622 cm" />
+  <ColorMapEntry rgb="0,181,109" transparent="false" value="[0.6218,0.6449)" label="0.622 – 0.645 cm" />
+  <ColorMapEntry rgb="0,187,99" transparent="false" value="[0.6449,0.669)" label="0.645 – 0.669 cm" />
+  <ColorMapEntry rgb="0,192,89" transparent="false" value="[0.669,0.6939)" label="0.669 – 0.694 cm" />
+  <ColorMapEntry rgb="0,198,79" transparent="false" value="[0.6939,0.7197)" label="0.694 – 0.720 cm" />
+  <ColorMapEntry rgb="0,203,69" transparent="false" value="[0.7197,0.7465)" label="0.720 – 0.747 cm" />
+  <ColorMapEntry rgb="0,208,59" transparent="false" value="[0.7465,0.7743)" label="0.747 – 0.774 cm" />
+  <ColorMapEntry rgb="15,214,49" transparent="false" value="[0.7743,0.8031)" label="0.774 – 0.803 cm" />
+  <ColorMapEntry rgb="30,219,39" transparent="false" value="[0.8031,0.833)" label="0.803 – 0.833 cm" />
+  <ColorMapEntry rgb="46,225,29" transparent="false" value="[0.833,0.864)" label="0.833 – 0.864 cm" />
+  <ColorMapEntry rgb="61,230,19" transparent="false" value="[0.864,0.8962)" label="0.864 – 0.896 cm" />
+  <ColorMapEntry rgb="77,236,9" transparent="false" value="[0.8962,0.9295)" label="0.896 – 0.929 cm" />
+  <ColorMapEntry rgb="92,241,0" transparent="false" value="[0.9295,0.9641)" label="0.929 – 0.964 cm" />
+  <ColorMapEntry rgb="108,246,0" transparent="false" value="[0.9641,1)" label="0.964 – 1.000 cm" />
+  <ColorMapEntry rgb="123,252,0" transparent="false" value="[1,1.0372)" label="1.000 – 1.037 cm" />
+  <ColorMapEntry rgb="139,255,0" transparent="false" value="[1.0372,1.0758)" label="1.037 – 1.076 cm" />
+  <ColorMapEntry rgb="154,255,0" transparent="false" value="[1.0758,1.1159)" label="1.076 – 1.116 cm" />
+  <ColorMapEntry rgb="170,255,0" transparent="false" value="[1.1159,1.1574)" label="1.116 – 1.157 cm" />
+  <ColorMapEntry rgb="185,255,0" transparent="false" value="[1.1574,1.2005)" label="1.157 – 1.200 cm" />
+  <ColorMapEntry rgb="200,255,0" transparent="false" value="[1.2005,1.2452)" label="1.200 – 1.245 cm" />
+  <ColorMapEntry rgb="216,255,0" transparent="false" value="[1.2452,1.2916)" label="1.245 – 1.292 cm" />
+  <ColorMapEntry rgb="225,254,0" transparent="false" value="[1.2916,1.3396)" label="1.292 – 1.340 cm" />
+  <ColorMapEntry rgb="229,252,0" transparent="false" value="[1.3396,1.3895)" label="1.340 – 1.389 cm" />
+  <ColorMapEntry rgb="232,250,0" transparent="false" value="[1.3895,1.4412)" label="1.389 – 1.441 cm" />
+  <ColorMapEntry rgb="236,248,0" transparent="false" value="[1.4412,1.4949)" label="1.441 – 1.495 cm" />
+  <ColorMapEntry rgb="239,247,0" transparent="false" value="[1.4949,1.5505)" label="1.495 – 1.550 cm" />
+  <ColorMapEntry rgb="242,245,0" transparent="false" value="[1.5505,1.6082)" label="1.550 – 1.608 cm" />
+  <ColorMapEntry rgb="246,243,0" transparent="false" value="[1.6082,1.6681)" label="1.608 – 1.668 cm" />
+  <ColorMapEntry rgb="249,241,0" transparent="false" value="[1.6681,1.7302)" label="1.668 – 1.730 cm" />
+  <ColorMapEntry rgb="253,239,0" transparent="false" value="[1.7302,1.7946)" label="1.730 – 1.795 cm" />
+  <ColorMapEntry rgb="255,236,0" transparent="false" value="[1.7946,1.8614)" label="1.795 – 1.861 cm" />
+  <ColorMapEntry rgb="255,231,0" transparent="false" value="[1.8614,1.9307)" label="1.861 – 1.931 cm" />
+  <ColorMapEntry rgb="255,226,0" transparent="false" value="[1.9307,2.0026)" label="1.931 – 2.003 cm" />
+  <ColorMapEntry rgb="255,220,0" transparent="false" value="[2.0026,2.0771)" label="2.003 – 2.077 cm" />
+  <ColorMapEntry rgb="255,215,0" transparent="false" value="[2.0771,2.1544)" label="2.077 – 2.154 cm" />
+  <ColorMapEntry rgb="255,210,0" transparent="false" value="[2.1544,2.2346)" label="2.154 – 2.235 cm" />
+  <ColorMapEntry rgb="255,205,0" transparent="false" value="[2.2346,2.3178)" label="2.235 – 2.318 cm" />
+  <ColorMapEntry rgb="255,199,0" transparent="false" value="[2.3178,2.4041)" label="2.318 – 2.404 cm" />
+  <ColorMapEntry rgb="255,194,0" transparent="false" value="[2.4041,2.4936)" label="2.404 – 2.494 cm" />
+  <ColorMapEntry rgb="255,189,0" transparent="false" value="[2.4936,2.5864)" label="2.494 – 2.586 cm" />
+  <ColorMapEntry rgb="255,184,0" transparent="false" value="[2.5864,2.6827)" label="2.586 – 2.683 cm" />
+  <ColorMapEntry rgb="255,178,0" transparent="false" value="[2.6827,2.7826)" label="2.683 – 2.783 cm" />
+  <ColorMapEntry rgb="255,173,0" transparent="false" value="[2.7826,2.8861)" label="2.783 – 2.886 cm" />
+  <ColorMapEntry rgb="255,168,0" transparent="false" value="[2.8861,2.9936)" label="2.886 – 2.994 cm" />
+  <ColorMapEntry rgb="255,162,0" transparent="false" value="[2.9936,3.105)" label="2.994 – 3.105 cm" />
+  <ColorMapEntry rgb="255,157,0" transparent="false" value="[3.105,3.2206)" label="3.105 – 3.221 cm" />
+  <ColorMapEntry rgb="255,152,0" transparent="false" value="[3.2206,3.3405)" label="3.221 – 3.341 cm" />
+  <ColorMapEntry rgb="255,147,0" transparent="false" value="[3.3405,3.4648)" label="3.341 – 3.465 cm" />
+  <ColorMapEntry rgb="255,141,0" transparent="false" value="[3.4648,3.5938)" label="3.465 – 3.594 cm" />
+  <ColorMapEntry rgb="255,136,0" transparent="false" value="[3.5938,3.7276)" label="3.594 – 3.728 cm" />
+  <ColorMapEntry rgb="255,131,0" transparent="false" value="[3.7276,3.8664)" label="3.728 – 3.866 cm" />
+  <ColorMapEntry rgb="255,126,0" transparent="false" value="[3.8664,4.0103)" label="3.866 – 4.010 cm" />
+  <ColorMapEntry rgb="255,120,0" transparent="false" value="[4.0103,4.1596)" label="4.010 – 4.160 cm" />
+  <ColorMapEntry rgb="255,115,0" transparent="false" value="[4.1596,4.3144)" label="4.160 – 4.314 cm" />
+  <ColorMapEntry rgb="255,110,0" transparent="false" value="[4.3144,4.475)" label="4.314 – 4.475 cm" />
+  <ColorMapEntry rgb="255,105,0" transparent="false" value="[4.475,4.6416)" label="4.475 – 4.642 cm" />
+  <ColorMapEntry rgb="255,99,0" transparent="false" value="[4.6416,4.8144)" label="4.642 – 4.814 cm" />
+  <ColorMapEntry rgb="255,94,0" transparent="false" value="[4.8144,4.9936)" label="4.814 – 4.994 cm" />
+  <ColorMapEntry rgb="255,89,0" transparent="false" value="[4.9936,5.1795)" label="4.994 – 5.179 cm" />
+  <ColorMapEntry rgb="255,84,0" transparent="false" value="[5.1795,5.3723)" label="5.179 – 5.372 cm" />
+  <ColorMapEntry rgb="255,78,0" transparent="false" value="[5.3723,5.5723)" label="5.372 – 5.572 cm" />
+  <ColorMapEntry rgb="255,73,0" transparent="false" value="[5.5723,5.7797)" label="5.572 – 5.780 cm" />
+  <ColorMapEntry rgb="255,68,0" transparent="false" value="[5.7797,5.9949)" label="5.780 – 5.995 cm" />
+  <ColorMapEntry rgb="255,63,0" transparent="false" value="[5.9949,6.218)" label="5.995 – 6.218 cm" />
+  <ColorMapEntry rgb="255,57,0" transparent="false" value="[6.218,6.4495)" label="6.218 – 6.449 cm" />
+  <ColorMapEntry rgb="255,52,0" transparent="false" value="[6.4495,6.6896)" label="6.449 – 6.690 cm" />
+  <ColorMapEntry rgb="248,47,0" transparent="false" value="[6.6896,6.9386)" label="6.690 – 6.939 cm" />
+  <ColorMapEntry rgb="241,42,0" transparent="false" value="[6.9386,7.1969)" label="6.939 – 7.197 cm" />
+  <ColorMapEntry rgb="234,36,0" transparent="false" value="[7.1969,7.4648)" label="7.197 – 7.465 cm" />
+  <ColorMapEntry rgb="227,31,0" transparent="false" value="[7.4648,7.7427)" label="7.465 – 7.743 cm" />
+  <ColorMapEntry rgb="220,26,0" transparent="false" value="[7.7427,8.0309)" label="7.743 – 8.031 cm" />
+  <ColorMapEntry rgb="214,21,0" transparent="false" value="[8.0309,8.3298)" label="8.031 – 8.330 cm" />
+  <ColorMapEntry rgb="207,15,0" transparent="false" value="[8.3298,8.6399)" label="8.330 – 8.640 cm" />
+  <ColorMapEntry rgb="200,10,0" transparent="false" value="[8.6399,8.9615)" label="8.640 – 8.961 cm" />
+  <ColorMapEntry rgb="193,5,0" transparent="false" value="[8.9615,9.2951)" label="8.961 – 9.295 cm" />
+  <ColorMapEntry rgb="186,0,0" transparent="false" value="[9.2951,9.6411)" label="9.295 – 9.641 cm" />
+  <ColorMapEntry rgb="180,0,0" transparent="false" value="[9.6411,20)" label="9.641 – 20.000 cm" />
 </ColorMap>

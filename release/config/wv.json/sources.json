@@ -1,16 +1,16 @@
 {
     "sources": {
         "GIBS:arctic": {
-            "url": "//map1{a-c}.vis.earthdata.nasa.gov/wmts-arctic/wmts.cgi"
+            "url": "//gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi"
         },
         "GIBS:antarctic": {
-            "url": "//map1{a-c}.vis.earthdata.nasa.gov/wmts-antarctic/wmts.cgi"
+            "url": "//gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi"
         },
         "GIBS:geographic": {
-            "url": "//map1{a-c}.vis.earthdata.nasa.gov/wmts-geo/wmts.cgi"
+            "url": "//gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi"
         },
         "GIBS:wms": {
-            "url": "//map2{a-c}.vis.earthdata.nasa.gov/wms/wms.php"
+            "url": "//gibs.earthdata.nasa.gov/wms/wms.php"
         },
         "SEDAC:wms": {
             "url": "http://sedac.ciesin.columbia.edu/geoserver/wms"
