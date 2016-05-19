@@ -2,22 +2,23 @@
 <ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
           units="">
-  <ColorMapEntry rgb="192,192,192" transparent="true" value="-0.15" label="-0.15"/>
-  <ColorMapEntry rgb="220,220,255" transparent="true" value="-0.10" label="-0.10"/>
-  <ColorMapEntry rgb="102,0,119" transparent="false" value="-0.05" label="-0.05"/>
-  <ColorMapEntry rgb="183,15,141" transparent="false" value="0.00" label="0.00"/>
-  <ColorMapEntry rgb="0,0,100" transparent="false" value="0.05" label="0.05"/>
-  <ColorMapEntry rgb="0,0,170" transparent="false" value="0.10" label="0.10"/>
-  <ColorMapEntry rgb="0,0,255" transparent="false" value="0.15" label="0.15"/>
-  <ColorMapEntry rgb="0,136,238" transparent="false" value="0.20" label="0.20"/>
-  <ColorMapEntry rgb="0,80,0" transparent="false" value="0.25" label="0.25"/>
-  <ColorMapEntry rgb="0,136,0" transparent="false" value="0.30" label="0.30"/>
-  <ColorMapEntry rgb="0,220,0" transparent="false" value="0.35" label="0.35"/>
-  <ColorMapEntry rgb="255,255,0" transparent="false" value="0.40" label="0.40"/>
-  <ColorMapEntry rgb="240,190,64" transparent="false" value="0.45" label="0.45"/>
-  <ColorMapEntry rgb="187,136,0" transparent="false" value="0.50" label="0.50"/>
-  <ColorMapEntry rgb="122,90,3" transparent="false" value="0.55" label="0.55"/>
-  <ColorMapEntry rgb="110,0,0" transparent="false" value="0.60" label="0.60"/>
-  <ColorMapEntry rgb="170,0,0" transparent="false" value="0.65" label="0.65"/>
-  <ColorMapEntry rgb="255,0,0" transparent="false" value="0.70" label="0.70"/>
+  <ColorMapEntry rgb="220,220,255" transparent="true" label="No Data" />
+  <ColorMapEntry rgb="192,192,192" transparent="true" value="-0.15" label="-0.15" />
+  <ColorMapEntry rgb="220,220,255" transparent="true" value="-0.10" label="-0.10" />
+  <ColorMapEntry rgb="102,0,119" transparent="false" value="-0.05" label="-0.05" />
+  <ColorMapEntry rgb="183,15,141" transparent="false" value="0.00" label="0.00" />
+  <ColorMapEntry rgb="0,0,100" transparent="false" value="0.05" label="0.05" />
+  <ColorMapEntry rgb="0,0,170" transparent="false" value="0.10" label="0.10" />
+  <ColorMapEntry rgb="0,0,255" transparent="false" value="0.15" label="0.15" />
+  <ColorMapEntry rgb="0,136,238" transparent="false" value="0.20" label="0.20" />
+  <ColorMapEntry rgb="0,80,0" transparent="false" value="0.25" label="0.25" />
+  <ColorMapEntry rgb="0,136,0" transparent="false" value="0.30" label="0.30" />
+  <ColorMapEntry rgb="0,220,0" transparent="false" value="0.35" label="0.35" />
+  <ColorMapEntry rgb="255,255,0" transparent="false" value="0.40" label="0.40" />
+  <ColorMapEntry rgb="240,190,64" transparent="false" value="0.45" label="0.45" />
+  <ColorMapEntry rgb="187,136,0" transparent="false" value="0.50" label="0.50" />
+  <ColorMapEntry rgb="122,90,3" transparent="false" value="0.55" label="0.55" />
+  <ColorMapEntry rgb="110,0,0" transparent="false" value="0.60" label="0.60" />
+  <ColorMapEntry rgb="170,0,0" transparent="false" value="0.65" label="0.65" />
+  <ColorMapEntry rgb="255,0,0" transparent="false" value="0.70" label="0.70" />
 </ColorMap>

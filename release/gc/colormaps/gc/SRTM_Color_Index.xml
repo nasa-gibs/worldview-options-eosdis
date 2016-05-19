@@ -2,7 +2,7 @@
 <ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
           units="m">
-  <ColorMapEntry rgb="0,68,202" transparent="true" value="[-9999,0)" label="0 m"/>
+  <ColorMapEntry rgb="0,68,202" transparent="true" value="[-9999,0)" label="0 m" />
   <ColorMapEntry rgb="0,117,39" transparent="false" value="[1,5)" label="5 m" />
   <ColorMapEntry rgb="0,118,39" transparent="false" value="[6,10)" label="10 m" />
   <ColorMapEntry rgb="0,119,40" transparent="false" value="[11,15)" label="15 m" />
@@ -259,4 +259,3 @@
   <ColorMapEntry rgb="252,252,252" transparent="false" value="[8201,8400)" label="8400 m" />
   <ColorMapEntry rgb="255,255,255" transparent="false" value="[8401,+INF)" label="&gt; 8400 m" />
 </ColorMap>
-

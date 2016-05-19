@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
-          units="ppb"> 
-  <ColorMapEntry rgb="251,209,251" transparent="false" value="[40,40.4)" label="40 – 40.4 ppb"/>
-  <ColorMapEntry rgb="166,5,176" transparent="false" value="[40.4,50)" label="40.4 – 50 ppb"/>
-  <ColorMapEntry rgb="30,0,234" transparent="false" value="[50,60)" label="50 – 60 ppb"/>
-  <ColorMapEntry rgb="3,107,244" transparent="false" value="[60,70)" label="60 – 70 ppb"/>
-  <ColorMapEntry rgb="0,221,241" transparent="false" value="[70,80)" label="70 – 80 ppb"/>
-  <ColorMapEntry rgb="3,249,54" transparent="false" value="[80,90)" label="80 – 90 ppb"/>
-  <ColorMapEntry rgb="81,201,0" transparent="false" value="[90,100)" label="90 – 100 ppb"/>
-  <ColorMapEntry rgb="214,224,0" transparent="false" value="[100,110)" label="100 – 110 ppb"/>
-  <ColorMapEntry rgb="251,204,0" transparent="false" value="[110,120)" label="110 – 120 ppb"/>
-  <ColorMapEntry rgb="255,99,0" transparent="false" value="[120,130)" label="120 – 130 ppb"/>
-  <ColorMapEntry rgb="207,5,0" transparent="false" value="[130,140)" label="130 – 140 ppb"/>
-  <ColorMapEntry rgb="220,220,220" transparent="false" value="[140,500]" label="&gt;= 140 ppb"/>
+          units="ppb">
+  <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" />
+  <ColorMapEntry rgb="251,209,251" transparent="false" value="[40,40.4)" label="40 – 40.4 ppb" />
+  <ColorMapEntry rgb="166,5,176" transparent="false" value="[40.4,50)" label="40.4 – 50 ppb" />
+  <ColorMapEntry rgb="30,0,234" transparent="false" value="[50,60)" label="50 – 60 ppb" />
+  <ColorMapEntry rgb="3,107,244" transparent="false" value="[60,70)" label="60 – 70 ppb" />
+  <ColorMapEntry rgb="0,221,241" transparent="false" value="[70,80)" label="70 – 80 ppb" />
+  <ColorMapEntry rgb="3,249,54" transparent="false" value="[80,90)" label="80 – 90 ppb" />
+  <ColorMapEntry rgb="81,201,0" transparent="false" value="[90,100)" label="90 – 100 ppb" />
+  <ColorMapEntry rgb="214,224,0" transparent="false" value="[100,110)" label="100 – 110 ppb" />
+  <ColorMapEntry rgb="251,204,0" transparent="false" value="[110,120)" label="110 – 120 ppb" />
+  <ColorMapEntry rgb="255,99,0" transparent="false" value="[120,130)" label="120 – 130 ppb" />
+  <ColorMapEntry rgb="207,5,0" transparent="false" value="[130,140)" label="130 – 140 ppb" />
+  <ColorMapEntry rgb="220,220,220" transparent="false" value="[140,500]" label="&gt;= 140 ppb" />
 </ColorMap>
