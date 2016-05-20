@@ -1,7 +1,7 @@
 {
     "products": {
         "SPL2SMP": {
-            "name": "SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture V001",
+            "name": "SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture",
             "handler": "HalfOrbit",
             "query": {
                 "shortName": "SPL2SMP",

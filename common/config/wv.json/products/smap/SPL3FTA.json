@@ -1,7 +1,7 @@
 {
     "products": {
         "SPL3FTA": {
-            "name": "SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State V002",
+            "name": "SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State",
             "handler": "List",
             "query": {
                 "shortName": "SPL3FTA"
