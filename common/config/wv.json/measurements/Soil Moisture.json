@@ -45,10 +45,10 @@
 			                  "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
 			                  "SMAP_L4_Analyzed_Surface_Soil_Moisture",
 			                  "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
-                    	  "SMAP_L4_Mean_Gross_Primary_Productivity",
+	                    	  "SMAP_L4_Mean_Gross_Primary_Productivity",
 			                  "SMAP_L4_Mean_Heterotrophic_Respiration",
-  		                  "SMAP_L4_Mean_Net_Ecosystem_Exchange",
-                        "SMAP_L4_Uncertainty_Mean_Net_Ecosystem_Exchange",
+  			                  "SMAP_L4_Mean_Net_Ecosystem_Exchange",
+							  "SMAP_L4_Uncertainty_Mean_Net_Ecosystem_Exchange",
 			                  "SMAP_L4_Emult_Average",
 			                  "SMAP_L4_Frozen_Area",
 			                  "SMAP_L4_Snow_Mass"
