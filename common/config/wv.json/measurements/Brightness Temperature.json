@@ -28,7 +28,7 @@
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Brightness_Temp_Band31_Day",
-                        "MODIS_Aqua_Brightness_Temp_Band31_Night"
+                        "MODIS_Aqua_Brightness_Temp_Band31_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
                     ]
@@ -40,7 +40,7 @@
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Brightness_Temp_Band31_Day",
-                        "MODIS_Terra_Brightness_Temp_Band31_Night"
+                        "MODIS_Terra_Brightness_Temp_Band31_Night",
                         "Terra_Orbit_Asc",
                         "Terra_Orbit_Dsc"
                     ]
@@ -64,7 +64,7 @@
                     "image": "",
                     "settings": [
                         "GMI_Brightness_Temp_Asc",
-                        "GMI_Brightness_Temp_Dsc"
+                        "GMI_Brightness_Temp_Dsc",
                         "GPM_Orbit_Asc",
                         "GPM_Orbit_Dsc"
                     ]
