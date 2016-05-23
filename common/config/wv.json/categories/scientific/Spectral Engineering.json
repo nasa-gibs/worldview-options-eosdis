@@ -7,7 +7,9 @@
                 "image": "spectral-engineering.png",
                 "description": "",
                 "measurements": [
-                    "Brightness Temperature"
+                    "Brightness Temperature",
+                    "Sigma0",
+                    "Faraday Rotation"
                 ]
             }
         }

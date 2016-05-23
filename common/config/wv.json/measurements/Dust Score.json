@@ -8,6 +8,7 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua / AIRS",
+                    "description": "airs/Dust_Score",
                     "image": "",
                     "settings": [
                         "AIRS_Dust_Score_Ocean_Day",
