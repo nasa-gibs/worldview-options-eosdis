@@ -8,7 +8,7 @@
         "feedback": true,
         "arcticProjectionChange": true,
         "imageDownload": {
-            "host": "http://map2.vis.earthdata.nasa.gov",
+            "host": "http://gibs.earthdata.nasa.gov",
             "path": "image-download"
         }
     },
