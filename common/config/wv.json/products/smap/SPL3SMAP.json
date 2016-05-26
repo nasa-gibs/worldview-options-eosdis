@@ -1,7 +1,7 @@
 {
     "products": {
         "SPL3SMAP": {
-            "name": "SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture V002",
+            "name": "SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture",
             "handler": "List",
             "query": {
                 "shortName": "SPL3SMAP"

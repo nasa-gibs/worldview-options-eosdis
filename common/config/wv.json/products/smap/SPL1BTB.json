@@ -1,7 +1,7 @@
 {
     "products": {
         "SPL1BTB": {
-            "name": "SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures V001",
+            "name": "SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures",
             "handler": "HalfOrbit",
             "query": {
                 "shortName": "SPL1BTB",

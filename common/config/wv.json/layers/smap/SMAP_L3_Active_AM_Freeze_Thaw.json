@@ -2,7 +2,7 @@
     "layers": {
         "SMAP_L3_Active_AM_Freeze_Thaw": {
             "id":       "SMAP_L3_Active_AM_Freeze_Thaw",
-            "title":    "Freeze/Thaw (L3, Active, Radar, SMAP)",
+            "title":    "Freeze/Thaw (L3, Active)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
             "product":  "SPL3FTA",

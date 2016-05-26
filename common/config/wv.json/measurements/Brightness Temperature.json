@@ -3,11 +3,12 @@
         "Brightness Temperature": {
             "id": "brightness-temperature",
             "title":    "Brightness Temperature",
-            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GPM/GMI, SMAP/Radar/Radiometer",
+            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GCOM-W1/AMSR2, GPM/GMI, SMAP/Radar/Radiometer",
             "sources": {
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
                     "title": "Aqua/AMSR-E",
+                    "description": "amsre/BrightnessTemperature",
                     "image": "",
                     "settings": [
                         "AMSRE_Brightness_Temp_89H_Day",
@@ -27,7 +28,9 @@
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Brightness_Temp_Band31_Day",
-                        "MODIS_Aqua_Brightness_Temp_Band31_Night"
+                        "MODIS_Aqua_Brightness_Temp_Band31_Night",
+                        "Aqua_Orbit_Asc",
+                        "Aqua_Orbit_Dsc"
                     ]
                 },
                 "Terra/MODIS": {
@@ -37,7 +40,21 @@
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Brightness_Temp_Band31_Day",
-                        "MODIS_Terra_Brightness_Temp_Band31_Night"
+                        "MODIS_Terra_Brightness_Temp_Band31_Night",
+                        "Terra_Orbit_Asc",
+                        "Terra_Orbit_Dsc"
+                    ]
+                },
+                "GCOM-W1/AMSR2": {
+                    "id": "gcom-w1-amsr2",
+                    "title": "GCOM-W1 / AMSR2",
+                    "description": "amsr2/SeaIceBrightnessTemperature",
+                    "image": "",
+                    "settings": [
+                        "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
+                        "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
+                        "GCOM_W1_Orbit_Asc",
+                        "GCOM_W1_Orbit_Dsc"
                     ]
                 },
                 "GPM/GMI": {
@@ -47,12 +64,15 @@
                     "image": "",
                     "settings": [
                         "GMI_Brightness_Temp_Asc",
-                        "GMI_Brightness_Temp_Dsc"
+                        "GMI_Brightness_Temp_Dsc",
+                        "GPM_Orbit_Asc",
+                        "GPM_Orbit_Dsc"
                     ]
                 },
                 "SMAP/Radar/Radiometer": {
                     "id": "smap-radar-radiometer",
                     "title": "SMAP/Radar/Radiometer",
+                    "description": "smap/DisaggregatedBrightnessTemperature",
                     "image": "",
                     "settings": [
                         "SMAP_L3_Active_Passive_Brightness_Temp_H",
@@ -64,6 +84,7 @@
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
+                    "description": "smap/BrightnessTemperauture",
                     "image": "",
                     "settings": [
                         "SMAP_L1_Passive_Brightness_Temp_Fore_H",

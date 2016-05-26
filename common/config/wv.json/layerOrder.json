@@ -20,8 +20,8 @@
         "VIIRS_CityLights_2012",
         "Land_Water_Map",
 
-	"VIIRS_SNPP_Fires_375m_Day",
-	"VIIRS_SNPP_Fires_375m_Night",
+	      "VIIRS_SNPP_Fires_375m_Day",
+	      "VIIRS_SNPP_Fires_375m_Night",
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
         "MODIS_Combined_Value_Added_AOD",
@@ -123,6 +123,7 @@
         "SMAP_L4_Soil_Temperature_Layer_1",
         "SMAP_L4_Snow_Mass",
         "SMAP_L4_Mean_Net_Ecosystem_Exchange",
+        "SMAP_L4_Uncertainty_Mean_Net_Ecosystem_Exchange",
         "SMAP_L4_Mean_Gross_Primary_Productivity",
         "SMAP_L4_Mean_Heterotrophic_Respiration",
         "SMAP_L4_Emult_Average",
