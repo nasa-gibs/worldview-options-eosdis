@@ -76,9 +76,11 @@
                     "image": "",
                     "settings": [
                         "SMAP_L3_Active_Passive_Brightness_Temp_H",
-				                "SMAP_L3_Active_Passive_Brightness_Temp_V"
-				    ]
-				},
+			"SMAP_L3_Active_Passive_Brightness_Temp_V",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
+		    ]
+		},
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
@@ -98,7 +100,9 @@
                         "SMAP_L1_Passive_Brightness_Temp_Fore_V_QA",
                         "SMAP_L1_Passive_Brightness_Temp_Aft_V_QA",
                         "SMAP_L3_Passive_Brightness_Temp_H",
-                        "SMAP_L3_Passive_Brightness_Temp_V"
+                        "SMAP_L3_Passive_Brightness_Temp_V",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
                     ]
                 }
             }

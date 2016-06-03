@@ -11,7 +11,10 @@
                     "description": "smap/SoilMoisture_L3_Active",
                     "image": "",
                     "settings": [
-			                   "SMAP_L3_Active_Soil_Moisture"
+			"SMAP_L3_Active_Soil_Moisture",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc",
+			"SMAP_L3_Active_Soil_Moisture"
                     ]
                 },
                 "SMAP/Radiometer": {
@@ -23,7 +26,9 @@
                         "SMAP_L2_Passive_Soil_Moisture_Option1",
                         "SMAP_L2_Passive_Soil_Moisture_Option2",
                         "SMAP_L2_Passive_Soil_Moisture_Option3",
-                        "SMAP_L3_Passive_Soil_Moisture"
+                        "SMAP_L3_Passive_Soil_Moisture",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
                     ]
                 },
                 "SMAP/Radar/Radiometer": {
@@ -32,7 +37,9 @@
                     "description": "smap/SoilMoisture_L3_ActivePassive",
                     "image": "",
                     "settings": [
-			                   "SMAP_L3_Active_Passive_Soil_Moisture"
+			"SMAP_L3_Active_Passive_Soil_Moisture",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
                     ]
                 },
                 "SMAP/Model Value-Added": {
@@ -41,17 +48,18 @@
                     "description": "smap/Value-Added",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Analyzed_Surface_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
-	                    	  "SMAP_L4_Mean_Gross_Primary_Productivity",
-			                  "SMAP_L4_Mean_Heterotrophic_Respiration",
-  			                  "SMAP_L4_Mean_Net_Ecosystem_Exchange",
-							  "SMAP_L4_Uncertainty_Mean_Net_Ecosystem_Exchange",
-			                  "SMAP_L4_Emult_Average",
-			                  "SMAP_L4_Frozen_Area",
-			                  "SMAP_L4_Snow_Mass"
+			"SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
+			"SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
+			"SMAP_L4_Analyzed_Surface_Soil_Moisture",
+			"SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
+                    	"SMAP_L4_Mean_Gross_Primary_Productivity",
+			"SMAP_L4_Mean_Heterotrophic_Respiration",
+			"SMAP_L4_Mean_Net_Ecosystem_Exchange",
+			"SMAP_L4_Emult_Average",
+			"SMAP_L4_Frozen_Area",
+			"SMAP_L4_Snow_Mass",
+                        "SMAP_Orbit_Asc",
+                        "SMAP_Orbit_Dsc"
                     ]
                 }
             }

@@ -1,0 +1,33 @@
+{
+    "layers": {
+        "Landsat_8_Orbit_Dsc": {
+            "id":       "Landsat_8_Orbit_Dsc",
+            "title":    "Orbital Track (Descending/Night)",
+            "subtitle": "Space-Track.org / Landsat 8",
+            "group":    "overlays",
+            "format":   "image/png",
+            "type":     "wms",
+            "tileSize": [512, 512],
+            "period":   "daily",
+
+            "startDate": "2012-05-08",
+
+            "projections": {
+                "antarctic": {
+                    "source":   "GIBS:wms"
+                },
+                "arctic": {
+                    "source":   "GIBS:wms"
+                },
+                "geographic": {
+                    "source":   "GIBS:wms"
+                }
+            },
+
+            "palette": {
+                "id":     "Landsat_8_Orbit",
+                "immutable": true
+            }
+        }
+    }
+}
