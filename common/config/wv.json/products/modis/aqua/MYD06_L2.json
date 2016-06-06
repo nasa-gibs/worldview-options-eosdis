@@ -5,7 +5,7 @@
             "handler": "AquaSwathMultiDay",
             "query": {
                 "shortName": "MYD06_L2",
-                "dataCenterId": ["LAADS", "LANCEMODIS"],
+                "dataCenterId": ["LAADS", "LANCEMODIS"]
             },
             "nrt": {
                 "by": "value",

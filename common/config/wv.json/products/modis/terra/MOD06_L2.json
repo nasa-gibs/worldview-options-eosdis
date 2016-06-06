@@ -5,7 +5,7 @@
             "handler": "TerraSwathMultiDay",
             "query": {
                 "shortName": "MOD06_L2",
-                "dataCenterId": ["LAADS", "LANCEMODIS"],
+                "dataCenterId": ["LAADS", "LANCEMODIS"]
             },
             "nrt": {
                 "by": "value",
