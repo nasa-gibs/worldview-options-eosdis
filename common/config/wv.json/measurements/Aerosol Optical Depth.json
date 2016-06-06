@@ -24,6 +24,11 @@
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Aerosol",
+                        "MODIS_Aqua_Aerosol_Optical_Depth_3km",
+                        "MODIS_Aqua_Angstrom_Exponent_Land",
+                        "MODIS_Aqua_Angstrom_Exponent_Ocean",
+                        "MODIS_Aqua_AOD_Deep_Blue_Land",
+                        "MODIS_Aqua_AOD_Deep_Blue_Combined",
                         "Aqua_Orbit_Asc"
                     ]
                 },
@@ -34,6 +39,11 @@
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Aerosol",
+                        "MODIS_Terra_Aerosol_Optical_Depth_3km",
+                        "MODIS_Terra_Angstrom_Exponent_Land",
+                        "MODIS_Terra_Angstrom_Exponent_Ocean",
+                        "MODIS_Terra_AOD_Deep_Blue_Land",
+                        "MODIS_Terra_AOD_Deep_Blue_Combined",
                         "Terra_Orbit_Dsc"
                     ]
                 },
