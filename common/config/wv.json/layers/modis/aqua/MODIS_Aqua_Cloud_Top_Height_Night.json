@@ -5,7 +5,7 @@
             "title":    "Cloud Top Height (Night)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD06_L2",
+            "product":  "MYD06_L2_NIGHT",
 
             "metadata": "modis/CloudTopHeight"
             }

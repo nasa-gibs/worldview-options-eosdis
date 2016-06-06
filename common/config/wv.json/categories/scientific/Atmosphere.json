@@ -9,8 +9,11 @@
                 "measurements": [
                     "Aerosol Optical Depth",
                     "Carbon Monoxide",
+                    "Cloud Fraction",
+                    "Cloud Phase",
                     "Cloud Pressure",
                     "Cloud Top Temperature",
+                    "Cloud Top Height",
                     "Nitric Acid",
                     "Nitrous Oxide",
                     "Ozone",

@@ -5,7 +5,7 @@
             "title":    "Cloud Phase Infrared (Day)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD06_L2",
+            "product":  "MYD06_L2_DAY",
 
             "metadata": "modis/CloudPhase"
             }
