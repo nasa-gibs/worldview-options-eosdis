@@ -1,11 +1,11 @@
 {
     "products": {
-        "MOD04_3K": {
-            "name": "MODIS/Terra Aerosol 5-Min L2 Swath 3km",
-            "handler": "TerraSwathMultiDay",
+        "MYD06_L2": {
+            "name": "MODIS/Aqua Clouds 5-Min L2 Swath 1km and 5km",
+            "handler": "AquaSwathMultiDay",
             "query": {
-                "shortName": "MOD04_3K",
-                "dataCenterId": ["LAADS", "LANCEMODIS"]
+                "shortName": "MYD06_L2",
+                "dataCenterId": ["LAADS", "LANCEMODIS"],
             },
             "nrt": {
                 "by": "value",
