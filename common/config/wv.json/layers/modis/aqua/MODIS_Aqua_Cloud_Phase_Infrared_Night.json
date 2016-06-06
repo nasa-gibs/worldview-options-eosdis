@@ -1,6 +1,6 @@
 {
     "layers": {
-        "MODIS_Aqua_Cloud_Phase_Infrared_Day": {
+        "MODIS_Aqua_Cloud_Phase_Infrared_Night": {
             "id":       "MODIS_Aqua_Cloud_Phase_Infrared_Night",
             "title":    "Cloud Phase Infrared (Night)",
             "subtitle": "Aqua / MODIS",
