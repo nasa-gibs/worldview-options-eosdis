@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Top_Height_Day": {
+            "id":       "MODIS_Aqua_Cloud_Top_Height_Night",
+            "title":    "Cloud Top Height (Night)",
+            "subtitle": "Aqua / MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": "modis/CloudTopHeight"
+            }
+        }
+    }

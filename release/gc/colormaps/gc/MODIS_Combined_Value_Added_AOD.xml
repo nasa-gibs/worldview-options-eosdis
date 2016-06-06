@@ -3,7 +3,10 @@
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
           units="">
   <ColorMapEntry rgb="220,220,255" transparent="true" label="No Data" />
-  <ColorMapEntry rgb="192,192,192" transparent="true" value="-0.15" label="-0.15" />
+  <ColorMapEntry rgb="0,0,0" transparent="true" label="Unknown 1" />
+  <ColorMapEntry rgb="0,0,1" transparent="true" label="Unknown 2" />
+  <ColorMapEntry rgb="0,0,2" transparent="true" label="Unknown 3" />
+  <ColorMapEntry rgb="192,192,192" transparent="true" value="-0.20" label="-0.15" />
   <ColorMapEntry rgb="220,220,255" transparent="true" value="-0.10" label="-0.10" />
   <ColorMapEntry rgb="102,0,119" transparent="false" value="-0.05" label="-0.05" />
   <ColorMapEntry rgb="183,15,141" transparent="false" value="0.00" label="0.00" />

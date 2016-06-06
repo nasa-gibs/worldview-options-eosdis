@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Terra_Cloud_Multi_Layer_Flag": {
+            "id":       "MODIS_Terra_Cloud_Multi_Layer_Flag",
+            "title":    "Cloud Multi Layer Flag",
+            "subtitle": "Terra / MODIS",
+            "group":    "overlays",
+            "product":  "MOD06_L2",
+
+            "metadata": "modis/CloudQA"
+            }
+        }
+    }

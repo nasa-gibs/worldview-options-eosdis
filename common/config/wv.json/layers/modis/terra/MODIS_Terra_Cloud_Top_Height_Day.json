@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Terra_Cloud_Top_Height_Day": {
+            "id":       "MODIS_Terra_Cloud_Top_Height_Day",
+            "title":    "Cloud Top Height (Day)",
+            "subtitle": "Terra / MODIS",
+            "group":    "overlays",
+            "product":  "MOD06_L2",
+
+            "metadata": "modis/CloudTopHeight"
+            }
+        }
+    }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
+          units="">
+  <ColorMapEntry rgb="100,100,100" transparent="true" label="Clear" />
+  <ColorMapEntry rgb="0,0,100" transparent="false" label="Liquid Water" />
+  <ColorMapEntry rgb="188,210,254" transparent="false" label="Ice" />
+  <ColorMapEntry rgb="120,38,32" transparent="false" label="Mixed" />
+  <ColorMapEntry rgb="240,190,64" transparent="false" label="Uncertain" />
+</ColorMap>

@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Fraction_Day": {
+            "id":       "MODIS_Aqua_Cloud_Fraction_Night",
+            "title":    "Cloud Fraction (Night)",
+            "subtitle": "Aqua / MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": "modis/CloudFraction"
+            }
+        }
+    }

@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_AOD_Deep_Blue_Land": {
+            "id":       "MODIS_Aqua_AOD_Deep_Blue_Land",
+            "title":    "Deep Blue Aerosol Optical Depth (Land)",
+            "subtitle": "Aqua / MODIS",
+            "tags":     "aod",
+            "group":    "overlays",
+            "product":  "MYD04_L2",
+
+            "metadata": "modis/Aerosol"
+            }
+        }
+    }

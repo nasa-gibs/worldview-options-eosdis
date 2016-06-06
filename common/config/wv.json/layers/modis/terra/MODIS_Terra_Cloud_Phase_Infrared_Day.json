@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Terra_Cloud_Phase_Infrared_Day": {
+            "id":       "MODIS_Terra_Cloud_Phase_Infrared_Day",
+            "title":    "Cloud Phase Infrared (Day)",
+            "subtitle": "Terra / MODIS",
+            "group":    "overlays",
+            "product":  "MOD06_L2",
+
+            "metadata": "modis/CloudPhase"
+            }
+        }
+    }

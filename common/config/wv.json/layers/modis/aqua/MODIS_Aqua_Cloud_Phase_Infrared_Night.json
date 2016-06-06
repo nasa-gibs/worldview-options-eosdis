@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Phase_Infrared_Day": {
+            "id":       "MODIS_Aqua_Cloud_Phase_Infrared_Night",
+            "title":    "Cloud Phase Infrared (Night)",
+            "subtitle": "Aqua / MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": "modis/CloudPhase"
+            }
+        }
+    }

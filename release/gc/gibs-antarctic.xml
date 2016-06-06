@@ -104,9 +104,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-03/P1D</Value>
+             <Value>2016-01-13/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -135,9 +135,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-03/P1D</Value>
+             <Value>2016-01-13/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -166,9 +166,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-03/P1D</Value>
+             <Value>2016-01-13/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -197,9 +197,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-03/P1D</Value>
+             <Value>2016-01-13/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -207,7 +207,7 @@
          <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Sea Ice Concentration (12 km, v3, Standard, AMSR-E, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Sea Ice Concentration (12 km, AMSR-E, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -238,7 +238,7 @@
          <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Snow Depth Over Ice (12 km, v3, Standard, AMSR-E, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Snow Depth Over Ice (12 km, AMSR-E, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -269,7 +269,7 @@
          <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Snow_Depth_Over_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Sea Ice Concentration (25 km, v3, Standard, AMSR-E, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Sea Ice Concentration (25 km, AMSR-E, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -300,7 +300,7 @@
          <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, v3, Standard, AMSR-E, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, AMSR-E, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -331,7 +331,7 @@
          <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Brightness_Temp_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, v3, Standard, AMSR-E, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, AMSR-E, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -544,9 +544,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -575,9 +575,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -595,7 +595,7 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover_v5.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -606,9 +606,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -626,7 +626,7 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice_v5.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -637,9 +637,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -667,9 +667,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-03/P1D</Value>
+             <Value>2013-06-06/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -697,9 +697,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-03/P1D</Value>
+             <Value>2013-06-06/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -727,9 +727,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-03/P1D</Value>
+             <Value>2013-06-06/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -758,9 +758,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -789,9 +789,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -809,7 +809,7 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover_v5.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -820,9 +820,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -840,7 +840,7 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice_v5.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -851,9 +851,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-03/P1D</Value>
+             <Value>2012-05-08/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -881,9 +881,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-03/P1D</Value>
+             <Value>2013-06-06/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -911,9 +911,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-03/P1D</Value>
+             <Value>2013-06-06/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -987,9 +987,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-03/P1D</Value>
+             <Value>2015-11-24/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1017,9 +1017,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-03/P1D</Value>
+             <Value>2015-11-24/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1047,9 +1047,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-03</Default>
+             <Default>2016-06-06</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-03/P1D</Value>
+             <Value>2015-11-24/2016-06-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>

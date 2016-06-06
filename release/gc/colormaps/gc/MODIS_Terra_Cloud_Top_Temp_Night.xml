@@ -2,165 +2,25 @@
 <ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
           units="K">
-  <ColorMapEntry rgb="220,220,255" transparent="true" label="Fill" />
-  <ColorMapEntry rgb="102,0,119" transparent="false" value="[150,157)" label="150.0 – 157.0 K" />
-  <ColorMapEntry rgb="102,001,119" transparent="false" value="[157,164)" label="157.0 – 164.0 K" />
-  <ColorMapEntry rgb="102,002,119" transparent="false" value="[164,171)" label="164.0 – 171.0 K" />
-  <ColorMapEntry rgb="102,003,119" transparent="false" value="[171,178)" label="171.0 – 178.0 K" />
-  <ColorMapEntry rgb="102,004,119" transparent="false" value="[178,185)" label="178.0 – 185.0 K" />
-  <ColorMapEntry rgb="102,005,119" transparent="false" value="[185,192)" label="185.0 – 192.0 K" />
-  <ColorMapEntry rgb="102,006,119" transparent="false" value="[192,199)" label="192.0 – 199.0 K" />
-  <ColorMapEntry rgb="102,007,119" transparent="false" value="[199,206)" label="199.0 – 206.0 K" />
-  <ColorMapEntry rgb="102,008,119" transparent="false" value="[206,213)" label="206.0 – 213.0 K" />
-  <ColorMapEntry rgb="102,009,119" transparent="false" value="[213,220)" label="213.0 – 220.0 K" />
-  <ColorMapEntry rgb="183,15,141" transparent="false" value="[220,220.5)" label="220.0 – 220.5 K" />
-  <ColorMapEntry rgb="183,016,141" transparent="false" value="[220.5,221)" label="220.5 – 221.0 K" />
-  <ColorMapEntry rgb="183,017,141" transparent="false" value="[221,221.5)" label="221.0 – 221.5 K" />
-  <ColorMapEntry rgb="183,018,141" transparent="false" value="[221.5,222)" label="221.5 – 222.0 K" />
-  <ColorMapEntry rgb="183,019,141" transparent="false" value="[222,222.5)" label="222.0 – 222.5 K" />
-  <ColorMapEntry rgb="183,020,141" transparent="false" value="[222.5,223)" label="222.5 – 223.0 K" />
-  <ColorMapEntry rgb="183,021,141" transparent="false" value="[223,223.5)" label="223.0 – 223.5 K" />
-  <ColorMapEntry rgb="183,022,141" transparent="false" value="[223.5,224)" label="223.5 – 224.0 K" />
-  <ColorMapEntry rgb="183,023,141" transparent="false" value="[224,224.5)" label="224.0 – 224.5 K" />
-  <ColorMapEntry rgb="183,024,141" transparent="false" value="[224.5,225)" label="224.5 – 225.0 K" />
-  <ColorMapEntry rgb="0,0,100" transparent="false" value="[225,225.5)" label="225.0 – 225.5 K" />
-  <ColorMapEntry rgb="000,001,100" transparent="false" value="[225.5,226)" label="225.5 – 226.0 K" />
-  <ColorMapEntry rgb="001,001,100" transparent="false" value="[226,226.5)" label="226.0 – 226.5 K" />
-  <ColorMapEntry rgb="001,002,100" transparent="false" value="[226.5,227)" label="226.5 – 227.0 K" />
-  <ColorMapEntry rgb="002,002,100" transparent="false" value="[227,227.5)" label="227.0 – 227.5 K" />
-  <ColorMapEntry rgb="002,003,100" transparent="false" value="[227.5,228)" label="227.5 – 228.0 K" />
-  <ColorMapEntry rgb="003,003,100" transparent="false" value="[228,228.5)" label="228.0 – 228.5 K" />
-  <ColorMapEntry rgb="003,004,100" transparent="false" value="[228.5,229)" label="228.5 – 229.0 K" />
-  <ColorMapEntry rgb="004,004,100" transparent="false" value="[229,229.5)" label="229.0 – 229.5 K" />
-  <ColorMapEntry rgb="004,005,100" transparent="false" value="[229.5,230)" label="229.5 – 230.0 K" />
-  <ColorMapEntry rgb="0,0,170" transparent="false" value="[230,230.5)" label="230.0 – 230.5 K" />
-  <ColorMapEntry rgb="000,001,170" transparent="false" value="[230.5,231)" label="230.5 – 231.0 K" />
-  <ColorMapEntry rgb="001,001,170" transparent="false" value="[231,231.5)" label="231.0 – 231.5 K" />
-  <ColorMapEntry rgb="001,002,170" transparent="false" value="[231.5,232)" label="231.5 – 232.0 K" />
-  <ColorMapEntry rgb="002,002,170" transparent="false" value="[232,232.5)" label="232.0 – 232.5 K" />
-  <ColorMapEntry rgb="002,003,170" transparent="false" value="[232.5,233)" label="232.5 – 233.0 K" />
-  <ColorMapEntry rgb="003,003,170" transparent="false" value="[233,233.5)" label="233.0 – 233.5 K" />
-  <ColorMapEntry rgb="003,004,170" transparent="false" value="[233.5,234)" label="233.5 – 234.0 K" />
-  <ColorMapEntry rgb="004,004,170" transparent="false" value="[234,234.5)" label="234.0 – 234.5 K" />
-  <ColorMapEntry rgb="004,005,170" transparent="false" value="[234.5,235)" label="234.5 – 235.0 K" />
-  <ColorMapEntry rgb="0,0,255" transparent="false" value="[235,235.5)" label="235.0 – 235.5 K" />
-  <ColorMapEntry rgb="000,001,255" transparent="false" value="[235.5,236)" label="235.5 – 236.0 K" />
-  <ColorMapEntry rgb="001,001,255" transparent="false" value="[236,236.5)" label="236.0 – 236.5 K" />
-  <ColorMapEntry rgb="001,002,255" transparent="false" value="[236.5,237)" label="236.5 – 237.0 K" />
-  <ColorMapEntry rgb="002,002,255" transparent="false" value="[237,237.5)" label="237.0 – 237.5 K" />
-  <ColorMapEntry rgb="002,003,255" transparent="false" value="[237.5,238)" label="237.5 – 238.0 K" />
-  <ColorMapEntry rgb="003,003,255" transparent="false" value="[238,238.5)" label="238.0 – 238.5 K" />
-  <ColorMapEntry rgb="003,004,255" transparent="false" value="[238.5,239)" label="238.5 – 239.0 K" />
-  <ColorMapEntry rgb="004,004,255" transparent="false" value="[239,239.5)" label="239.0 – 239.5 K" />
-  <ColorMapEntry rgb="004,005,255" transparent="false" value="[239.5,240)" label="239.5 – 240.0 K" />
-  <ColorMapEntry rgb="0,136,238" transparent="false" value="[240,240.5)" label="240.0 – 240.5 K" />
-  <ColorMapEntry rgb="001,136,238" transparent="false" value="[240.5,241)" label="240.5 – 241.0 K" />
-  <ColorMapEntry rgb="002,136,238" transparent="false" value="[241,241.5)" label="241.0 – 241.5 K" />
-  <ColorMapEntry rgb="003,136,238" transparent="false" value="[241.5,242)" label="241.5 – 242.0 K" />
-  <ColorMapEntry rgb="004,136,238" transparent="false" value="[242,242.5)" label="242.0 – 242.5 K" />
-  <ColorMapEntry rgb="005,136,238" transparent="false" value="[242.5,243)" label="242.5 – 243.0 K" />
-  <ColorMapEntry rgb="006,136,238" transparent="false" value="[243,243.5)" label="243.0 – 243.5 K" />
-  <ColorMapEntry rgb="007,136,238" transparent="false" value="[243.5,244)" label="243.5 – 244.0 K" />
-  <ColorMapEntry rgb="008,136,238" transparent="false" value="[244,244.5)" label="244.0 – 244.5 K" />
-  <ColorMapEntry rgb="009,136,238" transparent="false" value="[244.5,245)" label="244.5 – 245.0 K" />
-  <ColorMapEntry rgb="0,80,0" transparent="false" value="[245,245.5)" label="245.0 – 245.5 K" />
-  <ColorMapEntry rgb="000,080,001" transparent="false" value="[245.5,246)" label="245.5 – 246.0 K" />
-  <ColorMapEntry rgb="001,080,001" transparent="false" value="[246,246.5)" label="246.0 – 246.5 K" />
-  <ColorMapEntry rgb="001,080,002" transparent="false" value="[246.5,247)" label="246.5 – 247.0 K" />
-  <ColorMapEntry rgb="002,080,002" transparent="false" value="[247,247.5)" label="247.0 – 247.5 K" />
-  <ColorMapEntry rgb="002,080,003" transparent="false" value="[247.5,248)" label="247.5 – 248.0 K" />
-  <ColorMapEntry rgb="003,080,003" transparent="false" value="[248,248.5)" label="248.0 – 248.5 K" />
-  <ColorMapEntry rgb="003,080,004" transparent="false" value="[248.5,249)" label="248.5 – 249.0 K" />
-  <ColorMapEntry rgb="004,080,004" transparent="false" value="[249,249.5)" label="249.0 – 249.5 K" />
-  <ColorMapEntry rgb="004,080,005" transparent="false" value="[249.5,250)" label="249.5 – 250.0 K" />
-  <ColorMapEntry rgb="0,136,0" transparent="false" value="[250,250.5)" label="250.0 – 250.5 K" />
-  <ColorMapEntry rgb="000,136,001" transparent="false" value="[250.5,251)" label="250.5 – 251.0 K" />
-  <ColorMapEntry rgb="001,136,001" transparent="false" value="[251,251.5)" label="251.0 – 251.5 K" />
-  <ColorMapEntry rgb="001,136,002" transparent="false" value="[251.5,252)" label="251.5 – 252.0 K" />
-  <ColorMapEntry rgb="002,136,002" transparent="false" value="[252,252.5)" label="252.0 – 252.5 K" />
-  <ColorMapEntry rgb="002,136,003" transparent="false" value="[252.5,253)" label="252.5 – 253.0 K" />
-  <ColorMapEntry rgb="003,136,003" transparent="false" value="[253,253.5)" label="253.0 – 253.5 K" />
-  <ColorMapEntry rgb="003,136,004" transparent="false" value="[253.5,254)" label="253.5 – 254.0 K" />
-  <ColorMapEntry rgb="004,136,004" transparent="false" value="[254,254.5)" label="254.0 – 254.5 K" />
-  <ColorMapEntry rgb="004,136,005" transparent="false" value="[254.5,255)" label="254.5 – 255.0 K" />
-  <ColorMapEntry rgb="0,220,0" transparent="false" value="[255,255.5)" label="255.0 – 255.5 K" />
-  <ColorMapEntry rgb="000,220,001" transparent="false" value="[255.5,256)" label="255.5 – 256.0 K" />
-  <ColorMapEntry rgb="001,220,001" transparent="false" value="[256,256.5)" label="256.0 – 256.5 K" />
-  <ColorMapEntry rgb="001,220,002" transparent="false" value="[256.5,257)" label="256.5 – 257.0 K" />
-  <ColorMapEntry rgb="002,220,002" transparent="false" value="[257,257.5)" label="257.0 – 257.5 K" />
-  <ColorMapEntry rgb="002,220,003" transparent="false" value="[257.5,258)" label="257.5 – 258.0 K" />
-  <ColorMapEntry rgb="003,220,003" transparent="false" value="[258,258.5)" label="258.0 – 258.5 K" />
-  <ColorMapEntry rgb="003,220,004" transparent="false" value="[258.5,259)" label="258.5 – 259.0 K" />
-  <ColorMapEntry rgb="004,220,004" transparent="false" value="[259,259.5)" label="259.0 – 259.5 K" />
-  <ColorMapEntry rgb="004,220,005" transparent="false" value="[259.5,260)" label="259.5 – 260.0 K" />
-  <ColorMapEntry rgb="255,255,0" transparent="false" value="[260,260.5)" label="260.0 – 260.5 K" />
-  <ColorMapEntry rgb="255,255,001" transparent="false" value="[260.5,261)" label="260.5 – 261.0 K" />
-  <ColorMapEntry rgb="255,255,002" transparent="false" value="[261,261.5)" label="261.0 – 261.5 K" />
-  <ColorMapEntry rgb="255,255,003" transparent="false" value="[261.5,262)" label="261.5 – 262.0 K" />
-  <ColorMapEntry rgb="255,255,004" transparent="false" value="[262,262.5)" label="262.0 – 262.5 K" />
-  <ColorMapEntry rgb="255,255,005" transparent="false" value="[262.5,263)" label="262.5 – 263.0 K" />
-  <ColorMapEntry rgb="255,255,006" transparent="false" value="[263,263.5)" label="263.0 – 263.5 K" />
-  <ColorMapEntry rgb="255,255,007" transparent="false" value="[263.5,264)" label="263.5 – 264.0 K" />
-  <ColorMapEntry rgb="255,255,008" transparent="false" value="[264,264.5)" label="264.0 – 264.5 K" />
-  <ColorMapEntry rgb="255,255,009" transparent="false" value="[264.5,265)" label="264.5 – 265.0 K" />
-  <ColorMapEntry rgb="240,190,64" transparent="false" value="[265,265.5)" label="265.0 – 265.5 K" />
-  <ColorMapEntry rgb="240,190,065" transparent="false" value="[265.5,266)" label="265.5 – 266.0 K" />
-  <ColorMapEntry rgb="240,190,066" transparent="false" value="[266,266.5)" label="266.0 – 266.5 K" />
-  <ColorMapEntry rgb="240,190,067" transparent="false" value="[266.5,267)" label="266.5 – 267.0 K" />
-  <ColorMapEntry rgb="240,190,068" transparent="false" value="[267,267.5)" label="267.0 – 267.5 K" />
-  <ColorMapEntry rgb="240,190,069" transparent="false" value="[267.5,268)" label="267.5 – 268.0 K" />
-  <ColorMapEntry rgb="240,190,070" transparent="false" value="[268,268.5)" label="268.0 – 268.5 K" />
-  <ColorMapEntry rgb="240,190,071" transparent="false" value="[268.5,269)" label="268.5 – 269.0 K" />
-  <ColorMapEntry rgb="240,190,072" transparent="false" value="[269,269.5)" label="269.0 – 269.5 K" />
-  <ColorMapEntry rgb="240,190,073" transparent="false" value="[269.5,270)" label="269.5 – 270.0 K" />
-  <ColorMapEntry rgb="187,136,0" transparent="false" value="[270,270.5)" label="270.0 – 270.5 K" />
-  <ColorMapEntry rgb="187,136,001" transparent="false" value="[270.5,271)" label="270.5 – 271.0 K" />
-  <ColorMapEntry rgb="187,136,002" transparent="false" value="[271,271.5)" label="271.0 – 271.5 K" />
-  <ColorMapEntry rgb="187,136,003" transparent="false" value="[271.5,272)" label="271.5 – 272.0 K" />
-  <ColorMapEntry rgb="187,136,004" transparent="false" value="[272,272.5)" label="272.0 – 272.5 K" />
-  <ColorMapEntry rgb="187,136,005" transparent="false" value="[272.5,273)" label="272.5 – 273.0 K" />
-  <ColorMapEntry rgb="187,136,006" transparent="false" value="[273,273.5)" label="273.0 – 273.5 K" />
-  <ColorMapEntry rgb="187,136,007" transparent="false" value="[273.5,274)" label="273.5 – 274.0 K" />
-  <ColorMapEntry rgb="187,136,008" transparent="false" value="[274,274.5)" label="274.0 – 274.5 K" />
-  <ColorMapEntry rgb="187,136,009" transparent="false" value="[274.5,275)" label="274.5 – 275.0 K" />
-  <ColorMapEntry rgb="122,90,3" transparent="false" value="[275,275.5)" label="275.0 – 275.5 K" />
-  <ColorMapEntry rgb="122,090,004" transparent="false" value="[275.5,276)" label="275.5 – 276.0 K" />
-  <ColorMapEntry rgb="122,090,005" transparent="false" value="[276,276.5)" label="276.0 – 276.5 K" />
-  <ColorMapEntry rgb="122,090,006" transparent="false" value="[276.5,277)" label="276.5 – 277.0 K" />
-  <ColorMapEntry rgb="122,090,007" transparent="false" value="[277,277.5)" label="277.0 – 277.5 K" />
-  <ColorMapEntry rgb="122,090,008" transparent="false" value="[277.5,278)" label="277.5 – 278.0 K" />
-  <ColorMapEntry rgb="122,090,009" transparent="false" value="[278,278.5)" label="278.0 – 278.5 K" />
-  <ColorMapEntry rgb="122,090,010" transparent="false" value="[278.5,279)" label="278.5 – 279.0 K" />
-  <ColorMapEntry rgb="122,090,011" transparent="false" value="[279,279.5)" label="279.0 – 279.5 K" />
-  <ColorMapEntry rgb="122,090,012" transparent="false" value="[279.5,280)" label="279.5 – 280.0 K" />
-  <ColorMapEntry rgb="110,0,0" transparent="false" value="[280,280.5)" label="280.0 – 280.5 K" />
-  <ColorMapEntry rgb="110,000,001" transparent="false" value="[280.5,281)" label="280.5 – 281.0 K" />
-  <ColorMapEntry rgb="110,001,001" transparent="false" value="[281,281.5)" label="281.0 – 281.5 K" />
-  <ColorMapEntry rgb="110,001,002" transparent="false" value="[281.5,282)" label="281.5 – 282.0 K" />
-  <ColorMapEntry rgb="110,002,002" transparent="false" value="[282,282.5)" label="282.0 – 282.5 K" />
-  <ColorMapEntry rgb="110,002,003" transparent="false" value="[282.5,283)" label="282.5 – 283.0 K" />
-  <ColorMapEntry rgb="110,003,003" transparent="false" value="[283,283.5)" label="283.0 – 283.5 K" />
-  <ColorMapEntry rgb="110,003,004" transparent="false" value="[283.5,284)" label="283.5 – 284.0 K" />
-  <ColorMapEntry rgb="110,004,004" transparent="false" value="[284,284.5)" label="284.0 – 284.5 K" />
-  <ColorMapEntry rgb="110,004,005" transparent="false" value="[284.5,285)" label="284.5 – 285.0 K" />
-  <ColorMapEntry rgb="170,0,0" transparent="false" value="[285,285.5)" label="285.0 – 285.5 K" />
-  <ColorMapEntry rgb="170,000,001" transparent="false" value="[285.5,286)" label="285.5 – 286.0 K" />
-  <ColorMapEntry rgb="170,001,001" transparent="false" value="[286,286.5)" label="286.0 – 286.5 K" />
-  <ColorMapEntry rgb="170,001,002" transparent="false" value="[286.5,287)" label="286.5 – 287.0 K" />
-  <ColorMapEntry rgb="170,002,002" transparent="false" value="[287,287.5)" label="287.0 – 287.5 K" />
-  <ColorMapEntry rgb="170,002,003" transparent="false" value="[287.5,288)" label="287.5 – 288.0 K" />
-  <ColorMapEntry rgb="170,003,003" transparent="false" value="[288,288.5)" label="288.0 – 288.5 K" />
-  <ColorMapEntry rgb="170,003,004" transparent="false" value="[288.5,289)" label="288.5 – 289.0 K" />
-  <ColorMapEntry rgb="170,004,004" transparent="false" value="[289,289.5)" label="289.0 – 289.5 K" />
-  <ColorMapEntry rgb="170,004,005" transparent="false" value="[289.5,290)" label="289.5 – 290.0 K" />
-  <ColorMapEntry rgb="255,0,0" transparent="false" value="[290,296)" label="290.0 – 296.0 K" />
-  <ColorMapEntry rgb="255,000,001" transparent="false" value="[296,302)" label="296.0 – 302.0 K" />
-  <ColorMapEntry rgb="255,001,001" transparent="false" value="[302,308)" label="302.0 – 308.0 K" />
-  <ColorMapEntry rgb="255,001,002" transparent="false" value="[308,314)" label="308.0 – 314.0 K" />
-  <ColorMapEntry rgb="255,002,002" transparent="false" value="[314,320)" label="314.0 – 320.0 K" />
-  <ColorMapEntry rgb="255,002,003" transparent="false" value="[320,326)" label="320.0 – 326.0 K" />
-  <ColorMapEntry rgb="255,003,003" transparent="false" value="[326,332)" label="326.0 – 332.0 K" />
-  <ColorMapEntry rgb="255,003,004" transparent="false" value="[332,338)" label="332.0 – 338.0 K" />
-  <ColorMapEntry rgb="255,004,004" transparent="false" value="[338,344)" label="338.0 – 344.0 K" />
-  <ColorMapEntry rgb="255,004,005" transparent="false" value="[344,350)" label="344.0 – 350.0 K" />
+  <ColorMapEntry rgb="220,220,255" transparent="true" label="No Data" />
+  <ColorMapEntry rgb="0,0,0" transparent="true" label="Unknown 1" />
+  <ColorMapEntry rgb="0,0,1" transparent="true" label="Unknown 2" />
+  <ColorMapEntry rgb="0,0,2" transparent="true" label="Unknown 3" />
+  <ColorMapEntry rgb="192,192,192" transparent="true" label="Unknown 4" />
+  <ColorMapEntry rgb="102,0,119" transparent="false" value="220" label="220 K" />
+  <ColorMapEntry rgb="183,15,141" transparent="false" value="225" label="225 K" />
+  <ColorMapEntry rgb="0,0,100" transparent="false" value="229" label="229 K" />
+  <ColorMapEntry rgb="0,0,170" transparent="false" value="234" label="234 K" />
+  <ColorMapEntry rgb="0,0,255" transparent="false" value="239" label="239 K" />
+  <ColorMapEntry rgb="0,136,238" transparent="false" value="243" label="243 K" />
+  <ColorMapEntry rgb="0,80,0" transparent="false" value="248" label="248 K" />
+  <ColorMapEntry rgb="0,136,0" transparent="false" value="253" label="253 K" />
+  <ColorMapEntry rgb="0,220,0" transparent="false" value="257" label="257 K" />
+  <ColorMapEntry rgb="255,255,0" transparent="false" value="262" label="262 K" />
+  <ColorMapEntry rgb="240,190,64" transparent="false" value="267" label="267 K" />
+  <ColorMapEntry rgb="187,136,0" transparent="false" value="271" label="271 K" />
+  <ColorMapEntry rgb="122,90,3" transparent="false" value="276" label="276 K" />
+  <ColorMapEntry rgb="110,0,0" transparent="false" value="281" label="281 K" />
+  <ColorMapEntry rgb="170,0,0" transparent="false" value="285" label="285 K" />
+  <ColorMapEntry rgb="255,0,0" transparent="false" value="290" label="290 K" />
 </ColorMap>
