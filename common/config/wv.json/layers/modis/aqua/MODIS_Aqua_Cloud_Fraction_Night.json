@@ -1,6 +1,6 @@
 {
     "layers": {
-        "MODIS_Aqua_Cloud_Fraction_Day": {
+        "MODIS_Aqua_Cloud_Fraction_Night": {
             "id":       "MODIS_Aqua_Cloud_Fraction_Night",
             "title":    "Cloud Fraction (Night)",
             "subtitle": "Aqua / MODIS",

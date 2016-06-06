@@ -1,6 +1,6 @@
 {
     "layers": {
-        "MODIS_Terra_Cloud_Top_Height_Day": {
+        "MODIS_Terra_Cloud_Top_Height_Night": {
             "id":       "MODIS_Terra_Cloud_Top_Height_Night",
             "title":    "Cloud Top Height (Night)",
             "subtitle": "Terra / MODIS",
