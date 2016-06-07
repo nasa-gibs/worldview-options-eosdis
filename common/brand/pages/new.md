@@ -4,17 +4,7 @@
 
 ## New Features
 
-* Added the following MODIS C6 Atmosphere products:
-** Aerosol Optical Depth 3km (3km, Land and Ocean)
-** Deep Blue Aerosol Angstrom Exponent (Land)
-** Dark Target Aerosol Angstrom Exponent (Ocean)
-** Deep Blue Aerosol Optical Depth (Land)
-** Merged DT/DB Aerosol Optical Depth (Land and Ocean)
-** Cloud Multi Layer Flag
-** Cloud Phase Optical Properties
-** Cloud Fraction
-** Cloud Phase Infrared
-** Cloud Top Height
+* Added the following MODIS C6 Atmosphere products: Aerosol Optical Depth 3km (3km, Land and Ocean), Deep Blue Aerosol Angstrom Exponent (Land), Dark Target Aerosol Angstrom Exponent (Ocean), Deep Blue Aerosol Optical Depth (Land), Merged DT/DB Aerosol Optical Depth (Land and Ocean), Cloud Multi Layer Flag, Cloud Phase Optical Properties, Cloud Fraction, Cloud Phase Infrared, Cloud Top Height
 * Added orbit tracks for Landsat 8, ISS, GOSAT, and SMAP
 
 ## Updates
