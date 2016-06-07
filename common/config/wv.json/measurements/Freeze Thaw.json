@@ -14,15 +14,6 @@
                         "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE"
                     ]
                 },
-                "SMAP/Radar": {
-                    "id": "smap-radar",
-                    "title": "SMAP / Radar",
-                    "description": "smap/FreezeThaw",
-                    "image": "",
-                    "settings": [
-			                  "SMAP_L3_Active_AM_Freeze_Thaw"
-                    ]
-                },
                 "DMSP/SSMI": {
                     "id": "dmsp-ssmi",
                     "title": "DMSP / SSMI",
