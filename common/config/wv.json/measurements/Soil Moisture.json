@@ -19,7 +19,7 @@
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
-                    "description": "SoilMoisture_L2_L3_Passive",
+                    "description": "smap/SoilMoisture_L2_L3_Passive",
                     "image": "",
                     "settings": [
                         "SMAP_L2_Passive_Soil_Moisture_Option1",
