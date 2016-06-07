@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
+          units="hPa">
+  <ColorMapEntry rgb="255,255,255" transparent="true" label="No Data" />
+  <ColorMapEntry rgb="0,0,0" transparent="true" label="Unknown 1" />
+  <ColorMapEntry rgb="227,26,28" transparent="true" label="Unknown 2" />
+  <ColorMapEntry rgb="51,160,44" transparent="true" label="Unknown 3" />
+  <ColorMapEntry rgb="31,120,180" transparent="true" label="Unknown 4" />
+  <ColorMapEntry rgb="255,127,255" transparent="true" label="Unknown 5" />
+  <ColorMapEntry rgb="106,61,154" transparent="true" label="Unknown 6" />
+  <ColorMapEntry rgb="251,154,153" transparent="true" label="Unknown 7" />
+  <ColorMapEntry rgb="178,223,138" transparent="true" label="Unknown 8" />
+  <ColorMapEntry rgb="156,216,217" transparent="true" label="Unknown 9" />
+  <ColorMapEntry rgb="253,191,111" transparent="true" label="Unknown 10" />
+  <ColorMapEntry rgb="202,178,214" transparent="true" label="Unknown 11" />
+  <ColorMapEntry rgb="90,90,90" transparent="true" label="Unknown 12" />
+  <ColorMapEntry rgb="150,150,150" transparent="true" label="Unknown 13" />
+  <ColorMapEntry rgb="188,188,188" transparent="true" label="Unknown 14" />
+  <ColorMapEntry rgb="220,220,220" transparent="true" label="Unknown 15" />
+  <ColorMapEntry rgb="240,240,240" transparent="true" label="Unknown 16" />
+  <ColorMapEntry rgb="255,255,255" transparent="false" value="0" label="0 hPa" />
+  <ColorMapEntry rgb="255,253,253" transparent="false" value="6" label="6 hPa" />
+  <ColorMapEntry rgb="255,252,252" transparent="false" value="11" label="11 hPa" />
+  <ColorMapEntry rgb="255,251,251" transparent="false" value="16" label="16 hPa" />
+  <ColorMapEntry rgb="255,250,250" transparent="false" value="22" label="22 hPa" />
+  <ColorMapEntry rgb="255,248,248" transparent="false" value="28" label="28 hPa" />
+  <ColorMapEntry rgb="247,255,250" transparent="false" value="33" label="33 hPa" />
+  <ColorMapEntry rgb="255,246,247" transparent="false" value="38" label="38 hPa" />
+  <ColorMapEntry rgb="255,245,246" transparent="false" value="44" label="44 hPa" />
+  <ColorMapEntry rgb="255,243,245" transparent="false" value="50" label="50 hPa" />
+  <ColorMapEntry rgb="255,242,245" transparent="false" value="55" label="55 hPa" />
+  <ColorMapEntry rgb="255,241,244" transparent="false" value="60" label="60 hPa" />
+  <ColorMapEntry rgb="255,239,243" transparent="false" value="66" label="66 hPa" />
+  <ColorMapEntry rgb="255,238,243" transparent="false" value="72" label="72 hPa" />
+  <ColorMapEntry rgb="255,237,243" transparent="false" value="77" label="77 hPa" />
+  <ColorMapEntry rgb="255,236,243" transparent="false" value="82" label="82 hPa" />
+  <ColorMapEntry rgb="255,234,242" transparent="false" value="88" label="88 hPa" />
+  <ColorMapEntry rgb="255,233,242" transparent="false" value="94" label="94 hPa" />
+  <ColorMapEntry rgb="255,232,242" transparent="false" value="99" label="99 hPa" />
+  <ColorMapEntry rgb="255,230,242" transparent="false" value="104" label="104 hPa" />
+  <ColorMapEntry rgb="255,229,242" transparent="false" value="110" label="110 hPa" />
+  <ColorMapEntry rgb="255,228,243" transparent="false" value="116" label="116 hPa" />
+  <ColorMapEntry rgb="255,227,243" transparent="false" value="121" label="121 hPa" />
+  <ColorMapEntry rgb="255,225,243" transparent="false" value="126" label="126 hPa" />
+  <ColorMapEntry rgb="255,224,244" transparent="false" value="132" label="132 hPa" />
+  <ColorMapEntry rgb="255,223,244" transparent="false" value="138" label="138 hPa" />
+  <ColorMapEntry rgb="255,222,246" transparent="false" value="143" label="143 hPa" />
+  <ColorMapEntry rgb="255,220,246" transparent="false" value="148" label="148 hPa" />
+  <ColorMapEntry rgb="255,219,246" transparent="false" value="154" label="154 hPa" />
+  <ColorMapEntry rgb="255,218,247" transparent="false" value="160" label="160 hPa" />
+  <ColorMapEntry rgb="255,216,249" transparent="false" value="165" label="165 hPa" />
+  <ColorMapEntry rgb="255,215,249" transparent="false" value="170" label="170 hPa" />
+  <ColorMapEntry rgb="255,214,250" transparent="false" value="176" label="176 hPa" />
+  <ColorMapEntry rgb="255,213,251" transparent="false" value="182" label="182 hPa" />
+  <ColorMapEntry rgb="255,211,253" transparent="false" value="187" label="187 hPa" />
+  <ColorMapEntry rgb="254,210,255" transparent="false" value="192" label="192 hPa" />
+  <ColorMapEntry rgb="253,209,255" transparent="false" value="198" label="198 hPa" />
+  <ColorMapEntry rgb="251,207,255" transparent="false" value="204" label="204 hPa" />
+  <ColorMapEntry rgb="250,206,255" transparent="false" value="209" label="209 hPa" />
+  <ColorMapEntry rgb="248,205,255" transparent="false" value="214" label="214 hPa" />
+  <ColorMapEntry rgb="247,204,255" transparent="false" value="220" label="220 hPa" />
+  <ColorMapEntry rgb="245,202,255" transparent="false" value="226" label="226 hPa" />
+  <ColorMapEntry rgb="243,201,255" transparent="false" value="231" label="231 hPa" />
+  <ColorMapEntry rgb="241,200,255" transparent="false" value="236" label="236 hPa" />
+  <ColorMapEntry rgb="239,198,255" transparent="false" value="242" label="242 hPa" />
+  <ColorMapEntry rgb="237,197,255" transparent="false" value="248" label="248 hPa" />
+  <ColorMapEntry rgb="235,196,255" transparent="false" value="253" label="253 hPa" />
+  <ColorMapEntry rgb="233,195,255" transparent="false" value="258" label="258 hPa" />
+  <ColorMapEntry rgb="230,193,255" transparent="false" value="264" label="264 hPa" />
+  <ColorMapEntry rgb="229,192,255" transparent="false" value="270" label="270 hPa" />
+  <ColorMapEntry rgb="226,191,255" transparent="false" value="275" label="275 hPa" />
+  <ColorMapEntry rgb="224,190,255" transparent="false" value="280" label="280 hPa" />
+  <ColorMapEntry rgb="221,188,255" transparent="false" value="286" label="286 hPa" />
+  <ColorMapEntry rgb="218,187,255" transparent="false" value="292" label="292 hPa" />
+  <ColorMapEntry rgb="216,186,255" transparent="false" value="297" label="297 hPa" />
+  <ColorMapEntry rgb="212,184,255" transparent="false" value="302" label="302 hPa" />
+  <ColorMapEntry rgb="210,183,255" transparent="false" value="308" label="308 hPa" />
+  <ColorMapEntry rgb="207,182,255" transparent="false" value="314" label="314 hPa" />
+  <ColorMapEntry rgb="204,181,255" transparent="false" value="319" label="319 hPa" />
+  <ColorMapEntry rgb="201,179,255" transparent="false" value="324" label="324 hPa" />
+  <ColorMapEntry rgb="197,178,255" transparent="false" value="330" label="330 hPa" />
+  <ColorMapEntry rgb="194,177,255" transparent="false" value="336" label="336 hPa" />
+  <ColorMapEntry rgb="191,175,255" transparent="false" value="341" label="341 hPa" />
+  <ColorMapEntry rgb="188,174,255" transparent="false" value="346" label="346 hPa" />
+  <ColorMapEntry rgb="185,173,255" transparent="false" value="352" label="352 hPa" />
+  <ColorMapEntry rgb="181,172,255" transparent="false" value="358" label="358 hPa" />
+  <ColorMapEntry rgb="177,170,255" transparent="false" value="363" label="363 hPa" />
+  <ColorMapEntry rgb="173,169,255" transparent="false" value="368" label="368 hPa" />
+  <ColorMapEntry rgb="170,169,255" transparent="false" value="374" label="374 hPa" />
+  <ColorMapEntry rgb="167,169,255" transparent="false" value="380" label="380 hPa" />
+  <ColorMapEntry rgb="166,170,255" transparent="false" value="385" label="385 hPa" />
+  <ColorMapEntry rgb="165,171,255" transparent="false" value="390" label="390 hPa" />
+  <ColorMapEntry rgb="164,172,255" transparent="false" value="396" label="396 hPa" />
+  <ColorMapEntry rgb="162,174,255" transparent="false" value="402" label="402 hPa" />
+  <ColorMapEntry rgb="161,176,255" transparent="false" value="407" label="407 hPa" />
+  <ColorMapEntry rgb="160,177,255" transparent="false" value="412" label="412 hPa" />
+  <ColorMapEntry rgb="159,180,255" transparent="false" value="418" label="418 hPa" />
+  <ColorMapEntry rgb="157,181,255" transparent="false" value="424" label="424 hPa" />
+  <ColorMapEntry rgb="156,183,255" transparent="false" value="429" label="429 hPa" />
+  <ColorMapEntry rgb="155,185,255" transparent="false" value="434" label="434 hPa" />
+  <ColorMapEntry rgb="153,188,255" transparent="false" value="440" label="440 hPa" />
+  <ColorMapEntry rgb="152,189,255" transparent="false" value="446" label="446 hPa" />
+  <ColorMapEntry rgb="151,192,255" transparent="false" value="451" label="451 hPa" />
+  <ColorMapEntry rgb="150,194,255" transparent="false" value="456" label="456 hPa" />
+  <ColorMapEntry rgb="148,197,255" transparent="false" value="462" label="462 hPa" />
+  <ColorMapEntry rgb="147,200,255" transparent="false" value="468" label="468 hPa" />
+  <ColorMapEntry rgb="146,202,255" transparent="false" value="473" label="473 hPa" />
+  <ColorMapEntry rgb="144,205,255" transparent="false" value="478" label="478 hPa" />
+  <ColorMapEntry rgb="143,207,255" transparent="false" value="484" label="484 hPa" />
+  <ColorMapEntry rgb="142,210,255" transparent="false" value="490" label="490 hPa" />
+  <ColorMapEntry rgb="141,213,255" transparent="false" value="495" label="495 hPa" />
+  <ColorMapEntry rgb="139,216,255" transparent="false" value="500" label="500 hPa" />
+  <ColorMapEntry rgb="138,219,255" transparent="false" value="506" label="506 hPa" />
+  <ColorMapEntry rgb="137,222,255" transparent="false" value="512" label="512 hPa" />
+  <ColorMapEntry rgb="135,226,255" transparent="false" value="517" label="517 hPa" />
+  <ColorMapEntry rgb="134,228,255" transparent="false" value="522" label="522 hPa" />
+  <ColorMapEntry rgb="133,232,255" transparent="false" value="528" label="528 hPa" />
+  <ColorMapEntry rgb="132,235,255" transparent="false" value="534" label="534 hPa" />
+  <ColorMapEntry rgb="130,239,255" transparent="false" value="539" label="539 hPa" />
+  <ColorMapEntry rgb="129,242,255" transparent="false" value="544" label="544 hPa" />
+  <ColorMapEntry rgb="128,246,255" transparent="false" value="550" label="550 hPa" />
+  <ColorMapEntry rgb="127,250,255" transparent="false" value="556" label="556 hPa" />
+  <ColorMapEntry rgb="125,254,255" transparent="false" value="561" label="561 hPa" />
+  <ColorMapEntry rgb="124,255,251" transparent="false" value="566" label="566 hPa" />
+  <ColorMapEntry rgb="123,255,247" transparent="false" value="572" label="572 hPa" />
+  <ColorMapEntry rgb="121,255,243" transparent="false" value="578" label="578 hPa" />
+  <ColorMapEntry rgb="120,255,239" transparent="false" value="583" label="583 hPa" />
+  <ColorMapEntry rgb="119,255,234" transparent="false" value="588" label="588 hPa" />
+  <ColorMapEntry rgb="118,255,231" transparent="false" value="594" label="594 hPa" />
+  <ColorMapEntry rgb="116,255,226" transparent="false" value="600" label="600 hPa" />
+  <ColorMapEntry rgb="115,255,221" transparent="false" value="605" label="605 hPa" />
+  <ColorMapEntry rgb="114,255,217" transparent="false" value="610" label="610 hPa" />
+  <ColorMapEntry rgb="112,255,212" transparent="false" value="616" label="616 hPa" />
+  <ColorMapEntry rgb="111,255,208" transparent="false" value="622" label="622 hPa" />
+  <ColorMapEntry rgb="110,255,204" transparent="false" value="627" label="627 hPa" />
+  <ColorMapEntry rgb="109,255,199" transparent="false" value="632" label="632 hPa" />
+  <ColorMapEntry rgb="107,255,194" transparent="false" value="638" label="638 hPa" />
+  <ColorMapEntry rgb="106,255,189" transparent="false" value="644" label="644 hPa" />
+  <ColorMapEntry rgb="105,255,183" transparent="false" value="649" label="649 hPa" />
+  <ColorMapEntry rgb="103,255,178" transparent="false" value="654" label="654 hPa" />
+  <ColorMapEntry rgb="102,255,173" transparent="false" value="660" label="660 hPa" />
+  <ColorMapEntry rgb="101,255,168" transparent="false" value="666" label="666 hPa" />
+  <ColorMapEntry rgb="100,255,163" transparent="false" value="671" label="671 hPa" />
+  <ColorMapEntry rgb="98,255,158" transparent="false" value="676" label="676 hPa" />
+  <ColorMapEntry rgb="97,255,152" transparent="false" value="682" label="682 hPa" />
+  <ColorMapEntry rgb="96,255,147" transparent="false" value="688" label="688 hPa" />
+  <ColorMapEntry rgb="95,255,142" transparent="false" value="693" label="693 hPa" />
+  <ColorMapEntry rgb="93,255,135" transparent="false" value="698" label="698 hPa" />
+  <ColorMapEntry rgb="92,255,130" transparent="false" value="704" label="704 hPa" />
+  <ColorMapEntry rgb="91,255,124" transparent="false" value="710" label="710 hPa" />
+  <ColorMapEntry rgb="89,255,118" transparent="false" value="715" label="715 hPa" />
+  <ColorMapEntry rgb="88,255,112" transparent="false" value="720" label="720 hPa" />
+  <ColorMapEntry rgb="87,255,106" transparent="false" value="726" label="726 hPa" />
+  <ColorMapEntry rgb="86,255,100" transparent="false" value="732" label="732 hPa" />
+  <ColorMapEntry rgb="85,255,93" transparent="false" value="737" label="737 hPa" />
+  <ColorMapEntry rgb="84,255,87" transparent="false" value="742" label="742 hPa" />
+  <ColorMapEntry rgb="83,255,83" transparent="false" value="748" label="748 hPa" />
+  <ColorMapEntry rgb="88,255,81" transparent="false" value="754" label="754 hPa" />
+  <ColorMapEntry rgb="92,255,80" transparent="false" value="759" label="759 hPa" />
+  <ColorMapEntry rgb="95,255,79" transparent="false" value="764" label="764 hPa" />
+  <ColorMapEntry rgb="99,255,78" transparent="false" value="770" label="770 hPa" />
+  <ColorMapEntry rgb="103,255,76" transparent="false" value="776" label="776 hPa" />
+  <ColorMapEntry rgb="108,255,75" transparent="false" value="781" label="781 hPa" />
+  <ColorMapEntry rgb="113,255,74" transparent="false" value="786" label="786 hPa" />
+  <ColorMapEntry rgb="117,255,72" transparent="false" value="792" label="792 hPa" />
+  <ColorMapEntry rgb="121,255,71" transparent="false" value="798" label="798 hPa" />
+  <ColorMapEntry rgb="126,255,70" transparent="false" value="803" label="803 hPa" />
+  <ColorMapEntry rgb="130,255,69" transparent="false" value="808" label="808 hPa" />
+  <ColorMapEntry rgb="135,255,67" transparent="false" value="814" label="814 hPa" />
+  <ColorMapEntry rgb="140,255,66" transparent="false" value="820" label="820 hPa" />
+  <ColorMapEntry rgb="145,255,65" transparent="false" value="825" label="825 hPa" />
+  <ColorMapEntry rgb="150,255,64" transparent="false" value="830" label="830 hPa" />
+  <ColorMapEntry rgb="155,255,62" transparent="false" value="836" label="836 hPa" />
+  <ColorMapEntry rgb="160,255,61" transparent="false" value="842" label="842 hPa" />
+  <ColorMapEntry rgb="165,255,60" transparent="false" value="847" label="847 hPa" />
+  <ColorMapEntry rgb="170,255,58" transparent="false" value="852" label="852 hPa" />
+  <ColorMapEntry rgb="175,255,57" transparent="false" value="858" label="858 hPa" />
+  <ColorMapEntry rgb="181,255,56" transparent="false" value="864" label="864 hPa" />
+  <ColorMapEntry rgb="186,255,55" transparent="false" value="869" label="869 hPa" />
+  <ColorMapEntry rgb="192,255,53" transparent="false" value="874" label="874 hPa" />
+  <ColorMapEntry rgb="198,255,52" transparent="false" value="880" label="880 hPa" />
+  <ColorMapEntry rgb="203,255,51" transparent="false" value="886" label="886 hPa" />
+  <ColorMapEntry rgb="209,255,49" transparent="false" value="891" label="891 hPa" />
+  <ColorMapEntry rgb="215,255,48" transparent="false" value="896" label="896 hPa" />
+  <ColorMapEntry rgb="221,255,47" transparent="false" value="902" label="902 hPa" />
+  <ColorMapEntry rgb="227,255,46" transparent="false" value="908" label="908 hPa" />
+  <ColorMapEntry rgb="233,255,44" transparent="false" value="913" label="913 hPa" />
+  <ColorMapEntry rgb="239,255,43" transparent="false" value="918" label="918 hPa" />
+  <ColorMapEntry rgb="245,255,42" transparent="false" value="924" label="924 hPa" />
+  <ColorMapEntry rgb="252,255,40" transparent="false" value="930" label="930 hPa" />
+  <ColorMapEntry rgb="255,250,39" transparent="false" value="935" label="935 hPa" />
+  <ColorMapEntry rgb="255,244,38" transparent="false" value="940" label="940 hPa" />
+  <ColorMapEntry rgb="255,237,37" transparent="false" value="946" label="946 hPa" />
+  <ColorMapEntry rgb="255,231,35" transparent="false" value="952" label="952 hPa" />
+  <ColorMapEntry rgb="255,223,34" transparent="false" value="957" label="957 hPa" />
+  <ColorMapEntry rgb="255,217,33" transparent="false" value="962" label="962 hPa" />
+  <ColorMapEntry rgb="255,211,32" transparent="false" value="968" label="968 hPa" />
+  <ColorMapEntry rgb="255,203,30" transparent="false" value="974" label="974 hPa" />
+  <ColorMapEntry rgb="255,196,29" transparent="false" value="979" label="979 hPa" />
+  <ColorMapEntry rgb="255,189,28" transparent="false" value="984" label="984 hPa" />
+  <ColorMapEntry rgb="255,182,26" transparent="false" value="990" label="990 hPa" />
+  <ColorMapEntry rgb="255,175,25" transparent="false" value="996" label="996 hPa" />
+  <ColorMapEntry rgb="255,167,24" transparent="false" value="1001" label="1001 hPa" />
+  <ColorMapEntry rgb="255,160,23" transparent="false" value="1006" label="1006 hPa" />
+  <ColorMapEntry rgb="255,153,21" transparent="false" value="1012" label="1012 hPa" />
+  <ColorMapEntry rgb="255,145,20" transparent="false" value="1018" label="1018 hPa" />
+  <ColorMapEntry rgb="255,138,19" transparent="false" value="1023" label="1023 hPa" />
+  <ColorMapEntry rgb="255,130,17" transparent="false" value="1028" label="1028 hPa" />
+  <ColorMapEntry rgb="255,122,16" transparent="false" value="1034" label="1034 hPa" />
+  <ColorMapEntry rgb="255,115,15" transparent="false" value="1040" label="1040 hPa" />
+  <ColorMapEntry rgb="255,107,14" transparent="false" value="1045" label="1045 hPa" />
+  <ColorMapEntry rgb="255,98,12" transparent="false" value="1050" label="1050 hPa" />
+  <ColorMapEntry rgb="255,91,11" transparent="false" value="1056" label="1056 hPa" />
+  <ColorMapEntry rgb="255,82,12" transparent="false" value="1062" label="1062 hPa" />
+  <ColorMapEntry rgb="255,74,8" transparent="false" value="1067" label="1067 hPa" />
+  <ColorMapEntry rgb="255,66,7" transparent="false" value="1072" label="1072 hPa" />
+  <ColorMapEntry rgb="255,58,6" transparent="false" value="1078" label="1078 hPa" />
+  <ColorMapEntry rgb="255,49,5" transparent="false" value="1084" label="1084 hPa" />
+  <ColorMapEntry rgb="255,41,3" transparent="false" value="1089" label="1089 hPa" />
+  <ColorMapEntry rgb="255,32,2" transparent="false" value="1094" label="1094 hPa" />
+  <ColorMapEntry rgb="255,29,2" transparent="false" value="1100" label="1100 hPa" />
+</ColorMap>

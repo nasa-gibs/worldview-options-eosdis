@@ -1,11 +1,32 @@
 <input type="hidden" autofocus>
 
-# Version 1.0.1
+# Version 1.1
+
+## New Features
+
+* Added the following MODIS C6 Atmosphere products:
+** Aerosol Optical Depth 3km (3km, Land and Ocean)
+** Deep Blue Aerosol Angstrom Exponent (Land)
+** Dark Target Aerosol Angstrom Exponent (Ocean)
+** Deep Blue Aerosol Optical Depth (Land)
+** Merged DT/DB Aerosol Optical Depth (Land and Ocean)
+** Cloud Multi Layer Flag
+** Cloud Phase Optical Properties
+** Cloud Fraction
+** Cloud Phase Infrared
+** Cloud Top Height
+* Added orbit tracks for Landsat 8, ISS, GOSAT, and SMAP
 
 ## Updates
 
-* Fixed a bug that still shows a product as added when it's removed
-* Added a Data Download message for Terra/Aqua fires
+* GIBS endpoints have been updates for the new GIBS system
+* Fixed an incorrect link for data download of Sea Ice Brightness Temperature
+* Fixed a bug where the Data Download dialog was attaching itself to the Layer modal
+* Removed PO.DAAC SST 5 day layer
+* Removed the degree signs from Kelvin in the legend
+* Various layer descriptions / text updated
+* Updated FAQ
+
 
 ## Known Issues
 
@@ -19,6 +40,14 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+# Version 1.0.1
+
+## Updates
+
+* Fixed a bug that still shows a product as added when it's removed
+* Added a Data Download message for Terra/Aqua fires
 
 ---
 

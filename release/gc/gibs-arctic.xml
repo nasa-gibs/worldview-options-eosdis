@@ -104,9 +104,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2015-07-30/2016-06-06/P1D</Value>
+             <Value>2015-07-30/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -135,9 +135,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-06/P1D</Value>
+             <Value>2016-01-13/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -166,9 +166,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-06/P1D</Value>
+             <Value>2016-01-13/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -197,9 +197,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-06/P1D</Value>
+             <Value>2016-01-13/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -228,9 +228,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-06-06/P1D</Value>
+             <Value>2016-01-13/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -279,7 +279,7 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Snow_Depth_Over_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice_vis.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -621,9 +621,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -652,9 +652,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -683,9 +683,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -714,9 +714,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -744,9 +744,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-06/P1D</Value>
+             <Value>2013-06-06/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -774,9 +774,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-06/P1D</Value>
+             <Value>2013-06-06/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -804,9 +804,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-06/P1D</Value>
+             <Value>2013-06-06/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -835,9 +835,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -866,9 +866,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -897,9 +897,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -928,9 +928,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-06-06/P1D</Value>
+             <Value>2012-05-08/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -958,9 +958,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-06/P1D</Value>
+             <Value>2013-06-06/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -988,9 +988,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-06-06/P1D</Value>
+             <Value>2013-06-06/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1141,9 +1141,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-06/P1D</Value>
+             <Value>2015-11-24/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1171,9 +1171,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-06/P1D</Value>
+             <Value>2015-11-24/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1201,9 +1201,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-06-06</Default>
+             <Default>2016-06-07</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-06-06/P1D</Value>
+             <Value>2015-11-24/2016-06-07/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
