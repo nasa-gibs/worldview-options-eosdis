@@ -84,7 +84,7 @@
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
-                    "description": "smap/BrightnessTemperauture",
+                    "description": "smap/BrightnessTemperature",
                     "image": "",
                     "settings": [
                         "SMAP_L1_Passive_Brightness_Temp_Fore_H",

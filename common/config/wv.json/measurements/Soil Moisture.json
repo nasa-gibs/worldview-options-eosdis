@@ -13,14 +13,13 @@
                     "settings": [
 			"SMAP_L3_Active_Soil_Moisture",
                         "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc",
-			"SMAP_L3_Active_Soil_Moisture"
+                        "SMAP_Orbit_Dsc"
                     ]
                 },
                 "SMAP/Radiometer": {
                     "id": "smap-radiometer",
                     "title": "SMAP / Radiometer",
-                    "description": "SoilMoisture_L2_L3_Passive",
+                    "description": "smap/SoilMoisture_L2_L3_Passive",
                     "image": "",
                     "settings": [
                         "SMAP_L2_Passive_Soil_Moisture_Option1",
