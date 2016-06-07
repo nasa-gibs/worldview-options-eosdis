@@ -13,6 +13,12 @@
             "startDate": "2013-09-19",
 
             "projections": {
+                "antarctic": {
+                    "source":   "GIBS:wms"
+                },
+                "arctic": {
+                    "source":   "GIBS:wms"
+                },
                 "geographic": {
                     "source":   "GIBS:wms"
                 }
