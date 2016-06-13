@@ -3,7 +3,8 @@
         "ISS_Orbit_Asc": {
             "id":       "ISS_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / ISS",
+            "subtitle": "Space-Track.org / Int'l Space Station",
+            "tags":     "iss international",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
