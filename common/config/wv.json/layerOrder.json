@@ -275,6 +275,8 @@
         "Landsat_8_Orbit_Dsc",
         "ISS_Orbit_Asc",
         "ISS_Orbit_Dsc",
+		"OCO_2_Orbit_Asc",
+		"OCO_2_Orbit_Dsc",
         "GOSAT_Orbit_Asc",
         "GOSAT_Orbit_Dsc"
     ],

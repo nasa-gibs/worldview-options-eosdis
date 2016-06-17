@@ -3,7 +3,8 @@
         "ISS_Orbit_Dsc": {
             "id":       "ISS_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / ISS",
+            "subtitle": "Space-Track.org / Int'l Space Station",
+            "tags":     "iss international",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",

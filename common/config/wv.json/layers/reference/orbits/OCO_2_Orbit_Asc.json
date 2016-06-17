@@ -1,17 +1,16 @@
 {
     "layers": {
-        "ISS_Orbit_Asc": {
-            "id":       "ISS_Orbit_Asc",
+        "OCO_2_Orbit_Asc": {
+            "id":       "OCO_2_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / Int'l Space Station",
-            "tags":     "iss international",
+            "subtitle": "Space-Track.org / OCO-2",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2012-05-08",
+            "startDate": "2014-07-02",
 
             "projections": {
                 "antarctic": {
@@ -26,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "ISS_Orbit",
+                "id":     "OCO_2_Orbit",
                 "immutable": true
             }
         }
