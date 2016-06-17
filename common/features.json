@@ -10,6 +10,9 @@
         "imageDownload": {
             "host": "http://gibs.earthdata.nasa.gov",
             "path": "image-download"
+        },
+        "naturalEvents": {
+            "host": "http://eonet.sci.gsfc.nasa.gov/api/v2.1"
         }
     },
     "scripts": [
