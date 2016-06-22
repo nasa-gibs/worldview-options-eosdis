@@ -12,6 +12,7 @@
 * GIBS endpoints have been updates for the new GIBS system
 * Fixed an incorrect link for data download of Sea Ice Brightness Temperature
 * Fixed a bug where the Data Download dialog was attaching itself to the Layer modal
+* Fixed an issue with scrolling the timeline east/west with a mouse wheel
 * Removed PO.DAAC SST 5 day layer
 * Removed the degree signs from Kelvin in the legend
 * Various layer descriptions / text updated
