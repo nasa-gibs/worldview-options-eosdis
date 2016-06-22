@@ -7,7 +7,9 @@
             "group":    "overlays",
             "product":  "MYD06_L2_DAY",
 
-            "metadata": "modis/CloudPhase"
+            "metadata": "modis/CloudPhase",
+            "inactive": true,
+            "endDate": "2015-12-30"
             }
         }
     }
