@@ -10,7 +10,7 @@
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2014-04-03",
+            "startDate": "2014-02-27",
 
             "projections": {
                 "geographic": {

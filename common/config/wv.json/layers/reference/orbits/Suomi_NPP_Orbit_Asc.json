@@ -11,7 +11,7 @@
             "tileSize": [512, 512],
             "period":   "daily",
 
-            "startDate": "2015-11-14",
+            "startDate": "2011-10-28",
 
             "projections": {
                 "antarctic": {
