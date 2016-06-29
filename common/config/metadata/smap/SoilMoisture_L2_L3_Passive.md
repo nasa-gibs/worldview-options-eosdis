@@ -7,7 +7,7 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
-Data field: soil_moisture_option2
+Data field: soil_moisture_option1
 #### References
 [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
 [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
@@ -21,7 +21,7 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
-Data field: soil_moisture_option1
+Data field: soil_moisture_option2
 #### References
 [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
 [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
