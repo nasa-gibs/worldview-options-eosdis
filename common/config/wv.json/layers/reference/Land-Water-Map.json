@@ -1,0 +1,20 @@
+{
+    "layers": {
+        "Land-Water-Map": {
+            "id":       "Land-Water-Map",
+            "title":    "Mapbox Studio Land-Water Map",
+            "subtitle": "Under Development",
+            "tags":     "osm reference",
+            "group":    "overlays",
+            "type":     "xyz",
+            "tags":     "country, countries, state, provence",
+            "noTransition":     "true",
+            
+            "projections": {
+                "webmerc": {
+                    "source": "MAPBOX:xyz"
+                }
+            }
+        }
+    }
+}

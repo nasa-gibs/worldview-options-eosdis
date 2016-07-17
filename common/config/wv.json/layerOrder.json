@@ -1,5 +1,9 @@
 {
     "layerOrder": [
+		"AdminBoundaries_Worldview",
+		"Coastlines_Worldview",
+		"Land-Water-Map",
+		"place_names_worldview",
         "VIIRS_SNPP_CorrectedReflectance_TrueColor",
         "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
         "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",

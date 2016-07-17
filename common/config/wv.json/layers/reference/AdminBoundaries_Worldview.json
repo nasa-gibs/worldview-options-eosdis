@@ -1,0 +1,20 @@
+{
+    "layers": {
+        "AdminBoundaries_Worldview": {
+            "id":       "AdminBoundaries_Worldview",
+            "title":    "Mapbox Studio Admin Boundaries",
+            "subtitle": "Under Development",
+            "tags":     "osm reference",
+            "group":    "overlays",
+            "type":     "xyz",
+            "tags":     "country, countries, state, provence",
+            "noTransition":     "true",
+            
+            "projections": {
+                "webmerc": {
+                    "source": "MAPBOX:xyz"
+                }
+            }
+        }
+    }
+}

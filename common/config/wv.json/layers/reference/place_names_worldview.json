@@ -1,0 +1,20 @@
+{
+    "layers": {
+        "place_names_worldview": {
+            "id":       "place_names_worldview",
+            "title":    "Mapbox Studio Placenames",
+            "subtitle": "Under Development",
+            "tags":     "osm reference",
+            "group":    "overlays",
+            "type":     "xyz",
+            "tags":     "country, countries, state, provence",
+            "noTransition":     "true",
+            
+            "projections": {
+                "webmerc": {
+                    "source": "MAPBOX:xyz"
+                }
+            }
+        }
+    }
+}

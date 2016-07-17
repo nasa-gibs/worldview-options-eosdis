@@ -18,7 +18,11 @@
             "url": "//gibs-{a-c}.earthdata.nasa.gov/wms/wms.php"
         },
         "SEDAC:wms": {
-            "url": "https://sedac.ciesin.columbia.edu/geoserver/wms"
+            "url": "http://sedac.ciesin.columbia.edu/geoserver/wms"
+        },
+        "MAPBOX:xyz": {
+            "url": "http://localhost:3000/style",
+            "stylePath": "///Users/rboller/code/Projects/Worldview/src/www-github/reference-layer-styles/"
         }
     }
 }
