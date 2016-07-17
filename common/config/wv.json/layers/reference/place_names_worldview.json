@@ -6,13 +6,13 @@
             "subtitle": "Under Development",
             "tags":     "osm reference",
             "group":    "overlays",
-            "type":     "xyz",
+            "type":     "tm2",
             "tags":     "country, countries, state, provence",
             "noTransition":     "true",
             
             "projections": {
                 "webmerc": {
-                    "source": "MAPBOX:xyz"
+                    "source": "MAPBOX:tm2"
                 }
             }
         }
