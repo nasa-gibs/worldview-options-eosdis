@@ -15,6 +15,11 @@
                 "id": "antarctic",
                 "name": "Antarctic",
                 "style": "fa fa-arrow-circle-down fa-fw"
+            },
+            {
+                "id": "webmerc",
+                "name": "Mercator",
+                "style": "fa fa-square fa-fw"
             }
         ]
     }

@@ -12,6 +12,10 @@
         {
             "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
+        },
+        {
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3857/best/wmts.cgi?request=GetCapabilities",
+            "to": "gibs-epsg3857-best.xml"
         }
     ],
     "wv-options-wmts": [
@@ -35,6 +39,13 @@
             "to": "gibs-antarctic.json",
             "projection": "antarctic",
             "maxResolution": 8192.0
+        },
+        {
+            "source": "GIBS:epsg3857:best",
+            "from": "gibs-epsg3857-best.xml",
+            "to": "gibs-epsg3857-best.json",
+            "projection": "webmerc",
+            "maxResolution": 156543.03390625
         }
     ]
 }
