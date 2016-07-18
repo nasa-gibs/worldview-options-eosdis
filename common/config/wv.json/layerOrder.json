@@ -3,6 +3,7 @@
 		"AdminBoundaries_Worldview",
 		"Coastlines_Worldview",
 		"Land-Water-Map",
+		"Land-Mask",
 		"place_names_worldview",
         "VIIRS_SNPP_CorrectedReflectance_TrueColor",
         "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",

@@ -1,0 +1,20 @@
+{
+    "layers": {
+        "Land-Mask": {
+            "id":       "Land-Mask",
+            "title":    "Mapbox Studio Land Mask",
+            "subtitle": "Under Development",
+            "tags":     "osm reference",
+            "group":    "overlays",
+            "type":     "tm2",
+            "tags":     "country, countries, state, provence",
+            "noTransition":     "true",
+            
+            "projections": {
+                "webmerc": {
+                    "source": "MAPBOX:tm2"
+                }
+            }
+        }
+    }
+}
