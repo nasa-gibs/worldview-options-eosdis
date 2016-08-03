@@ -2,7 +2,7 @@
     "layers": {
         "SMAP_Orbit_Asc": {
             "id":       "SMAP_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
+            "title":    "Orbital Track (Ascending/Night)",
             "subtitle": "Space-Track.org / SMAP",
             "group":    "overlays",
             "format":   "image/png",
