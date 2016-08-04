@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="No Data">
+    <Entries>
+      <ColorMapEntry rgb="220,220,255" transparent="true" label="No Data" nodata="true"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" label="Unknown 1"/>
+      <ColorMapEntry rgb="0,0,1" transparent="true" label="Unknown 2"/>
+      <ColorMapEntry rgb="0,0,2" transparent="true" label="Unknown 3"/>
+      <ColorMapEntry rgb="192,192,192" transparent="true" label="Unknown 4"/>
+    </Entries>
+  </ColorMap>
+  
+  <ColorMap title="Cloud Top Pressure" units="hPa">
+    <Entries minLabel="250 hPa" maxLabel="950 hPa">
+      <ColorMapEntry rgb="102,0,119" transparent="false" value="250" label="250 hPa" ref="1"/>
+      <ColorMapEntry rgb="183,15,141" transparent="false" value="297" label="297 hPa" ref="2"/>
+      <ColorMapEntry rgb="0,0,100" transparent="false" value="343" label="343 hPa" ref="3"/>
+      <ColorMapEntry rgb="0,0,170" transparent="false" value="390" label="390 hPa" ref="4"/>
+      <ColorMapEntry rgb="0,0,255" transparent="false" value="437" label="437 hPa" ref="5"/>
+      <ColorMapEntry rgb="0,136,238" transparent="false" value="483" label="483 hPa" ref="6"/>
+      <ColorMapEntry rgb="0,80,0" transparent="false" value="530" label="530 hPa" ref="7"/>
+      <ColorMapEntry rgb="0,136,0" transparent="false" value="577" label="577 hPa" ref="8"/>
+      <ColorMapEntry rgb="0,220,0" transparent="false" value="623" label="623 hPa" ref="9"/>
+      <ColorMapEntry rgb="255,255,0" transparent="false" value="670" label="670 hPa" ref="10"/>
+      <ColorMapEntry rgb="240,190,64" transparent="false" value="717" label="717 hPa" ref="11"/>
+      <ColorMapEntry rgb="187,136,0" transparent="false" value="763" label="763 hPa" ref="12"/>
+      <ColorMapEntry rgb="122,90,3" transparent="false" value="810" label="810 hPa" ref="13"/>
+      <ColorMapEntry rgb="110,0,0" transparent="false" value="857" label="857 hPa" ref="14"/>
+      <ColorMapEntry rgb="170,0,0" transparent="false" value="903" label="903 hPa" ref="15"/>
+      <ColorMapEntry rgb="255,0,0" transparent="false" value="950" label="950 hPa" ref="16"/>
+    </Entries>
+    <Legend type="continuous" minLabel="250" maxLabel="950">
+      <LegendEntry rgb="102,0,119" id="1"/>
+      <LegendEntry rgb="183,15,141" id="2"/>
+      <LegendEntry rgb="0,0,100" id="3" showTick="true"/>
+      <LegendEntry rgb="0,0,170" id="4"/>
+      <LegendEntry rgb="0,0,255" id="5" label="437" showLabel="true"/>
+      <LegendEntry rgb="0,136,238" id="6"/>
+      <LegendEntry rgb="0,80,0" id="7" showTick="true"/>
+      <LegendEntry rgb="0,136,0" id="8"/>
+      <LegendEntry rgb="0,220,0" id="9" label="623" showLabel="true"/>
+      <LegendEntry rgb="255,255,0" id="10"/>
+      <LegendEntry rgb="240,190,64" id="11" showTick="true"/>
+      <LegendEntry rgb="187,136,0" id="12"/>
+      <LegendEntry rgb="122,90,3" id="13" label="810" showLabel="true"/>
+      <LegendEntry rgb="110,0,0" id="14"/>
+      <LegendEntry rgb="170,0,0" id="15" showTick="true"/>
+      <LegendEntry rgb="255,0,0" id="16"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

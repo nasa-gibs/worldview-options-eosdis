@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Cloud Confidences">
+    <Entries>
+      <ColorMapEntry rgb="100,100,100" transparent="true" sourceValue="0" label="Fill" nodata="true" ref="0"/>
+      <ColorMapEntry rgb="0,0,100" transparent="false" sourceValue="1" label="Single Layer Cloud" ref="1"/>
+      <ColorMapEntry rgb="0,136,238" transparent="false" sourceValue="2" label="Lowest Confidence Multi-Layer Cloud" ref="2"/>
+      <ColorMapEntry rgb="188,210,254" transparent="false" sourceValue="3" label="+1 Confidence Multi-Layer Cloud" ref="3"/>
+      <ColorMapEntry rgb="192,192,193" transparent="false" sourceValue="4" label="+2 Confidence Multi-Layer Cloud" ref="4"/>
+      <ColorMapEntry rgb="240,190,64" transparent="false" sourceValue="5" label="+3 Confidence Multi-Layer Cloud" ref="5"/>
+      <ColorMapEntry rgb="120,38,32" transparent="false" sourceValue="6" label="+4 Confidence Multi-Layer Cloud" ref="6"/>
+      <ColorMapEntry rgb="122,90,3" transparent="false" sourceValue="7" label="+5 Confidence Multi-Layer Cloud" ref="7"/>
+      <ColorMapEntry rgb="100,255,0" transparent="false" sourceValue="8" label="+6 Confidence Multi-Layer Cloud" ref="8"/>
+      <ColorMapEntry rgb="51,102,0" transparent="false" sourceValue="9" label="Highest Confidence Multi-Layer Cloud" ref="9"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="0,0,100" id="1"/>
+      <LegendEntry rgb="0,136,238" id="2"/>
+      <LegendEntry rgb="188,210,254" id="3"/>
+      <LegendEntry rgb="192,192,193" id="4"/>
+      <LegendEntry rgb="240,190,64" id="5"/>
+      <LegendEntry rgb="120,38,32" id="6"/>
+      <LegendEntry rgb="122,90,3" id="7"/>
+      <LegendEntry rgb="100,255,0" id="8"/>
+      <LegendEntry rgb="51,102,0" id="9"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps> 

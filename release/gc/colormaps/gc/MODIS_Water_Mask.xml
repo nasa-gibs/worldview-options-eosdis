@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd">
-  <ColorMapEntry rgb="167,248,255" sourceValue="200" transparent="false" label="Water"/>
-</ColorMap>

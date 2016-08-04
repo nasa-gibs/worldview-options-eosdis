@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+
+  <ColorMap title="Classifications">
+    <Entries>
+      <ColorMapEntry rgb="0,0,0" transparent="true" sourceValue="0" label="Missing Input Data" nodata="true" ref="0"/>
+      <ColorMapEntry rgb="035,035,117" transparent="true" sourceValue="3" label="Water" ref="1"/>
+      <ColorMapEntry rgb="050,150,255" transparent="true" sourceValue="4" label="Cloud" ref="2"/>
+      <ColorMapEntry rgb="000,255,000" transparent="true" sourceValue="5" label="Non-Fire" ref="3"/>
+      <ColorMapEntry rgb="255,000,255" transparent="true" sourceValue="6" label="Unknown" ref="4"/>
+    </Entries>
+  </ColorMap>
+
+  <ColorMap title="Anomaly Confidence">
+    <Entries>
+      <ColorMapEntry rgb="255,255,000" transparent="false" sourceValue="7" label="Fire (Low Confidence)" ref="5"/>
+      <ColorMapEntry rgb="255,128,000" transparent="false" sourceValue="8" label="Fire (Nominal Confidence)" ref="6"/>
+      <ColorMapEntry rgb="255,000,000" transparent="false" sourceValue="9" label="Fire (High Confidence)" ref="7"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="255,255,000" id="5"/>
+      <LegendEntry rgb="255,128,000" id="6"/>
+      <LegendEntry rgb="255,000,000" id="7"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps> 

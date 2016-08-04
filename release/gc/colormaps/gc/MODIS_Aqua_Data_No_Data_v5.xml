@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ColorMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:noNamespaceSchemaLocation="http://map1.vis.earthdata.nasa.gov/schema/ColorMap_v1.0.xsd"
-          units="">
-  <ColorMapEntry rgb="202,170,86" transparent="false" label="No Data" />
-  <ColorMapEntry rgb="0,0,0" transparent="true" label="Data" />
-</ColorMap>
