@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-  <ColorMapEntry rgb="255,0,0" sourceValue="200" transparent="false" label="Fire"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Fires Aqua">
+    <Entries>
+      <ColorMapEntry rgb="255,0,0" sourceValue="200" transparent="false" label="Fire" ref="1" />
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="255,0,0" id="1" label="Fire" showLabel="true" />
+    </Legend>
+  </ColorMap>
+</ColorMaps>

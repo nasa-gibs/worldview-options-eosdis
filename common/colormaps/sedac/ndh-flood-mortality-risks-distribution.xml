@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-    <ColorMapEntry rgb="254,232,200" transparent="false" label="1st - 4th"/>
-    <ColorMapEntry rgb="253,187,132" transparent="false" label="5th - 7th"/>
-    <ColorMapEntry rgb="227,74,51" transparent="false" label="8th - 10th"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Flood Hazard Mortality Risks">
+    <Entries>
+      <ColorMapEntry rgb="254,232,200" transparent="false" label="1st - 4th" ref="1"/>
+      <ColorMapEntry rgb="253,187,132" transparent="false" label="5th - 7th" ref="2"/>
+      <ColorMapEntry rgb="227,74,51" transparent="false" label="8th - 10th" ref="3"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="254,232,200" label="1st - 4th" id="1" showLabel="true"/>
+      <LegendEntry rgb="253,187,132" label="5th - 7th" id="2" showLabel="true"/>
+      <LegendEntry rgb="227,74,51" label="8th - 10th" id="3" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>
