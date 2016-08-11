@@ -2,7 +2,7 @@
     "layers": {
         "MODIS_Aqua_Cloud_Optical_Thickness_PCL": {
             "id":       "MODIS_Aqua_Cloud_Optical_Thickness_PCL",
-            "title":    "Cloud Water Optical Thickness (PCL)",
+            "title":    "Cloud Optical Thickness (PCL)",
             "subtitle": "Aqua/MODIS",
             "group":    "overlays",
             "product":  "MYD06_L2",
