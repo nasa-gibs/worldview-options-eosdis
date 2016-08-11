@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Terra_Cloud_Effective_Radius": {
+            "id":       "MODIS_Terra_Cloud_Effective_Radius",
+            "title":    "Cloud Effective Radius",
+            "subtitle": "Terra/MODIS",
+            "group":    "overlays",
+            "product":  "MOD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }

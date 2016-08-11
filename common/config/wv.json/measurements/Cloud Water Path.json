@@ -1,33 +1,32 @@
 {
     "measurements": {
-        "Cloud Top Temperature": {
-            "id": "cloud-top-temperature",
-            "title":    "Cloud Top Temperature",
+        "Cloud Water Path": {
+            "id": "cloud-water-path",
+            "title":    "Cloud Water Path",
             "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "modis/CloudTopTemperature",
+                    "description": "",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Cloud_Top_Temp_Day",
-                        "MODIS_Aqua_Cloud_Top_Temp_Night",
-                        "Aqua_Orbit_Asc",
-                        "Aqua_Orbit_Dsc"
+                        "MODIS_Aqua_Cloud_Water_Path_PCL",
+                        "MODIS_Aqua_Cloud_Water_Path",
+                        "Aqua_Orbit_Asc"
                     ]
                 },
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "modis/CloudTopTemperature",
+                    "description": "",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Cloud_Top_Temp_Day",
-                        "MODIS_Terra_Cloud_Top_Temp_Night",
-                        "Terra_Orbit_Asc",
+                        "MODIS_Terra_Cloud_Water_Path_PCL",
+                        "MODIS_Terra_Cloud_Water_Path",
                         "Terra_Orbit_Dsc"
                     ]
+
                 }
             }
         }

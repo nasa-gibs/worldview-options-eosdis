@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Optical_Thickness": {
+            "id":       "MODIS_Aqua_Cloud_Optical_Thickness",
+            "title":    "Cloud Water Optical Thickness",
+            "subtitle": "Aqua/MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }

@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Effective_Radius": {
+            "id":       "MODIS_Aqua_Cloud_Effective_Radius",
+            "title":    "Cloud Effective Radius",
+            "subtitle": "Aqua/MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }
