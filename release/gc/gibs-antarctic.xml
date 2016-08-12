@@ -10,7 +10,7 @@
     <ows:ServiceIdentification>
         <ows:Title xml:lang="en">NASA Global Imagery Browse Services for EOSDIS</ows:Title>
         <ows:Abstract xml:lang="en">
-            Near real time imagery from multiple NASA instruments
+            The Global Imagery Browse Services (GIBS) system is a core EOSDIS component which provides a scalable, responsive, highly available, and community standards based set of imagery services.  These services are designed with the goal of advancing user interactions with EOSDIS’ inter-disciplinary data through enhanced visual representation and discovery. 
         </ows:Abstract>
         <ows:Keywords>
             <ows:Keyword>World</ows:Keyword>
@@ -25,16 +25,16 @@
         <ows:ProviderName>National Aeronautics and Space Administration</ows:ProviderName>
         <ows:ProviderSite xlink:href="http://earthdata.nasa.gov/"/>
         <ows:ServiceContact>
-            <ows:IndividualName></ows:IndividualName>
-            <ows:PositionName></ows:PositionName>
+            <ows:IndividualName>GIBS User Support</ows:IndividualName>
+            <ows:PositionName>GIBS User Support</ows:PositionName>
             <ows:ContactInfo>
                 <ows:Address>
-                    <ows:DeliveryPoint></ows:DeliveryPoint>
-                    <ows:City></ows:City>
-                    <ows:AdministrativeArea></ows:AdministrativeArea>
-                    <ows:PostalCode></ows:PostalCode>
-                    <ows:Country></ows:Country>
-                    <ows:ElectronicMailAddress></ows:ElectronicMailAddress>
+                    <ows:DeliveryPoint>Goddard Space Flight Center</ows:DeliveryPoint>
+                    <ows:City>Greenbelt</ows:City>
+                    <ows:AdministrativeArea>Maryland</ows:AdministrativeArea>
+                    <ows:PostalCode>20771</ows:PostalCode>
+                    <ows:Country>United States of America</ows:Country>
+                    <ows:ElectronicMailAddress>support@earthdata.nasa.gov</ows:ElectronicMailAddress>
                 </ows:Address>
             </ows:ContactInfo>
         </ows:ServiceContact>
@@ -43,14 +43,14 @@
         <ows:Operation name="GetCapabilities">
             <ows:DCP>
                 <ows:HTTP>
-                    <ows:Get xlink:href="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml">
+                    <ows:Get xlink:href="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>RESTful</ows:Value>
                             </ows:AllowedValues>
                         </ows:Constraint>
                     </ows:Get>
-                    <ows:Get xlink:href="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?">
+                    <ows:Get xlink:href="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>KVP</ows:Value>
@@ -63,14 +63,14 @@
         <ows:Operation name="GetTile">
             <ows:DCP>
                 <ows:HTTP>
-                    <ows:Get xlink:href="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/">
+                    <ows:Get xlink:href="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>RESTful</ows:Value>
                             </ows:AllowedValues>
                         </ows:Constraint>
                     </ows:Get>
-                    <ows:Get xlink:href="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?">
+                    <ows:Get xlink:href="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>KVP</ows:Value>
@@ -93,9 +93,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Concentration_12km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -106,18 +106,16 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-07-13</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2016-01-21/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-15/P1D</Value>
-             <Value>2016-05-05/2016-07-13/P1D</Value>
+             <Value>2016-01-13/2016-02-05/P1D</Value>
+             <Value>2016-06-07/2016-06-12/P1D</Value>
+             <Value>2016-06-14/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (25 km, AMSR2, GCOM-W1)</ows:Title>
@@ -130,9 +128,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Concentration_25km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -143,18 +141,16 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-07-13</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2016-01-21/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-15/P1D</Value>
-             <Value>2016-05-05/2016-07-13/P1D</Value>
+             <Value>2016-01-13/2016-02-05/P1D</Value>
+             <Value>2016-06-07/2016-06-12/P1D</Value>
+             <Value>2016-06-14/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, AMSR2, GCOM-W1)</ows:Title>
@@ -167,9 +163,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89H</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -180,18 +176,16 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-07-13</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2016-01-21/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-15/P1D</Value>
-             <Value>2016-05-05/2016-07-13/P1D</Value>
+             <Value>2016-01-13/2016-02-05/P1D</Value>
+             <Value>2016-06-07/2016-06-12/P1D</Value>
+             <Value>2016-06-14/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, AMSR2, GCOM-W1)</ows:Title>
@@ -204,9 +198,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89V</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -217,18 +211,16 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-07-13</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2016-01-21/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-15/P1D</Value>
-             <Value>2016-05-05/2016-07-13/P1D</Value>
+             <Value>2016-01-13/2016-02-05/P1D</Value>
+             <Value>2016-06-07/2016-06-12/P1D</Value>
+             <Value>2016-06-14/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (12 km, AMSR-E, Aqua)</ows:Title>
@@ -241,9 +233,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Concentration_12km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -262,7 +254,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Depth Over Ice (12 km, AMSR-E, Aqua)</ows:Title>
@@ -275,9 +267,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Snow_Depth_Over_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice_vis.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice_vis.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice_vis.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -296,7 +288,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Snow_Depth_Over_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Snow_Depth_Over_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (25 km, AMSR-E, Aqua)</ows:Title>
@@ -309,9 +301,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Concentration_25km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -330,7 +322,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, AMSR-E, Aqua)</ows:Title>
@@ -343,9 +335,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Brightness_Temp_89H</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -364,7 +356,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Brightness_Temp_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Brightness_Temp_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, AMSR-E, Aqua)</ows:Title>
@@ -377,9 +369,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Brightness_Temp_89V</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -398,7 +390,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Brightness_Temp_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/AMSRE_Sea_Ice_Brightness_Temp_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble (Reverb)</ows:Title>
@@ -421,7 +413,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3031_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Blue_Marble_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Blue_Marble_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble (MODIS)</ows:Title>
@@ -444,7 +436,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_NextGeneration/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_NextGeneration/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief (MODIS)</ows:Title>
@@ -467,7 +459,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief and Bathymetry (MODIS)</ows:Title>
@@ -490,7 +482,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief_Bathymetry/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief_Bathymetry/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Coastlines</ows:Title>
@@ -513,7 +505,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule</ows:Title>
@@ -536,7 +528,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule (Reverb)</ows:Title>
@@ -559,7 +551,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3031_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Antarctic Ice Velocity (SAR, ALOS/RADARSAT-1/RADARSAT-2/ENVISAT/ERS-1)</ows:Title>
@@ -572,9 +564,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MEaSUREs_Ice_Velocity_Antarctica</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -596,7 +588,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MEaSUREs_Ice_Velocity_Antarctica/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MEaSUREs_Ice_Velocity_Antarctica/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Day, MODIS, Terra)</ows:Title>
@@ -609,9 +601,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Brightness_Temp_Band31_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -622,27 +614,24 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-15/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
-             <Value>2016-01-18/2016-01-19/P1D</Value>
-             <Value>2016-01-21/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-10/P1D</Value>
+             <Value>2015-08-25/2015-08-25/P1D</Value>
+             <Value>2015-08-27/2015-08-30/P1D</Value>
+             <Value>2015-09-12/2015-09-23/P1D</Value>
+             <Value>2015-09-29/2015-09-30/P1D</Value>
+             <Value>2015-10-02/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
+             <Value>2016-01-18/2016-01-21/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Night, MODIS, Terra)</ows:Title>
@@ -655,9 +644,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Brightness_Temp_Band31_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -668,26 +657,24 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-13/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
-             <Value>2016-01-18/2016-01-19/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-10/P1D</Value>
+             <Value>2015-08-25/2015-08-25/P1D</Value>
+             <Value>2015-08-27/2015-08-30/P1D</Value>
+             <Value>2015-09-12/2015-09-19/P1D</Value>
+             <Value>2015-09-21/2015-09-23/P1D</Value>
+             <Value>2015-09-29/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
+             <Value>2016-01-18/2016-01-21/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Cover (MODIS, Terra)</ows:Title>
@@ -700,9 +687,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -713,30 +700,28 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-13/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-07-30/P1D</Value>
+             <Value>2015-08-04/2015-08-08/P1D</Value>
+             <Value>2015-08-25/2015-08-25/P1D</Value>
+             <Value>2015-08-27/2015-08-30/P1D</Value>
+             <Value>2015-09-12/2015-09-20/P1D</Value>
+             <Value>2015-09-22/2015-09-23/P1D</Value>
+             <Value>2015-09-29/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-02/P1D</Value>
-             <Value>2016-03-04/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Ice Surface Temperature (Day, Best Available, MODIS, Terra)</ows:Title>
+         <ows:Title xml:lang="en">Snow Cover (Normalized Difference Snow Index, Best Available, MODIS, Terra)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -745,10 +730,10 @@
             <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
-         <ows:Identifier>MODIS_Terra_Ice_Surface_Temperature_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Identifier>MODIS_Terra_NDSI_Snow_Cover</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -759,14 +744,14 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2003-03-01</Default>
+             <Default>2003-02-01</Default>
              <Current>false</Current>
-             <Value>2003-01-30/2003-03-01/P1D</Value>
+             <Value>2003-01-01/2003-02-01/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
-             <TileMatrixSet>1km</TileMatrixSet>
+             <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Ice_Surface_Temperature_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_NDSI_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Extent (MODIS, Terra)</ows:Title>
@@ -779,9 +764,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -792,60 +777,23 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-14/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-10/P1D</Value>
+             <Value>2015-08-25/2015-08-25/P1D</Value>
+             <Value>2015-08-27/2015-08-30/P1D</Value>
+             <Value>2015-09-12/2015-09-23/P1D</Value>
+             <Value>2015-09-29/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-02/P1D</Value>
-             <Value>2016-03-04/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
-      </Layer>
-      <Layer>
-         <ows:Title xml:lang="en">Ice Surface Temperature (Night, Best Available, MODIS, Terra)</ows:Title>
-         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
-            <ows:LowerCorner>-180 -90</ows:LowerCorner>
-            <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
-        </ows:WGS84BoundingBox>
-         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3031">
-            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
-            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
-        </ows:BoundingBox>
-         <ows:Identifier>MODIS_Terra_Ice_Surface_Temperature_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <Style isDefault="true">
-             <ows:Title xml:lang="en">default</ows:Title>
-             <ows:Identifier>default</ows:Identifier>
-             
-             
-         </Style>
-         <Format>image/png</Format>
-         <Dimension>
-             <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2003-03-01</Default>
-             <Current>false</Current>
-             <Value>2003-01-30/2003-03-01/P1D</Value>
-         </Dimension>
-         <TileMatrixSetLink>
-             <TileMatrixSet>1km</TileMatrixSet>
-         </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Ice_Surface_Temperature_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, MODIS, Terra)</ows:Title>
@@ -868,25 +816,17 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-28/P1D</Value>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 3-6-7, MODIS, Terra)</ows:Title>
@@ -909,25 +849,17 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-28/P1D</Value>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_Bands367/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_Bands367/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 7-2-1, MODIS, Terra)</ows:Title>
@@ -950,26 +882,17 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-28/P1D</Value>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2015-12-09/2015-12-09/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-03/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Terra_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Day, MODIS, Aqua)</ows:Title>
@@ -982,9 +905,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Brightness_Temp_Band31_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -995,24 +918,28 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
-             <Value>2016-01-18/2016-01-19/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-09/2015-06-11/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-06-28/2015-07-02/P1D</Value>
+             <Value>2015-07-06/2015-07-13/P1D</Value>
+             <Value>2015-07-17/2015-07-20/P1D</Value>
+             <Value>2015-07-22/2015-07-22/P1D</Value>
+             <Value>2015-07-29/2015-08-10/P1D</Value>
+             <Value>2015-08-13/2015-08-29/P1D</Value>
+             <Value>2015-09-02/2015-09-02/P1D</Value>
+             <Value>2015-09-04/2015-09-17/P1D</Value>
+             <Value>2015-09-19/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
+             <Value>2016-01-18/2016-01-21/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Night, MODIS, Aqua)</ows:Title>
@@ -1025,9 +952,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Brightness_Temp_Band31_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1038,26 +965,23 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-15/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-05/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-11/P1D</Value>
+             <Value>2015-08-20/2015-08-29/P1D</Value>
+             <Value>2015-09-02/2015-09-18/P1D</Value>
+             <Value>2015-09-20/2015-09-21/P1D</Value>
+             <Value>2015-09-23/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Cover (MODIS, Aqua)</ows:Title>
@@ -1070,9 +994,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1083,29 +1007,25 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-08-13/2015-08-14/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
-             <Value>2016-01-18/2016-01-19/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-10/P1D</Value>
+             <Value>2015-08-25/2015-08-25/P1D</Value>
+             <Value>2015-08-27/2015-08-30/P1D</Value>
+             <Value>2015-09-12/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
+             <Value>2016-01-18/2016-01-21/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Ice Surface Temperature (Day, Best Available, MODIS, Aqua)</ows:Title>
+         <ows:Title xml:lang="en">Snow Cover (Normalized Difference Snow Index, Best Available, MODIS, Aqua)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 -90</ows:LowerCorner>
             <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
@@ -1114,10 +1034,10 @@
             <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
-         <ows:Identifier>MODIS_Aqua_Ice_Surface_Temperature_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Ice_Surface_Temperature_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Identifier>MODIS_Aqua_NDSI_Snow_Cover</ows:Identifier>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_NDSI_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1128,14 +1048,14 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2003-03-01</Default>
+             <Default>2003-02-01</Default>
              <Current>false</Current>
-             <Value>2003-01-30/2003-03-01/P1D</Value>
+             <Value>2003-01-01/2003-02-01/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
-             <TileMatrixSet>1km</TileMatrixSet>
+             <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Ice_Surface_Temperature_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_NDSI_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Extent (MODIS, Aqua)</ows:Title>
@@ -1148,9 +1068,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1161,58 +1081,24 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2015-12-04/2015-12-15/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-06-09/2015-06-11/P1D</Value>
+             <Value>2015-06-21/2015-06-22/P1D</Value>
+             <Value>2015-07-29/2015-08-08/P1D</Value>
+             <Value>2015-08-20/2015-08-30/P1D</Value>
+             <Value>2015-09-03/2015-09-19/P1D</Value>
+             <Value>2015-09-22/2015-10-02/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-07-21/P1D</Value>
+             <Value>2016-07-23/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
-      </Layer>
-      <Layer>
-         <ows:Title xml:lang="en">Ice Surface Temperature (Night, Best Available, MODIS, Aqua)</ows:Title>
-         <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
-            <ows:LowerCorner>-180 -90</ows:LowerCorner>
-            <ows:UpperCorner>180 -38.941373</ows:UpperCorner>
-        </ows:WGS84BoundingBox>
-         <ows:BoundingBox crs="urn:ogc:def:crs:EPSG::3031">
-            <ows:LowerCorner>-4194304 -4194304</ows:LowerCorner>
-            <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
-        </ows:BoundingBox>
-         <ows:Identifier>MODIS_Aqua_Ice_Surface_Temperature_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Ice_Surface_Temperature_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <Style isDefault="true">
-             <ows:Title xml:lang="en">default</ows:Title>
-             <ows:Identifier>default</ows:Identifier>
-             
-             
-         </Style>
-         <Format>image/png</Format>
-         <Dimension>
-             <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2003-03-01</Default>
-             <Current>false</Current>
-             <Value>2003-01-30/2003-03-01/P1D</Value>
-         </Dimension>
-         <TileMatrixSetLink>
-             <TileMatrixSet>1km</TileMatrixSet>
-         </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Ice_Surface_Temperature_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, MODIS, Aqua)</ows:Title>
@@ -1235,24 +1121,17 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 7-2-1, MODIS, Aqua)</ows:Title>
@@ -1275,24 +1154,17 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-12</Default>
              <Current>false</Current>
-             <Value>2015-03-01/2015-03-30/P1D</Value>
-             <Value>2015-11-28/2015-11-30/P1D</Value>
-             <Value>2016-01-12/2016-01-14/P1D</Value>
+             <Value>2015-03-01/2015-03-31/P1D</Value>
+             <Value>2015-12-17/2016-01-11/P1D</Value>
              <Value>2016-01-18/2016-01-21/P1D</Value>
-             <Value>2016-03-02/2016-03-18/P1D</Value>
-             <Value>2016-03-20/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-05-05/2016-05-19/P1D</Value>
-             <Value>2016-05-24/2016-05-26/P1D</Value>
-             <Value>2016-05-31/2016-07-19/P1D</Value>
-             <Value>2016-07-24/2016-08-02/P1D</Value>
+             <Value>2016-06-20/2016-08-12/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/MODIS_Aqua_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Land Mask (SCAR)</ows:Title>
@@ -1315,7 +1187,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Mask/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Mask/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Land Water Map (SCAR)</ows:Title>
@@ -1338,7 +1210,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Water_Map/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Water_Map/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Ice Concentration and Snow Extent (SSMIS, DMSP-F17)</ows:Title>
@@ -1351,9 +1223,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>SSM_Ice_Concentration_Snow_Extent</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Ice_Concentration_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1364,14 +1236,20 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2012-10-02</Default>
+             <Default>2016-06-30</Default>
              <Current>false</Current>
-             <Value>2012-10-01/2012-10-02/P1D</Value>
+             <Value>2009-08-17/2010-05-10/P1D</Value>
+             <Value>2010-05-12/2012-01-31/P1D</Value>
+             <Value>2012-02-02/2012-05-05/P1D</Value>
+             <Value>2012-05-07/2012-07-10/P1D</Value>
+             <Value>2012-07-12/2012-07-14/P1D</Value>
+             <Value>2012-07-16/2014-04-08/P1D</Value>
+             <Value>2014-04-10/2016-06-30/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SSM_Ice_Concentration_Snow_Extent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SSM_Ice_Concentration_Snow_Extent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentrations (SSM/I-SSMIS, Nimbus-7 and DMSP)</ows:Title>
@@ -1384,9 +1262,9 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>SSM_Sea_Ice_Concentrations</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.0/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://sit.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.0/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://uat.gibs.earthdata.nasa.gov/colormaps/v1.2/SSM_Sea_Ice_Concentrations.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1397,16 +1275,1625 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2015-05-30</Default>
+             <Default>2015-05-31</Default>
              <Current>false</Current>
              <Value>1978-10-26/1978-10-26/P1D</Value>
-             <Value>2012-10-01/2012-10-01/P1D</Value>
-             <Value>2015-05-30/2015-05-30/P1D</Value>
+             <Value>1978-10-28/1978-10-28/P1D</Value>
+             <Value>1978-10-30/1978-10-30/P1D</Value>
+             <Value>1978-11-01/1978-11-01/P1D</Value>
+             <Value>1978-11-03/1978-11-03/P1D</Value>
+             <Value>1978-11-05/1978-11-05/P1D</Value>
+             <Value>1978-11-07/1978-11-07/P1D</Value>
+             <Value>1978-11-09/1978-11-09/P1D</Value>
+             <Value>1978-11-11/1978-11-11/P1D</Value>
+             <Value>1978-11-13/1978-11-13/P1D</Value>
+             <Value>1978-11-15/1978-11-15/P1D</Value>
+             <Value>1978-11-17/1978-11-17/P1D</Value>
+             <Value>1978-11-19/1978-11-19/P1D</Value>
+             <Value>1978-11-21/1978-11-21/P1D</Value>
+             <Value>1978-11-23/1978-11-23/P1D</Value>
+             <Value>1978-11-25/1978-11-25/P1D</Value>
+             <Value>1978-11-27/1978-11-27/P1D</Value>
+             <Value>1978-11-29/1978-11-29/P1D</Value>
+             <Value>1978-12-01/1978-12-01/P1D</Value>
+             <Value>1978-12-03/1978-12-03/P1D</Value>
+             <Value>1978-12-05/1978-12-05/P1D</Value>
+             <Value>1978-12-07/1978-12-07/P1D</Value>
+             <Value>1978-12-09/1978-12-09/P1D</Value>
+             <Value>1978-12-11/1978-12-11/P1D</Value>
+             <Value>1978-12-13/1978-12-13/P1D</Value>
+             <Value>1978-12-15/1978-12-15/P1D</Value>
+             <Value>1978-12-17/1978-12-17/P1D</Value>
+             <Value>1978-12-19/1978-12-19/P1D</Value>
+             <Value>1978-12-21/1978-12-21/P1D</Value>
+             <Value>1978-12-23/1978-12-23/P1D</Value>
+             <Value>1978-12-25/1978-12-25/P1D</Value>
+             <Value>1978-12-27/1978-12-27/P1D</Value>
+             <Value>1978-12-29/1978-12-29/P1D</Value>
+             <Value>1978-12-31/1978-12-31/P1D</Value>
+             <Value>1979-01-02/1979-01-02/P1D</Value>
+             <Value>1979-01-04/1979-01-04/P1D</Value>
+             <Value>1979-01-06/1979-01-06/P1D</Value>
+             <Value>1979-01-08/1979-01-08/P1D</Value>
+             <Value>1979-01-10/1979-01-10/P1D</Value>
+             <Value>1979-01-12/1979-01-12/P1D</Value>
+             <Value>1979-01-14/1979-01-14/P1D</Value>
+             <Value>1979-01-16/1979-01-16/P1D</Value>
+             <Value>1979-01-18/1979-01-18/P1D</Value>
+             <Value>1979-01-20/1979-01-20/P1D</Value>
+             <Value>1979-01-22/1979-01-22/P1D</Value>
+             <Value>1979-01-24/1979-01-24/P1D</Value>
+             <Value>1979-01-26/1979-01-26/P1D</Value>
+             <Value>1979-01-28/1979-01-28/P1D</Value>
+             <Value>1979-01-30/1979-01-30/P1D</Value>
+             <Value>1979-02-01/1979-02-01/P1D</Value>
+             <Value>1979-02-03/1979-02-03/P1D</Value>
+             <Value>1979-02-05/1979-02-05/P1D</Value>
+             <Value>1979-02-07/1979-02-07/P1D</Value>
+             <Value>1979-02-09/1979-02-09/P1D</Value>
+             <Value>1979-02-11/1979-02-11/P1D</Value>
+             <Value>1979-02-13/1979-02-13/P1D</Value>
+             <Value>1979-02-15/1979-02-15/P1D</Value>
+             <Value>1979-02-17/1979-02-17/P1D</Value>
+             <Value>1979-02-19/1979-02-19/P1D</Value>
+             <Value>1979-02-21/1979-02-21/P1D</Value>
+             <Value>1979-02-23/1979-02-23/P1D</Value>
+             <Value>1979-02-25/1979-02-25/P1D</Value>
+             <Value>1979-02-27/1979-02-27/P1D</Value>
+             <Value>1979-03-01/1979-03-01/P1D</Value>
+             <Value>1979-03-03/1979-03-03/P1D</Value>
+             <Value>1979-03-05/1979-03-05/P1D</Value>
+             <Value>1979-03-07/1979-03-07/P1D</Value>
+             <Value>1979-03-09/1979-03-09/P1D</Value>
+             <Value>1979-03-11/1979-03-11/P1D</Value>
+             <Value>1979-03-13/1979-03-13/P1D</Value>
+             <Value>1979-03-15/1979-03-15/P1D</Value>
+             <Value>1979-03-17/1979-03-17/P1D</Value>
+             <Value>1979-03-19/1979-03-19/P1D</Value>
+             <Value>1979-03-21/1979-03-21/P1D</Value>
+             <Value>1979-03-23/1979-03-23/P1D</Value>
+             <Value>1979-03-25/1979-03-25/P1D</Value>
+             <Value>1979-03-27/1979-03-27/P1D</Value>
+             <Value>1979-03-29/1979-03-29/P1D</Value>
+             <Value>1979-03-31/1979-03-31/P1D</Value>
+             <Value>1979-04-02/1979-04-02/P1D</Value>
+             <Value>1979-04-04/1979-04-04/P1D</Value>
+             <Value>1979-04-06/1979-04-06/P1D</Value>
+             <Value>1979-04-08/1979-04-08/P1D</Value>
+             <Value>1979-04-10/1979-04-10/P1D</Value>
+             <Value>1979-04-12/1979-04-12/P1D</Value>
+             <Value>1979-04-14/1979-04-14/P1D</Value>
+             <Value>1979-04-16/1979-04-16/P1D</Value>
+             <Value>1979-04-18/1979-04-18/P1D</Value>
+             <Value>1979-04-20/1979-04-20/P1D</Value>
+             <Value>1979-04-22/1979-04-22/P1D</Value>
+             <Value>1979-04-24/1979-04-24/P1D</Value>
+             <Value>1979-04-26/1979-04-26/P1D</Value>
+             <Value>1979-04-28/1979-04-28/P1D</Value>
+             <Value>1979-04-30/1979-04-30/P1D</Value>
+             <Value>1979-05-02/1979-05-02/P1D</Value>
+             <Value>1979-05-04/1979-05-04/P1D</Value>
+             <Value>1979-05-06/1979-05-06/P1D</Value>
+             <Value>1979-05-08/1979-05-08/P1D</Value>
+             <Value>1979-05-10/1979-05-10/P1D</Value>
+             <Value>1979-05-12/1979-05-12/P1D</Value>
+             <Value>1979-05-14/1979-05-14/P1D</Value>
+             <Value>1979-05-16/1979-05-16/P1D</Value>
+             <Value>1979-05-18/1979-05-18/P1D</Value>
+             <Value>1979-05-20/1979-05-20/P1D</Value>
+             <Value>1979-05-22/1979-05-22/P1D</Value>
+             <Value>1979-05-24/1979-05-24/P1D</Value>
+             <Value>1979-05-26/1979-05-26/P1D</Value>
+             <Value>1979-05-28/1979-05-28/P1D</Value>
+             <Value>1979-05-30/1979-05-30/P1D</Value>
+             <Value>1979-06-01/1979-06-01/P1D</Value>
+             <Value>1979-06-03/1979-06-03/P1D</Value>
+             <Value>1979-06-05/1979-06-05/P1D</Value>
+             <Value>1979-06-07/1979-06-07/P1D</Value>
+             <Value>1979-06-09/1979-06-09/P1D</Value>
+             <Value>1979-06-11/1979-06-11/P1D</Value>
+             <Value>1979-06-13/1979-06-13/P1D</Value>
+             <Value>1979-06-15/1979-06-15/P1D</Value>
+             <Value>1979-06-17/1979-06-17/P1D</Value>
+             <Value>1979-06-19/1979-06-19/P1D</Value>
+             <Value>1979-06-21/1979-06-21/P1D</Value>
+             <Value>1979-06-23/1979-06-23/P1D</Value>
+             <Value>1979-06-25/1979-06-25/P1D</Value>
+             <Value>1979-06-27/1979-06-27/P1D</Value>
+             <Value>1979-06-29/1979-06-29/P1D</Value>
+             <Value>1979-07-01/1979-07-01/P1D</Value>
+             <Value>1979-07-03/1979-07-03/P1D</Value>
+             <Value>1979-07-05/1979-07-05/P1D</Value>
+             <Value>1979-07-07/1979-07-07/P1D</Value>
+             <Value>1979-07-09/1979-07-09/P1D</Value>
+             <Value>1979-07-11/1979-07-11/P1D</Value>
+             <Value>1979-07-13/1979-07-13/P1D</Value>
+             <Value>1979-07-15/1979-07-15/P1D</Value>
+             <Value>1979-07-17/1979-07-17/P1D</Value>
+             <Value>1979-07-19/1979-07-19/P1D</Value>
+             <Value>1979-07-21/1979-07-21/P1D</Value>
+             <Value>1979-07-23/1979-07-23/P1D</Value>
+             <Value>1979-07-25/1979-07-25/P1D</Value>
+             <Value>1979-07-27/1979-07-27/P1D</Value>
+             <Value>1979-07-29/1979-07-29/P1D</Value>
+             <Value>1979-07-31/1979-07-31/P1D</Value>
+             <Value>1979-08-02/1979-08-02/P1D</Value>
+             <Value>1979-08-04/1979-08-04/P1D</Value>
+             <Value>1979-08-06/1979-08-06/P1D</Value>
+             <Value>1979-08-08/1979-08-08/P1D</Value>
+             <Value>1979-08-10/1979-08-10/P1D</Value>
+             <Value>1979-08-12/1979-08-12/P1D</Value>
+             <Value>1979-08-14/1979-08-14/P1D</Value>
+             <Value>1979-08-16/1979-08-16/P1D</Value>
+             <Value>1979-08-18/1979-08-18/P1D</Value>
+             <Value>1979-08-20/1979-08-20/P1D</Value>
+             <Value>1979-08-22/1979-08-22/P1D</Value>
+             <Value>1979-08-24/1979-08-24/P1D</Value>
+             <Value>1979-08-26/1979-08-26/P1D</Value>
+             <Value>1979-08-28/1979-08-28/P1D</Value>
+             <Value>1979-08-30/1979-08-30/P1D</Value>
+             <Value>1979-09-01/1979-09-01/P1D</Value>
+             <Value>1979-09-03/1979-09-03/P1D</Value>
+             <Value>1979-09-05/1979-09-05/P1D</Value>
+             <Value>1979-09-07/1979-09-07/P1D</Value>
+             <Value>1979-09-09/1979-09-09/P1D</Value>
+             <Value>1979-09-11/1979-09-11/P1D</Value>
+             <Value>1979-09-13/1979-09-13/P1D</Value>
+             <Value>1979-09-15/1979-09-15/P1D</Value>
+             <Value>1979-09-17/1979-09-17/P1D</Value>
+             <Value>1979-09-19/1979-09-19/P1D</Value>
+             <Value>1979-09-21/1979-09-21/P1D</Value>
+             <Value>1979-09-23/1979-09-23/P1D</Value>
+             <Value>1979-09-25/1979-09-25/P1D</Value>
+             <Value>1979-09-27/1979-09-27/P1D</Value>
+             <Value>1979-09-29/1979-09-29/P1D</Value>
+             <Value>1979-10-01/1979-10-01/P1D</Value>
+             <Value>1979-10-03/1979-10-03/P1D</Value>
+             <Value>1979-10-05/1979-10-05/P1D</Value>
+             <Value>1979-10-07/1979-10-07/P1D</Value>
+             <Value>1979-10-09/1979-10-09/P1D</Value>
+             <Value>1979-10-11/1979-10-11/P1D</Value>
+             <Value>1979-10-13/1979-10-13/P1D</Value>
+             <Value>1979-10-15/1979-10-15/P1D</Value>
+             <Value>1979-10-17/1979-10-17/P1D</Value>
+             <Value>1979-10-19/1979-10-19/P1D</Value>
+             <Value>1979-10-21/1979-10-21/P1D</Value>
+             <Value>1979-10-23/1979-10-23/P1D</Value>
+             <Value>1979-10-25/1979-10-25/P1D</Value>
+             <Value>1979-10-27/1979-10-27/P1D</Value>
+             <Value>1979-10-29/1979-10-29/P1D</Value>
+             <Value>1979-10-31/1979-10-31/P1D</Value>
+             <Value>1979-11-02/1979-11-02/P1D</Value>
+             <Value>1979-11-04/1979-11-04/P1D</Value>
+             <Value>1979-11-06/1979-11-06/P1D</Value>
+             <Value>1979-11-08/1979-11-08/P1D</Value>
+             <Value>1979-11-10/1979-11-10/P1D</Value>
+             <Value>1979-11-12/1979-11-12/P1D</Value>
+             <Value>1979-11-14/1979-11-14/P1D</Value>
+             <Value>1979-11-16/1979-11-16/P1D</Value>
+             <Value>1979-11-18/1979-11-18/P1D</Value>
+             <Value>1979-11-20/1979-11-20/P1D</Value>
+             <Value>1979-11-22/1979-11-22/P1D</Value>
+             <Value>1979-11-24/1979-11-24/P1D</Value>
+             <Value>1979-11-26/1979-11-26/P1D</Value>
+             <Value>1979-11-28/1979-11-28/P1D</Value>
+             <Value>1979-11-30/1979-11-30/P1D</Value>
+             <Value>1979-12-02/1979-12-02/P1D</Value>
+             <Value>1979-12-04/1979-12-04/P1D</Value>
+             <Value>1979-12-06/1979-12-06/P1D</Value>
+             <Value>1979-12-08/1979-12-08/P1D</Value>
+             <Value>1979-12-10/1979-12-10/P1D</Value>
+             <Value>1979-12-12/1979-12-12/P1D</Value>
+             <Value>1979-12-14/1979-12-14/P1D</Value>
+             <Value>1979-12-16/1979-12-16/P1D</Value>
+             <Value>1979-12-18/1979-12-18/P1D</Value>
+             <Value>1979-12-20/1979-12-20/P1D</Value>
+             <Value>1979-12-22/1979-12-22/P1D</Value>
+             <Value>1979-12-24/1979-12-24/P1D</Value>
+             <Value>1979-12-26/1979-12-26/P1D</Value>
+             <Value>1979-12-28/1979-12-28/P1D</Value>
+             <Value>1979-12-30/1979-12-30/P1D</Value>
+             <Value>1980-01-01/1980-01-01/P1D</Value>
+             <Value>1980-01-03/1980-01-03/P1D</Value>
+             <Value>1980-01-05/1980-01-05/P1D</Value>
+             <Value>1980-01-07/1980-01-07/P1D</Value>
+             <Value>1980-01-09/1980-01-09/P1D</Value>
+             <Value>1980-01-11/1980-01-11/P1D</Value>
+             <Value>1980-01-13/1980-01-13/P1D</Value>
+             <Value>1980-01-15/1980-01-15/P1D</Value>
+             <Value>1980-01-17/1980-01-17/P1D</Value>
+             <Value>1980-01-19/1980-01-19/P1D</Value>
+             <Value>1980-01-21/1980-01-21/P1D</Value>
+             <Value>1980-01-23/1980-01-23/P1D</Value>
+             <Value>1980-01-25/1980-01-25/P1D</Value>
+             <Value>1980-01-27/1980-01-27/P1D</Value>
+             <Value>1980-01-29/1980-01-29/P1D</Value>
+             <Value>1980-01-31/1980-01-31/P1D</Value>
+             <Value>1980-02-02/1980-02-02/P1D</Value>
+             <Value>1980-02-04/1980-02-04/P1D</Value>
+             <Value>1980-02-06/1980-02-06/P1D</Value>
+             <Value>1980-02-08/1980-02-08/P1D</Value>
+             <Value>1980-02-10/1980-02-10/P1D</Value>
+             <Value>1980-02-12/1980-02-12/P1D</Value>
+             <Value>1980-02-14/1980-02-14/P1D</Value>
+             <Value>1980-02-16/1980-02-16/P1D</Value>
+             <Value>1980-02-18/1980-02-18/P1D</Value>
+             <Value>1980-02-20/1980-02-20/P1D</Value>
+             <Value>1980-02-22/1980-02-22/P1D</Value>
+             <Value>1980-02-24/1980-02-24/P1D</Value>
+             <Value>1980-02-26/1980-02-26/P1D</Value>
+             <Value>1980-02-28/1980-02-28/P1D</Value>
+             <Value>1980-03-01/1980-03-01/P1D</Value>
+             <Value>1980-03-03/1980-03-03/P1D</Value>
+             <Value>1980-03-05/1980-03-05/P1D</Value>
+             <Value>1980-03-07/1980-03-07/P1D</Value>
+             <Value>1980-03-09/1980-03-09/P1D</Value>
+             <Value>1980-03-11/1980-03-11/P1D</Value>
+             <Value>1980-03-13/1980-03-13/P1D</Value>
+             <Value>1980-03-15/1980-03-15/P1D</Value>
+             <Value>1980-03-17/1980-03-17/P1D</Value>
+             <Value>1980-03-19/1980-03-19/P1D</Value>
+             <Value>1980-03-21/1980-03-21/P1D</Value>
+             <Value>1980-03-23/1980-03-23/P1D</Value>
+             <Value>1980-03-25/1980-03-25/P1D</Value>
+             <Value>1980-03-27/1980-03-27/P1D</Value>
+             <Value>1980-03-29/1980-03-29/P1D</Value>
+             <Value>1980-03-31/1980-03-31/P1D</Value>
+             <Value>1980-04-02/1980-04-02/P1D</Value>
+             <Value>1980-04-04/1980-04-04/P1D</Value>
+             <Value>1980-04-06/1980-04-06/P1D</Value>
+             <Value>1980-04-08/1980-04-08/P1D</Value>
+             <Value>1980-04-10/1980-04-10/P1D</Value>
+             <Value>1980-04-12/1980-04-12/P1D</Value>
+             <Value>1980-04-14/1980-04-14/P1D</Value>
+             <Value>1980-04-16/1980-04-16/P1D</Value>
+             <Value>1980-04-18/1980-04-18/P1D</Value>
+             <Value>1980-04-20/1980-04-20/P1D</Value>
+             <Value>1980-04-22/1980-04-22/P1D</Value>
+             <Value>1980-04-24/1980-04-24/P1D</Value>
+             <Value>1980-04-26/1980-04-26/P1D</Value>
+             <Value>1980-04-28/1980-04-28/P1D</Value>
+             <Value>1980-04-30/1980-04-30/P1D</Value>
+             <Value>1980-05-02/1980-05-02/P1D</Value>
+             <Value>1980-05-04/1980-05-04/P1D</Value>
+             <Value>1980-05-06/1980-05-06/P1D</Value>
+             <Value>1980-05-08/1980-05-08/P1D</Value>
+             <Value>1980-05-10/1980-05-10/P1D</Value>
+             <Value>1980-05-12/1980-05-12/P1D</Value>
+             <Value>1980-05-14/1980-05-14/P1D</Value>
+             <Value>1980-05-16/1980-05-16/P1D</Value>
+             <Value>1980-05-18/1980-05-18/P1D</Value>
+             <Value>1980-05-20/1980-05-20/P1D</Value>
+             <Value>1980-05-22/1980-05-22/P1D</Value>
+             <Value>1980-05-24/1980-05-24/P1D</Value>
+             <Value>1980-05-26/1980-05-26/P1D</Value>
+             <Value>1980-05-28/1980-05-28/P1D</Value>
+             <Value>1980-05-30/1980-05-30/P1D</Value>
+             <Value>1980-06-01/1980-06-01/P1D</Value>
+             <Value>1980-06-03/1980-06-03/P1D</Value>
+             <Value>1980-06-05/1980-06-05/P1D</Value>
+             <Value>1980-06-07/1980-06-07/P1D</Value>
+             <Value>1980-06-09/1980-06-09/P1D</Value>
+             <Value>1980-06-11/1980-06-11/P1D</Value>
+             <Value>1980-06-13/1980-06-13/P1D</Value>
+             <Value>1980-06-15/1980-06-15/P1D</Value>
+             <Value>1980-06-17/1980-06-17/P1D</Value>
+             <Value>1980-06-19/1980-06-19/P1D</Value>
+             <Value>1980-06-21/1980-06-21/P1D</Value>
+             <Value>1980-06-23/1980-06-23/P1D</Value>
+             <Value>1980-06-25/1980-06-25/P1D</Value>
+             <Value>1980-06-27/1980-06-27/P1D</Value>
+             <Value>1980-06-29/1980-06-29/P1D</Value>
+             <Value>1980-07-01/1980-07-01/P1D</Value>
+             <Value>1980-07-03/1980-07-03/P1D</Value>
+             <Value>1980-07-05/1980-07-05/P1D</Value>
+             <Value>1980-07-07/1980-07-07/P1D</Value>
+             <Value>1980-07-09/1980-07-09/P1D</Value>
+             <Value>1980-07-11/1980-07-11/P1D</Value>
+             <Value>1980-07-13/1980-07-13/P1D</Value>
+             <Value>1980-07-15/1980-07-15/P1D</Value>
+             <Value>1980-07-17/1980-07-17/P1D</Value>
+             <Value>1980-07-19/1980-07-19/P1D</Value>
+             <Value>1980-07-21/1980-07-21/P1D</Value>
+             <Value>1980-07-23/1980-07-23/P1D</Value>
+             <Value>1980-07-25/1980-07-25/P1D</Value>
+             <Value>1980-07-27/1980-07-27/P1D</Value>
+             <Value>1980-07-29/1980-07-29/P1D</Value>
+             <Value>1980-07-31/1980-07-31/P1D</Value>
+             <Value>1980-08-02/1980-08-02/P1D</Value>
+             <Value>1980-08-04/1980-08-04/P1D</Value>
+             <Value>1980-08-06/1980-08-06/P1D</Value>
+             <Value>1980-08-08/1980-08-08/P1D</Value>
+             <Value>1980-08-10/1980-08-10/P1D</Value>
+             <Value>1980-08-12/1980-08-12/P1D</Value>
+             <Value>1980-08-14/1980-08-14/P1D</Value>
+             <Value>1980-08-16/1980-08-16/P1D</Value>
+             <Value>1980-08-18/1980-08-18/P1D</Value>
+             <Value>1980-08-20/1980-08-20/P1D</Value>
+             <Value>1980-08-22/1980-08-22/P1D</Value>
+             <Value>1980-08-24/1980-08-24/P1D</Value>
+             <Value>1980-08-26/1980-08-26/P1D</Value>
+             <Value>1980-08-28/1980-08-28/P1D</Value>
+             <Value>1980-08-30/1980-08-30/P1D</Value>
+             <Value>1980-09-01/1980-09-01/P1D</Value>
+             <Value>1980-09-03/1980-09-03/P1D</Value>
+             <Value>1980-09-05/1980-09-05/P1D</Value>
+             <Value>1980-09-07/1980-09-07/P1D</Value>
+             <Value>1980-09-09/1980-09-09/P1D</Value>
+             <Value>1980-09-11/1980-09-11/P1D</Value>
+             <Value>1980-09-13/1980-09-13/P1D</Value>
+             <Value>1980-09-15/1980-09-15/P1D</Value>
+             <Value>1980-09-17/1980-09-17/P1D</Value>
+             <Value>1980-09-19/1980-09-19/P1D</Value>
+             <Value>1980-09-21/1980-09-21/P1D</Value>
+             <Value>1980-09-23/1980-09-23/P1D</Value>
+             <Value>1980-09-25/1980-09-25/P1D</Value>
+             <Value>1980-09-27/1980-09-27/P1D</Value>
+             <Value>1980-09-29/1980-09-29/P1D</Value>
+             <Value>1980-10-01/1980-10-01/P1D</Value>
+             <Value>1980-10-03/1980-10-03/P1D</Value>
+             <Value>1980-10-05/1980-10-05/P1D</Value>
+             <Value>1980-10-07/1980-10-07/P1D</Value>
+             <Value>1980-10-09/1980-10-09/P1D</Value>
+             <Value>1980-10-11/1980-10-11/P1D</Value>
+             <Value>1980-10-13/1980-10-13/P1D</Value>
+             <Value>1980-10-15/1980-10-15/P1D</Value>
+             <Value>1980-10-17/1980-10-17/P1D</Value>
+             <Value>1980-10-19/1980-10-19/P1D</Value>
+             <Value>1980-10-21/1980-10-21/P1D</Value>
+             <Value>1980-10-23/1980-10-23/P1D</Value>
+             <Value>1980-10-25/1980-10-25/P1D</Value>
+             <Value>1980-10-27/1980-10-27/P1D</Value>
+             <Value>1980-10-29/1980-10-29/P1D</Value>
+             <Value>1980-10-31/1980-10-31/P1D</Value>
+             <Value>1980-11-02/1980-11-02/P1D</Value>
+             <Value>1980-11-04/1980-11-04/P1D</Value>
+             <Value>1980-11-06/1980-11-06/P1D</Value>
+             <Value>1980-11-08/1980-11-08/P1D</Value>
+             <Value>1980-11-10/1980-11-10/P1D</Value>
+             <Value>1980-11-12/1980-11-12/P1D</Value>
+             <Value>1980-11-14/1980-11-14/P1D</Value>
+             <Value>1980-11-16/1980-11-16/P1D</Value>
+             <Value>1980-11-18/1980-11-18/P1D</Value>
+             <Value>1980-11-20/1980-11-20/P1D</Value>
+             <Value>1980-11-22/1980-11-22/P1D</Value>
+             <Value>1980-11-24/1980-11-24/P1D</Value>
+             <Value>1980-11-26/1980-11-26/P1D</Value>
+             <Value>1980-11-28/1980-11-28/P1D</Value>
+             <Value>1980-11-30/1980-11-30/P1D</Value>
+             <Value>1980-12-02/1980-12-02/P1D</Value>
+             <Value>1980-12-04/1980-12-04/P1D</Value>
+             <Value>1980-12-06/1980-12-06/P1D</Value>
+             <Value>1980-12-08/1980-12-08/P1D</Value>
+             <Value>1980-12-10/1980-12-10/P1D</Value>
+             <Value>1980-12-12/1980-12-12/P1D</Value>
+             <Value>1980-12-14/1980-12-14/P1D</Value>
+             <Value>1980-12-16/1980-12-16/P1D</Value>
+             <Value>1980-12-18/1980-12-18/P1D</Value>
+             <Value>1980-12-20/1980-12-20/P1D</Value>
+             <Value>1980-12-22/1980-12-22/P1D</Value>
+             <Value>1980-12-24/1980-12-24/P1D</Value>
+             <Value>1980-12-26/1980-12-26/P1D</Value>
+             <Value>1980-12-28/1980-12-28/P1D</Value>
+             <Value>1980-12-30/1980-12-30/P1D</Value>
+             <Value>1981-01-01/1981-01-01/P1D</Value>
+             <Value>1981-01-03/1981-01-03/P1D</Value>
+             <Value>1981-01-05/1981-01-05/P1D</Value>
+             <Value>1981-01-07/1981-01-07/P1D</Value>
+             <Value>1981-01-09/1981-01-09/P1D</Value>
+             <Value>1981-01-11/1981-01-11/P1D</Value>
+             <Value>1981-01-13/1981-01-13/P1D</Value>
+             <Value>1981-01-15/1981-01-15/P1D</Value>
+             <Value>1981-01-17/1981-01-17/P1D</Value>
+             <Value>1981-01-19/1981-01-19/P1D</Value>
+             <Value>1981-01-21/1981-01-21/P1D</Value>
+             <Value>1981-01-23/1981-01-23/P1D</Value>
+             <Value>1981-01-25/1981-01-25/P1D</Value>
+             <Value>1981-01-27/1981-01-27/P1D</Value>
+             <Value>1981-01-29/1981-01-29/P1D</Value>
+             <Value>1981-01-31/1981-01-31/P1D</Value>
+             <Value>1981-02-02/1981-02-02/P1D</Value>
+             <Value>1981-02-04/1981-02-04/P1D</Value>
+             <Value>1981-02-06/1981-02-06/P1D</Value>
+             <Value>1981-02-08/1981-02-08/P1D</Value>
+             <Value>1981-02-10/1981-02-10/P1D</Value>
+             <Value>1981-02-12/1981-02-12/P1D</Value>
+             <Value>1981-02-14/1981-02-14/P1D</Value>
+             <Value>1981-02-16/1981-02-16/P1D</Value>
+             <Value>1981-02-18/1981-02-18/P1D</Value>
+             <Value>1981-02-20/1981-02-20/P1D</Value>
+             <Value>1981-02-22/1981-02-22/P1D</Value>
+             <Value>1981-02-24/1981-02-24/P1D</Value>
+             <Value>1981-02-26/1981-02-26/P1D</Value>
+             <Value>1981-02-28/1981-02-28/P1D</Value>
+             <Value>1981-03-02/1981-03-02/P1D</Value>
+             <Value>1981-03-04/1981-03-04/P1D</Value>
+             <Value>1981-03-06/1981-03-06/P1D</Value>
+             <Value>1981-03-08/1981-03-08/P1D</Value>
+             <Value>1981-03-10/1981-03-10/P1D</Value>
+             <Value>1981-03-12/1981-03-12/P1D</Value>
+             <Value>1981-03-14/1981-03-14/P1D</Value>
+             <Value>1981-03-16/1981-03-16/P1D</Value>
+             <Value>1981-03-18/1981-03-18/P1D</Value>
+             <Value>1981-03-20/1981-03-20/P1D</Value>
+             <Value>1981-03-22/1981-03-22/P1D</Value>
+             <Value>1981-03-24/1981-03-24/P1D</Value>
+             <Value>1981-03-26/1981-03-26/P1D</Value>
+             <Value>1981-03-28/1981-03-28/P1D</Value>
+             <Value>1981-03-30/1981-03-30/P1D</Value>
+             <Value>1981-04-01/1981-04-01/P1D</Value>
+             <Value>1981-04-03/1981-04-03/P1D</Value>
+             <Value>1981-04-05/1981-04-05/P1D</Value>
+             <Value>1981-04-07/1981-04-07/P1D</Value>
+             <Value>1981-04-09/1981-04-09/P1D</Value>
+             <Value>1981-04-11/1981-04-11/P1D</Value>
+             <Value>1981-04-13/1981-04-13/P1D</Value>
+             <Value>1981-04-15/1981-04-15/P1D</Value>
+             <Value>1981-04-17/1981-04-17/P1D</Value>
+             <Value>1981-04-19/1981-04-19/P1D</Value>
+             <Value>1981-04-21/1981-04-21/P1D</Value>
+             <Value>1981-04-23/1981-04-23/P1D</Value>
+             <Value>1981-04-25/1981-04-25/P1D</Value>
+             <Value>1981-04-27/1981-04-27/P1D</Value>
+             <Value>1981-04-29/1981-04-29/P1D</Value>
+             <Value>1981-05-01/1981-05-01/P1D</Value>
+             <Value>1981-05-03/1981-05-03/P1D</Value>
+             <Value>1981-05-05/1981-05-05/P1D</Value>
+             <Value>1981-05-07/1981-05-07/P1D</Value>
+             <Value>1981-05-09/1981-05-09/P1D</Value>
+             <Value>1981-05-11/1981-05-11/P1D</Value>
+             <Value>1981-05-13/1981-05-13/P1D</Value>
+             <Value>1981-05-15/1981-05-15/P1D</Value>
+             <Value>1981-05-17/1981-05-17/P1D</Value>
+             <Value>1981-05-19/1981-05-19/P1D</Value>
+             <Value>1981-05-21/1981-05-21/P1D</Value>
+             <Value>1981-05-23/1981-05-23/P1D</Value>
+             <Value>1981-05-25/1981-05-25/P1D</Value>
+             <Value>1981-05-27/1981-05-27/P1D</Value>
+             <Value>1981-05-29/1981-05-29/P1D</Value>
+             <Value>1981-05-31/1981-05-31/P1D</Value>
+             <Value>1981-06-02/1981-06-02/P1D</Value>
+             <Value>1981-06-04/1981-06-04/P1D</Value>
+             <Value>1981-06-06/1981-06-06/P1D</Value>
+             <Value>1981-06-08/1981-06-08/P1D</Value>
+             <Value>1981-06-10/1981-06-10/P1D</Value>
+             <Value>1981-06-12/1981-06-12/P1D</Value>
+             <Value>1981-06-14/1981-06-14/P1D</Value>
+             <Value>1981-06-16/1981-06-16/P1D</Value>
+             <Value>1981-06-18/1981-06-18/P1D</Value>
+             <Value>1981-06-20/1981-06-20/P1D</Value>
+             <Value>1981-06-22/1981-06-22/P1D</Value>
+             <Value>1981-06-24/1981-06-24/P1D</Value>
+             <Value>1981-06-26/1981-06-26/P1D</Value>
+             <Value>1981-06-28/1981-06-28/P1D</Value>
+             <Value>1981-06-30/1981-06-30/P1D</Value>
+             <Value>1981-07-02/1981-07-02/P1D</Value>
+             <Value>1981-07-04/1981-07-04/P1D</Value>
+             <Value>1981-07-06/1981-07-06/P1D</Value>
+             <Value>1981-07-08/1981-07-08/P1D</Value>
+             <Value>1981-07-10/1981-07-10/P1D</Value>
+             <Value>1981-07-12/1981-07-12/P1D</Value>
+             <Value>1981-07-14/1981-07-14/P1D</Value>
+             <Value>1981-07-16/1981-07-16/P1D</Value>
+             <Value>1981-07-18/1981-07-18/P1D</Value>
+             <Value>1981-07-20/1981-07-20/P1D</Value>
+             <Value>1981-07-22/1981-07-22/P1D</Value>
+             <Value>1981-07-24/1981-07-24/P1D</Value>
+             <Value>1981-07-26/1981-07-26/P1D</Value>
+             <Value>1981-07-28/1981-07-28/P1D</Value>
+             <Value>1981-07-30/1981-07-30/P1D</Value>
+             <Value>1981-08-01/1981-08-01/P1D</Value>
+             <Value>1981-08-03/1981-08-03/P1D</Value>
+             <Value>1981-08-05/1981-08-05/P1D</Value>
+             <Value>1981-08-07/1981-08-07/P1D</Value>
+             <Value>1981-08-09/1981-08-09/P1D</Value>
+             <Value>1981-08-11/1981-08-11/P1D</Value>
+             <Value>1981-08-13/1981-08-13/P1D</Value>
+             <Value>1981-08-15/1981-08-15/P1D</Value>
+             <Value>1981-08-17/1981-08-17/P1D</Value>
+             <Value>1981-08-19/1981-08-19/P1D</Value>
+             <Value>1981-08-21/1981-08-21/P1D</Value>
+             <Value>1981-08-23/1981-08-23/P1D</Value>
+             <Value>1981-08-25/1981-08-25/P1D</Value>
+             <Value>1981-08-27/1981-08-27/P1D</Value>
+             <Value>1981-08-29/1981-08-29/P1D</Value>
+             <Value>1981-08-31/1981-08-31/P1D</Value>
+             <Value>1981-09-02/1981-09-02/P1D</Value>
+             <Value>1981-09-04/1981-09-04/P1D</Value>
+             <Value>1981-09-06/1981-09-06/P1D</Value>
+             <Value>1981-09-08/1981-09-08/P1D</Value>
+             <Value>1981-09-10/1981-09-10/P1D</Value>
+             <Value>1981-09-12/1981-09-12/P1D</Value>
+             <Value>1981-09-14/1981-09-14/P1D</Value>
+             <Value>1981-09-16/1981-09-16/P1D</Value>
+             <Value>1981-09-18/1981-09-18/P1D</Value>
+             <Value>1981-09-20/1981-09-20/P1D</Value>
+             <Value>1981-09-22/1981-09-22/P1D</Value>
+             <Value>1981-09-24/1981-09-24/P1D</Value>
+             <Value>1981-09-26/1981-09-26/P1D</Value>
+             <Value>1981-09-28/1981-09-28/P1D</Value>
+             <Value>1981-09-30/1981-09-30/P1D</Value>
+             <Value>1981-10-02/1981-10-02/P1D</Value>
+             <Value>1981-10-04/1981-10-04/P1D</Value>
+             <Value>1981-10-06/1981-10-06/P1D</Value>
+             <Value>1981-10-08/1981-10-08/P1D</Value>
+             <Value>1981-10-10/1981-10-10/P1D</Value>
+             <Value>1981-10-12/1981-10-12/P1D</Value>
+             <Value>1981-10-14/1981-10-14/P1D</Value>
+             <Value>1981-10-16/1981-10-16/P1D</Value>
+             <Value>1981-10-18/1981-10-18/P1D</Value>
+             <Value>1981-10-20/1981-10-20/P1D</Value>
+             <Value>1981-10-22/1981-10-22/P1D</Value>
+             <Value>1981-10-24/1981-10-24/P1D</Value>
+             <Value>1981-10-26/1981-10-26/P1D</Value>
+             <Value>1981-10-28/1981-10-28/P1D</Value>
+             <Value>1981-10-30/1981-10-30/P1D</Value>
+             <Value>1981-11-01/1981-11-01/P1D</Value>
+             <Value>1981-11-03/1981-11-03/P1D</Value>
+             <Value>1981-11-05/1981-11-05/P1D</Value>
+             <Value>1981-11-07/1981-11-07/P1D</Value>
+             <Value>1981-11-09/1981-11-09/P1D</Value>
+             <Value>1981-11-11/1981-11-11/P1D</Value>
+             <Value>1981-11-13/1981-11-13/P1D</Value>
+             <Value>1981-11-15/1981-11-15/P1D</Value>
+             <Value>1981-11-17/1981-11-17/P1D</Value>
+             <Value>1981-11-19/1981-11-19/P1D</Value>
+             <Value>1981-11-21/1981-11-21/P1D</Value>
+             <Value>1981-11-23/1981-11-23/P1D</Value>
+             <Value>1981-11-25/1981-11-25/P1D</Value>
+             <Value>1981-11-27/1981-11-27/P1D</Value>
+             <Value>1981-11-29/1981-11-29/P1D</Value>
+             <Value>1981-12-01/1981-12-01/P1D</Value>
+             <Value>1981-12-03/1981-12-03/P1D</Value>
+             <Value>1981-12-05/1981-12-05/P1D</Value>
+             <Value>1981-12-07/1981-12-07/P1D</Value>
+             <Value>1981-12-09/1981-12-09/P1D</Value>
+             <Value>1981-12-11/1981-12-11/P1D</Value>
+             <Value>1981-12-13/1981-12-13/P1D</Value>
+             <Value>1981-12-15/1981-12-15/P1D</Value>
+             <Value>1981-12-17/1981-12-17/P1D</Value>
+             <Value>1981-12-19/1981-12-19/P1D</Value>
+             <Value>1981-12-21/1981-12-21/P1D</Value>
+             <Value>1981-12-23/1981-12-23/P1D</Value>
+             <Value>1981-12-25/1981-12-25/P1D</Value>
+             <Value>1981-12-27/1981-12-27/P1D</Value>
+             <Value>1981-12-29/1981-12-29/P1D</Value>
+             <Value>1981-12-31/1981-12-31/P1D</Value>
+             <Value>1982-01-02/1982-01-02/P1D</Value>
+             <Value>1982-01-04/1982-01-04/P1D</Value>
+             <Value>1982-01-06/1982-01-06/P1D</Value>
+             <Value>1982-01-08/1982-01-08/P1D</Value>
+             <Value>1982-01-10/1982-01-10/P1D</Value>
+             <Value>1982-01-12/1982-01-12/P1D</Value>
+             <Value>1982-01-14/1982-01-14/P1D</Value>
+             <Value>1982-01-16/1982-01-16/P1D</Value>
+             <Value>1982-01-18/1982-01-18/P1D</Value>
+             <Value>1982-01-20/1982-01-20/P1D</Value>
+             <Value>1982-01-22/1982-01-22/P1D</Value>
+             <Value>1982-01-24/1982-01-24/P1D</Value>
+             <Value>1982-01-26/1982-01-26/P1D</Value>
+             <Value>1982-01-28/1982-01-28/P1D</Value>
+             <Value>1982-01-30/1982-01-30/P1D</Value>
+             <Value>1982-02-01/1982-02-01/P1D</Value>
+             <Value>1982-02-03/1982-02-03/P1D</Value>
+             <Value>1982-02-05/1982-02-05/P1D</Value>
+             <Value>1982-02-07/1982-02-07/P1D</Value>
+             <Value>1982-02-09/1982-02-09/P1D</Value>
+             <Value>1982-02-11/1982-02-11/P1D</Value>
+             <Value>1982-02-13/1982-02-13/P1D</Value>
+             <Value>1982-02-15/1982-02-15/P1D</Value>
+             <Value>1982-02-17/1982-02-17/P1D</Value>
+             <Value>1982-02-19/1982-02-19/P1D</Value>
+             <Value>1982-02-21/1982-02-21/P1D</Value>
+             <Value>1982-02-23/1982-02-23/P1D</Value>
+             <Value>1982-02-25/1982-02-25/P1D</Value>
+             <Value>1982-02-27/1982-02-27/P1D</Value>
+             <Value>1982-03-01/1982-03-01/P1D</Value>
+             <Value>1982-03-03/1982-03-03/P1D</Value>
+             <Value>1982-03-05/1982-03-05/P1D</Value>
+             <Value>1982-03-07/1982-03-07/P1D</Value>
+             <Value>1982-03-09/1982-03-09/P1D</Value>
+             <Value>1982-03-11/1982-03-11/P1D</Value>
+             <Value>1982-03-13/1982-03-13/P1D</Value>
+             <Value>1982-03-15/1982-03-15/P1D</Value>
+             <Value>1982-03-17/1982-03-17/P1D</Value>
+             <Value>1982-03-19/1982-03-19/P1D</Value>
+             <Value>1982-03-21/1982-03-21/P1D</Value>
+             <Value>1982-03-23/1982-03-23/P1D</Value>
+             <Value>1982-03-25/1982-03-25/P1D</Value>
+             <Value>1982-03-27/1982-03-27/P1D</Value>
+             <Value>1982-03-29/1982-03-29/P1D</Value>
+             <Value>1982-03-31/1982-03-31/P1D</Value>
+             <Value>1982-04-02/1982-04-02/P1D</Value>
+             <Value>1982-04-04/1982-04-04/P1D</Value>
+             <Value>1982-04-06/1982-04-06/P1D</Value>
+             <Value>1982-04-08/1982-04-08/P1D</Value>
+             <Value>1982-04-10/1982-04-10/P1D</Value>
+             <Value>1982-04-12/1982-04-12/P1D</Value>
+             <Value>1982-04-14/1982-04-14/P1D</Value>
+             <Value>1982-04-16/1982-04-16/P1D</Value>
+             <Value>1982-04-18/1982-04-18/P1D</Value>
+             <Value>1982-04-20/1982-04-20/P1D</Value>
+             <Value>1982-04-22/1982-04-22/P1D</Value>
+             <Value>1982-04-24/1982-04-24/P1D</Value>
+             <Value>1982-04-26/1982-04-26/P1D</Value>
+             <Value>1982-04-28/1982-04-28/P1D</Value>
+             <Value>1982-04-30/1982-04-30/P1D</Value>
+             <Value>1982-05-02/1982-05-02/P1D</Value>
+             <Value>1982-05-04/1982-05-04/P1D</Value>
+             <Value>1982-05-06/1982-05-06/P1D</Value>
+             <Value>1982-05-08/1982-05-08/P1D</Value>
+             <Value>1982-05-10/1982-05-10/P1D</Value>
+             <Value>1982-05-12/1982-05-12/P1D</Value>
+             <Value>1982-05-14/1982-05-14/P1D</Value>
+             <Value>1982-05-16/1982-05-16/P1D</Value>
+             <Value>1982-05-18/1982-05-18/P1D</Value>
+             <Value>1982-05-20/1982-05-20/P1D</Value>
+             <Value>1982-05-22/1982-05-22/P1D</Value>
+             <Value>1982-05-24/1982-05-24/P1D</Value>
+             <Value>1982-05-26/1982-05-26/P1D</Value>
+             <Value>1982-05-28/1982-05-28/P1D</Value>
+             <Value>1982-05-30/1982-05-30/P1D</Value>
+             <Value>1982-06-01/1982-06-01/P1D</Value>
+             <Value>1982-06-03/1982-06-03/P1D</Value>
+             <Value>1982-06-05/1982-06-05/P1D</Value>
+             <Value>1982-06-07/1982-06-07/P1D</Value>
+             <Value>1982-06-09/1982-06-09/P1D</Value>
+             <Value>1982-06-11/1982-06-11/P1D</Value>
+             <Value>1982-06-13/1982-06-13/P1D</Value>
+             <Value>1982-06-15/1982-06-15/P1D</Value>
+             <Value>1982-06-17/1982-06-17/P1D</Value>
+             <Value>1982-06-19/1982-06-19/P1D</Value>
+             <Value>1982-06-21/1982-06-21/P1D</Value>
+             <Value>1982-06-23/1982-06-23/P1D</Value>
+             <Value>1982-06-25/1982-06-25/P1D</Value>
+             <Value>1982-06-27/1982-06-27/P1D</Value>
+             <Value>1982-06-29/1982-06-29/P1D</Value>
+             <Value>1982-07-01/1982-07-01/P1D</Value>
+             <Value>1982-07-03/1982-07-03/P1D</Value>
+             <Value>1982-07-05/1982-07-05/P1D</Value>
+             <Value>1982-07-07/1982-07-07/P1D</Value>
+             <Value>1982-07-09/1982-07-09/P1D</Value>
+             <Value>1982-07-11/1982-07-11/P1D</Value>
+             <Value>1982-07-13/1982-07-13/P1D</Value>
+             <Value>1982-07-15/1982-07-15/P1D</Value>
+             <Value>1982-07-17/1982-07-17/P1D</Value>
+             <Value>1982-07-19/1982-07-19/P1D</Value>
+             <Value>1982-07-21/1982-07-21/P1D</Value>
+             <Value>1982-07-23/1982-07-23/P1D</Value>
+             <Value>1982-07-25/1982-07-25/P1D</Value>
+             <Value>1982-07-27/1982-07-27/P1D</Value>
+             <Value>1982-07-29/1982-07-29/P1D</Value>
+             <Value>1982-07-31/1982-07-31/P1D</Value>
+             <Value>1982-08-02/1982-08-02/P1D</Value>
+             <Value>1982-08-04/1982-08-04/P1D</Value>
+             <Value>1982-08-06/1982-08-06/P1D</Value>
+             <Value>1982-08-08/1982-08-08/P1D</Value>
+             <Value>1982-08-10/1982-08-10/P1D</Value>
+             <Value>1982-08-12/1982-08-12/P1D</Value>
+             <Value>1982-08-14/1982-08-14/P1D</Value>
+             <Value>1982-08-16/1982-08-16/P1D</Value>
+             <Value>1982-08-18/1982-08-18/P1D</Value>
+             <Value>1982-08-20/1982-08-20/P1D</Value>
+             <Value>1982-08-22/1982-08-22/P1D</Value>
+             <Value>1982-08-24/1982-08-24/P1D</Value>
+             <Value>1982-08-26/1982-08-26/P1D</Value>
+             <Value>1982-08-28/1982-08-28/P1D</Value>
+             <Value>1982-08-30/1982-08-30/P1D</Value>
+             <Value>1982-09-01/1982-09-01/P1D</Value>
+             <Value>1982-09-03/1982-09-03/P1D</Value>
+             <Value>1982-09-05/1982-09-05/P1D</Value>
+             <Value>1982-09-07/1982-09-07/P1D</Value>
+             <Value>1982-09-09/1982-09-09/P1D</Value>
+             <Value>1982-09-11/1982-09-11/P1D</Value>
+             <Value>1982-09-13/1982-09-13/P1D</Value>
+             <Value>1982-09-15/1982-09-15/P1D</Value>
+             <Value>1982-09-17/1982-09-17/P1D</Value>
+             <Value>1982-09-19/1982-09-19/P1D</Value>
+             <Value>1982-09-21/1982-09-21/P1D</Value>
+             <Value>1982-09-23/1982-09-23/P1D</Value>
+             <Value>1982-09-25/1982-09-25/P1D</Value>
+             <Value>1982-09-27/1982-09-27/P1D</Value>
+             <Value>1982-09-29/1982-09-29/P1D</Value>
+             <Value>1982-10-01/1982-10-01/P1D</Value>
+             <Value>1982-10-03/1982-10-03/P1D</Value>
+             <Value>1982-10-05/1982-10-05/P1D</Value>
+             <Value>1982-10-07/1982-10-07/P1D</Value>
+             <Value>1982-10-09/1982-10-09/P1D</Value>
+             <Value>1982-10-11/1982-10-11/P1D</Value>
+             <Value>1982-10-13/1982-10-13/P1D</Value>
+             <Value>1982-10-15/1982-10-15/P1D</Value>
+             <Value>1982-10-17/1982-10-17/P1D</Value>
+             <Value>1982-10-19/1982-10-19/P1D</Value>
+             <Value>1982-10-21/1982-10-21/P1D</Value>
+             <Value>1982-10-23/1982-10-23/P1D</Value>
+             <Value>1982-10-25/1982-10-25/P1D</Value>
+             <Value>1982-10-27/1982-10-27/P1D</Value>
+             <Value>1982-10-29/1982-10-29/P1D</Value>
+             <Value>1982-10-31/1982-10-31/P1D</Value>
+             <Value>1982-11-02/1982-11-02/P1D</Value>
+             <Value>1982-11-04/1982-11-04/P1D</Value>
+             <Value>1982-11-06/1982-11-06/P1D</Value>
+             <Value>1982-11-08/1982-11-08/P1D</Value>
+             <Value>1982-11-10/1982-11-10/P1D</Value>
+             <Value>1982-11-12/1982-11-12/P1D</Value>
+             <Value>1982-11-14/1982-11-14/P1D</Value>
+             <Value>1982-11-16/1982-11-16/P1D</Value>
+             <Value>1982-11-18/1982-11-18/P1D</Value>
+             <Value>1982-11-20/1982-11-20/P1D</Value>
+             <Value>1982-11-22/1982-11-22/P1D</Value>
+             <Value>1982-11-24/1982-11-24/P1D</Value>
+             <Value>1982-11-26/1982-11-26/P1D</Value>
+             <Value>1982-11-28/1982-11-28/P1D</Value>
+             <Value>1982-11-30/1982-11-30/P1D</Value>
+             <Value>1982-12-02/1982-12-02/P1D</Value>
+             <Value>1982-12-04/1982-12-04/P1D</Value>
+             <Value>1982-12-06/1982-12-06/P1D</Value>
+             <Value>1982-12-08/1982-12-08/P1D</Value>
+             <Value>1982-12-10/1982-12-10/P1D</Value>
+             <Value>1982-12-12/1982-12-12/P1D</Value>
+             <Value>1982-12-14/1982-12-14/P1D</Value>
+             <Value>1982-12-16/1982-12-16/P1D</Value>
+             <Value>1982-12-18/1982-12-18/P1D</Value>
+             <Value>1982-12-20/1982-12-20/P1D</Value>
+             <Value>1982-12-22/1982-12-22/P1D</Value>
+             <Value>1982-12-24/1982-12-24/P1D</Value>
+             <Value>1982-12-26/1982-12-26/P1D</Value>
+             <Value>1982-12-28/1982-12-28/P1D</Value>
+             <Value>1982-12-30/1982-12-30/P1D</Value>
+             <Value>1983-01-01/1983-01-01/P1D</Value>
+             <Value>1983-01-03/1983-01-03/P1D</Value>
+             <Value>1983-01-05/1983-01-05/P1D</Value>
+             <Value>1983-01-07/1983-01-07/P1D</Value>
+             <Value>1983-01-09/1983-01-09/P1D</Value>
+             <Value>1983-01-11/1983-01-11/P1D</Value>
+             <Value>1983-01-13/1983-01-13/P1D</Value>
+             <Value>1983-01-15/1983-01-15/P1D</Value>
+             <Value>1983-01-17/1983-01-17/P1D</Value>
+             <Value>1983-01-19/1983-01-19/P1D</Value>
+             <Value>1983-01-21/1983-01-21/P1D</Value>
+             <Value>1983-01-23/1983-01-23/P1D</Value>
+             <Value>1983-01-25/1983-01-25/P1D</Value>
+             <Value>1983-01-27/1983-01-27/P1D</Value>
+             <Value>1983-01-29/1983-01-29/P1D</Value>
+             <Value>1983-01-31/1983-01-31/P1D</Value>
+             <Value>1983-02-02/1983-02-02/P1D</Value>
+             <Value>1983-02-04/1983-02-04/P1D</Value>
+             <Value>1983-02-06/1983-02-06/P1D</Value>
+             <Value>1983-02-08/1983-02-08/P1D</Value>
+             <Value>1983-02-10/1983-02-10/P1D</Value>
+             <Value>1983-02-12/1983-02-12/P1D</Value>
+             <Value>1983-02-14/1983-02-14/P1D</Value>
+             <Value>1983-02-16/1983-02-16/P1D</Value>
+             <Value>1983-02-18/1983-02-18/P1D</Value>
+             <Value>1983-02-20/1983-02-20/P1D</Value>
+             <Value>1983-02-22/1983-02-22/P1D</Value>
+             <Value>1983-02-24/1983-02-24/P1D</Value>
+             <Value>1983-02-26/1983-02-26/P1D</Value>
+             <Value>1983-02-28/1983-02-28/P1D</Value>
+             <Value>1983-03-02/1983-03-02/P1D</Value>
+             <Value>1983-03-04/1983-03-04/P1D</Value>
+             <Value>1983-03-06/1983-03-06/P1D</Value>
+             <Value>1983-03-08/1983-03-08/P1D</Value>
+             <Value>1983-03-10/1983-03-10/P1D</Value>
+             <Value>1983-03-12/1983-03-12/P1D</Value>
+             <Value>1983-03-14/1983-03-14/P1D</Value>
+             <Value>1983-03-16/1983-03-16/P1D</Value>
+             <Value>1983-03-18/1983-03-18/P1D</Value>
+             <Value>1983-03-20/1983-03-20/P1D</Value>
+             <Value>1983-03-22/1983-03-22/P1D</Value>
+             <Value>1983-03-24/1983-03-24/P1D</Value>
+             <Value>1983-03-26/1983-03-26/P1D</Value>
+             <Value>1983-03-28/1983-03-28/P1D</Value>
+             <Value>1983-03-30/1983-03-30/P1D</Value>
+             <Value>1983-04-01/1983-04-01/P1D</Value>
+             <Value>1983-04-03/1983-04-03/P1D</Value>
+             <Value>1983-04-05/1983-04-05/P1D</Value>
+             <Value>1983-04-07/1983-04-07/P1D</Value>
+             <Value>1983-04-09/1983-04-09/P1D</Value>
+             <Value>1983-04-11/1983-04-11/P1D</Value>
+             <Value>1983-04-13/1983-04-13/P1D</Value>
+             <Value>1983-04-15/1983-04-15/P1D</Value>
+             <Value>1983-04-17/1983-04-17/P1D</Value>
+             <Value>1983-04-19/1983-04-19/P1D</Value>
+             <Value>1983-04-21/1983-04-21/P1D</Value>
+             <Value>1983-04-23/1983-04-23/P1D</Value>
+             <Value>1983-04-25/1983-04-25/P1D</Value>
+             <Value>1983-04-27/1983-04-27/P1D</Value>
+             <Value>1983-04-29/1983-04-29/P1D</Value>
+             <Value>1983-05-01/1983-05-01/P1D</Value>
+             <Value>1983-05-03/1983-05-03/P1D</Value>
+             <Value>1983-05-05/1983-05-05/P1D</Value>
+             <Value>1983-05-07/1983-05-07/P1D</Value>
+             <Value>1983-05-09/1983-05-09/P1D</Value>
+             <Value>1983-05-11/1983-05-11/P1D</Value>
+             <Value>1983-05-13/1983-05-13/P1D</Value>
+             <Value>1983-05-15/1983-05-15/P1D</Value>
+             <Value>1983-05-17/1983-05-17/P1D</Value>
+             <Value>1983-05-19/1983-05-19/P1D</Value>
+             <Value>1983-05-21/1983-05-21/P1D</Value>
+             <Value>1983-05-23/1983-05-23/P1D</Value>
+             <Value>1983-05-25/1983-05-25/P1D</Value>
+             <Value>1983-05-27/1983-05-27/P1D</Value>
+             <Value>1983-05-29/1983-05-29/P1D</Value>
+             <Value>1983-05-31/1983-05-31/P1D</Value>
+             <Value>1983-06-02/1983-06-02/P1D</Value>
+             <Value>1983-06-04/1983-06-04/P1D</Value>
+             <Value>1983-06-06/1983-06-06/P1D</Value>
+             <Value>1983-06-08/1983-06-08/P1D</Value>
+             <Value>1983-06-10/1983-06-10/P1D</Value>
+             <Value>1983-06-12/1983-06-12/P1D</Value>
+             <Value>1983-06-14/1983-06-14/P1D</Value>
+             <Value>1983-06-16/1983-06-16/P1D</Value>
+             <Value>1983-06-18/1983-06-18/P1D</Value>
+             <Value>1983-06-20/1983-06-20/P1D</Value>
+             <Value>1983-06-22/1983-06-22/P1D</Value>
+             <Value>1983-06-24/1983-06-24/P1D</Value>
+             <Value>1983-06-26/1983-06-26/P1D</Value>
+             <Value>1983-06-28/1983-06-28/P1D</Value>
+             <Value>1983-06-30/1983-06-30/P1D</Value>
+             <Value>1983-07-02/1983-07-02/P1D</Value>
+             <Value>1983-07-04/1983-07-04/P1D</Value>
+             <Value>1983-07-06/1983-07-06/P1D</Value>
+             <Value>1983-07-08/1983-07-08/P1D</Value>
+             <Value>1983-07-10/1983-07-10/P1D</Value>
+             <Value>1983-07-12/1983-07-12/P1D</Value>
+             <Value>1983-07-14/1983-07-14/P1D</Value>
+             <Value>1983-07-16/1983-07-16/P1D</Value>
+             <Value>1983-07-18/1983-07-18/P1D</Value>
+             <Value>1983-07-20/1983-07-20/P1D</Value>
+             <Value>1983-07-22/1983-07-22/P1D</Value>
+             <Value>1983-07-24/1983-07-24/P1D</Value>
+             <Value>1983-07-26/1983-07-26/P1D</Value>
+             <Value>1983-07-28/1983-07-28/P1D</Value>
+             <Value>1983-07-30/1983-07-30/P1D</Value>
+             <Value>1983-08-01/1983-08-01/P1D</Value>
+             <Value>1983-08-03/1983-08-03/P1D</Value>
+             <Value>1983-08-05/1983-08-05/P1D</Value>
+             <Value>1983-08-07/1983-08-07/P1D</Value>
+             <Value>1983-08-09/1983-08-09/P1D</Value>
+             <Value>1983-08-11/1983-08-11/P1D</Value>
+             <Value>1983-08-13/1983-08-13/P1D</Value>
+             <Value>1983-08-15/1983-08-15/P1D</Value>
+             <Value>1983-08-17/1983-08-17/P1D</Value>
+             <Value>1983-08-19/1983-08-19/P1D</Value>
+             <Value>1983-08-21/1983-08-21/P1D</Value>
+             <Value>1983-08-23/1983-08-23/P1D</Value>
+             <Value>1983-08-25/1983-08-25/P1D</Value>
+             <Value>1983-08-27/1983-08-27/P1D</Value>
+             <Value>1983-08-29/1983-08-29/P1D</Value>
+             <Value>1983-08-31/1983-08-31/P1D</Value>
+             <Value>1983-09-02/1983-09-02/P1D</Value>
+             <Value>1983-09-04/1983-09-04/P1D</Value>
+             <Value>1983-09-06/1983-09-06/P1D</Value>
+             <Value>1983-09-08/1983-09-08/P1D</Value>
+             <Value>1983-09-10/1983-09-10/P1D</Value>
+             <Value>1983-09-12/1983-09-12/P1D</Value>
+             <Value>1983-09-14/1983-09-14/P1D</Value>
+             <Value>1983-09-16/1983-09-16/P1D</Value>
+             <Value>1983-09-18/1983-09-18/P1D</Value>
+             <Value>1983-09-20/1983-09-20/P1D</Value>
+             <Value>1983-09-22/1983-09-22/P1D</Value>
+             <Value>1983-09-24/1983-09-24/P1D</Value>
+             <Value>1983-09-26/1983-09-26/P1D</Value>
+             <Value>1983-09-28/1983-09-28/P1D</Value>
+             <Value>1983-09-30/1983-09-30/P1D</Value>
+             <Value>1983-10-02/1983-10-02/P1D</Value>
+             <Value>1983-10-04/1983-10-04/P1D</Value>
+             <Value>1983-10-06/1983-10-06/P1D</Value>
+             <Value>1983-10-08/1983-10-08/P1D</Value>
+             <Value>1983-10-10/1983-10-10/P1D</Value>
+             <Value>1983-10-12/1983-10-12/P1D</Value>
+             <Value>1983-10-14/1983-10-14/P1D</Value>
+             <Value>1983-10-16/1983-10-16/P1D</Value>
+             <Value>1983-10-18/1983-10-18/P1D</Value>
+             <Value>1983-10-20/1983-10-20/P1D</Value>
+             <Value>1983-10-22/1983-10-22/P1D</Value>
+             <Value>1983-10-24/1983-10-24/P1D</Value>
+             <Value>1983-10-26/1983-10-26/P1D</Value>
+             <Value>1983-10-28/1983-10-28/P1D</Value>
+             <Value>1983-10-30/1983-10-30/P1D</Value>
+             <Value>1983-11-01/1983-11-01/P1D</Value>
+             <Value>1983-11-03/1983-11-03/P1D</Value>
+             <Value>1983-11-05/1983-11-05/P1D</Value>
+             <Value>1983-11-07/1983-11-07/P1D</Value>
+             <Value>1983-11-09/1983-11-09/P1D</Value>
+             <Value>1983-11-11/1983-11-11/P1D</Value>
+             <Value>1983-11-13/1983-11-13/P1D</Value>
+             <Value>1983-11-15/1983-11-15/P1D</Value>
+             <Value>1983-11-17/1983-11-17/P1D</Value>
+             <Value>1983-11-19/1983-11-19/P1D</Value>
+             <Value>1983-11-21/1983-11-21/P1D</Value>
+             <Value>1983-11-23/1983-11-23/P1D</Value>
+             <Value>1983-11-25/1983-11-25/P1D</Value>
+             <Value>1983-11-27/1983-11-27/P1D</Value>
+             <Value>1983-11-29/1983-11-29/P1D</Value>
+             <Value>1983-12-01/1983-12-01/P1D</Value>
+             <Value>1983-12-03/1983-12-03/P1D</Value>
+             <Value>1983-12-05/1983-12-05/P1D</Value>
+             <Value>1983-12-07/1983-12-07/P1D</Value>
+             <Value>1983-12-09/1983-12-09/P1D</Value>
+             <Value>1983-12-11/1983-12-11/P1D</Value>
+             <Value>1983-12-13/1983-12-13/P1D</Value>
+             <Value>1983-12-15/1983-12-15/P1D</Value>
+             <Value>1983-12-17/1983-12-17/P1D</Value>
+             <Value>1983-12-19/1983-12-19/P1D</Value>
+             <Value>1983-12-21/1983-12-21/P1D</Value>
+             <Value>1983-12-23/1983-12-23/P1D</Value>
+             <Value>1983-12-25/1983-12-25/P1D</Value>
+             <Value>1983-12-27/1983-12-27/P1D</Value>
+             <Value>1983-12-29/1983-12-29/P1D</Value>
+             <Value>1983-12-31/1983-12-31/P1D</Value>
+             <Value>1984-01-02/1984-01-02/P1D</Value>
+             <Value>1984-01-04/1984-01-04/P1D</Value>
+             <Value>1984-01-06/1984-01-06/P1D</Value>
+             <Value>1984-01-08/1984-01-08/P1D</Value>
+             <Value>1984-01-10/1984-01-10/P1D</Value>
+             <Value>1984-01-12/1984-01-12/P1D</Value>
+             <Value>1984-01-14/1984-01-14/P1D</Value>
+             <Value>1984-01-16/1984-01-16/P1D</Value>
+             <Value>1984-01-18/1984-01-18/P1D</Value>
+             <Value>1984-01-20/1984-01-20/P1D</Value>
+             <Value>1984-01-22/1984-01-22/P1D</Value>
+             <Value>1984-01-24/1984-01-24/P1D</Value>
+             <Value>1984-01-26/1984-01-26/P1D</Value>
+             <Value>1984-01-28/1984-01-28/P1D</Value>
+             <Value>1984-01-30/1984-01-30/P1D</Value>
+             <Value>1984-02-01/1984-02-01/P1D</Value>
+             <Value>1984-02-03/1984-02-03/P1D</Value>
+             <Value>1984-02-05/1984-02-05/P1D</Value>
+             <Value>1984-02-07/1984-02-07/P1D</Value>
+             <Value>1984-02-09/1984-02-09/P1D</Value>
+             <Value>1984-02-11/1984-02-11/P1D</Value>
+             <Value>1984-02-13/1984-02-13/P1D</Value>
+             <Value>1984-02-15/1984-02-15/P1D</Value>
+             <Value>1984-02-17/1984-02-17/P1D</Value>
+             <Value>1984-02-19/1984-02-19/P1D</Value>
+             <Value>1984-02-21/1984-02-21/P1D</Value>
+             <Value>1984-02-23/1984-02-23/P1D</Value>
+             <Value>1984-02-25/1984-02-25/P1D</Value>
+             <Value>1984-02-27/1984-02-27/P1D</Value>
+             <Value>1984-02-29/1984-02-29/P1D</Value>
+             <Value>1984-03-02/1984-03-02/P1D</Value>
+             <Value>1984-03-04/1984-03-04/P1D</Value>
+             <Value>1984-03-06/1984-03-06/P1D</Value>
+             <Value>1984-03-08/1984-03-08/P1D</Value>
+             <Value>1984-03-10/1984-03-10/P1D</Value>
+             <Value>1984-03-12/1984-03-12/P1D</Value>
+             <Value>1984-03-14/1984-03-14/P1D</Value>
+             <Value>1984-03-16/1984-03-16/P1D</Value>
+             <Value>1984-03-18/1984-03-18/P1D</Value>
+             <Value>1984-03-20/1984-03-20/P1D</Value>
+             <Value>1984-03-22/1984-03-22/P1D</Value>
+             <Value>1984-03-24/1984-03-24/P1D</Value>
+             <Value>1984-03-26/1984-03-26/P1D</Value>
+             <Value>1984-03-28/1984-03-28/P1D</Value>
+             <Value>1984-03-30/1984-03-30/P1D</Value>
+             <Value>1984-04-01/1984-04-01/P1D</Value>
+             <Value>1984-04-03/1984-04-03/P1D</Value>
+             <Value>1984-04-05/1984-04-05/P1D</Value>
+             <Value>1984-04-07/1984-04-07/P1D</Value>
+             <Value>1984-04-09/1984-04-09/P1D</Value>
+             <Value>1984-04-11/1984-04-11/P1D</Value>
+             <Value>1984-04-13/1984-04-13/P1D</Value>
+             <Value>1984-04-15/1984-04-15/P1D</Value>
+             <Value>1984-04-17/1984-04-17/P1D</Value>
+             <Value>1984-04-19/1984-04-19/P1D</Value>
+             <Value>1984-04-21/1984-04-21/P1D</Value>
+             <Value>1984-04-23/1984-04-23/P1D</Value>
+             <Value>1984-04-25/1984-04-25/P1D</Value>
+             <Value>1984-04-27/1984-04-27/P1D</Value>
+             <Value>1984-04-29/1984-04-29/P1D</Value>
+             <Value>1984-05-01/1984-05-01/P1D</Value>
+             <Value>1984-05-03/1984-05-03/P1D</Value>
+             <Value>1984-05-05/1984-05-05/P1D</Value>
+             <Value>1984-05-07/1984-05-07/P1D</Value>
+             <Value>1984-05-09/1984-05-09/P1D</Value>
+             <Value>1984-05-11/1984-05-11/P1D</Value>
+             <Value>1984-05-13/1984-05-13/P1D</Value>
+             <Value>1984-05-15/1984-05-15/P1D</Value>
+             <Value>1984-05-17/1984-05-17/P1D</Value>
+             <Value>1984-05-19/1984-05-19/P1D</Value>
+             <Value>1984-05-21/1984-05-21/P1D</Value>
+             <Value>1984-05-23/1984-05-23/P1D</Value>
+             <Value>1984-05-25/1984-05-25/P1D</Value>
+             <Value>1984-05-27/1984-05-27/P1D</Value>
+             <Value>1984-05-29/1984-05-29/P1D</Value>
+             <Value>1984-05-31/1984-05-31/P1D</Value>
+             <Value>1984-06-02/1984-06-02/P1D</Value>
+             <Value>1984-06-04/1984-06-04/P1D</Value>
+             <Value>1984-06-06/1984-06-06/P1D</Value>
+             <Value>1984-06-08/1984-06-08/P1D</Value>
+             <Value>1984-06-10/1984-06-10/P1D</Value>
+             <Value>1984-06-12/1984-06-12/P1D</Value>
+             <Value>1984-06-14/1984-06-14/P1D</Value>
+             <Value>1984-06-16/1984-06-16/P1D</Value>
+             <Value>1984-06-18/1984-06-18/P1D</Value>
+             <Value>1984-06-20/1984-06-20/P1D</Value>
+             <Value>1984-06-22/1984-06-22/P1D</Value>
+             <Value>1984-06-24/1984-06-24/P1D</Value>
+             <Value>1984-06-26/1984-06-26/P1D</Value>
+             <Value>1984-06-28/1984-06-28/P1D</Value>
+             <Value>1984-06-30/1984-06-30/P1D</Value>
+             <Value>1984-07-02/1984-07-02/P1D</Value>
+             <Value>1984-07-04/1984-07-04/P1D</Value>
+             <Value>1984-07-06/1984-07-06/P1D</Value>
+             <Value>1984-07-08/1984-07-08/P1D</Value>
+             <Value>1984-07-10/1984-07-10/P1D</Value>
+             <Value>1984-07-12/1984-07-12/P1D</Value>
+             <Value>1984-07-14/1984-07-14/P1D</Value>
+             <Value>1984-07-16/1984-07-16/P1D</Value>
+             <Value>1984-07-18/1984-07-18/P1D</Value>
+             <Value>1984-07-20/1984-07-20/P1D</Value>
+             <Value>1984-07-22/1984-07-22/P1D</Value>
+             <Value>1984-07-24/1984-07-24/P1D</Value>
+             <Value>1984-07-26/1984-07-26/P1D</Value>
+             <Value>1984-07-28/1984-07-28/P1D</Value>
+             <Value>1984-07-30/1984-07-30/P1D</Value>
+             <Value>1984-08-01/1984-08-01/P1D</Value>
+             <Value>1984-08-03/1984-08-03/P1D</Value>
+             <Value>1984-08-05/1984-08-05/P1D</Value>
+             <Value>1984-08-07/1984-08-07/P1D</Value>
+             <Value>1984-08-09/1984-08-09/P1D</Value>
+             <Value>1984-08-11/1984-08-11/P1D</Value>
+             <Value>1984-08-13/1984-08-13/P1D</Value>
+             <Value>1984-08-15/1984-08-15/P1D</Value>
+             <Value>1984-08-17/1984-08-17/P1D</Value>
+             <Value>1984-08-19/1984-08-19/P1D</Value>
+             <Value>1984-08-21/1984-08-21/P1D</Value>
+             <Value>1984-08-23/1984-08-23/P1D</Value>
+             <Value>1984-08-25/1984-08-25/P1D</Value>
+             <Value>1984-08-27/1984-08-27/P1D</Value>
+             <Value>1984-08-29/1984-08-29/P1D</Value>
+             <Value>1984-08-31/1984-08-31/P1D</Value>
+             <Value>1984-09-02/1984-09-02/P1D</Value>
+             <Value>1984-09-04/1984-09-04/P1D</Value>
+             <Value>1984-09-06/1984-09-06/P1D</Value>
+             <Value>1984-09-08/1984-09-08/P1D</Value>
+             <Value>1984-09-10/1984-09-10/P1D</Value>
+             <Value>1984-09-12/1984-09-12/P1D</Value>
+             <Value>1984-09-14/1984-09-14/P1D</Value>
+             <Value>1984-09-16/1984-09-16/P1D</Value>
+             <Value>1984-09-18/1984-09-18/P1D</Value>
+             <Value>1984-09-20/1984-09-20/P1D</Value>
+             <Value>1984-09-22/1984-09-22/P1D</Value>
+             <Value>1984-09-24/1984-09-24/P1D</Value>
+             <Value>1984-09-26/1984-09-26/P1D</Value>
+             <Value>1984-09-28/1984-09-28/P1D</Value>
+             <Value>1984-09-30/1984-09-30/P1D</Value>
+             <Value>1984-10-02/1984-10-02/P1D</Value>
+             <Value>1984-10-04/1984-10-04/P1D</Value>
+             <Value>1984-10-06/1984-10-06/P1D</Value>
+             <Value>1984-10-08/1984-10-08/P1D</Value>
+             <Value>1984-10-10/1984-10-10/P1D</Value>
+             <Value>1984-10-12/1984-10-12/P1D</Value>
+             <Value>1984-10-14/1984-10-14/P1D</Value>
+             <Value>1984-10-16/1984-10-16/P1D</Value>
+             <Value>1984-10-18/1984-10-18/P1D</Value>
+             <Value>1984-10-20/1984-10-20/P1D</Value>
+             <Value>1984-10-22/1984-10-22/P1D</Value>
+             <Value>1984-10-24/1984-10-24/P1D</Value>
+             <Value>1984-10-26/1984-10-26/P1D</Value>
+             <Value>1984-10-28/1984-10-28/P1D</Value>
+             <Value>1984-10-30/1984-10-30/P1D</Value>
+             <Value>1984-11-01/1984-11-01/P1D</Value>
+             <Value>1984-11-03/1984-11-03/P1D</Value>
+             <Value>1984-11-05/1984-11-05/P1D</Value>
+             <Value>1984-11-07/1984-11-07/P1D</Value>
+             <Value>1984-11-09/1984-11-09/P1D</Value>
+             <Value>1984-11-11/1984-11-11/P1D</Value>
+             <Value>1984-11-13/1984-11-13/P1D</Value>
+             <Value>1984-11-15/1984-11-15/P1D</Value>
+             <Value>1984-11-17/1984-11-17/P1D</Value>
+             <Value>1984-11-19/1984-11-19/P1D</Value>
+             <Value>1984-11-21/1984-11-21/P1D</Value>
+             <Value>1984-11-23/1984-11-23/P1D</Value>
+             <Value>1984-11-25/1984-11-25/P1D</Value>
+             <Value>1984-11-27/1984-11-27/P1D</Value>
+             <Value>1984-11-29/1984-11-29/P1D</Value>
+             <Value>1984-12-01/1984-12-01/P1D</Value>
+             <Value>1984-12-03/1984-12-03/P1D</Value>
+             <Value>1984-12-05/1984-12-05/P1D</Value>
+             <Value>1984-12-07/1984-12-07/P1D</Value>
+             <Value>1984-12-09/1984-12-09/P1D</Value>
+             <Value>1984-12-11/1984-12-11/P1D</Value>
+             <Value>1984-12-13/1984-12-13/P1D</Value>
+             <Value>1984-12-15/1984-12-15/P1D</Value>
+             <Value>1984-12-17/1984-12-17/P1D</Value>
+             <Value>1984-12-19/1984-12-19/P1D</Value>
+             <Value>1984-12-21/1984-12-21/P1D</Value>
+             <Value>1984-12-23/1984-12-23/P1D</Value>
+             <Value>1984-12-25/1984-12-25/P1D</Value>
+             <Value>1984-12-27/1984-12-27/P1D</Value>
+             <Value>1984-12-29/1984-12-29/P1D</Value>
+             <Value>1984-12-31/1984-12-31/P1D</Value>
+             <Value>1985-01-02/1985-01-02/P1D</Value>
+             <Value>1985-01-04/1985-01-04/P1D</Value>
+             <Value>1985-01-06/1985-01-06/P1D</Value>
+             <Value>1985-01-08/1985-01-08/P1D</Value>
+             <Value>1985-01-10/1985-01-10/P1D</Value>
+             <Value>1985-01-12/1985-01-12/P1D</Value>
+             <Value>1985-01-14/1985-01-14/P1D</Value>
+             <Value>1985-01-16/1985-01-16/P1D</Value>
+             <Value>1985-01-18/1985-01-18/P1D</Value>
+             <Value>1985-01-20/1985-01-20/P1D</Value>
+             <Value>1985-01-22/1985-01-22/P1D</Value>
+             <Value>1985-01-24/1985-01-24/P1D</Value>
+             <Value>1985-01-26/1985-01-26/P1D</Value>
+             <Value>1985-01-28/1985-01-28/P1D</Value>
+             <Value>1985-01-30/1985-01-30/P1D</Value>
+             <Value>1985-02-01/1985-02-01/P1D</Value>
+             <Value>1985-02-03/1985-02-03/P1D</Value>
+             <Value>1985-02-05/1985-02-05/P1D</Value>
+             <Value>1985-02-07/1985-02-07/P1D</Value>
+             <Value>1985-02-09/1985-02-09/P1D</Value>
+             <Value>1985-02-11/1985-02-11/P1D</Value>
+             <Value>1985-02-13/1985-02-13/P1D</Value>
+             <Value>1985-02-15/1985-02-15/P1D</Value>
+             <Value>1985-02-17/1985-02-17/P1D</Value>
+             <Value>1985-02-19/1985-02-19/P1D</Value>
+             <Value>1985-02-21/1985-02-21/P1D</Value>
+             <Value>1985-02-23/1985-02-23/P1D</Value>
+             <Value>1985-02-25/1985-02-25/P1D</Value>
+             <Value>1985-02-27/1985-02-27/P1D</Value>
+             <Value>1985-03-01/1985-03-01/P1D</Value>
+             <Value>1985-03-03/1985-03-03/P1D</Value>
+             <Value>1985-03-05/1985-03-05/P1D</Value>
+             <Value>1985-03-07/1985-03-07/P1D</Value>
+             <Value>1985-03-09/1985-03-09/P1D</Value>
+             <Value>1985-03-11/1985-03-11/P1D</Value>
+             <Value>1985-03-13/1985-03-13/P1D</Value>
+             <Value>1985-03-15/1985-03-15/P1D</Value>
+             <Value>1985-03-17/1985-03-17/P1D</Value>
+             <Value>1985-03-19/1985-03-19/P1D</Value>
+             <Value>1985-03-21/1985-03-21/P1D</Value>
+             <Value>1985-03-23/1985-03-23/P1D</Value>
+             <Value>1985-03-25/1985-03-25/P1D</Value>
+             <Value>1985-03-27/1985-03-27/P1D</Value>
+             <Value>1985-03-29/1985-03-29/P1D</Value>
+             <Value>1985-03-31/1985-03-31/P1D</Value>
+             <Value>1985-04-02/1985-04-02/P1D</Value>
+             <Value>1985-04-04/1985-04-04/P1D</Value>
+             <Value>1985-04-06/1985-04-06/P1D</Value>
+             <Value>1985-04-08/1985-04-08/P1D</Value>
+             <Value>1985-04-10/1985-04-10/P1D</Value>
+             <Value>1985-04-12/1985-04-12/P1D</Value>
+             <Value>1985-04-14/1985-04-14/P1D</Value>
+             <Value>1985-04-16/1985-04-16/P1D</Value>
+             <Value>1985-04-18/1985-04-18/P1D</Value>
+             <Value>1985-04-20/1985-04-20/P1D</Value>
+             <Value>1985-04-22/1985-04-22/P1D</Value>
+             <Value>1985-04-24/1985-04-24/P1D</Value>
+             <Value>1985-04-26/1985-04-26/P1D</Value>
+             <Value>1985-04-28/1985-04-28/P1D</Value>
+             <Value>1985-04-30/1985-04-30/P1D</Value>
+             <Value>1985-05-02/1985-05-02/P1D</Value>
+             <Value>1985-05-04/1985-05-04/P1D</Value>
+             <Value>1985-05-06/1985-05-06/P1D</Value>
+             <Value>1985-05-08/1985-05-08/P1D</Value>
+             <Value>1985-05-10/1985-05-10/P1D</Value>
+             <Value>1985-05-12/1985-05-12/P1D</Value>
+             <Value>1985-05-14/1985-05-14/P1D</Value>
+             <Value>1985-05-16/1985-05-16/P1D</Value>
+             <Value>1985-05-18/1985-05-18/P1D</Value>
+             <Value>1985-05-20/1985-05-20/P1D</Value>
+             <Value>1985-05-22/1985-05-22/P1D</Value>
+             <Value>1985-05-24/1985-05-24/P1D</Value>
+             <Value>1985-05-26/1985-05-26/P1D</Value>
+             <Value>1985-05-28/1985-05-28/P1D</Value>
+             <Value>1985-05-30/1985-05-30/P1D</Value>
+             <Value>1985-06-01/1985-06-01/P1D</Value>
+             <Value>1985-06-03/1985-06-03/P1D</Value>
+             <Value>1985-06-05/1985-06-05/P1D</Value>
+             <Value>1985-06-07/1985-06-07/P1D</Value>
+             <Value>1985-06-09/1985-06-09/P1D</Value>
+             <Value>1985-06-11/1985-06-11/P1D</Value>
+             <Value>1985-06-13/1985-06-13/P1D</Value>
+             <Value>1985-06-15/1985-06-15/P1D</Value>
+             <Value>1985-06-17/1985-06-17/P1D</Value>
+             <Value>1985-06-19/1985-06-19/P1D</Value>
+             <Value>1985-06-21/1985-06-21/P1D</Value>
+             <Value>1985-06-23/1985-06-23/P1D</Value>
+             <Value>1985-06-25/1985-06-25/P1D</Value>
+             <Value>1985-06-27/1985-06-27/P1D</Value>
+             <Value>1985-06-29/1985-06-29/P1D</Value>
+             <Value>1985-07-01/1985-07-01/P1D</Value>
+             <Value>1985-07-03/1985-07-03/P1D</Value>
+             <Value>1985-07-05/1985-07-05/P1D</Value>
+             <Value>1985-07-07/1985-07-07/P1D</Value>
+             <Value>1985-07-09/1985-07-09/P1D</Value>
+             <Value>1985-07-11/1985-07-11/P1D</Value>
+             <Value>1985-07-13/1985-07-13/P1D</Value>
+             <Value>1985-07-15/1985-07-15/P1D</Value>
+             <Value>1985-07-17/1985-07-17/P1D</Value>
+             <Value>1985-07-19/1985-07-19/P1D</Value>
+             <Value>1985-07-21/1985-07-21/P1D</Value>
+             <Value>1985-07-23/1985-07-23/P1D</Value>
+             <Value>1985-07-25/1985-07-25/P1D</Value>
+             <Value>1985-07-27/1985-07-27/P1D</Value>
+             <Value>1985-07-29/1985-07-29/P1D</Value>
+             <Value>1985-07-31/1985-07-31/P1D</Value>
+             <Value>1985-08-02/1985-08-02/P1D</Value>
+             <Value>1985-08-04/1985-08-04/P1D</Value>
+             <Value>1985-08-06/1985-08-06/P1D</Value>
+             <Value>1985-08-08/1985-08-08/P1D</Value>
+             <Value>1985-08-10/1985-08-10/P1D</Value>
+             <Value>1985-08-12/1985-08-12/P1D</Value>
+             <Value>1985-08-14/1985-08-14/P1D</Value>
+             <Value>1985-08-16/1985-08-16/P1D</Value>
+             <Value>1985-08-18/1985-08-18/P1D</Value>
+             <Value>1985-08-20/1985-08-20/P1D</Value>
+             <Value>1985-08-22/1985-08-22/P1D</Value>
+             <Value>1985-08-24/1985-08-24/P1D</Value>
+             <Value>1985-08-26/1985-08-26/P1D</Value>
+             <Value>1985-08-28/1985-08-28/P1D</Value>
+             <Value>1985-08-30/1985-08-30/P1D</Value>
+             <Value>1985-09-01/1985-09-01/P1D</Value>
+             <Value>1985-09-03/1985-09-03/P1D</Value>
+             <Value>1985-09-05/1985-09-05/P1D</Value>
+             <Value>1985-09-07/1985-09-07/P1D</Value>
+             <Value>1985-09-09/1985-09-09/P1D</Value>
+             <Value>1985-09-11/1985-09-11/P1D</Value>
+             <Value>1985-09-13/1985-09-13/P1D</Value>
+             <Value>1985-09-15/1985-09-15/P1D</Value>
+             <Value>1985-09-17/1985-09-17/P1D</Value>
+             <Value>1985-09-19/1985-09-19/P1D</Value>
+             <Value>1985-09-21/1985-09-21/P1D</Value>
+             <Value>1985-09-23/1985-09-23/P1D</Value>
+             <Value>1985-09-25/1985-09-25/P1D</Value>
+             <Value>1985-09-27/1985-09-27/P1D</Value>
+             <Value>1985-09-29/1985-09-29/P1D</Value>
+             <Value>1985-10-01/1985-10-01/P1D</Value>
+             <Value>1985-10-03/1985-10-03/P1D</Value>
+             <Value>1985-10-05/1985-10-05/P1D</Value>
+             <Value>1985-10-07/1985-10-07/P1D</Value>
+             <Value>1985-10-09/1985-10-09/P1D</Value>
+             <Value>1985-10-11/1985-10-11/P1D</Value>
+             <Value>1985-10-13/1985-10-13/P1D</Value>
+             <Value>1985-10-15/1985-10-15/P1D</Value>
+             <Value>1985-10-17/1985-10-17/P1D</Value>
+             <Value>1985-10-19/1985-10-19/P1D</Value>
+             <Value>1985-10-21/1985-10-21/P1D</Value>
+             <Value>1985-10-23/1985-10-23/P1D</Value>
+             <Value>1985-10-25/1985-10-25/P1D</Value>
+             <Value>1985-10-27/1985-10-27/P1D</Value>
+             <Value>1985-10-29/1985-10-29/P1D</Value>
+             <Value>1985-10-31/1985-10-31/P1D</Value>
+             <Value>1985-11-02/1985-11-02/P1D</Value>
+             <Value>1985-11-04/1985-11-04/P1D</Value>
+             <Value>1985-11-06/1985-11-06/P1D</Value>
+             <Value>1985-11-08/1985-11-08/P1D</Value>
+             <Value>1985-11-10/1985-11-10/P1D</Value>
+             <Value>1985-11-12/1985-11-12/P1D</Value>
+             <Value>1985-11-14/1985-11-14/P1D</Value>
+             <Value>1985-11-16/1985-11-16/P1D</Value>
+             <Value>1985-11-18/1985-11-18/P1D</Value>
+             <Value>1985-11-20/1985-11-20/P1D</Value>
+             <Value>1985-11-22/1985-11-22/P1D</Value>
+             <Value>1985-11-24/1985-11-24/P1D</Value>
+             <Value>1985-11-26/1985-11-26/P1D</Value>
+             <Value>1985-11-28/1985-11-28/P1D</Value>
+             <Value>1985-11-30/1985-11-30/P1D</Value>
+             <Value>1985-12-02/1985-12-02/P1D</Value>
+             <Value>1985-12-04/1985-12-04/P1D</Value>
+             <Value>1985-12-06/1985-12-06/P1D</Value>
+             <Value>1985-12-08/1985-12-08/P1D</Value>
+             <Value>1985-12-10/1985-12-10/P1D</Value>
+             <Value>1985-12-12/1985-12-12/P1D</Value>
+             <Value>1985-12-14/1985-12-14/P1D</Value>
+             <Value>1985-12-16/1985-12-16/P1D</Value>
+             <Value>1985-12-18/1985-12-18/P1D</Value>
+             <Value>1985-12-20/1985-12-20/P1D</Value>
+             <Value>1985-12-22/1985-12-22/P1D</Value>
+             <Value>1985-12-24/1985-12-24/P1D</Value>
+             <Value>1985-12-26/1985-12-26/P1D</Value>
+             <Value>1985-12-28/1985-12-28/P1D</Value>
+             <Value>1985-12-30/1985-12-30/P1D</Value>
+             <Value>1986-01-01/1986-01-01/P1D</Value>
+             <Value>1986-01-03/1986-01-03/P1D</Value>
+             <Value>1986-01-05/1986-01-05/P1D</Value>
+             <Value>1986-01-07/1986-01-07/P1D</Value>
+             <Value>1986-01-09/1986-01-09/P1D</Value>
+             <Value>1986-01-11/1986-01-11/P1D</Value>
+             <Value>1986-01-13/1986-01-13/P1D</Value>
+             <Value>1986-01-15/1986-01-15/P1D</Value>
+             <Value>1986-01-17/1986-01-17/P1D</Value>
+             <Value>1986-01-19/1986-01-19/P1D</Value>
+             <Value>1986-01-21/1986-01-21/P1D</Value>
+             <Value>1986-01-23/1986-01-23/P1D</Value>
+             <Value>1986-01-25/1986-01-25/P1D</Value>
+             <Value>1986-01-27/1986-01-27/P1D</Value>
+             <Value>1986-01-29/1986-01-29/P1D</Value>
+             <Value>1986-01-31/1986-01-31/P1D</Value>
+             <Value>1986-02-02/1986-02-02/P1D</Value>
+             <Value>1986-02-04/1986-02-04/P1D</Value>
+             <Value>1986-02-06/1986-02-06/P1D</Value>
+             <Value>1986-02-08/1986-02-08/P1D</Value>
+             <Value>1986-02-10/1986-02-10/P1D</Value>
+             <Value>1986-02-12/1986-02-12/P1D</Value>
+             <Value>1986-02-14/1986-02-14/P1D</Value>
+             <Value>1986-02-16/1986-02-16/P1D</Value>
+             <Value>1986-02-18/1986-02-18/P1D</Value>
+             <Value>1986-02-20/1986-02-20/P1D</Value>
+             <Value>1986-02-22/1986-02-22/P1D</Value>
+             <Value>1986-02-24/1986-02-24/P1D</Value>
+             <Value>1986-02-26/1986-02-26/P1D</Value>
+             <Value>1986-02-28/1986-02-28/P1D</Value>
+             <Value>1986-03-02/1986-03-02/P1D</Value>
+             <Value>1986-03-04/1986-03-04/P1D</Value>
+             <Value>1986-03-06/1986-03-06/P1D</Value>
+             <Value>1986-03-08/1986-03-08/P1D</Value>
+             <Value>1986-03-10/1986-03-10/P1D</Value>
+             <Value>1986-03-12/1986-03-12/P1D</Value>
+             <Value>1986-03-14/1986-03-14/P1D</Value>
+             <Value>1986-03-16/1986-03-16/P1D</Value>
+             <Value>1986-03-18/1986-03-18/P1D</Value>
+             <Value>1986-03-20/1986-03-20/P1D</Value>
+             <Value>1986-03-22/1986-03-22/P1D</Value>
+             <Value>1986-03-24/1986-03-24/P1D</Value>
+             <Value>1986-03-26/1986-03-26/P1D</Value>
+             <Value>1986-03-28/1986-03-28/P1D</Value>
+             <Value>1986-03-30/1986-03-30/P1D</Value>
+             <Value>1986-04-01/1986-04-01/P1D</Value>
+             <Value>1986-04-03/1986-04-03/P1D</Value>
+             <Value>1986-04-05/1986-04-05/P1D</Value>
+             <Value>1986-04-07/1986-04-07/P1D</Value>
+             <Value>1986-04-09/1986-04-09/P1D</Value>
+             <Value>1986-04-11/1986-04-11/P1D</Value>
+             <Value>1986-04-13/1986-04-13/P1D</Value>
+             <Value>1986-04-15/1986-04-15/P1D</Value>
+             <Value>1986-04-17/1986-04-17/P1D</Value>
+             <Value>1986-04-19/1986-04-19/P1D</Value>
+             <Value>1986-04-21/1986-04-21/P1D</Value>
+             <Value>1986-04-23/1986-04-23/P1D</Value>
+             <Value>1986-04-25/1986-04-25/P1D</Value>
+             <Value>1986-04-27/1986-04-27/P1D</Value>
+             <Value>1986-04-29/1986-04-29/P1D</Value>
+             <Value>1986-05-01/1986-05-01/P1D</Value>
+             <Value>1986-05-03/1986-05-03/P1D</Value>
+             <Value>1986-05-05/1986-05-05/P1D</Value>
+             <Value>1986-05-07/1986-05-07/P1D</Value>
+             <Value>1986-05-09/1986-05-09/P1D</Value>
+             <Value>1986-05-11/1986-05-11/P1D</Value>
+             <Value>1986-05-13/1986-05-13/P1D</Value>
+             <Value>1986-05-15/1986-05-15/P1D</Value>
+             <Value>1986-05-17/1986-05-17/P1D</Value>
+             <Value>1986-05-19/1986-05-19/P1D</Value>
+             <Value>1986-05-21/1986-05-21/P1D</Value>
+             <Value>1986-05-23/1986-05-23/P1D</Value>
+             <Value>1986-05-25/1986-05-25/P1D</Value>
+             <Value>1986-05-27/1986-05-27/P1D</Value>
+             <Value>1986-05-29/1986-05-29/P1D</Value>
+             <Value>1986-05-31/1986-05-31/P1D</Value>
+             <Value>1986-06-02/1986-06-02/P1D</Value>
+             <Value>1986-06-04/1986-06-04/P1D</Value>
+             <Value>1986-06-06/1986-06-06/P1D</Value>
+             <Value>1986-06-08/1986-06-08/P1D</Value>
+             <Value>1986-06-10/1986-06-10/P1D</Value>
+             <Value>1986-06-12/1986-06-12/P1D</Value>
+             <Value>1986-06-14/1986-06-14/P1D</Value>
+             <Value>1986-06-16/1986-06-16/P1D</Value>
+             <Value>1986-06-18/1986-06-18/P1D</Value>
+             <Value>1986-06-20/1986-06-20/P1D</Value>
+             <Value>1986-06-22/1986-06-22/P1D</Value>
+             <Value>1986-06-24/1986-06-24/P1D</Value>
+             <Value>1986-06-26/1986-06-26/P1D</Value>
+             <Value>1986-06-28/1986-06-28/P1D</Value>
+             <Value>1986-06-30/1986-06-30/P1D</Value>
+             <Value>1986-07-02/1986-07-02/P1D</Value>
+             <Value>1986-07-04/1986-07-04/P1D</Value>
+             <Value>1986-07-06/1986-07-06/P1D</Value>
+             <Value>1986-07-08/1986-07-08/P1D</Value>
+             <Value>1986-07-10/1986-07-10/P1D</Value>
+             <Value>1986-07-12/1986-07-12/P1D</Value>
+             <Value>1986-07-14/1986-07-14/P1D</Value>
+             <Value>1986-07-16/1986-07-16/P1D</Value>
+             <Value>1986-07-18/1986-07-18/P1D</Value>
+             <Value>1986-07-20/1986-07-20/P1D</Value>
+             <Value>1986-07-22/1986-07-22/P1D</Value>
+             <Value>1986-07-24/1986-07-24/P1D</Value>
+             <Value>1986-07-26/1986-07-26/P1D</Value>
+             <Value>1986-07-28/1986-07-28/P1D</Value>
+             <Value>1986-07-30/1986-07-30/P1D</Value>
+             <Value>1986-08-01/1986-08-01/P1D</Value>
+             <Value>1986-08-03/1986-08-03/P1D</Value>
+             <Value>1986-08-05/1986-08-05/P1D</Value>
+             <Value>1986-08-07/1986-08-07/P1D</Value>
+             <Value>1986-08-09/1986-08-09/P1D</Value>
+             <Value>1986-08-11/1986-08-11/P1D</Value>
+             <Value>1986-08-13/1986-08-13/P1D</Value>
+             <Value>1986-08-15/1986-08-15/P1D</Value>
+             <Value>1986-08-17/1986-08-17/P1D</Value>
+             <Value>1986-08-19/1986-08-19/P1D</Value>
+             <Value>1986-08-21/1986-08-21/P1D</Value>
+             <Value>1986-08-23/1986-08-23/P1D</Value>
+             <Value>1986-08-25/1986-08-25/P1D</Value>
+             <Value>1986-08-27/1986-08-27/P1D</Value>
+             <Value>1986-08-29/1986-08-29/P1D</Value>
+             <Value>1986-08-31/1986-08-31/P1D</Value>
+             <Value>1986-09-02/1986-09-02/P1D</Value>
+             <Value>1986-09-04/1986-09-04/P1D</Value>
+             <Value>1986-09-06/1986-09-06/P1D</Value>
+             <Value>1986-09-08/1986-09-08/P1D</Value>
+             <Value>1986-09-10/1986-09-10/P1D</Value>
+             <Value>1986-09-12/1986-09-12/P1D</Value>
+             <Value>1986-09-14/1986-09-14/P1D</Value>
+             <Value>1986-09-16/1986-09-16/P1D</Value>
+             <Value>1986-09-18/1986-09-18/P1D</Value>
+             <Value>1986-09-20/1986-09-20/P1D</Value>
+             <Value>1986-09-22/1986-09-22/P1D</Value>
+             <Value>1986-09-24/1986-09-24/P1D</Value>
+             <Value>1986-09-26/1986-09-26/P1D</Value>
+             <Value>1986-09-28/1986-09-28/P1D</Value>
+             <Value>1986-09-30/1986-09-30/P1D</Value>
+             <Value>1986-10-02/1986-10-02/P1D</Value>
+             <Value>1986-10-04/1986-10-04/P1D</Value>
+             <Value>1986-10-06/1986-10-06/P1D</Value>
+             <Value>1986-10-08/1986-10-08/P1D</Value>
+             <Value>1986-10-10/1986-10-10/P1D</Value>
+             <Value>1986-10-12/1986-10-12/P1D</Value>
+             <Value>1986-10-14/1986-10-14/P1D</Value>
+             <Value>1986-10-16/1986-10-16/P1D</Value>
+             <Value>1986-10-18/1986-10-18/P1D</Value>
+             <Value>1986-10-20/1986-10-20/P1D</Value>
+             <Value>1986-10-22/1986-10-22/P1D</Value>
+             <Value>1986-10-24/1986-10-24/P1D</Value>
+             <Value>1986-10-26/1986-10-26/P1D</Value>
+             <Value>1986-10-28/1986-10-28/P1D</Value>
+             <Value>1986-10-30/1986-10-30/P1D</Value>
+             <Value>1986-11-01/1986-11-01/P1D</Value>
+             <Value>1986-11-03/1986-11-03/P1D</Value>
+             <Value>1986-11-05/1986-11-05/P1D</Value>
+             <Value>1986-11-07/1986-11-07/P1D</Value>
+             <Value>1986-11-09/1986-11-09/P1D</Value>
+             <Value>1986-11-11/1986-11-11/P1D</Value>
+             <Value>1986-11-13/1986-11-13/P1D</Value>
+             <Value>1986-11-15/1986-11-15/P1D</Value>
+             <Value>1986-11-17/1986-11-17/P1D</Value>
+             <Value>1986-11-19/1986-11-19/P1D</Value>
+             <Value>1986-11-21/1986-11-21/P1D</Value>
+             <Value>1986-11-23/1986-11-23/P1D</Value>
+             <Value>1986-11-25/1986-11-25/P1D</Value>
+             <Value>1986-11-27/1986-11-27/P1D</Value>
+             <Value>1986-11-29/1986-11-29/P1D</Value>
+             <Value>1986-12-01/1986-12-01/P1D</Value>
+             <Value>1986-12-03/1986-12-03/P1D</Value>
+             <Value>1986-12-05/1986-12-05/P1D</Value>
+             <Value>1986-12-07/1986-12-07/P1D</Value>
+             <Value>1986-12-09/1986-12-09/P1D</Value>
+             <Value>1986-12-11/1986-12-11/P1D</Value>
+             <Value>1986-12-13/1986-12-13/P1D</Value>
+             <Value>1986-12-15/1986-12-15/P1D</Value>
+             <Value>1986-12-17/1986-12-17/P1D</Value>
+             <Value>1986-12-19/1986-12-19/P1D</Value>
+             <Value>1986-12-21/1986-12-21/P1D</Value>
+             <Value>1986-12-23/1986-12-23/P1D</Value>
+             <Value>1986-12-25/1986-12-25/P1D</Value>
+             <Value>1986-12-27/1986-12-27/P1D</Value>
+             <Value>1986-12-29/1986-12-29/P1D</Value>
+             <Value>1986-12-31/1986-12-31/P1D</Value>
+             <Value>1987-01-02/1987-01-02/P1D</Value>
+             <Value>1987-01-04/1987-01-04/P1D</Value>
+             <Value>1987-01-06/1987-01-06/P1D</Value>
+             <Value>1987-01-08/1987-01-08/P1D</Value>
+             <Value>1987-01-10/1987-01-10/P1D</Value>
+             <Value>1987-01-12/1987-01-12/P1D</Value>
+             <Value>1987-01-14/1987-01-14/P1D</Value>
+             <Value>1987-01-16/1987-01-16/P1D</Value>
+             <Value>1987-01-18/1987-01-18/P1D</Value>
+             <Value>1987-01-20/1987-01-20/P1D</Value>
+             <Value>1987-01-22/1987-01-22/P1D</Value>
+             <Value>1987-01-24/1987-01-24/P1D</Value>
+             <Value>1987-01-26/1987-01-26/P1D</Value>
+             <Value>1987-01-28/1987-01-28/P1D</Value>
+             <Value>1987-01-30/1987-01-30/P1D</Value>
+             <Value>1987-02-01/1987-02-01/P1D</Value>
+             <Value>1987-02-03/1987-02-03/P1D</Value>
+             <Value>1987-02-05/1987-02-05/P1D</Value>
+             <Value>1987-02-07/1987-02-07/P1D</Value>
+             <Value>1987-02-09/1987-02-09/P1D</Value>
+             <Value>1987-02-11/1987-02-11/P1D</Value>
+             <Value>1987-02-13/1987-02-13/P1D</Value>
+             <Value>1987-02-15/1987-02-15/P1D</Value>
+             <Value>1987-02-17/1987-02-17/P1D</Value>
+             <Value>1987-02-19/1987-02-19/P1D</Value>
+             <Value>1987-02-21/1987-02-21/P1D</Value>
+             <Value>1987-02-23/1987-02-23/P1D</Value>
+             <Value>1987-02-25/1987-02-25/P1D</Value>
+             <Value>1987-02-27/1987-02-27/P1D</Value>
+             <Value>1987-03-01/1987-03-01/P1D</Value>
+             <Value>1987-03-03/1987-03-03/P1D</Value>
+             <Value>1987-03-05/1987-03-05/P1D</Value>
+             <Value>1987-03-07/1987-03-07/P1D</Value>
+             <Value>1987-03-09/1987-03-09/P1D</Value>
+             <Value>1987-03-11/1987-03-11/P1D</Value>
+             <Value>1987-03-13/1987-03-13/P1D</Value>
+             <Value>1987-03-15/1987-03-15/P1D</Value>
+             <Value>1987-03-17/1987-03-17/P1D</Value>
+             <Value>1987-03-19/1987-03-19/P1D</Value>
+             <Value>1987-03-21/1987-03-21/P1D</Value>
+             <Value>1987-03-23/1987-03-23/P1D</Value>
+             <Value>1987-03-25/1987-03-25/P1D</Value>
+             <Value>1987-03-27/1987-03-27/P1D</Value>
+             <Value>1987-03-29/1987-03-29/P1D</Value>
+             <Value>1987-03-31/1987-03-31/P1D</Value>
+             <Value>1987-04-02/1987-04-02/P1D</Value>
+             <Value>1987-04-04/1987-04-04/P1D</Value>
+             <Value>1987-04-06/1987-04-06/P1D</Value>
+             <Value>1987-04-08/1987-04-08/P1D</Value>
+             <Value>1987-04-10/1987-04-10/P1D</Value>
+             <Value>1987-04-12/1987-04-12/P1D</Value>
+             <Value>1987-04-14/1987-04-14/P1D</Value>
+             <Value>1987-04-16/1987-04-16/P1D</Value>
+             <Value>1987-04-18/1987-04-18/P1D</Value>
+             <Value>1987-04-20/1987-04-20/P1D</Value>
+             <Value>1987-04-22/1987-04-22/P1D</Value>
+             <Value>1987-04-24/1987-04-24/P1D</Value>
+             <Value>1987-04-26/1987-04-26/P1D</Value>
+             <Value>1987-04-28/1987-04-28/P1D</Value>
+             <Value>1987-04-30/1987-04-30/P1D</Value>
+             <Value>1987-05-02/1987-05-02/P1D</Value>
+             <Value>1987-05-04/1987-05-04/P1D</Value>
+             <Value>1987-05-06/1987-05-06/P1D</Value>
+             <Value>1987-05-08/1987-05-08/P1D</Value>
+             <Value>1987-05-10/1987-05-10/P1D</Value>
+             <Value>1987-05-12/1987-05-12/P1D</Value>
+             <Value>1987-05-14/1987-05-14/P1D</Value>
+             <Value>1987-05-16/1987-05-16/P1D</Value>
+             <Value>1987-05-18/1987-05-18/P1D</Value>
+             <Value>1987-05-20/1987-05-20/P1D</Value>
+             <Value>1987-05-22/1987-05-22/P1D</Value>
+             <Value>1987-05-24/1987-05-24/P1D</Value>
+             <Value>1987-05-26/1987-05-26/P1D</Value>
+             <Value>1987-05-28/1987-05-28/P1D</Value>
+             <Value>1987-05-30/1987-05-30/P1D</Value>
+             <Value>1987-06-01/1987-06-01/P1D</Value>
+             <Value>1987-06-03/1987-06-03/P1D</Value>
+             <Value>1987-06-05/1987-06-05/P1D</Value>
+             <Value>1987-06-07/1987-06-07/P1D</Value>
+             <Value>1987-06-09/1987-06-09/P1D</Value>
+             <Value>1987-06-11/1987-06-11/P1D</Value>
+             <Value>1987-06-13/1987-06-13/P1D</Value>
+             <Value>1987-06-15/1987-06-15/P1D</Value>
+             <Value>1987-06-17/1987-06-17/P1D</Value>
+             <Value>1987-06-19/1987-06-19/P1D</Value>
+             <Value>1987-06-21/1987-06-21/P1D</Value>
+             <Value>1987-06-23/1987-06-23/P1D</Value>
+             <Value>1987-06-25/1987-06-25/P1D</Value>
+             <Value>1987-06-27/1987-06-27/P1D</Value>
+             <Value>1987-06-29/1987-06-29/P1D</Value>
+             <Value>1987-07-01/1987-07-01/P1D</Value>
+             <Value>1987-07-03/1987-07-03/P1D</Value>
+             <Value>1987-07-05/1987-07-05/P1D</Value>
+             <Value>1987-07-07/1987-07-07/P1D</Value>
+             <Value>1987-07-09/1987-07-09/P1D</Value>
+             <Value>1987-07-11/1987-07-11/P1D</Value>
+             <Value>1987-07-13/1987-07-13/P1D</Value>
+             <Value>1987-07-15/1987-07-15/P1D</Value>
+             <Value>1987-07-17/1987-07-17/P1D</Value>
+             <Value>1987-07-19/1987-07-19/P1D</Value>
+             <Value>1987-07-21/1987-07-21/P1D</Value>
+             <Value>1987-07-23/1987-07-23/P1D</Value>
+             <Value>1987-07-25/1987-07-25/P1D</Value>
+             <Value>1987-07-27/1987-07-27/P1D</Value>
+             <Value>1987-07-29/1987-07-29/P1D</Value>
+             <Value>1987-07-31/1987-07-31/P1D</Value>
+             <Value>1987-08-02/1987-08-02/P1D</Value>
+             <Value>1987-08-04/1987-08-04/P1D</Value>
+             <Value>1987-08-06/1987-08-06/P1D</Value>
+             <Value>1987-08-08/1987-08-08/P1D</Value>
+             <Value>1987-08-10/1987-08-10/P1D</Value>
+             <Value>1987-08-12/1987-08-12/P1D</Value>
+             <Value>1987-08-14/1987-08-14/P1D</Value>
+             <Value>1987-08-16/1987-08-16/P1D</Value>
+             <Value>1987-08-18/1987-08-18/P1D</Value>
+             <Value>1987-08-20/1987-12-02/P1D</Value>
+             <Value>1988-01-13/2015-05-31/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SSM_Sea_Ice_Concentrations/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/SSM_Sea_Ice_Concentrations/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, VIIRS, SNPP)</ows:Title>
@@ -1429,23 +2916,15 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2015-12-06/2015-12-07/P1D</Value>
-             <Value>2015-12-09/2015-12-10/P1D</Value>
-             <Value>2016-02-26/2016-02-26/P1D</Value>
-             <Value>2016-03-02/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-04-21/2016-04-25/P1D</Value>
-             <Value>2016-05-01/2016-05-24/P1D</Value>
-             <Value>2016-05-30/2016-06-01/P1D</Value>
-             <Value>2016-06-04/2016-08-02/P1D</Value>
+             <Value>2015-12-16/2016-01-07/P1D</Value>
+             <Value>2016-06-21/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (M11-I2-I1, VIIRS, SNPP)</ows:Title>
@@ -1468,22 +2947,15 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2015-12-06/2015-12-07/P1D</Value>
-             <Value>2015-12-09/2015-12-10/P1D</Value>
-             <Value>2016-03-03/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-04-21/2016-04-25/P1D</Value>
-             <Value>2016-05-01/2016-05-24/P1D</Value>
-             <Value>2016-05-30/2016-06-01/P1D</Value>
-             <Value>2016-06-04/2016-08-02/P1D</Value>
+             <Value>2015-12-16/2016-01-07/P1D</Value>
+             <Value>2016-06-21/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (M3-I3-M11, VIIRS, SNPP)</ows:Title>
@@ -1506,22 +2978,15 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-02</Default>
+             <Default>2016-08-11</Default>
              <Current>false</Current>
-             <Value>2015-11-30/2015-11-30/P1D</Value>
-             <Value>2015-12-06/2015-12-07/P1D</Value>
-             <Value>2015-12-09/2015-12-10/P1D</Value>
-             <Value>2016-03-02/2016-04-07/P1D</Value>
-             <Value>2016-04-11/2016-04-16/P1D</Value>
-             <Value>2016-04-21/2016-04-25/P1D</Value>
-             <Value>2016-05-01/2016-05-24/P1D</Value>
-             <Value>2016-05-30/2016-06-01/P1D</Value>
-             <Value>2016-06-04/2016-08-02/P1D</Value>
+             <Value>2015-12-16/2016-01-07/P1D</Value>
+             <Value>2016-06-21/2016-08-11/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
   <TileMatrixSet>
       <ows:Identifier>1km</ows:Identifier>
@@ -1720,5 +3185,5 @@
       </TileMatrix>
     </TileMatrixSet>
     </Contents>
-    <ServiceMetadataURL xlink:href="http://sit.gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml"/>
+    <ServiceMetadataURL xlink:href="https://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml"/>
 </Capabilities>
