@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Effective_Radius_PCL": {
+            "id":       "MODIS_Aqua_Cloud_Effective_Radius_PCL",
+            "title":    "Cloud Effective Radius (PCL)",
+            "subtitle": "Aqua/MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }

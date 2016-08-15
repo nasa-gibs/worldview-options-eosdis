@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap units="persons/sq km">
-    <ColorMapEntry rgb="254,255,118" transparent="false" label="1 - 5 persons/sq km"/>
-    <ColorMapEntry rgb="252,223,80" transparent="false" label="5.1 - 25 persons/sq km"/>
-    <ColorMapEntry rgb="247,188,43" transparent="false" label="25.1 - 50 persons/sq km"/>
-    <ColorMapEntry rgb="214,134,6" transparent="false" label="50.1 - 100 persons/sq km"/>
-    <ColorMapEntry rgb="158,68,0" transparent="false" label="100.1 - 250 persons/sq km"/>
-    <ColorMapEntry rgb="107,4,0" transparent="false" label="250+ persons/sq km"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Population Density">
+    <Entries>
+      <ColorMapEntry rgb="254,255,118" transparent="false" label="1 - 5 persons/sq km" ref="1"/>
+      <ColorMapEntry rgb="252,223,80" transparent="false" label="5.1 - 25 persons/sq km" ref="2"/>
+      <ColorMapEntry rgb="247,188,43" transparent="false" label="25.1 - 50 persons/sq km" ref="3"/>
+      <ColorMapEntry rgb="214,134,6" transparent="false" label="50.1 - 100 persons/sq km" ref="4"/>
+      <ColorMapEntry rgb="158,68,0" transparent="false" label="100.1 - 250 persons/sq km" ref="5"/>
+      <ColorMapEntry rgb="107,4,0" transparent="false" label="250+ persons/sq km" ref="6"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="254,255,118" label="1 - 5 persons/sq km" id="1" showLabel="true"/>
+      <LegendEntry rgb="252,223,80" label="5.1 - 25 persons/sq km" id="2" showLabel="true"/>
+      <LegendEntry rgb="247,188,43" label="25.1 - 50 persons/sq km" id="3" showLabel="true"/>
+      <LegendEntry rgb="214,134,6" label="50.1 - 100 persons/sq km" id="4" showLabel="true"/>
+      <LegendEntry rgb="158,68,0" label="100.1 - 250 persons/sq km" id="5" showLabel="true"/>
+      <LegendEntry rgb="107,4,0" label="250+ persons/sq km" id="6" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-    <ColorMapEntry rgb="227,74,51" transparent="false" label="10th - 8th"/>
-    <ColorMapEntry rgb="253,187,132" transparent="false" label="7th - 5th"/>
-    <ColorMapEntry rgb="254,232,200" transparent="false" label="4th - 1st"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Cyclone Hazard Mortality Risks">
+    <Entries>
+      <ColorMapEntry rgb="227,74,51" transparent="false" label="10th - 8th" ref="1"/>
+      <ColorMapEntry rgb="253,187,132" transparent="false" label="7th - 5th" ref="2"/>
+      <ColorMapEntry rgb="254,232,200" transparent="false" label="4th - 1st" ref="3"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="227,74,51" label="10th - 8th" id="1" showLabel="true"/>
+      <LegendEntry rgb="253,187,132" label="7th - 5th" id="2" showLabel="true"/>
+      <LegendEntry rgb="254,232,200" label="4th - 1st" id="3" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

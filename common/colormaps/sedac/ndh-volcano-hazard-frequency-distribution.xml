@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-    <ColorMapEntry rgb="255,255,178" transparent="false" label="1 - 10"/>
-    <ColorMapEntry rgb="254,204,92" transparent="false" label="11 - 30"/>
-    <ColorMapEntry rgb="253,141,60" transparent="false" label="31 - 60"/>
-    <ColorMapEntry rgb="227,26,28" transparent="false" label="61 - 130"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Volcano Hazard Frequency and Distribution">
+    <Entries>
+      <ColorMapEntry rgb="255,255,178" transparent="false" label="1 - 10" ref="1"/>
+      <ColorMapEntry rgb="254,204,92" transparent="false" label="11 - 30" ref="2"/>
+      <ColorMapEntry rgb="253,141,60" transparent="false" label="31 - 60" ref="3"/>
+      <ColorMapEntry rgb="227,26,28" transparent="false" label="61 - 130" ref="4"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="255,255,178" label="1 - 10" id="1" showLabel="true"/>
+      <LegendEntry rgb="254,204,92" label="11 - 30" id="2" showLabel="true"/>
+      <LegendEntry rgb="253,141,60" label="31 - 60" id="3" showLabel="true"/>
+      <LegendEntry rgb="227,26,28" label="61 - 130" id="4" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

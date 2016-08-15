@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-    <ColorMapEntry rgb="255,153,153" transparent="false" label="Rural"/>
-    <ColorMapEntry rgb="153,0,0"     transparent="false" label="Urban"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Urban Rural Extents in the 10m Low Elevation Zone">
+    <Entries>
+      <ColorMapEntry rgb="255,153,153" transparent="false" label="Rural" ref="1" />
+      <ColorMapEntry rgb="153,0,0" transparent="false" label="Urban" ref="2" />
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="255,153,153" id="1" label="Rural" showLabel="true" />
+      <LegendEntry rgb="153,0,0" id="2" label="Urban" showLabel="true" />
+    </Legend>
+  </ColorMap>
+</ColorMaps>

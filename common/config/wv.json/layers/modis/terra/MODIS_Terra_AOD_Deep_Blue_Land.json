@@ -8,9 +8,7 @@
             "group":    "overlays",
             "product":  "MOD04_L2",
 
-            "metadata": "modis/Aerosol",
-            "inactive": true,
-            "endDate": "2015-12-30"
+            "metadata": "modis/Aerosol"
             }
         }
     }

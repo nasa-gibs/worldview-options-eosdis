@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Freeze/Thaw">
+    <Entries>
+      <ColorMapEntry rgb="0,0,255" transparent="false" sourceValue="0" label="Frozen" ref="1"/>
+      <ColorMapEntry rgb="255,0,0" transparent="false" sourceValue="1" label="Thawed" ref="2"/>
+      <ColorMapEntry rgb="165,165,0" transparent="false" sourceValue="2" label="Transitional" ref="3"/>
+      <ColorMapEntry rgb="0,255,0" transparent="false" sourceValue="3" label="Inv Transitional" ref="4"/>
+      <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="251" label="No FT Status" ref="5"/>
+      <ColorMapEntry rgb="17,17,17" transparent="true" sourceValue="252" label="Non–Cold Area" ref="6"/>
+      <ColorMapEntry rgb="119,85,51" transparent="true" sourceValue="254" label="Open Water" ref="7"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="0,0,255" id="1" label="Frozen" showLabel="true"/>
+      <LegendEntry rgb="255,0,0" id="2" label="Thawed" showLabel="true"/>
+      <LegendEntry rgb="165,165,0" id="3" label="Transitional" showLabel="true"/>
+      <LegendEntry rgb="0,255,0" id="4" label="Inv Transitional" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+  
+  <ColorMap title="No Data">
+    <Entries>
+      <ColorMapEntry rgb="119,154,187" transparent="true" sourceValue="255" label="Fill" nodata="true"/>
+    </Entries>
+  </ColorMap>
+</ColorMaps>

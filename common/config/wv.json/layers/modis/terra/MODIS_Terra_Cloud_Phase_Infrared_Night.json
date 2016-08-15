@@ -7,9 +7,7 @@
             "group":    "overlays",
             "product":  "MOD06_L2_NIGHT",
 
-            "metadata": "modis/CloudPhase",
-            "inactive": true,
-            "endDate": "2015-12-30"
+            "metadata": "modis/CloudPhase"
             }
         }
     }

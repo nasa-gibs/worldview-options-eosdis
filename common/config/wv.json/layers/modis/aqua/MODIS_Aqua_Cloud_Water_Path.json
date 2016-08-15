@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Water_Path": {
+            "id":       "MODIS_Aqua_Cloud_Water_Path",
+            "title":    "Cloud Water Path",
+            "subtitle": "Aqua/MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }

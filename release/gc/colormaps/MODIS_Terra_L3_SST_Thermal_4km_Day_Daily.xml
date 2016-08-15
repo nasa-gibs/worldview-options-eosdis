@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+
+  <ColorMap title="No Data">
+    <Entries>
+      <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" nodata="true" ref="0"/>
+    </Entries>
+  </ColorMap>
+
+  <ColorMap title="Sea Surface Temperature" units="°C">
+    <Entries minLabel="&lt; 0.00 °C" maxLabel="&gt;= 32.00 C">
+      <ColorMapEntry rgb="43,0,26" transparent="false" sourceValue="[-INF,0.00)" value="[-INF,0.00)" label="&lt; 0.00 °C" ref="1"/>
+      <ColorMapEntry rgb="45,0,28" transparent="false" sourceValue="[0.00,0.15)" value="[0.00,0.15)" label="0.00 – 0.15 °C" ref="2"/>
+      <ColorMapEntry rgb="48,0,31" transparent="false" sourceValue="[0.15,0.30)" value="[0.15,0.30)" label="0.15 – 0.30 °C" ref="3"/>
+      <ColorMapEntry rgb="51,0,34" transparent="false" sourceValue="[0.30,0.45)" value="[0.30,0.45)" label="0.30 – 0.45 °C" ref="4"/>
+      <ColorMapEntry rgb="53,0,36" transparent="false" sourceValue="[0.45,0.60)" value="[0.45,0.60)" label="0.45 – 0.60 °C" ref="5"/>
+      <ColorMapEntry rgb="56,0,39" transparent="false" sourceValue="[0.60,0.75)" value="[0.60,0.75)" label="0.60 – 0.75 °C" ref="6"/>
+      <ColorMapEntry rgb="59,0,43" transparent="false" sourceValue="[0.75,0.90)" value="[0.75,0.90)" label="0.75 – 0.90 °C" ref="7"/>
+      <ColorMapEntry rgb="63,1,46" transparent="false" sourceValue="[0.90,1.05)" value="[0.90,1.05)" label="0.90 – 1.05 °C" ref="8"/>
+      <ColorMapEntry rgb="66,1,50" transparent="false" sourceValue="[1.05,1.20)" value="[1.05,1.20)" label="1.05 – 1.20 °C" ref="9"/>
+      <ColorMapEntry rgb="69,1,53" transparent="false" sourceValue="[1.20,1.35)" value="[1.20,1.35)" label="1.20 – 1.35 °C" ref="10"/>
+      <ColorMapEntry rgb="72,1,57" transparent="false" sourceValue="[1.35,1.50)" value="[1.35,1.50)" label="1.35 – 1.50 °C" ref="11"/>
+      <ColorMapEntry rgb="75,2,61" transparent="false" sourceValue="[1.50,1.65)" value="[1.50,1.65)" label="1.50 – 1.65 °C" ref="12"/>
+      <ColorMapEntry rgb="78,2,65" transparent="false" sourceValue="[1.65,1.80)" value="[1.65,1.80)" label="1.65 – 1.80 °C" ref="13"/>
+      <ColorMapEntry rgb="81,2,69" transparent="false" sourceValue="[1.80,1.95)" value="[1.80,1.95)" label="1.80 – 1.95 °C" ref="14"/>
+      <ColorMapEntry rgb="85,2,73" transparent="false" sourceValue="[1.95,2.10)" value="[1.95,2.10)" label="1.95 – 2.10 °C" ref="15"/>
+      <ColorMapEntry rgb="88,2,77" transparent="false" sourceValue="[2.10,2.25)" value="[2.10,2.25)" label="2.10 – 2.25 °C" ref="16"/>
+      <ColorMapEntry rgb="91,3,81" transparent="false" sourceValue="[2.25,2.40)" value="[2.25,2.40)" label="2.25 – 2.40 °C" ref="17"/>
+      <ColorMapEntry rgb="95,3,85" transparent="false" sourceValue="[2.40,2.55)" value="[2.40,2.55)" label="2.40 – 2.55 °C" ref="18"/>
+      <ColorMapEntry rgb="98,3,89" transparent="false" sourceValue="[2.55,2.70)" value="[2.55,2.70)" label="2.55 – 2.70 °C" ref="19"/>
+      <ColorMapEntry rgb="101,3,93" transparent="false" sourceValue="[2.70,2.85)" value="[2.70,2.85)" label="2.70 – 2.85 °C" ref="20"/>
+      <ColorMapEntry rgb="105,4,97" transparent="false" sourceValue="[2.85,3.00)" value="[2.85,3.00)" label="2.85 – 3.00 °C" ref="21"/>
+      <ColorMapEntry rgb="108,4,102" transparent="false" sourceValue="[3.00,3.15)" value="[3.00,3.15)" label="3.00 – 3.15 °C" ref="22"/>
+      <ColorMapEntry rgb="112,5,106" transparent="false" sourceValue="[3.15,3.30)" value="[3.15,3.30)" label="3.15 – 3.30 °C" ref="23"/>
+      <ColorMapEntry rgb="115,5,110" transparent="false" sourceValue="[3.30,3.45)" value="[3.30,3.45)" label="3.30 – 3.45 °C" ref="24"/>
+      <ColorMapEntry rgb="118,6,113" transparent="false" sourceValue="[3.45,3.60)" value="[3.45,3.60)" label="3.45 – 3.60 °C" ref="25"/>
+      <ColorMapEntry rgb="120,6,115" transparent="false" sourceValue="[3.60,3.75)" value="[3.60,3.75)" label="3.60 – 3.75 °C" ref="26"/>
+      <ColorMapEntry rgb="121,6,117" transparent="false" sourceValue="[3.75,3.90)" value="[3.75,3.90)" label="3.75 – 3.90 °C" ref="27"/>
+      <ColorMapEntry rgb="122,6,119" transparent="false" sourceValue="[3.90,4.05)" value="[3.90,4.05)" label="3.90 – 4.05 °C" ref="28"/>
+      <ColorMapEntry rgb="121,6,119" transparent="false" sourceValue="[4.05,4.20)" value="[4.05,4.20)" label="4.05 – 4.20 °C" ref="29"/>
+      <ColorMapEntry rgb="120,7,119" transparent="false" sourceValue="[4.20,4.35)" value="[4.20,4.35)" label="4.20 – 4.35 °C" ref="30"/>
+      <ColorMapEntry rgb="117,7,117" transparent="false" sourceValue="[4.35,4.50)" value="[4.35,4.50)" label="4.35 – 4.50 °C" ref="31"/>
+      <ColorMapEntry rgb="114,7,116" transparent="false" sourceValue="[4.50,4.65)" value="[4.50,4.65)" label="4.50 – 4.65 °C" ref="32"/>
+      <ColorMapEntry rgb="111,7,114" transparent="false" sourceValue="[4.65,4.80)" value="[4.65,4.80)" label="4.65 – 4.80 °C" ref="33"/>
+      <ColorMapEntry rgb="107,8,112" transparent="false" sourceValue="[4.80,4.95)" value="[4.80,4.95)" label="4.80 – 4.95 °C" ref="34"/>
+      <ColorMapEntry rgb="103,8,110" transparent="false" sourceValue="[4.95,5.10)" value="[4.95,5.10)" label="4.95 – 5.10 °C" ref="35"/>
+      <ColorMapEntry rgb="98,8,108" transparent="false" sourceValue="[5.10,5.25)" value="[5.10,5.25)" label="5.10 – 5.25 °C" ref="36"/>
+      <ColorMapEntry rgb="94,8,105" transparent="false" sourceValue="[5.25,5.40)" value="[5.25,5.40)" label="5.25 – 5.40 °C" ref="37"/>
+      <ColorMapEntry rgb="90,9,103" transparent="false" sourceValue="[5.40,5.55)" value="[5.40,5.55)" label="5.40 – 5.55 °C" ref="38"/>
+      <ColorMapEntry rgb="86,9,101" transparent="false" sourceValue="[5.55,5.70)" value="[5.55,5.70)" label="5.55 – 5.70 °C" ref="39"/>
+      <ColorMapEntry rgb="81,9,99" transparent="false" sourceValue="[5.70,5.85)" value="[5.70,5.85)" label="5.70 – 5.85 °C" ref="40"/>
+      <ColorMapEntry rgb="77,9,97" transparent="false" sourceValue="[5.85,6.00)" value="[5.85,6.00)" label="5.85 – 6.00 °C" ref="41"/>
+      <ColorMapEntry rgb="73,10,94" transparent="false" sourceValue="[6.00,6.15)" value="[6.00,6.15)" label="6.00 – 6.15 °C" ref="42"/>
+      <ColorMapEntry rgb="69,10,92" transparent="false" sourceValue="[6.15,6.30)" value="[6.15,6.30)" label="6.15 – 6.30 °C" ref="43"/>
+      <ColorMapEntry rgb="65,10,90" transparent="false" sourceValue="[6.30,6.45)" value="[6.30,6.45)" label="6.30 – 6.45 °C" ref="44"/>
+      <ColorMapEntry rgb="61,10,88" transparent="false" sourceValue="[6.45,6.60)" value="[6.45,6.60)" label="6.45 – 6.60 °C" ref="45"/>
+      <ColorMapEntry rgb="57,10,86" transparent="false" sourceValue="[6.60,6.75)" value="[6.60,6.75)" label="6.60 – 6.75 °C" ref="46"/>
+      <ColorMapEntry rgb="53,11,84" transparent="false" sourceValue="[6.75,6.90)" value="[6.75,6.90)" label="6.75 – 6.90 °C" ref="47"/>
+      <ColorMapEntry rgb="48,11,81" transparent="false" sourceValue="[6.90,7.05)" value="[6.90,7.05)" label="6.90 – 7.05 °C" ref="48"/>
+      <ColorMapEntry rgb="44,11,79" transparent="false" sourceValue="[7.05,7.20)" value="[7.05,7.20)" label="7.05 – 7.20 °C" ref="49"/>
+      <ColorMapEntry rgb="40,11,77" transparent="false" sourceValue="[7.20,7.35)" value="[7.20,7.35)" label="7.20 – 7.35 °C" ref="50"/>
+      <ColorMapEntry rgb="37,12,76" transparent="false" sourceValue="[7.35,7.50)" value="[7.35,7.50)" label="7.35 – 7.50 °C" ref="51"/>
+      <ColorMapEntry rgb="34,13,75" transparent="false" sourceValue="[7.50,7.65)" value="[7.50,7.65)" label="7.50 – 7.65 °C" ref="52"/>
+      <ColorMapEntry rgb="32,14,75" transparent="false" sourceValue="[7.65,7.80)" value="[7.65,7.80)" label="7.65 – 7.80 °C" ref="53"/>
+      <ColorMapEntry rgb="30,16,77" transparent="false" sourceValue="[7.80,7.95)" value="[7.80,7.95)" label="7.80 – 7.95 °C" ref="54"/>
+      <ColorMapEntry rgb="30,18,78" transparent="false" sourceValue="[7.95,8.10)" value="[7.95,8.10)" label="7.95 – 8.10 °C" ref="55"/>
+      <ColorMapEntry rgb="30,20,81" transparent="false" sourceValue="[8.10,8.25)" value="[8.10,8.25)" label="8.10 – 8.25 °C" ref="56"/>
+      <ColorMapEntry rgb="30,22,84" transparent="false" sourceValue="[8.25,8.40)" value="[8.25,8.40)" label="8.25 – 8.40 °C" ref="57"/>
+      <ColorMapEntry rgb="30,24,87" transparent="false" sourceValue="[8.40,8.55)" value="[8.40,8.55)" label="8.40 – 8.55 °C" ref="58"/>
+      <ColorMapEntry rgb="30,26,90" transparent="false" sourceValue="[8.55,8.70)" value="[8.55,8.70)" label="8.55 – 8.70 °C" ref="59"/>
+      <ColorMapEntry rgb="31,28,93" transparent="false" sourceValue="[8.70,8.85)" value="[8.70,8.85)" label="8.70 – 8.85 °C" ref="60"/>
+      <ColorMapEntry rgb="30,30,96" transparent="false" sourceValue="[8.85,9.00)" value="[8.85,9.00)" label="8.85 – 9.00 °C" ref="61"/>
+      <ColorMapEntry rgb="30,33,99" transparent="false" sourceValue="[9.00,9.15)" value="[9.00,9.15)" label="9.00 – 9.15 °C" ref="62"/>
+      <ColorMapEntry rgb="31,35,102" transparent="false" sourceValue="[9.15,9.30)" value="[9.15,9.30)" label="9.15 – 9.30 °C" ref="63"/>
+      <ColorMapEntry rgb="31,37,105" transparent="false" sourceValue="[9.30,9.45)" value="[9.30,9.45)" label="9.30 – 9.45 °C" ref="64"/>
+      <ColorMapEntry rgb="31,39,108" transparent="false" sourceValue="[9.45,9.60)" value="[9.45,9.60)" label="9.45 – 9.60 °C" ref="65"/>
+      <ColorMapEntry rgb="31,42,112" transparent="false" sourceValue="[9.60,9.75)" value="[9.60,9.75)" label="9.60 – 9.75 °C" ref="66"/>
+      <ColorMapEntry rgb="31,44,115" transparent="false" sourceValue="[9.75,9.90)" value="[9.75,9.90)" label="9.75 – 9.90 °C" ref="67"/>
+      <ColorMapEntry rgb="31,46,118" transparent="false" sourceValue="[9.90,10.05)" value="[9.90,10.05)" label="9.90 – 10.05 °C" ref="68"/>
+      <ColorMapEntry rgb="31,48,121" transparent="false" sourceValue="[10.05,10.20)" value="[10.05,10.20)" label="10.05 – 10.20 °C" ref="69"/>
+      <ColorMapEntry rgb="31,50,124" transparent="false" sourceValue="[10.20,10.35)" value="[10.20,10.35)" label="10.20 – 10.35 °C" ref="70"/>
+      <ColorMapEntry rgb="31,53,127" transparent="false" sourceValue="[10.35,10.50)" value="[10.35,10.50)" label="10.35 – 10.50 °C" ref="71"/>
+      <ColorMapEntry rgb="31,55,130" transparent="false" sourceValue="[10.50,10.65)" value="[10.50,10.65)" label="10.50 – 10.65 °C" ref="72"/>
+      <ColorMapEntry rgb="32,57,133" transparent="false" sourceValue="[10.65,10.80)" value="[10.65,10.80)" label="10.65 – 10.80 °C" ref="73"/>
+      <ColorMapEntry rgb="32,59,136" transparent="false" sourceValue="[10.80,10.95)" value="[10.80,10.95)" label="10.80 – 10.95 °C" ref="74"/>
+      <ColorMapEntry rgb="32,61,139" transparent="false" sourceValue="[10.95,11.10)" value="[10.95,11.10)" label="10.95 – 11.10 °C" ref="75"/>
+      <ColorMapEntry rgb="32,64,142" transparent="false" sourceValue="[11.10,11.25)" value="[11.10,11.25)" label="11.10 – 11.25 °C" ref="76"/>
+      <ColorMapEntry rgb="32,66,145" transparent="false" sourceValue="[11.25,11.40)" value="[11.25,11.40)" label="11.25 – 11.40 °C" ref="77"/>
+      <ColorMapEntry rgb="32,68,148" transparent="false" sourceValue="[11.40,11.55)" value="[11.40,11.55)" label="11.40 – 11.55 °C" ref="78"/>
+      <ColorMapEntry rgb="32,70,151" transparent="false" sourceValue="[11.55,11.70)" value="[11.55,11.70)" label="11.55 – 11.70 °C" ref="79"/>
+      <ColorMapEntry rgb="33,73,155" transparent="false" sourceValue="[11.70,11.85)" value="[11.70,11.85)" label="11.70 – 11.85 °C" ref="80"/>
+      <ColorMapEntry rgb="33,75,158" transparent="false" sourceValue="[11.85,12.00)" value="[11.85,12.00)" label="11.85 – 12.00 °C" ref="81"/>
+      <ColorMapEntry rgb="33,78,161" transparent="false" sourceValue="[12.00,12.15)" value="[12.00,12.15)" label="12.00 – 12.15 °C" ref="82"/>
+      <ColorMapEntry rgb="33,81,164" transparent="false" sourceValue="[12.15,12.30)" value="[12.15,12.30)" label="12.15 – 12.30 °C" ref="83"/>
+      <ColorMapEntry rgb="34,84,167" transparent="false" sourceValue="[12.30,12.45)" value="[12.30,12.45)" label="12.30 – 12.45 °C" ref="84"/>
+      <ColorMapEntry rgb="34,87,170" transparent="false" sourceValue="[12.45,12.60)" value="[12.45,12.60)" label="12.45 – 12.60 °C" ref="85"/>
+      <ColorMapEntry rgb="35,90,173" transparent="false" sourceValue="[12.60,12.75)" value="[12.60,12.75)" label="12.60 – 12.75 °C" ref="86"/>
+      <ColorMapEntry rgb="35,93,176" transparent="false" sourceValue="[12.75,12.90)" value="[12.75,12.90)" label="12.75 – 12.90 °C" ref="87"/>
+      <ColorMapEntry rgb="36,96,179" transparent="false" sourceValue="[12.90,13.05)" value="[12.90,13.05)" label="12.90 – 13.05 °C" ref="88"/>
+      <ColorMapEntry rgb="36,100,182" transparent="false" sourceValue="[13.05,13.20)" value="[13.05,13.20)" label="13.05 – 13.20 °C" ref="89"/>
+      <ColorMapEntry rgb="37,103,185" transparent="false" sourceValue="[13.20,13.35)" value="[13.20,13.35)" label="13.20 – 13.35 °C" ref="90"/>
+      <ColorMapEntry rgb="37,106,187" transparent="false" sourceValue="[13.35,13.50)" value="[13.35,13.50)" label="13.35 – 13.50 °C" ref="91"/>
+      <ColorMapEntry rgb="38,110,190" transparent="false" sourceValue="[13.50,13.65)" value="[13.50,13.65)" label="13.50 – 13.65 °C" ref="92"/>
+      <ColorMapEntry rgb="38,113,194" transparent="false" sourceValue="[13.65,13.80)" value="[13.65,13.80)" label="13.65 – 13.80 °C" ref="93"/>
+      <ColorMapEntry rgb="39,117,197" transparent="false" sourceValue="[13.80,13.95)" value="[13.80,13.95)" label="13.80 – 13.95 °C" ref="94"/>
+      <ColorMapEntry rgb="40,120,200" transparent="false" sourceValue="[13.95,14.10)" value="[13.95,14.10)" label="13.95 – 14.10 °C" ref="95"/>
+      <ColorMapEntry rgb="40,123,203" transparent="false" sourceValue="[14.10,14.25)" value="[14.10,14.25)" label="14.10 – 14.25 °C" ref="96"/>
+      <ColorMapEntry rgb="41,127,206" transparent="false" sourceValue="[14.25,14.40)" value="[14.25,14.40)" label="14.25 – 14.40 °C" ref="97"/>
+      <ColorMapEntry rgb="41,130,209" transparent="false" sourceValue="[14.40,14.55)" value="[14.40,14.55)" label="14.40 – 14.55 °C" ref="98"/>
+      <ColorMapEntry rgb="42,133,212" transparent="false" sourceValue="[14.55,14.70)" value="[14.55,14.70)" label="14.55 – 14.70 °C" ref="99"/>
+      <ColorMapEntry rgb="42,136,215" transparent="false" sourceValue="[14.70,14.85)" value="[14.70,14.85)" label="14.70 – 14.85 °C" ref="100"/>
+      <ColorMapEntry rgb="42,139,218" transparent="false" sourceValue="[14.85,15.00)" value="[14.85,15.00)" label="14.85 – 15.00 °C" ref="101"/>
+      <ColorMapEntry rgb="43,142,221" transparent="false" sourceValue="[15.00,15.15)" value="[15.00,15.15)" label="15.00 – 15.15 °C" ref="102"/>
+      <ColorMapEntry rgb="43,146,224" transparent="false" sourceValue="[15.15,15.30)" value="[15.15,15.30)" label="15.15 – 15.30 °C" ref="103"/>
+      <ColorMapEntry rgb="44,149,227" transparent="false" sourceValue="[15.30,15.45)" value="[15.30,15.45)" label="15.30 – 15.45 °C" ref="104"/>
+      <ColorMapEntry rgb="44,152,230" transparent="false" sourceValue="[15.45,15.60)" value="[15.45,15.60)" label="15.45 – 15.60 °C" ref="105"/>
+      <ColorMapEntry rgb="45,156,233" transparent="false" sourceValue="[15.60,15.75)" value="[15.60,15.75)" label="15.60 – 15.75 °C" ref="106"/>
+      <ColorMapEntry rgb="46,159,236" transparent="false" sourceValue="[15.75,15.90)" value="[15.75,15.90)" label="15.75 – 15.90 °C" ref="107"/>
+      <ColorMapEntry rgb="46,163,239" transparent="false" sourceValue="[15.90,16.05)" value="[15.90,16.05)" label="15.90 – 16.05 °C" ref="108"/>
+      <ColorMapEntry rgb="47,166,242" transparent="false" sourceValue="[16.05,16.20)" value="[16.05,16.20)" label="16.05 – 16.20 °C" ref="109"/>
+      <ColorMapEntry rgb="48,170,245" transparent="false" sourceValue="[16.20,16.35)" value="[16.20,16.35)" label="16.20 – 16.35 °C" ref="110"/>
+      <ColorMapEntry rgb="48,172,244" transparent="false" sourceValue="[16.35,16.50)" value="[16.35,16.50)" label="16.35 – 16.50 °C" ref="111"/>
+      <ColorMapEntry rgb="47,173,240" transparent="false" sourceValue="[16.50,16.65)" value="[16.50,16.65)" label="16.50 – 16.65 °C" ref="112"/>
+      <ColorMapEntry rgb="46,174,232" transparent="false" sourceValue="[16.65,16.80)" value="[16.65,16.80)" label="16.65 – 16.80 °C" ref="113"/>
+      <ColorMapEntry rgb="45,174,222" transparent="false" sourceValue="[16.80,16.95)" value="[16.80,16.95)" label="16.80 – 16.95 °C" ref="114"/>
+      <ColorMapEntry rgb="43,173,208" transparent="false" sourceValue="[16.95,17.10)" value="[16.95,17.10)" label="16.95 – 17.10 °C" ref="115"/>
+      <ColorMapEntry rgb="41,171,191" transparent="false" sourceValue="[17.10,17.25)" value="[17.10,17.25)" label="17.10 – 17.25 °C" ref="116"/>
+      <ColorMapEntry rgb="39,168,171" transparent="false" sourceValue="[17.25,17.40)" value="[17.25,17.40)" label="17.25 – 17.40 °C" ref="117"/>
+      <ColorMapEntry rgb="37,166,152" transparent="false" sourceValue="[17.40,17.55)" value="[17.40,17.55)" label="17.40 – 17.55 °C" ref="118"/>
+      <ColorMapEntry rgb="35,164,133" transparent="false" sourceValue="[17.55,17.70)" value="[17.55,17.70)" label="17.55 – 17.70 °C" ref="119"/>
+      <ColorMapEntry rgb="32,163,113" transparent="false" sourceValue="[17.70,17.85)" value="[17.70,17.85)" label="17.70 – 17.85 °C" ref="120"/>
+      <ColorMapEntry rgb="30,163,93" transparent="false" sourceValue="[17.85,18.00)" value="[17.85,18.00)" label="17.85 – 18.00 °C" ref="121"/>
+      <ColorMapEntry rgb="27,165,72" transparent="false" sourceValue="[18.00,18.15)" value="[18.00,18.15)" label="18.00 – 18.15 °C" ref="122"/>
+      <ColorMapEntry rgb="25,167,53" transparent="false" sourceValue="[18.15,18.30)" value="[18.15,18.30)" label="18.15 – 18.30 °C" ref="123"/>
+      <ColorMapEntry rgb="26,170,37" transparent="false" sourceValue="[18.30,18.45)" value="[18.30,18.45)" label="18.30 – 18.45 °C" ref="124"/>
+      <ColorMapEntry rgb="28,175,23" transparent="false" sourceValue="[18.45,18.60)" value="[18.45,18.60)" label="18.45 – 18.60 °C" ref="125"/>
+      <ColorMapEntry rgb="32,179,13" transparent="false" sourceValue="[18.60,18.75)" value="[18.60,18.75)" label="18.60 – 18.75 °C" ref="126"/>
+      <ColorMapEntry rgb="38,183,6" transparent="false" sourceValue="[18.75,18.90)" value="[18.75,18.90)" label="18.75 – 18.90 °C" ref="127"/>
+      <ColorMapEntry rgb="45,187,1" transparent="false" sourceValue="[18.90,19.05)" value="[18.90,19.05)" label="18.90 – 19.05 °C" ref="128"/>
+      <ColorMapEntry rgb="55,190,0" transparent="false" sourceValue="[19.05,19.20)" value="[19.05,19.20)" label="19.05 – 19.20 °C" ref="129"/>
+      <ColorMapEntry rgb="66,194,0" transparent="false" sourceValue="[19.20,19.35)" value="[19.20,19.35)" label="19.20 – 19.35 °C" ref="130"/>
+      <ColorMapEntry rgb="76,197,0" transparent="false" sourceValue="[19.35,19.50)" value="[19.35,19.50)" label="19.35 – 19.50 °C" ref="131"/>
+      <ColorMapEntry rgb="87,201,0" transparent="false" sourceValue="[19.50,19.65)" value="[19.50,19.65)" label="19.50 – 19.65 °C" ref="132"/>
+      <ColorMapEntry rgb="98,204,0" transparent="false" sourceValue="[19.65,19.80)" value="[19.65,19.80)" label="19.65 – 19.80 °C" ref="133"/>
+      <ColorMapEntry rgb="109,207,0" transparent="false" sourceValue="[19.80,19.95)" value="[19.80,19.95)" label="19.80 – 19.95 °C" ref="134"/>
+      <ColorMapEntry rgb="120,211,0" transparent="false" sourceValue="[19.95,20.10)" value="[19.95,20.10)" label="19.95 – 20.10 °C" ref="135"/>
+      <ColorMapEntry rgb="131,215,0" transparent="false" sourceValue="[20.10,20.25)" value="[20.10,20.25)" label="20.10 – 20.25 °C" ref="136"/>
+      <ColorMapEntry rgb="142,218,0" transparent="false" sourceValue="[20.25,20.40)" value="[20.25,20.40)" label="20.25 – 20.40 °C" ref="137"/>
+      <ColorMapEntry rgb="153,222,0" transparent="false" sourceValue="[20.40,20.55)" value="[20.40,20.55)" label="20.40 – 20.55 °C" ref="138"/>
+      <ColorMapEntry rgb="165,225,0" transparent="false" sourceValue="[20.55,20.70)" value="[20.55,20.70)" label="20.55 – 20.70 °C" ref="139"/>
+      <ColorMapEntry rgb="176,229,0" transparent="false" sourceValue="[20.70,20.85)" value="[20.70,20.85)" label="20.70 – 20.85 °C" ref="140"/>
+      <ColorMapEntry rgb="187,232,0" transparent="false" sourceValue="[20.85,21.00)" value="[20.85,21.00)" label="20.85 – 21.00 °C" ref="141"/>
+      <ColorMapEntry rgb="197,236,0" transparent="false" sourceValue="[21.00,21.15)" value="[21.00,21.15)" label="21.00 – 21.15 °C" ref="142"/>
+      <ColorMapEntry rgb="208,239,0" transparent="false" sourceValue="[21.15,21.30)" value="[21.15,21.30)" label="21.15 – 21.30 °C" ref="143"/>
+      <ColorMapEntry rgb="219,243,0" transparent="false" sourceValue="[21.30,21.45)" value="[21.30,21.45)" label="21.30 – 21.45 °C" ref="144"/>
+      <ColorMapEntry rgb="229,246,0" transparent="false" sourceValue="[21.45,21.60)" value="[21.45,21.60)" label="21.45 – 21.60 °C" ref="145"/>
+      <ColorMapEntry rgb="237,247,0" transparent="false" sourceValue="[21.60,21.75)" value="[21.60,21.75)" label="21.60 – 21.75 °C" ref="146"/>
+      <ColorMapEntry rgb="243,247,0" transparent="false" sourceValue="[21.75,21.90)" value="[21.75,21.90)" label="21.75 – 21.90 °C" ref="147"/>
+      <ColorMapEntry rgb="248,245,0" transparent="false" sourceValue="[21.90,22.05)" value="[21.90,22.05)" label="21.90 – 22.05 °C" ref="148"/>
+      <ColorMapEntry rgb="252,243,0" transparent="false" sourceValue="[22.05,22.20)" value="[22.05,22.20)" label="22.05 – 22.20 °C" ref="149"/>
+      <ColorMapEntry rgb="254,239,0" transparent="false" sourceValue="[22.20,22.35)" value="[22.20,22.35)" label="22.20 – 22.35 °C" ref="150"/>
+      <ColorMapEntry rgb="255,234,0" transparent="false" sourceValue="[22.35,22.50)" value="[22.35,22.50)" label="22.35 – 22.50 °C" ref="151"/>
+      <ColorMapEntry rgb="255,228,0" transparent="false" sourceValue="[22.50,22.65)" value="[22.50,22.65)" label="22.50 – 22.65 °C" ref="152"/>
+      <ColorMapEntry rgb="255,223,0" transparent="false" sourceValue="[22.65,22.80)" value="[22.65,22.80)" label="22.65 – 22.80 °C" ref="153"/>
+      <ColorMapEntry rgb="255,217,0" transparent="false" sourceValue="[22.80,22.95)" value="[22.80,22.95)" label="22.80 – 22.95 °C" ref="154"/>
+      <ColorMapEntry rgb="255,212,0" transparent="false" sourceValue="[22.95,23.10)" value="[22.95,23.10)" label="22.95 – 23.10 °C" ref="155"/>
+      <ColorMapEntry rgb="255,206,0" transparent="false" sourceValue="[23.10,23.25)" value="[23.10,23.25)" label="23.10 – 23.25 °C" ref="156"/>
+      <ColorMapEntry rgb="255,201,0" transparent="false" sourceValue="[23.25,23.40)" value="[23.25,23.40)" label="23.25 – 23.40 °C" ref="157"/>
+      <ColorMapEntry rgb="255,196,0" transparent="false" sourceValue="[23.40,23.55)" value="[23.40,23.55)" label="23.40 – 23.55 °C" ref="158"/>
+      <ColorMapEntry rgb="255,191,0" transparent="false" sourceValue="[23.55,23.70)" value="[23.55,23.70)" label="23.55 – 23.70 °C" ref="159"/>
+      <ColorMapEntry rgb="255,185,0" transparent="false" sourceValue="[23.70,23.85)" value="[23.70,23.85)" label="23.70 – 23.85 °C" ref="160"/>
+      <ColorMapEntry rgb="255,180,0" transparent="false" sourceValue="[23.85,24.00)" value="[23.85,24.00)" label="23.85 – 24.00 °C" ref="161"/>
+      <ColorMapEntry rgb="255,175,0" transparent="false" sourceValue="[24.00,24.15)" value="[24.00,24.15)" label="24.00 – 24.15 °C" ref="162"/>
+      <ColorMapEntry rgb="255,170,0" transparent="false" sourceValue="[24.15,24.30)" value="[24.15,24.30)" label="24.15 – 24.30 °C" ref="163"/>
+      <ColorMapEntry rgb="255,164,0" transparent="false" sourceValue="[24.30,24.45)" value="[24.30,24.45)" label="24.30 – 24.45 °C" ref="164"/>
+      <ColorMapEntry rgb="255,159,0" transparent="false" sourceValue="[24.45,24.60)" value="[24.45,24.60)" label="24.45 – 24.60 °C" ref="165"/>
+      <ColorMapEntry rgb="255,153,0" transparent="false" sourceValue="[24.60,24.75)" value="[24.60,24.75)" label="24.60 – 24.75 °C" ref="166"/>
+      <ColorMapEntry rgb="255,148,0" transparent="false" sourceValue="[24.75,24.90)" value="[24.75,24.90)" label="24.75 – 24.90 °C" ref="167"/>
+      <ColorMapEntry rgb="255,142,0" transparent="false" sourceValue="[24.90,25.05)" value="[24.90,25.05)" label="24.90 – 25.05 °C" ref="168"/>
+      <ColorMapEntry rgb="255,137,0" transparent="false" sourceValue="[25.05,25.20)" value="[25.05,25.20)" label="25.05 – 25.20 °C" ref="169"/>
+      <ColorMapEntry rgb="255,131,0" transparent="false" sourceValue="[25.20,25.35)" value="[25.20,25.35)" label="25.20 – 25.35 °C" ref="170"/>
+      <ColorMapEntry rgb="254,126,0" transparent="false" sourceValue="[25.35,25.50)" value="[25.35,25.50)" label="25.35 – 25.50 °C" ref="171"/>
+      <ColorMapEntry rgb="253,122,0" transparent="false" sourceValue="[25.50,25.65)" value="[25.50,25.65)" label="25.50 – 25.65 °C" ref="172"/>
+      <ColorMapEntry rgb="252,117,0" transparent="false" sourceValue="[25.65,25.80)" value="[25.65,25.80)" label="25.65 – 25.80 °C" ref="173"/>
+      <ColorMapEntry rgb="251,113,0" transparent="false" sourceValue="[25.80,25.95)" value="[25.80,25.95)" label="25.80 – 25.95 °C" ref="174"/>
+      <ColorMapEntry rgb="250,109,0" transparent="false" sourceValue="[25.95,26.10)" value="[25.95,26.10)" label="25.95 – 26.10 °C" ref="175"/>
+      <ColorMapEntry rgb="248,106,0" transparent="false" sourceValue="[26.10,26.25)" value="[26.10,26.25)" label="26.10 – 26.25 °C" ref="176"/>
+      <ColorMapEntry rgb="246,102,0" transparent="false" sourceValue="[26.25,26.40)" value="[26.25,26.40)" label="26.25 – 26.40 °C" ref="177"/>
+      <ColorMapEntry rgb="244,98,0" transparent="false" sourceValue="[26.40,26.55)" value="[26.40,26.55)" label="26.40 – 26.55 °C" ref="178"/>
+      <ColorMapEntry rgb="242,95,0" transparent="false" sourceValue="[26.55,26.70)" value="[26.55,26.70)" label="26.55 – 26.70 °C" ref="179"/>
+      <ColorMapEntry rgb="240,91,0" transparent="false" sourceValue="[26.70,26.85)" value="[26.70,26.85)" label="26.70 – 26.85 °C" ref="180"/>
+      <ColorMapEntry rgb="238,87,0" transparent="false" sourceValue="[26.85,27.00)" value="[26.85,27.00)" label="26.85 – 27.00 °C" ref="181"/>
+      <ColorMapEntry rgb="236,83,0" transparent="false" sourceValue="[27.00,27.15)" value="[27.00,27.15)" label="27.00 – 27.15 °C" ref="182"/>
+      <ColorMapEntry rgb="234,80,0" transparent="false" sourceValue="[27.15,27.30)" value="[27.15,27.30)" label="27.15 – 27.30 °C" ref="183"/>
+      <ColorMapEntry rgb="232,76,0" transparent="false" sourceValue="[27.30,27.45)" value="[27.30,27.45)" label="27.30 – 27.45 °C" ref="184"/>
+      <ColorMapEntry rgb="230,73,0" transparent="false" sourceValue="[27.45,27.60)" value="[27.45,27.60)" label="27.45 – 27.60 °C" ref="185"/>
+      <ColorMapEntry rgb="228,69,0" transparent="false" sourceValue="[27.60,27.75)" value="[27.60,27.75)" label="27.60 – 27.75 °C" ref="186"/>
+      <ColorMapEntry rgb="226,66,0" transparent="false" sourceValue="[27.75,27.90)" value="[27.75,27.90)" label="27.75 – 27.90 °C" ref="187"/>
+      <ColorMapEntry rgb="224,62,0" transparent="false" sourceValue="[27.90,28.05)" value="[27.90,28.05)" label="27.90 – 28.05 °C" ref="188"/>
+      <ColorMapEntry rgb="222,59,0" transparent="false" sourceValue="[28.05,28.20)" value="[28.05,28.20)" label="28.05 – 28.20 °C" ref="189"/>
+      <ColorMapEntry rgb="220,55,0" transparent="false" sourceValue="[28.20,28.35)" value="[28.20,28.35)" label="28.20 – 28.35 °C" ref="190"/>
+      <ColorMapEntry rgb="218,51,0" transparent="false" sourceValue="[28.35,28.50)" value="[28.35,28.50)" label="28.35 – 28.50 °C" ref="191"/>
+      <ColorMapEntry rgb="216,48,0" transparent="false" sourceValue="[28.50,28.65)" value="[28.50,28.65)" label="28.50 – 28.65 °C" ref="192"/>
+      <ColorMapEntry rgb="213,45,0" transparent="false" sourceValue="[28.65,28.80)" value="[28.65,28.80)" label="28.65 – 28.80 °C" ref="193"/>
+      <ColorMapEntry rgb="210,42,0" transparent="false" sourceValue="[28.80,28.95)" value="[28.80,28.95)" label="28.80 – 28.95 °C" ref="194"/>
+      <ColorMapEntry rgb="206,39,0" transparent="false" sourceValue="[28.95,29.10)" value="[28.95,29.10)" label="28.95 – 29.10 °C" ref="195"/>
+      <ColorMapEntry rgb="202,37,0" transparent="false" sourceValue="[29.10,29.25)" value="[29.10,29.25)" label="29.10 – 29.25 °C" ref="196"/>
+      <ColorMapEntry rgb="197,34,0" transparent="false" sourceValue="[29.25,29.40)" value="[29.25,29.40)" label="29.25 – 29.40 °C" ref="197"/>
+      <ColorMapEntry rgb="192,32,0" transparent="false" sourceValue="[29.40,29.55)" value="[29.40,29.55)" label="29.40 – 29.55 °C" ref="198"/>
+      <ColorMapEntry rgb="187,31,0" transparent="false" sourceValue="[29.55,29.70)" value="[29.55,29.70)" label="29.55 – 29.70 °C" ref="199"/>
+      <ColorMapEntry rgb="181,29,0" transparent="false" sourceValue="[29.70,29.85)" value="[29.70,29.85)" label="29.70 – 29.85 °C" ref="200"/>
+      <ColorMapEntry rgb="176,27,0" transparent="false" sourceValue="[29.85,30.00)" value="[29.85,30.00)" label="29.85 – 30.00 °C" ref="201"/>
+      <ColorMapEntry rgb="171,25,0" transparent="false" sourceValue="[30.00,30.15)" value="[30.00,30.15)" label="30.00 – 30.15 °C" ref="202"/>
+      <ColorMapEntry rgb="166,23,0" transparent="false" sourceValue="[30.15,30.30)" value="[30.15,30.30)" label="30.15 – 30.30 °C" ref="203"/>
+      <ColorMapEntry rgb="161,21,0" transparent="false" sourceValue="[30.30,30.45)" value="[30.30,30.45)" label="30.30 – 30.45 °C" ref="204"/>
+      <ColorMapEntry rgb="156,20,0" transparent="false" sourceValue="[30.45,30.60)" value="[30.45,30.60)" label="30.45 – 30.60 °C" ref="205"/>
+      <ColorMapEntry rgb="151,18,0" transparent="false" sourceValue="[30.60,30.75)" value="[30.60,30.75)" label="30.60 – 30.75 °C" ref="206"/>
+      <ColorMapEntry rgb="145,16,0" transparent="false" sourceValue="[30.75,30.90)" value="[30.75,30.90)" label="30.75 – 30.90 °C" ref="207"/>
+      <ColorMapEntry rgb="140,14,0" transparent="false" sourceValue="[30.90,31.05)" value="[30.90,31.05)" label="30.90 – 31.05 °C" ref="208"/>
+      <ColorMapEntry rgb="135,12,0" transparent="false" sourceValue="[31.05,31.20)" value="[31.05,31.20)" label="31.05 – 31.20 °C" ref="209"/>
+      <ColorMapEntry rgb="130,10,0" transparent="false" sourceValue="[31.20,31.35)" value="[31.20,31.35)" label="31.20 – 31.35 °C" ref="210"/>
+      <ColorMapEntry rgb="124,8,0" transparent="false" sourceValue="[31.35,31.50)" value="[31.35,31.50)" label="31.35 – 31.50 °C" ref="211"/>
+      <ColorMapEntry rgb="120,7,0" transparent="false" sourceValue="[31.50,31.65)" value="[31.50,31.65)" label="31.50 – 31.65 °C" ref="212"/>
+      <ColorMapEntry rgb="115,5,0" transparent="false" sourceValue="[31.65,31.80)" value="[31.65,31.80)" label="31.65 – 31.80 °C" ref="213"/>
+      <ColorMapEntry rgb="110,3,0" transparent="false" sourceValue="[31.80,32.00)" value="[31.80,32.00)" label="31.80 – 32.00 °C" ref="214"/>
+      <ColorMapEntry rgb="107,2,0" transparent="false" sourceValue="[32.00,+INF)" value="[32.00,+INF)" label="&gt;= 32.00 °C" ref="215"/>
+    </Entries>
+    <Legend type="continuous" minLabel="0 °C" maxLabel="32 C">
+      <LegendEntry rgb="43,0,26" label="&lt; 0.00 °C" id="1"/>
+      <LegendEntry rgb="45,0,28" label="0.00 – 0.15 °C" id="2"/>
+      <LegendEntry rgb="48,0,31" label="0.15 – 0.30 °C" id="3"/>
+      <LegendEntry rgb="51,0,34" label="0.30 – 0.45 °C" id="4"/>
+      <LegendEntry rgb="53,0,36" label="0.45 – 0.60 °C" id="5"/>
+      <LegendEntry rgb="56,0,39" label="0.60 – 0.75 °C" id="6"/>
+      <LegendEntry rgb="59,0,43" label="0.75 – 0.90 °C" id="7"/>
+      <LegendEntry rgb="63,1,46" label="0.90 – 1.05 °C" id="8"/>
+      <LegendEntry rgb="66,1,50" label="1.05 – 1.20 °C" id="9"/>
+      <LegendEntry rgb="69,1,53" label="1.20 – 1.35 °C" id="10"/>
+      <LegendEntry rgb="72,1,57" label="1.35 – 1.50 °C" id="11"/>
+      <LegendEntry rgb="75,2,61" label="1.50 – 1.65 °C" id="12"/>
+      <LegendEntry rgb="78,2,65" label="1.65 – 1.80 °C" id="13"/>
+      <LegendEntry rgb="81,2,69" label="1.80 – 1.95 °C" id="14"/>
+      <LegendEntry rgb="85,2,73" label="1.95 – 2.10 °C" id="15"/>
+      <LegendEntry rgb="88,2,77" label="2.10 – 2.25 °C" id="16"/>
+      <LegendEntry rgb="91,3,81" label="2.25 – 2.40 °C" id="17"/>
+      <LegendEntry rgb="95,3,85" label="2.40 – 2.55 °C" id="18"/>
+      <LegendEntry rgb="98,3,89" label="2.55 – 2.70 °C" id="19"/>
+      <LegendEntry rgb="101,3,93" label="2.70 – 2.85 °C" id="20"/>
+      <LegendEntry rgb="105,4,97" label="2.85 – 3.00 °C" id="21"/>
+      <LegendEntry rgb="108,4,102" label="3.00 – 3.15 °C" id="22"/>
+      <LegendEntry rgb="112,5,106" label="3.15 – 3.30 °C" id="23"/>
+      <LegendEntry rgb="115,5,110" label="3.30 – 3.45 °C" id="24"/>
+      <LegendEntry rgb="118,6,113" label="3.45 – 3.60 °C" id="25"/>
+      <LegendEntry rgb="120,6,115" label="3.60 – 3.75 °C" id="26"/>
+      <LegendEntry rgb="121,6,117" label="3.75 – 3.90 °C" id="27"/>
+      <LegendEntry rgb="122,6,119" label="3.90 – 4.05 °C" id="28"/>
+      <LegendEntry rgb="121,6,119" label="4.05 – 4.20 °C" id="29"/>
+      <LegendEntry rgb="120,7,119" label="4.20 – 4.35 °C" id="30"/>
+      <LegendEntry rgb="117,7,117" label="4.35 – 4.50 °C" id="31"/>
+      <LegendEntry rgb="114,7,116" label="4.50 – 4.65 °C" id="32"/>
+      <LegendEntry rgb="111,7,114" label="4.65 – 4.80 °C" id="33"/>
+      <LegendEntry rgb="107,8,112" label="4.80 – 4.95 °C" id="34"/>
+      <LegendEntry rgb="103,8,110" label="4.95 – 5.10 °C" id="35"/>
+      <LegendEntry rgb="98,8,108" label="5.10 – 5.25 °C" id="36"/>
+      <LegendEntry rgb="94,8,105" label="5.25 – 5.40 °C" id="37"/>
+      <LegendEntry rgb="90,9,103" label="5.40 – 5.55 °C" id="38"/>
+      <LegendEntry rgb="86,9,101" label="5.55 – 5.70 °C" id="39"/>
+      <LegendEntry rgb="81,9,99" label="5.70 – 5.85 °C" id="40"/>
+      <LegendEntry rgb="77,9,97" label="5.85 – 6.00 °C" id="41"/>
+      <LegendEntry rgb="73,10,94" label="6.00 – 6.15 °C" id="42"/>
+      <LegendEntry rgb="69,10,92" label="6.15 – 6.30 °C" id="43"/>
+      <LegendEntry rgb="65,10,90" label="6.30 – 6.45 °C" id="44"/>
+      <LegendEntry rgb="61,10,88" label="6.45 – 6.60 °C" id="45"/>
+      <LegendEntry rgb="57,10,86" label="6.60 – 6.75 °C" id="46"/>
+      <LegendEntry rgb="53,11,84" label="6.75 – 6.90 °C" id="47"/>
+      <LegendEntry rgb="48,11,81" label="6.90 – 7.05 °C" id="48"/>
+      <LegendEntry rgb="44,11,79" label="7.05 – 7.20 °C" id="49"/>
+      <LegendEntry rgb="40,11,77" label="7.20 – 7.35 °C" id="50"/>
+      <LegendEntry rgb="37,12,76" label="7.35 – 7.50 °C" id="51"/>
+      <LegendEntry rgb="34,13,75" label="7.50 – 7.65 °C" id="52"/>
+      <LegendEntry rgb="32,14,75" label="7.65 – 7.80 °C" id="53"/>
+      <LegendEntry rgb="30,16,77" label="7.80 – 7.95 °C" id="54"/>
+      <LegendEntry rgb="30,18,78" label="7.95 – 8.10 °C" id="55"/>
+      <LegendEntry rgb="30,20,81" label="8.10 – 8.25 °C" id="56"/>
+      <LegendEntry rgb="30,22,84" label="8.25 – 8.40 °C" id="57"/>
+      <LegendEntry rgb="30,24,87" label="8.40 – 8.55 °C" id="58"/>
+      <LegendEntry rgb="30,26,90" label="8.55 – 8.70 °C" id="59"/>
+      <LegendEntry rgb="31,28,93" label="8.70 – 8.85 °C" id="60"/>
+      <LegendEntry rgb="30,30,96" label="8.85 – 9.00 °C" id="61"/>
+      <LegendEntry rgb="30,33,99" label="9.00 – 9.15 °C" id="62"/>
+      <LegendEntry rgb="31,35,102" label="9.15 – 9.30 °C" id="63"/>
+      <LegendEntry rgb="31,37,105" label="9.30 – 9.45 °C" id="64"/>
+      <LegendEntry rgb="31,39,108" label="9.45 – 9.60 °C" id="65"/>
+      <LegendEntry rgb="31,42,112" label="9.60 – 9.75 °C" id="66"/>
+      <LegendEntry rgb="31,44,115" label="9.75 – 9.90 °C" id="67"/>
+      <LegendEntry rgb="31,46,118" label="9.90 – 10.05 °C" id="68"/>
+      <LegendEntry rgb="31,48,121" label="10.05 – 10.20 °C" id="69"/>
+      <LegendEntry rgb="31,50,124" label="10.20 – 10.35 °C" id="70"/>
+      <LegendEntry rgb="31,53,127" label="10.35 – 10.50 °C" id="71"/>
+      <LegendEntry rgb="31,55,130" label="10.50 – 10.65 °C" id="72"/>
+      <LegendEntry rgb="32,57,133" label="10.65 – 10.80 °C" id="73"/>
+      <LegendEntry rgb="32,59,136" label="10.80 – 10.95 °C" id="74"/>
+      <LegendEntry rgb="32,61,139" label="10.95 – 11.10 °C" id="75"/>
+      <LegendEntry rgb="32,64,142" label="11.10 – 11.25 °C" id="76"/>
+      <LegendEntry rgb="32,66,145" label="11.25 – 11.40 °C" id="77"/>
+      <LegendEntry rgb="32,68,148" label="11.40 – 11.55 °C" id="78"/>
+      <LegendEntry rgb="32,70,151" label="11.55 – 11.70 °C" id="79"/>
+      <LegendEntry rgb="33,73,155" label="11.70 – 11.85 °C" id="80"/>
+      <LegendEntry rgb="33,75,158" label="11.85 – 12.00 °C" id="81"/>
+      <LegendEntry rgb="33,78,161" label="12.00 – 12.15 °C" id="82"/>
+      <LegendEntry rgb="33,81,164" label="12.15 – 12.30 °C" id="83"/>
+      <LegendEntry rgb="34,84,167" label="12.30 – 12.45 °C" id="84"/>
+      <LegendEntry rgb="34,87,170" label="12.45 – 12.60 °C" id="85"/>
+      <LegendEntry rgb="35,90,173" label="12.60 – 12.75 °C" id="86"/>
+      <LegendEntry rgb="35,93,176" label="12.75 – 12.90 °C" id="87"/>
+      <LegendEntry rgb="36,96,179" label="12.90 – 13.05 °C" id="88"/>
+      <LegendEntry rgb="36,100,182" label="13.05 – 13.20 °C" id="89"/>
+      <LegendEntry rgb="37,103,185" label="13.20 – 13.35 °C" id="90"/>
+      <LegendEntry rgb="37,106,187" label="13.35 – 13.50 °C" id="91"/>
+      <LegendEntry rgb="38,110,190" label="13.50 – 13.65 °C" id="92"/>
+      <LegendEntry rgb="38,113,194" label="13.65 – 13.80 °C" id="93"/>
+      <LegendEntry rgb="39,117,197" label="13.80 – 13.95 °C" id="94"/>
+      <LegendEntry rgb="40,120,200" label="13.95 – 14.10 °C" id="95"/>
+      <LegendEntry rgb="40,123,203" label="14.10 – 14.25 °C" id="96"/>
+      <LegendEntry rgb="41,127,206" label="14.25 – 14.40 °C" id="97"/>
+      <LegendEntry rgb="41,130,209" label="14.40 – 14.55 °C" id="98"/>
+      <LegendEntry rgb="42,133,212" label="14.55 – 14.70 °C" id="99"/>
+      <LegendEntry rgb="42,136,215" label="14.70 – 14.85 °C" id="100"/>
+      <LegendEntry rgb="42,139,218" label="14.85 – 15.00 °C" id="101"/>
+      <LegendEntry rgb="43,142,221" label="15.00 – 15.15 °C" id="102"/>
+      <LegendEntry rgb="43,146,224" label="15.15 – 15.30 °C" id="103"/>
+      <LegendEntry rgb="44,149,227" label="15.30 – 15.45 °C" id="104"/>
+      <LegendEntry rgb="44,152,230" label="15.45 – 15.60 °C" id="105"/>
+      <LegendEntry rgb="45,156,233" label="15.60 – 15.75 °C" id="106"/>
+      <LegendEntry rgb="46,159,236" label="15.75 – 15.90 °C" id="107"/>
+      <LegendEntry rgb="46,163,239" label="15.90 – 16.05 °C" id="108"/>
+      <LegendEntry rgb="47,166,242" label="16.05 – 16.20 °C" id="109"/>
+      <LegendEntry rgb="48,170,245" label="16.20 – 16.35 °C" id="110"/>
+      <LegendEntry rgb="48,172,244" label="16.35 – 16.50 °C" id="111"/>
+      <LegendEntry rgb="47,173,240" label="16.50 – 16.65 °C" id="112"/>
+      <LegendEntry rgb="46,174,232" label="16.65 – 16.80 °C" id="113"/>
+      <LegendEntry rgb="45,174,222" label="16.80 – 16.95 °C" id="114"/>
+      <LegendEntry rgb="43,173,208" label="16.95 – 17.10 °C" id="115"/>
+      <LegendEntry rgb="41,171,191" label="17.10 – 17.25 °C" id="116"/>
+      <LegendEntry rgb="39,168,171" label="17.25 – 17.40 °C" id="117"/>
+      <LegendEntry rgb="37,166,152" label="17.40 – 17.55 °C" id="118"/>
+      <LegendEntry rgb="35,164,133" label="17.55 – 17.70 °C" id="119"/>
+      <LegendEntry rgb="32,163,113" label="17.70 – 17.85 °C" id="120"/>
+      <LegendEntry rgb="30,163,93" label="17.85 – 18.00 °C" id="121"/>
+      <LegendEntry rgb="27,165,72" label="18.00 – 18.15 °C" id="122"/>
+      <LegendEntry rgb="25,167,53" label="18.15 – 18.30 °C" id="123"/>
+      <LegendEntry rgb="26,170,37" label="18.30 – 18.45 °C" id="124"/>
+      <LegendEntry rgb="28,175,23" label="18.45 – 18.60 °C" id="125"/>
+      <LegendEntry rgb="32,179,13" label="18.60 – 18.75 °C" id="126"/>
+      <LegendEntry rgb="38,183,6" label="18.75 – 18.90 °C" id="127"/>
+      <LegendEntry rgb="45,187,1" label="18.90 – 19.05 °C" id="128"/>
+      <LegendEntry rgb="55,190,0" label="19.05 – 19.20 °C" id="129"/>
+      <LegendEntry rgb="66,194,0" label="19.20 – 19.35 °C" id="130"/>
+      <LegendEntry rgb="76,197,0" label="19.35 – 19.50 °C" id="131"/>
+      <LegendEntry rgb="87,201,0" label="19.50 – 19.65 °C" id="132"/>
+      <LegendEntry rgb="98,204,0" label="19.65 – 19.80 °C" id="133"/>
+      <LegendEntry rgb="109,207,0" label="19.80 – 19.95 °C" id="134"/>
+      <LegendEntry rgb="120,211,0" label="19.95 – 20.10 °C" id="135"/>
+      <LegendEntry rgb="131,215,0" label="20.10 – 20.25 °C" id="136"/>
+      <LegendEntry rgb="142,218,0" label="20.25 – 20.40 °C" id="137"/>
+      <LegendEntry rgb="153,222,0" label="20.40 – 20.55 °C" id="138"/>
+      <LegendEntry rgb="165,225,0" label="20.55 – 20.70 °C" id="139"/>
+      <LegendEntry rgb="176,229,0" label="20.70 – 20.85 °C" id="140"/>
+      <LegendEntry rgb="187,232,0" label="20.85 – 21.00 °C" id="141"/>
+      <LegendEntry rgb="197,236,0" label="21.00 – 21.15 °C" id="142"/>
+      <LegendEntry rgb="208,239,0" label="21.15 – 21.30 °C" id="143"/>
+      <LegendEntry rgb="219,243,0" label="21.30 – 21.45 °C" id="144"/>
+      <LegendEntry rgb="229,246,0" label="21.45 – 21.60 °C" id="145"/>
+      <LegendEntry rgb="237,247,0" label="21.60 – 21.75 °C" id="146"/>
+      <LegendEntry rgb="243,247,0" label="21.75 – 21.90 °C" id="147"/>
+      <LegendEntry rgb="248,245,0" label="21.90 – 22.05 °C" id="148"/>
+      <LegendEntry rgb="252,243,0" label="22.05 – 22.20 °C" id="149"/>
+      <LegendEntry rgb="254,239,0" label="22.20 – 22.35 °C" id="150"/>
+      <LegendEntry rgb="255,234,0" label="22.35 – 22.50 °C" id="151"/>
+      <LegendEntry rgb="255,228,0" label="22.50 – 22.65 °C" id="152"/>
+      <LegendEntry rgb="255,223,0" label="22.65 – 22.80 °C" id="153"/>
+      <LegendEntry rgb="255,217,0" label="22.80 – 22.95 °C" id="154"/>
+      <LegendEntry rgb="255,212,0" label="22.95 – 23.10 °C" id="155"/>
+      <LegendEntry rgb="255,206,0" label="23.10 – 23.25 °C" id="156"/>
+      <LegendEntry rgb="255,201,0" label="23.25 – 23.40 °C" id="157"/>
+      <LegendEntry rgb="255,196,0" label="23.40 – 23.55 °C" id="158"/>
+      <LegendEntry rgb="255,191,0" label="23.55 – 23.70 °C" id="159"/>
+      <LegendEntry rgb="255,185,0" label="23.70 – 23.85 °C" id="160"/>
+      <LegendEntry rgb="255,180,0" label="23.85 – 24.00 °C" id="161"/>
+      <LegendEntry rgb="255,175,0" label="24.00 – 24.15 °C" id="162"/>
+      <LegendEntry rgb="255,170,0" label="24.15 – 24.30 °C" id="163"/>
+      <LegendEntry rgb="255,164,0" label="24.30 – 24.45 °C" id="164"/>
+      <LegendEntry rgb="255,159,0" label="24.45 – 24.60 °C" id="165"/>
+      <LegendEntry rgb="255,153,0" label="24.60 – 24.75 °C" id="166"/>
+      <LegendEntry rgb="255,148,0" label="24.75 – 24.90 °C" id="167"/>
+      <LegendEntry rgb="255,142,0" label="24.90 – 25.05 °C" id="168"/>
+      <LegendEntry rgb="255,137,0" label="25.05 – 25.20 °C" id="169"/>
+      <LegendEntry rgb="255,131,0" label="25.20 – 25.35 °C" id="170"/>
+      <LegendEntry rgb="254,126,0" label="25.35 – 25.50 °C" id="171"/>
+      <LegendEntry rgb="253,122,0" label="25.50 – 25.65 °C" id="172"/>
+      <LegendEntry rgb="252,117,0" label="25.65 – 25.80 °C" id="173"/>
+      <LegendEntry rgb="251,113,0" label="25.80 – 25.95 °C" id="174"/>
+      <LegendEntry rgb="250,109,0" label="25.95 – 26.10 °C" id="175"/>
+      <LegendEntry rgb="248,106,0" label="26.10 – 26.25 °C" id="176"/>
+      <LegendEntry rgb="246,102,0" label="26.25 – 26.40 °C" id="177"/>
+      <LegendEntry rgb="244,98,0" label="26.40 – 26.55 °C" id="178"/>
+      <LegendEntry rgb="242,95,0" label="26.55 – 26.70 °C" id="179"/>
+      <LegendEntry rgb="240,91,0" label="26.70 – 26.85 °C" id="180"/>
+      <LegendEntry rgb="238,87,0" label="26.85 – 27.00 °C" id="181"/>
+      <LegendEntry rgb="236,83,0" label="27.00 – 27.15 °C" id="182"/>
+      <LegendEntry rgb="234,80,0" label="27.15 – 27.30 °C" id="183"/>
+      <LegendEntry rgb="232,76,0" label="27.30 – 27.45 °C" id="184"/>
+      <LegendEntry rgb="230,73,0" label="27.45 – 27.60 °C" id="185"/>
+      <LegendEntry rgb="228,69,0" label="27.60 – 27.75 °C" id="186"/>
+      <LegendEntry rgb="226,66,0" label="27.75 – 27.90 °C" id="187"/>
+      <LegendEntry rgb="224,62,0" label="27.90 – 28.05 °C" id="188"/>
+      <LegendEntry rgb="222,59,0" label="28.05 – 28.20 °C" id="189"/>
+      <LegendEntry rgb="220,55,0" label="28.20 – 28.35 °C" id="190"/>
+      <LegendEntry rgb="218,51,0" label="28.35 – 28.50 °C" id="191"/>
+      <LegendEntry rgb="216,48,0" label="28.50 – 28.65 °C" id="192"/>
+      <LegendEntry rgb="213,45,0" label="28.65 – 28.80 °C" id="193"/>
+      <LegendEntry rgb="210,42,0" label="28.80 – 28.95 °C" id="194"/>
+      <LegendEntry rgb="206,39,0" label="28.95 – 29.10 °C" id="195"/>
+      <LegendEntry rgb="202,37,0" label="29.10 – 29.25 °C" id="196"/>
+      <LegendEntry rgb="197,34,0" label="29.25 – 29.40 °C" id="197"/>
+      <LegendEntry rgb="192,32,0" label="29.40 – 29.55 °C" id="198"/>
+      <LegendEntry rgb="187,31,0" label="29.55 – 29.70 °C" id="199"/>
+      <LegendEntry rgb="181,29,0" label="29.70 – 29.85 °C" id="200"/>
+      <LegendEntry rgb="176,27,0" label="29.85 – 30.00 °C" id="201"/>
+      <LegendEntry rgb="171,25,0" label="30.00 – 30.15 °C" id="202"/>
+      <LegendEntry rgb="166,23,0" label="30.15 – 30.30 °C" id="203"/>
+      <LegendEntry rgb="161,21,0" label="30.30 – 30.45 °C" id="204"/>
+      <LegendEntry rgb="156,20,0" label="30.45 – 30.60 °C" id="205"/>
+      <LegendEntry rgb="151,18,0" label="30.60 – 30.75 °C" id="206"/>
+      <LegendEntry rgb="145,16,0" label="30.75 – 30.90 °C" id="207"/>
+      <LegendEntry rgb="140,14,0" label="30.90 – 31.05 °C" id="208"/>
+      <LegendEntry rgb="135,12,0" label="31.05 – 31.20 °C" id="209"/>
+      <LegendEntry rgb="130,10,0" label="31.20 – 31.35 °C" id="210"/>
+      <LegendEntry rgb="124,8,0" label="31.35 – 31.50 °C" id="211"/>
+      <LegendEntry rgb="120,7,0" label="31.50 – 31.65 °C" id="212"/>
+      <LegendEntry rgb="115,5,0" label="31.65 – 31.80 °C" id="213"/>
+      <LegendEntry rgb="110,3,0" label="31.80 – 32.00 °C" id="214"/>
+      <LegendEntry rgb="107,2,0" label="&gt;= 32.00 °C" id="215"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

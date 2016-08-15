@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "MODIS_Aqua_Cloud_Water_Path_PCL": {
+            "id":       "MODIS_Aqua_Cloud_Water_Path_PCL",
+            "title":    "Cloud Water Path (PCL)",
+            "subtitle": "Aqua/MODIS",
+            "group":    "overlays",
+            "product":  "MYD06_L2",
+
+            "metadata": ""
+
+            }
+        }
+    }

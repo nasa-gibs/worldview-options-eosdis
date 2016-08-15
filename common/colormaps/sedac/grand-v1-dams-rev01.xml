@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ColorMap>
-    <ColorMapEntry rgb="255,255,255" transparent="false" label="Not Classified"/>
-    <ColorMapEntry rgb="152,230,0"   transparent="false" label="Fisheries"/>
-    <ColorMapEntry rgb="168,0,0"     transparent="false" label="Flood Control"/>
-    <ColorMapEntry rgb="230,230,0"   transparent="false" label="Hydroelectricity"/>
-    <ColorMapEntry rgb="137,112,68"  transparent="false" label="Irrigation"/>
-    <ColorMapEntry rgb="230,152,0"   transparent="false" label="Navigation"/>
-    <ColorMapEntry rgb="255,190,232" transparent="false" label="Other"/>
-    <ColorMapEntry rgb="132,0,168"   transparent="false" label="Recreation"/>
-    <ColorMapEntry rgb="38,115,0"    transparent="false" label="Water Supply"/>
-</ColorMap>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="Dams">
+    <Entries>
+      <ColorMapEntry rgb="255,255,255" transparent="false" label="Not Classified" ref="1"/>
+      <ColorMapEntry rgb="152,230,0"   transparent="false" label="Fisheries" ref="2"/>
+      <ColorMapEntry rgb="168,0,0"     transparent="false" label="Flood Control" ref="3"/>
+      <ColorMapEntry rgb="230,230,0"   transparent="false" label="Hydroelectricity" ref="4"/>
+      <ColorMapEntry rgb="137,112,68"  transparent="false" label="Irrigation" ref="5"/>
+      <ColorMapEntry rgb="230,152,0"   transparent="false" label="Navigation" ref="6"/>
+      <ColorMapEntry rgb="255,190,232" transparent="false" label="Other" ref="7"/>
+      <ColorMapEntry rgb="132,0,168"   transparent="false" label="Recreation" ref="8"/>
+      <ColorMapEntry rgb="38,115,0"    transparent="false" label="Water Supply" ref="9"/>
+    </Entries>
+    <Legend type="classification">
+      <LegendEntry rgb="255,255,255" id="1" label="Not Classified" showLabel="true"/>
+      <LegendEntry rgb="152,230,0"   id="2" label="Fisheries" showLabel="true"/>
+      <LegendEntry rgb="168,0,0"     id="3" label="Flood Control" showLabel="true"/>
+      <LegendEntry rgb="230,230,0"   id="4" label="Hydroelectricity" showLabel="true"/>
+      <LegendEntry rgb="137,112,68"  id="5" label="Irrigation" showLabel="true"/>
+      <LegendEntry rgb="230,152,0"   id="6" label="Navigation" showLabel="true"/>
+      <LegendEntry rgb="255,190,232" id="7" label="Other" showLabel="true"/>
+      <LegendEntry rgb="132,0,168"   id="8" label="Recreation" showLabel="true"/>
+      <LegendEntry rgb="38,115,0"    id="9" label="Water Supply" showLabel="true"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>

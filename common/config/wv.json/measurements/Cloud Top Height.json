@@ -3,11 +3,11 @@
         "Cloud Top Height": {
             "id": "cloud-top-height",
             "title":    "Cloud Top Height",
-            "subtitle": "Aqua / MODIS, Terra / MODIS",
+            "subtitle": "Aqua/MODIS, Terra/MODIS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
-                    "title": "Aqua / MODIS",
+                    "title": "Aqua/MODIS",
                     "description": "modis/CloudTopHeight",
                     "image": "",
                     "settings": [
@@ -19,7 +19,7 @@
                 },
                 "Terra/MODIS": {
                     "id": "terra-modis",
-                    "title": "Terra / MODIS",
+                    "title": "Terra/MODIS",
                     "description": "modis/CloudTopHeight",
                     "image": "",
                     "settings": [

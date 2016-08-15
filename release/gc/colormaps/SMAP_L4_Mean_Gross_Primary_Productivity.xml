@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+  <ColorMap title="No Data">
+    <Entries>
+      <ColorMapEntry rgb="0,0,0" transparent="true" sourceValue="[-9999]" value="[-9999]" label="No Data" nodata="true"/>
+    </Entries>
+  </ColorMap>
+  <ColorMap title="Gross Primary Production" units="gC/m²/d">
+    <Entries minLabel="0.00 gC/m²/d" maxLabel="&gt;= 10.00 gC/m²/d">
+      <ColorMapEntry rgb="254,254,171" sourceValue="[0.00,0.04)" value="[0.00,0.04)" transparent="false" label="0.00 – 0.04 gC/m²/d" ref="0"/>
+      <ColorMapEntry rgb="253,253,164" sourceValue="[0.04,0.08)" value="[0.04,0.08)" transparent="false" label="0.04 – 0.08 gC/m²/d" ref="1"/>
+      <ColorMapEntry rgb="252,252,157" sourceValue="[0.08,0.12)" value="[0.08,0.12)" transparent="false" label="0.08 – 0.12 gC/m²/d" ref="2"/>
+      <ColorMapEntry rgb="251,251,150" sourceValue="[0.12,0.16)" value="[0.12,0.16)" transparent="false" label="0.12 – 0.16 gC/m²/d" ref="3"/>
+      <ColorMapEntry rgb="250,250,143" sourceValue="[0.16,0.20)" value="[0.16,0.20)" transparent="false" label="0.16 – 0.20 gC/m²/d" ref="4"/>
+      <ColorMapEntry rgb="249,249,136" sourceValue="[0.20,0.24)" value="[0.20,0.24)" transparent="false" label="0.20 – 0.24 gC/m²/d" ref="5"/>
+      <ColorMapEntry rgb="248,248,129" sourceValue="[0.24,0.28)" value="[0.24,0.28)" transparent="false" label="0.24 – 0.28 gC/m²/d" ref="6"/>
+      <ColorMapEntry rgb="247,247,122" sourceValue="[0.28,0.31)" value="[0.28,0.31)" transparent="false" label="0.28 – 0.31 gC/m²/d" ref="7"/>
+      <ColorMapEntry rgb="246,246,115" sourceValue="[0.31,0.35)" value="[0.31,0.35)" transparent="false" label="0.31 – 0.35 gC/m²/d" ref="8"/>
+      <ColorMapEntry rgb="245,245,108" sourceValue="[0.35,0.39)" value="[0.35,0.39)" transparent="false" label="0.35 – 0.39 gC/m²/d" ref="9"/>
+      <ColorMapEntry rgb="244,244,101" sourceValue="[0.39,0.43)" value="[0.39,0.43)" transparent="false" label="0.39 – 0.43 gC/m²/d" ref="10"/>
+      <ColorMapEntry rgb="243,243,94" sourceValue="[0.43,0.47)" value="[0.43,0.47)" transparent="false" label="0.43 – 0.47 gC/m²/d" ref="11"/>
+      <ColorMapEntry rgb="242,242,87" sourceValue="[0.47,0.51)" value="[0.47,0.51)" transparent="false" label="0.47 – 0.51 gC/m²/d" ref="12"/>
+      <ColorMapEntry rgb="241,241,80" sourceValue="[0.51,0.55)" value="[0.51,0.55)" transparent="false" label="0.51 – 0.55 gC/m²/d" ref="13"/>
+      <ColorMapEntry rgb="240,240,73" sourceValue="[0.55,0.59)" value="[0.55,0.59)" transparent="false" label="0.55 – 0.59 gC/m²/d" ref="14"/>
+      <ColorMapEntry rgb="239,239,66" sourceValue="[0.59,0.63)" value="[0.59,0.63)" transparent="false" label="0.59 – 0.63 gC/m²/d" ref="15"/>
+      <ColorMapEntry rgb="238,238,59" sourceValue="[0.63,0.67)" value="[0.63,0.67)" transparent="false" label="0.63 – 0.67 gC/m²/d" ref="16"/>
+      <ColorMapEntry rgb="237,237,52" sourceValue="[0.67,0.71)" value="[0.67,0.71)" transparent="false" label="0.67 – 0.71 gC/m²/d" ref="17"/>
+      <ColorMapEntry rgb="236,236,45" sourceValue="[0.71,0.75)" value="[0.71,0.75)" transparent="false" label="0.71 – 0.75 gC/m²/d" ref="18"/>
+      <ColorMapEntry rgb="235,235,38" sourceValue="[0.75,0.79)" value="[0.75,0.79)" transparent="false" label="0.75 – 0.79 gC/m²/d" ref="19"/>
+      <ColorMapEntry rgb="234,234,31" sourceValue="[0.79,0.83)" value="[0.79,0.83)" transparent="false" label="0.79 – 0.83 gC/m²/d" ref="20"/>
+      <ColorMapEntry rgb="233,233,24" sourceValue="[0.83,0.87)" value="[0.83,0.87)" transparent="false" label="0.83 – 0.87 gC/m²/d" ref="21"/>
+      <ColorMapEntry rgb="232,232,17" sourceValue="[0.87,0.91)" value="[0.87,0.91)" transparent="false" label="0.87 – 0.91 gC/m²/d" ref="22"/>
+      <ColorMapEntry rgb="231,231,10" sourceValue="[0.91,0.94)" value="[0.91,0.94)" transparent="false" label="0.91 – 0.94 gC/m²/d" ref="23"/>
+      <ColorMapEntry rgb="230,230,3" sourceValue="[0.94,0.98)" value="[0.94,0.98)" transparent="false" label="0.94 – 0.98 gC/m²/d" ref="24"/>
+      <ColorMapEntry rgb="226,229,1" sourceValue="[0.98,1.02)" value="[0.98,1.02)" transparent="false" label="0.98 – 1.02 gC/m²/d" ref="25"/>
+      <ColorMapEntry rgb="220,230,5" sourceValue="[1.02,1.06)" value="[1.02,1.06)" transparent="false" label="1.02 – 1.06 gC/m²/d" ref="26"/>
+      <ColorMapEntry rgb="214,231,8" sourceValue="[1.06,1.10)" value="[1.06,1.10)" transparent="false" label="1.06 – 1.10 gC/m²/d" ref="27"/>
+      <ColorMapEntry rgb="208,231,11" sourceValue="[1.10,1.14)" value="[1.10,1.14)" transparent="false" label="1.10 – 1.14 gC/m²/d" ref="28"/>
+      <ColorMapEntry rgb="202,232,15" sourceValue="[1.14,1.18)" value="[1.14,1.18)" transparent="false" label="1.14 – 1.18 gC/m²/d" ref="29"/>
+      <ColorMapEntry rgb="196,233,18" sourceValue="[1.18,1.22)" value="[1.18,1.22)" transparent="false" label="1.18 – 1.22 gC/m²/d" ref="30"/>
+      <ColorMapEntry rgb="190,233,21" sourceValue="[1.22,1.26)" value="[1.22,1.26)" transparent="false" label="1.22 – 1.26 gC/m²/d" ref="31"/>
+      <ColorMapEntry rgb="184,234,24" sourceValue="[1.26,1.30)" value="[1.26,1.30)" transparent="false" label="1.26 – 1.30 gC/m²/d" ref="32"/>
+      <ColorMapEntry rgb="178,235,28" sourceValue="[1.30,1.34)" value="[1.30,1.34)" transparent="false" label="1.30 – 1.34 gC/m²/d" ref="33"/>
+      <ColorMapEntry rgb="172,235,31" sourceValue="[1.34,1.38)" value="[1.34,1.38)" transparent="false" label="1.34 – 1.38 gC/m²/d" ref="34"/>
+      <ColorMapEntry rgb="166,236,35" sourceValue="[1.38,1.42)" value="[1.38,1.42)" transparent="false" label="1.38 – 1.42 gC/m²/d" ref="35"/>
+      <ColorMapEntry rgb="160,237,38" sourceValue="[1.42,1.46)" value="[1.42,1.46)" transparent="false" label="1.42 – 1.46 gC/m²/d" ref="36"/>
+      <ColorMapEntry rgb="154,237,41" sourceValue="[1.46,1.50)" value="[1.46,1.50)" transparent="false" label="1.46 – 1.50 gC/m²/d" ref="37"/>
+      <ColorMapEntry rgb="148,238,45" sourceValue="[1.50,1.54)" value="[1.50,1.54)" transparent="false" label="1.50 – 1.54 gC/m²/d" ref="38"/>
+      <ColorMapEntry rgb="142,239,48" sourceValue="[1.54,1.57)" value="[1.54,1.57)" transparent="false" label="1.54 – 1.57 gC/m²/d" ref="39"/>
+      <ColorMapEntry rgb="136,239,51" sourceValue="[1.57,1.61)" value="[1.57,1.61)" transparent="false" label="1.57 – 1.61 gC/m²/d" ref="40"/>
+      <ColorMapEntry rgb="130,240,55" sourceValue="[1.61,1.65)" value="[1.61,1.65)" transparent="false" label="1.61 – 1.65 gC/m²/d" ref="41"/>
+      <ColorMapEntry rgb="124,241,58" sourceValue="[1.65,1.69)" value="[1.65,1.69)" transparent="false" label="1.65 – 1.69 gC/m²/d" ref="42"/>
+      <ColorMapEntry rgb="118,241,61" sourceValue="[1.69,1.73)" value="[1.69,1.73)" transparent="false" label="1.69 – 1.73 gC/m²/d" ref="43"/>
+      <ColorMapEntry rgb="112,242,64" sourceValue="[1.73,1.77)" value="[1.73,1.77)" transparent="false" label="1.73 – 1.77 gC/m²/d" ref="44"/>
+      <ColorMapEntry rgb="106,243,68" sourceValue="[1.77,1.81)" value="[1.77,1.81)" transparent="false" label="1.77 – 1.81 gC/m²/d" ref="45"/>
+      <ColorMapEntry rgb="100,243,71" sourceValue="[1.81,1.85)" value="[1.81,1.85)" transparent="false" label="1.81 – 1.85 gC/m²/d" ref="46"/>
+      <ColorMapEntry rgb="94,244,75" sourceValue="[1.85,1.89)" value="[1.85,1.89)" transparent="false" label="1.85 – 1.89 gC/m²/d" ref="47"/>
+      <ColorMapEntry rgb="88,245,78" sourceValue="[1.89,1.93)" value="[1.89,1.93)" transparent="false" label="1.89 – 1.93 gC/m²/d" ref="48"/>
+      <ColorMapEntry rgb="82,245,81" sourceValue="[1.93,1.97)" value="[1.93,1.97)" transparent="false" label="1.93 – 1.97 gC/m²/d" ref="49"/>
+      <ColorMapEntry rgb="76,246,85" sourceValue="[1.97,2.01)" value="[1.97,2.01)" transparent="false" label="1.97 – 2.01 gC/m²/d" ref="50"/>
+      <ColorMapEntry rgb="70,247,88" sourceValue="[2.01,2.05)" value="[2.01,2.05)" transparent="false" label="2.01 – 2.05 gC/m²/d" ref="51"/>
+      <ColorMapEntry rgb="64,247,91" sourceValue="[2.05,2.09)" value="[2.05,2.09)" transparent="false" label="2.05 – 2.09 gC/m²/d" ref="52"/>
+      <ColorMapEntry rgb="58,248,95" sourceValue="[2.09,2.13)" value="[2.09,2.13)" transparent="false" label="2.09 – 2.13 gC/m²/d" ref="53"/>
+      <ColorMapEntry rgb="52,249,98" sourceValue="[2.13,2.17)" value="[2.13,2.17)" transparent="false" label="2.13 – 2.17 gC/m²/d" ref="54"/>
+      <ColorMapEntry rgb="46,249,101" sourceValue="[2.17,2.20)" value="[2.17,2.20)" transparent="false" label="2.17 – 2.20 gC/m²/d" ref="55"/>
+      <ColorMapEntry rgb="40,250,104" sourceValue="[2.20,2.24)" value="[2.20,2.24)" transparent="false" label="2.20 – 2.24 gC/m²/d" ref="56"/>
+      <ColorMapEntry rgb="34,251,108" sourceValue="[2.24,2.28)" value="[2.24,2.28)" transparent="false" label="2.24 – 2.28 gC/m²/d" ref="57"/>
+      <ColorMapEntry rgb="28,251,111" sourceValue="[2.28,2.32)" value="[2.28,2.32)" transparent="false" label="2.28 – 2.32 gC/m²/d" ref="58"/>
+      <ColorMapEntry rgb="22,252,115" sourceValue="[2.32,2.36)" value="[2.32,2.36)" transparent="false" label="2.32 – 2.36 gC/m²/d" ref="59"/>
+      <ColorMapEntry rgb="16,253,118" sourceValue="[2.36,2.40)" value="[2.36,2.40)" transparent="false" label="2.36 – 2.40 gC/m²/d" ref="60"/>
+      <ColorMapEntry rgb="10,253,121" sourceValue="[2.40,2.44)" value="[2.40,2.44)" transparent="false" label="2.40 – 2.44 gC/m²/d" ref="61"/>
+      <ColorMapEntry rgb="4,254,125" sourceValue="[2.44,2.48)" value="[2.44,2.48)" transparent="false" label="2.44 – 2.48 gC/m²/d" ref="62"/>
+      <ColorMapEntry rgb="0,254,0" sourceValue="[2.48,2.52)" value="[2.48,2.52)" transparent="false" label="2.48 – 2.52 gC/m²/d" ref="63"/>
+      <ColorMapEntry rgb="1,251,0" sourceValue="[2.52,2.56)" value="[2.52,2.56)" transparent="false" label="2.52 – 2.56 gC/m²/d" ref="64"/>
+      <ColorMapEntry rgb="2,248,0" sourceValue="[2.56,2.60)" value="[2.56,2.60)" transparent="false" label="2.56 – 2.60 gC/m²/d" ref="65"/>
+      <ColorMapEntry rgb="3,245,0" sourceValue="[2.60,2.64)" value="[2.60,2.64)" transparent="false" label="2.60 – 2.64 gC/m²/d" ref="66"/>
+      <ColorMapEntry rgb="4,242,0" sourceValue="[2.64,2.68)" value="[2.64,2.68)" transparent="false" label="2.64 – 2.68 gC/m²/d" ref="67"/>
+      <ColorMapEntry rgb="5,239,0" sourceValue="[2.68,2.72)" value="[2.68,2.72)" transparent="false" label="2.68 – 2.72 gC/m²/d" ref="68"/>
+      <ColorMapEntry rgb="6,236,0" sourceValue="[2.72,2.76)" value="[2.72,2.76)" transparent="false" label="2.72 – 2.76 gC/m²/d" ref="69"/>
+      <ColorMapEntry rgb="7,233,0" sourceValue="[2.76,2.80)" value="[2.76,2.80)" transparent="false" label="2.76 – 2.80 gC/m²/d" ref="70"/>
+      <ColorMapEntry rgb="8,230,0" sourceValue="[2.80,2.83)" value="[2.80,2.83)" transparent="false" label="2.80 – 2.83 gC/m²/d" ref="71"/>
+      <ColorMapEntry rgb="9,227,0" sourceValue="[2.83,2.87)" value="[2.83,2.87)" transparent="false" label="2.83 – 2.87 gC/m²/d" ref="72"/>
+      <ColorMapEntry rgb="10,224,0" sourceValue="[2.87,2.91)" value="[2.87,2.91)" transparent="false" label="2.87 – 2.91 gC/m²/d" ref="73"/>
+      <ColorMapEntry rgb="11,221,0" sourceValue="[2.91,2.95)" value="[2.91,2.95)" transparent="false" label="2.91 – 2.95 gC/m²/d" ref="74"/>
+      <ColorMapEntry rgb="12,218,0" sourceValue="[2.95,2.99)" value="[2.95,2.99)" transparent="false" label="2.95 – 2.99 gC/m²/d" ref="75"/>
+      <ColorMapEntry rgb="13,215,0" sourceValue="[2.99,3.03)" value="[2.99,3.03)" transparent="false" label="2.99 – 3.03 gC/m²/d" ref="76"/>
+      <ColorMapEntry rgb="14,212,0" sourceValue="[3.03,3.07)" value="[3.03,3.07)" transparent="false" label="3.03 – 3.07 gC/m²/d" ref="77"/>
+      <ColorMapEntry rgb="15,209,0" sourceValue="[3.07,3.11)" value="[3.07,3.11)" transparent="false" label="3.07 – 3.11 gC/m²/d" ref="78"/>
+      <ColorMapEntry rgb="16,206,0" sourceValue="[3.11,3.15)" value="[3.11,3.15)" transparent="false" label="3.11 – 3.15 gC/m²/d" ref="79"/>
+      <ColorMapEntry rgb="17,203,0" sourceValue="[3.15,3.19)" value="[3.15,3.19)" transparent="false" label="3.15 – 3.19 gC/m²/d" ref="80"/>
+      <ColorMapEntry rgb="18,200,0" sourceValue="[3.19,3.23)" value="[3.19,3.23)" transparent="false" label="3.19 – 3.23 gC/m²/d" ref="81"/>
+      <ColorMapEntry rgb="19,197,0" sourceValue="[3.23,3.27)" value="[3.23,3.27)" transparent="false" label="3.23 – 3.27 gC/m²/d" ref="82"/>
+      <ColorMapEntry rgb="20,194,0" sourceValue="[3.27,3.31)" value="[3.27,3.31)" transparent="false" label="3.27 – 3.31 gC/m²/d" ref="83"/>
+      <ColorMapEntry rgb="21,191,0" sourceValue="[3.31,3.35)" value="[3.31,3.35)" transparent="false" label="3.31 – 3.35 gC/m²/d" ref="84"/>
+      <ColorMapEntry rgb="22,188,0" sourceValue="[3.35,3.39)" value="[3.35,3.39)" transparent="false" label="3.35 – 3.39 gC/m²/d" ref="85"/>
+      <ColorMapEntry rgb="23,185,0" sourceValue="[3.39,3.43)" value="[3.39,3.43)" transparent="false" label="3.39 – 3.43 gC/m²/d" ref="86"/>
+      <ColorMapEntry rgb="24,182,0" sourceValue="[3.43,3.46)" value="[3.43,3.46)" transparent="false" label="3.43 – 3.46 gC/m²/d" ref="87"/>
+      <ColorMapEntry rgb="25,179,0" sourceValue="[3.46,3.50)" value="[3.46,3.50)" transparent="false" label="3.46 – 3.50 gC/m²/d" ref="88"/>
+      <ColorMapEntry rgb="26,176,0" sourceValue="[3.50,3.54)" value="[3.50,3.54)" transparent="false" label="3.50 – 3.54 gC/m²/d" ref="89"/>
+      <ColorMapEntry rgb="27,173,0" sourceValue="[3.54,3.58)" value="[3.54,3.58)" transparent="false" label="3.54 – 3.58 gC/m²/d" ref="90"/>
+      <ColorMapEntry rgb="28,170,0" sourceValue="[3.58,3.62)" value="[3.58,3.62)" transparent="false" label="3.58 – 3.62 gC/m²/d" ref="91"/>
+      <ColorMapEntry rgb="29,167,0" sourceValue="[3.62,3.66)" value="[3.62,3.66)" transparent="false" label="3.62 – 3.66 gC/m²/d" ref="92"/>
+      <ColorMapEntry rgb="30,164,0" sourceValue="[3.66,3.70)" value="[3.66,3.70)" transparent="false" label="3.66 – 3.70 gC/m²/d" ref="93"/>
+      <ColorMapEntry rgb="31,161,0" sourceValue="[3.70,3.74)" value="[3.70,3.74)" transparent="false" label="3.70 – 3.74 gC/m²/d" ref="94"/>
+      <ColorMapEntry rgb="32,158,0" sourceValue="[3.74,3.78)" value="[3.74,3.78)" transparent="false" label="3.74 – 3.78 gC/m²/d" ref="95"/>
+      <ColorMapEntry rgb="33,155,0" sourceValue="[3.78,3.82)" value="[3.78,3.82)" transparent="false" label="3.78 – 3.82 gC/m²/d" ref="96"/>
+      <ColorMapEntry rgb="34,152,0" sourceValue="[3.82,3.86)" value="[3.82,3.86)" transparent="false" label="3.82 – 3.86 gC/m²/d" ref="97"/>
+      <ColorMapEntry rgb="35,149,0" sourceValue="[3.86,3.90)" value="[3.86,3.90)" transparent="false" label="3.86 – 3.90 gC/m²/d" ref="98"/>
+      <ColorMapEntry rgb="36,146,0" sourceValue="[3.90,3.94)" value="[3.90,3.94)" transparent="false" label="3.90 – 3.94 gC/m²/d" ref="99"/>
+      <ColorMapEntry rgb="37,143,0" sourceValue="[3.94,3.98)" value="[3.94,3.98)" transparent="false" label="3.94 – 3.98 gC/m²/d" ref="100"/>
+      <ColorMapEntry rgb="38,140,0" sourceValue="[3.98,4.02)" value="[3.98,4.02)" transparent="false" label="3.98 – 4.02 gC/m²/d" ref="101"/>
+      <ColorMapEntry rgb="39,137,0" sourceValue="[4.02,4.06)" value="[4.02,4.06)" transparent="false" label="4.02 – 4.06 gC/m²/d" ref="102"/>
+      <ColorMapEntry rgb="40,134,0" sourceValue="[4.06,4.09)" value="[4.06,4.09)" transparent="false" label="4.06 – 4.09 gC/m²/d" ref="103"/>
+      <ColorMapEntry rgb="41,131,0" sourceValue="[4.09,4.13)" value="[4.09,4.13)" transparent="false" label="4.09 – 4.13 gC/m²/d" ref="104"/>
+      <ColorMapEntry rgb="42,128,0" sourceValue="[4.13,4.17)" value="[4.13,4.17)" transparent="false" label="4.13 – 4.17 gC/m²/d" ref="105"/>
+      <ColorMapEntry rgb="43,125,0" sourceValue="[4.17,4.21)" value="[4.17,4.21)" transparent="false" label="4.17 – 4.21 gC/m²/d" ref="106"/>
+      <ColorMapEntry rgb="44,122,0" sourceValue="[4.21,4.25)" value="[4.21,4.25)" transparent="false" label="4.21 – 4.25 gC/m²/d" ref="107"/>
+      <ColorMapEntry rgb="45,119,0" sourceValue="[4.25,4.29)" value="[4.25,4.29)" transparent="false" label="4.25 – 4.29 gC/m²/d" ref="108"/>
+      <ColorMapEntry rgb="46,116,0" sourceValue="[4.29,4.33)" value="[4.29,4.33)" transparent="false" label="4.29 – 4.33 gC/m²/d" ref="109"/>
+      <ColorMapEntry rgb="47,113,0" sourceValue="[4.33,4.37)" value="[4.33,4.37)" transparent="false" label="4.33 – 4.37 gC/m²/d" ref="110"/>
+      <ColorMapEntry rgb="48,110,0" sourceValue="[4.37,4.41)" value="[4.37,4.41)" transparent="false" label="4.37 – 4.41 gC/m²/d" ref="111"/>
+      <ColorMapEntry rgb="49,107,0" sourceValue="[4.41,4.45)" value="[4.41,4.45)" transparent="false" label="4.41 – 4.45 gC/m²/d" ref="112"/>
+      <ColorMapEntry rgb="50,104,0" sourceValue="[4.45,4.49)" value="[4.45,4.49)" transparent="false" label="4.45 – 4.49 gC/m²/d" ref="113"/>
+      <ColorMapEntry rgb="50,102,0" sourceValue="[4.49,4.53)" value="[4.49,4.53)" transparent="false" label="4.49 – 4.53 gC/m²/d" ref="114"/>
+      <ColorMapEntry rgb="49,102,3" sourceValue="[4.53,4.57)" value="[4.53,4.57)" transparent="false" label="4.53 – 4.57 gC/m²/d" ref="115"/>
+      <ColorMapEntry rgb="48,103,5" sourceValue="[4.57,4.61)" value="[4.57,4.61)" transparent="false" label="4.57 – 4.61 gC/m²/d" ref="116"/>
+      <ColorMapEntry rgb="47,103,8" sourceValue="[4.61,4.65)" value="[4.61,4.65)" transparent="false" label="4.61 – 4.65 gC/m²/d" ref="117"/>
+      <ColorMapEntry rgb="46,104,10" sourceValue="[4.65,4.69)" value="[4.65,4.69)" transparent="false" label="4.65 – 4.69 gC/m²/d" ref="118"/>
+      <ColorMapEntry rgb="45,104,13" sourceValue="[4.69,4.72)" value="[4.69,4.72)" transparent="false" label="4.69 – 4.72 gC/m²/d" ref="119"/>
+      <ColorMapEntry rgb="44,105,15" sourceValue="[4.72,4.76)" value="[4.72,4.76)" transparent="false" label="4.72 – 4.76 gC/m²/d" ref="120"/>
+      <ColorMapEntry rgb="43,105,18" sourceValue="[4.76,4.80)" value="[4.76,4.80)" transparent="false" label="4.76 – 4.80 gC/m²/d" ref="121"/>
+      <ColorMapEntry rgb="42,106,20" sourceValue="[4.80,4.84)" value="[4.80,4.84)" transparent="false" label="4.80 – 4.84 gC/m²/d" ref="122"/>
+      <ColorMapEntry rgb="41,106,23" sourceValue="[4.84,4.88)" value="[4.84,4.88)" transparent="false" label="4.84 – 4.88 gC/m²/d" ref="123"/>
+      <ColorMapEntry rgb="40,107,25" sourceValue="[4.88,4.92)" value="[4.88,4.92)" transparent="false" label="4.88 – 4.92 gC/m²/d" ref="124"/>
+      <ColorMapEntry rgb="39,107,28" sourceValue="[4.92,4.96)" value="[4.92,4.96)" transparent="false" label="4.92 – 4.96 gC/m²/d" ref="125"/>
+      <ColorMapEntry rgb="38,108,30" sourceValue="[4.96,5.00)" value="[4.96,5.00)" transparent="false" label="4.96 – 5.00 gC/m²/d" ref="126"/>
+      <ColorMapEntry rgb="37,108,33" sourceValue="[5.00,5.04)" value="[5.00,5.04)" transparent="false" label="5.00 – 5.04 gC/m²/d" ref="127"/>
+      <ColorMapEntry rgb="36,109,35" sourceValue="[5.04,5.08)" value="[5.04,5.08)" transparent="false" label="5.04 – 5.08 gC/m²/d" ref="128"/>
+      <ColorMapEntry rgb="35,109,38" sourceValue="[5.08,5.12)" value="[5.08,5.12)" transparent="false" label="5.08 – 5.12 gC/m²/d" ref="129"/>
+      <ColorMapEntry rgb="34,110,40" sourceValue="[5.12,5.16)" value="[5.12,5.16)" transparent="false" label="5.12 – 5.16 gC/m²/d" ref="130"/>
+      <ColorMapEntry rgb="33,110,43" sourceValue="[5.16,5.20)" value="[5.16,5.20)" transparent="false" label="5.16 – 5.20 gC/m²/d" ref="131"/>
+      <ColorMapEntry rgb="32,111,45" sourceValue="[5.20,5.24)" value="[5.20,5.24)" transparent="false" label="5.20 – 5.24 gC/m²/d" ref="132"/>
+      <ColorMapEntry rgb="31,111,48" sourceValue="[5.24,5.28)" value="[5.24,5.28)" transparent="false" label="5.24 – 5.28 gC/m²/d" ref="133"/>
+      <ColorMapEntry rgb="30,112,50" sourceValue="[5.28,5.31)" value="[5.28,5.31)" transparent="false" label="5.28 – 5.31 gC/m²/d" ref="134"/>
+      <ColorMapEntry rgb="29,112,53" sourceValue="[5.31,5.35)" value="[5.31,5.35)" transparent="false" label="5.31 – 5.35 gC/m²/d" ref="135"/>
+      <ColorMapEntry rgb="28,113,55" sourceValue="[5.35,5.39)" value="[5.35,5.39)" transparent="false" label="5.35 – 5.39 gC/m²/d" ref="136"/>
+      <ColorMapEntry rgb="27,113,58" sourceValue="[5.39,5.43)" value="[5.39,5.43)" transparent="false" label="5.39 – 5.43 gC/m²/d" ref="137"/>
+      <ColorMapEntry rgb="26,114,60" sourceValue="[5.43,5.47)" value="[5.43,5.47)" transparent="false" label="5.43 – 5.47 gC/m²/d" ref="138"/>
+      <ColorMapEntry rgb="25,114,63" sourceValue="[5.47,5.51)" value="[5.47,5.51)" transparent="false" label="5.47 – 5.51 gC/m²/d" ref="139"/>
+      <ColorMapEntry rgb="24,115,65" sourceValue="[5.51,5.55)" value="[5.51,5.55)" transparent="false" label="5.51 – 5.55 gC/m²/d" ref="140"/>
+      <ColorMapEntry rgb="23,115,68" sourceValue="[5.55,5.59)" value="[5.55,5.59)" transparent="false" label="5.55 – 5.59 gC/m²/d" ref="141"/>
+      <ColorMapEntry rgb="22,116,70" sourceValue="[5.59,5.63)" value="[5.59,5.63)" transparent="false" label="5.59 – 5.63 gC/m²/d" ref="142"/>
+      <ColorMapEntry rgb="21,116,73" sourceValue="[5.63,5.67)" value="[5.63,5.67)" transparent="false" label="5.63 – 5.67 gC/m²/d" ref="143"/>
+      <ColorMapEntry rgb="20,117,75" sourceValue="[5.67,5.71)" value="[5.67,5.71)" transparent="false" label="5.67 – 5.71 gC/m²/d" ref="144"/>
+      <ColorMapEntry rgb="19,117,78" sourceValue="[5.71,5.75)" value="[5.71,5.75)" transparent="false" label="5.71 – 5.75 gC/m²/d" ref="145"/>
+      <ColorMapEntry rgb="18,118,80" sourceValue="[5.75,5.79)" value="[5.75,5.79)" transparent="false" label="5.75 – 5.79 gC/m²/d" ref="146"/>
+      <ColorMapEntry rgb="17,118,83" sourceValue="[5.79,5.83)" value="[5.79,5.83)" transparent="false" label="5.79 – 5.83 gC/m²/d" ref="147"/>
+      <ColorMapEntry rgb="16,119,85" sourceValue="[5.83,5.87)" value="[5.83,5.87)" transparent="false" label="5.83 – 5.87 gC/m²/d" ref="148"/>
+      <ColorMapEntry rgb="15,119,88" sourceValue="[5.87,5.91)" value="[5.87,5.91)" transparent="false" label="5.87 – 5.91 gC/m²/d" ref="149"/>
+      <ColorMapEntry rgb="14,120,90" sourceValue="[5.91,5.94)" value="[5.91,5.94)" transparent="false" label="5.91 – 5.94 gC/m²/d" ref="150"/>
+      <ColorMapEntry rgb="13,120,93" sourceValue="[5.94,5.98)" value="[5.94,5.98)" transparent="false" label="5.94 – 5.98 gC/m²/d" ref="151"/>
+      <ColorMapEntry rgb="12,121,95" sourceValue="[5.98,6.02)" value="[5.98,6.02)" transparent="false" label="5.98 – 6.02 gC/m²/d" ref="152"/>
+      <ColorMapEntry rgb="11,121,98" sourceValue="[6.02,6.06)" value="[6.02,6.06)" transparent="false" label="6.02 – 6.06 gC/m²/d" ref="153"/>
+      <ColorMapEntry rgb="10,122,100" sourceValue="[6.06,6.10)" value="[6.06,6.10)" transparent="false" label="6.06 – 6.10 gC/m²/d" ref="154"/>
+      <ColorMapEntry rgb="9,122,103" sourceValue="[6.10,6.14)" value="[6.10,6.14)" transparent="false" label="6.10 – 6.14 gC/m²/d" ref="155"/>
+      <ColorMapEntry rgb="8,123,105" sourceValue="[6.14,6.18)" value="[6.14,6.18)" transparent="false" label="6.14 – 6.18 gC/m²/d" ref="156"/>
+      <ColorMapEntry rgb="7,123,108" sourceValue="[6.18,6.22)" value="[6.18,6.22)" transparent="false" label="6.18 – 6.22 gC/m²/d" ref="157"/>
+      <ColorMapEntry rgb="6,124,110" sourceValue="[6.22,6.26)" value="[6.22,6.26)" transparent="false" label="6.22 – 6.26 gC/m²/d" ref="158"/>
+      <ColorMapEntry rgb="5,124,113" sourceValue="[6.26,6.30)" value="[6.26,6.30)" transparent="false" label="6.26 – 6.30 gC/m²/d" ref="159"/>
+      <ColorMapEntry rgb="4,125,115" sourceValue="[6.30,6.34)" value="[6.30,6.34)" transparent="false" label="6.30 – 6.34 gC/m²/d" ref="160"/>
+      <ColorMapEntry rgb="3,125,118" sourceValue="[6.34,6.38)" value="[6.34,6.38)" transparent="false" label="6.34 – 6.38 gC/m²/d" ref="161"/>
+      <ColorMapEntry rgb="2,126,120" sourceValue="[6.38,6.42)" value="[6.38,6.42)" transparent="false" label="6.38 – 6.42 gC/m²/d" ref="162"/>
+      <ColorMapEntry rgb="1,126,123" sourceValue="[6.42,6.46)" value="[6.42,6.46)" transparent="false" label="6.42 – 6.46 gC/m²/d" ref="163"/>
+      <ColorMapEntry rgb="0,127,125" sourceValue="[6.46,6.50)" value="[6.46,6.50)" transparent="false" label="6.46 – 6.50 gC/m²/d" ref="164"/>
+      <ColorMapEntry rgb="0,127,127" sourceValue="[6.50,6.54)" value="[6.50,6.54)" transparent="false" label="6.50 – 6.54 gC/m²/d" ref="165"/>
+      <ColorMapEntry rgb="0,125,125" sourceValue="[6.54,6.57)" value="[6.54,6.57)" transparent="false" label="6.54 – 6.57 gC/m²/d" ref="166"/>
+      <ColorMapEntry rgb="0,124,123" sourceValue="[6.57,6.61)" value="[6.57,6.61)" transparent="false" label="6.57 – 6.61 gC/m²/d" ref="167"/>
+      <ColorMapEntry rgb="0,122,121" sourceValue="[6.61,6.65)" value="[6.61,6.65)" transparent="false" label="6.61 – 6.65 gC/m²/d" ref="168"/>
+      <ColorMapEntry rgb="0,121,119" sourceValue="[6.65,6.69)" value="[6.65,6.69)" transparent="false" label="6.65 – 6.69 gC/m²/d" ref="169"/>
+      <ColorMapEntry rgb="0,119,117" sourceValue="[6.69,6.73)" value="[6.69,6.73)" transparent="false" label="6.69 – 6.73 gC/m²/d" ref="170"/>
+      <ColorMapEntry rgb="0,118,115" sourceValue="[6.73,6.77)" value="[6.73,6.77)" transparent="false" label="6.73 – 6.77 gC/m²/d" ref="171"/>
+      <ColorMapEntry rgb="0,116,113" sourceValue="[6.77,6.81)" value="[6.77,6.81)" transparent="false" label="6.77 – 6.81 gC/m²/d" ref="172"/>
+      <ColorMapEntry rgb="0,115,111" sourceValue="[6.81,6.85)" value="[6.81,6.85)" transparent="false" label="6.81 – 6.85 gC/m²/d" ref="173"/>
+      <ColorMapEntry rgb="0,113,109" sourceValue="[6.85,6.89)" value="[6.85,6.89)" transparent="false" label="6.85 – 6.89 gC/m²/d" ref="174"/>
+      <ColorMapEntry rgb="0,112,107" sourceValue="[6.89,6.93)" value="[6.89,6.93)" transparent="false" label="6.89 – 6.93 gC/m²/d" ref="175"/>
+      <ColorMapEntry rgb="0,110,105" sourceValue="[6.93,6.97)" value="[6.93,6.97)" transparent="false" label="6.93 – 6.97 gC/m²/d" ref="176"/>
+      <ColorMapEntry rgb="0,109,103" sourceValue="[6.97,7.01)" value="[6.97,7.01)" transparent="false" label="6.97 – 7.01 gC/m²/d" ref="177"/>
+      <ColorMapEntry rgb="0,107,101" sourceValue="[7.01,7.05)" value="[7.01,7.05)" transparent="false" label="7.01 – 7.05 gC/m²/d" ref="178"/>
+      <ColorMapEntry rgb="0,106,99" sourceValue="[7.05,7.09)" value="[7.05,7.09)" transparent="false" label="7.05 – 7.09 gC/m²/d" ref="179"/>
+      <ColorMapEntry rgb="0,104,97" sourceValue="[7.09,7.13)" value="[7.09,7.13)" transparent="false" label="7.09 – 7.13 gC/m²/d" ref="180"/>
+      <ColorMapEntry rgb="0,103,95" sourceValue="[7.13,7.17)" value="[7.13,7.17)" transparent="false" label="7.13 – 7.17 gC/m²/d" ref="181"/>
+      <ColorMapEntry rgb="0,101,93" sourceValue="[7.17,7.20)" value="[7.17,7.20)" transparent="false" label="7.17 – 7.20 gC/m²/d" ref="182"/>
+      <ColorMapEntry rgb="0,100,90" sourceValue="[7.20,7.24)" value="[7.20,7.24)" transparent="false" label="7.20 – 7.24 gC/m²/d" ref="183"/>
+      <ColorMapEntry rgb="0,98,89" sourceValue="[7.24,7.28)" value="[7.24,7.28)" transparent="false" label="7.24 – 7.28 gC/m²/d" ref="184"/>
+      <ColorMapEntry rgb="0,97,87" sourceValue="[7.28,7.32)" value="[7.28,7.32)" transparent="false" label="7.28 – 7.32 gC/m²/d" ref="185"/>
+      <ColorMapEntry rgb="0,95,85" sourceValue="[7.32,7.36)" value="[7.32,7.36)" transparent="false" label="7.32 – 7.36 gC/m²/d" ref="186"/>
+      <ColorMapEntry rgb="0,94,82" sourceValue="[7.36,7.40)" value="[7.36,7.40)" transparent="false" label="7.36 – 7.40 gC/m²/d" ref="187"/>
+      <ColorMapEntry rgb="0,92,81" sourceValue="[7.40,7.44)" value="[7.40,7.44)" transparent="false" label="7.40 – 7.44 gC/m²/d" ref="188"/>
+      <ColorMapEntry rgb="0,91,79" sourceValue="[7.44,7.48)" value="[7.44,7.48)" transparent="false" label="7.44 – 7.48 gC/m²/d" ref="189"/>
+      <ColorMapEntry rgb="0,89,77" sourceValue="[7.48,7.52)" value="[7.48,7.52)" transparent="false" label="7.48 – 7.52 gC/m²/d" ref="190"/>
+      <ColorMapEntry rgb="0,88,75" sourceValue="[7.52,7.56)" value="[7.52,7.56)" transparent="false" label="7.52 – 7.56 gC/m²/d" ref="191"/>
+      <ColorMapEntry rgb="0,86,73" sourceValue="[7.56,7.60)" value="[7.56,7.60)" transparent="false" label="7.56 – 7.60 gC/m²/d" ref="192"/>
+      <ColorMapEntry rgb="0,85,71" sourceValue="[7.60,7.64)" value="[7.60,7.64)" transparent="false" label="7.60 – 7.64 gC/m²/d" ref="193"/>
+      <ColorMapEntry rgb="0,83,69" sourceValue="[7.64,7.68)" value="[7.64,7.68)" transparent="false" label="7.64 – 7.68 gC/m²/d" ref="194"/>
+      <ColorMapEntry rgb="0,82,67" sourceValue="[7.68,7.72)" value="[7.68,7.72)" transparent="false" label="7.68 – 7.72 gC/m²/d" ref="195"/>
+      <ColorMapEntry rgb="0,80,65" sourceValue="[7.72,7.76)" value="[7.72,7.76)" transparent="false" label="7.72 – 7.76 gC/m²/d" ref="196"/>
+      <ColorMapEntry rgb="0,79,63" sourceValue="[7.76,7.80)" value="[7.76,7.80)" transparent="false" label="7.76 – 7.80 gC/m²/d" ref="197"/>
+      <ColorMapEntry rgb="0,77,60" sourceValue="[7.80,7.83)" value="[7.80,7.83)" transparent="false" label="7.80 – 7.83 gC/m²/d" ref="198"/>
+      <ColorMapEntry rgb="0,76,59" sourceValue="[7.83,7.87)" value="[7.83,7.87)" transparent="false" label="7.83 – 7.87 gC/m²/d" ref="199"/>
+      <ColorMapEntry rgb="0,74,56" sourceValue="[7.87,7.91)" value="[7.87,7.91)" transparent="false" label="7.87 – 7.91 gC/m²/d" ref="200"/>
+      <ColorMapEntry rgb="0,73,54" sourceValue="[7.91,7.95)" value="[7.91,7.95)" transparent="false" label="7.91 – 7.95 gC/m²/d" ref="201"/>
+      <ColorMapEntry rgb="0,71,52" sourceValue="[7.95,7.99)" value="[7.95,7.99)" transparent="false" label="7.95 – 7.99 gC/m²/d" ref="202"/>
+      <ColorMapEntry rgb="0,70,50" sourceValue="[7.99,8.03)" value="[7.99,8.03)" transparent="false" label="7.99 – 8.03 gC/m²/d" ref="203"/>
+      <ColorMapEntry rgb="0,68,48" sourceValue="[8.03,8.07)" value="[8.03,8.07)" transparent="false" label="8.03 – 8.07 gC/m²/d" ref="204"/>
+      <ColorMapEntry rgb="0,67,47" sourceValue="[8.07,8.11)" value="[8.07,8.11)" transparent="false" label="8.07 – 8.11 gC/m²/d" ref="205"/>
+      <ColorMapEntry rgb="0,65,44" sourceValue="[8.11,8.15)" value="[8.11,8.15)" transparent="false" label="8.11 – 8.15 gC/m²/d" ref="206"/>
+      <ColorMapEntry rgb="0,64,42" sourceValue="[8.15,8.19)" value="[8.15,8.19)" transparent="false" label="8.15 – 8.19 gC/m²/d" ref="207"/>
+      <ColorMapEntry rgb="0,62,40" sourceValue="[8.19,8.23)" value="[8.19,8.23)" transparent="false" label="8.19 – 8.23 gC/m²/d" ref="208"/>
+      <ColorMapEntry rgb="0,61,38" sourceValue="[8.23,8.27)" value="[8.23,8.27)" transparent="false" label="8.23 – 8.27 gC/m²/d" ref="209"/>
+      <ColorMapEntry rgb="0,59,36" sourceValue="[8.27,8.31)" value="[8.27,8.31)" transparent="false" label="8.27 – 8.31 gC/m²/d" ref="210"/>
+      <ColorMapEntry rgb="0,58,35" sourceValue="[8.31,8.35)" value="[8.31,8.35)" transparent="false" label="8.31 – 8.35 gC/m²/d" ref="211"/>
+      <ColorMapEntry rgb="0,56,32" sourceValue="[8.35,8.39)" value="[8.35,8.39)" transparent="false" label="8.35 – 8.39 gC/m²/d" ref="212"/>
+      <ColorMapEntry rgb="0,55,31" sourceValue="[8.39,8.43)" value="[8.39,8.43)" transparent="false" label="8.39 – 8.43 gC/m²/d" ref="213"/>
+      <ColorMapEntry rgb="0,53,28" sourceValue="[8.43,8.46)" value="[8.43,8.46)" transparent="false" label="8.43 – 8.46 gC/m²/d" ref="214"/>
+      <ColorMapEntry rgb="0,52,26" sourceValue="[8.46,8.50)" value="[8.46,8.50)" transparent="false" label="8.46 – 8.50 gC/m²/d" ref="215"/>
+      <ColorMapEntry rgb="0,51,26" sourceValue="[8.50,8.54)" value="[8.50,8.54)" transparent="false" label="8.50 – 8.54 gC/m²/d" ref="216"/>
+      <ColorMapEntry rgb="0,51,28" sourceValue="[8.54,8.58)" value="[8.54,8.58)" transparent="false" label="8.54 – 8.58 gC/m²/d" ref="217"/>
+      <ColorMapEntry rgb="0,51,31" sourceValue="[8.58,8.62)" value="[8.58,8.62)" transparent="false" label="8.58 – 8.62 gC/m²/d" ref="218"/>
+      <ColorMapEntry rgb="0,51,34" sourceValue="[8.62,8.66)" value="[8.62,8.66)" transparent="false" label="8.62 – 8.66 gC/m²/d" ref="219"/>
+      <ColorMapEntry rgb="0,51,36" sourceValue="[8.66,8.70)" value="[8.66,8.70)" transparent="false" label="8.66 – 8.70 gC/m²/d" ref="220"/>
+      <ColorMapEntry rgb="0,51,39" sourceValue="[8.70,8.74)" value="[8.70,8.74)" transparent="false" label="8.70 – 8.74 gC/m²/d" ref="221"/>
+      <ColorMapEntry rgb="0,51,42" sourceValue="[8.74,8.78)" value="[8.74,8.78)" transparent="false" label="8.74 – 8.78 gC/m²/d" ref="222"/>
+      <ColorMapEntry rgb="0,51,44" sourceValue="[8.78,8.82)" value="[8.78,8.82)" transparent="false" label="8.78 – 8.82 gC/m²/d" ref="223"/>
+      <ColorMapEntry rgb="0,51,47" sourceValue="[8.82,8.86)" value="[8.82,8.86)" transparent="false" label="8.82 – 8.86 gC/m²/d" ref="224"/>
+      <ColorMapEntry rgb="0,51,50" sourceValue="[8.86,8.90)" value="[8.86,8.90)" transparent="false" label="8.86 – 8.90 gC/m²/d" ref="225"/>
+      <ColorMapEntry rgb="0,51,52" sourceValue="[8.90,8.94)" value="[8.90,8.94)" transparent="false" label="8.90 – 8.94 gC/m²/d" ref="226"/>
+      <ColorMapEntry rgb="0,51,55" sourceValue="[8.94,8.98)" value="[8.94,8.98)" transparent="false" label="8.94 – 8.98 gC/m²/d" ref="227"/>
+      <ColorMapEntry rgb="0,51,58" sourceValue="[8.98,9.02)" value="[8.98,9.02)" transparent="false" label="8.98 – 9.02 gC/m²/d" ref="228"/>
+      <ColorMapEntry rgb="0,51,60" sourceValue="[9.02,9.06)" value="[9.02,9.06)" transparent="false" label="9.02 – 9.06 gC/m²/d" ref="229"/>
+      <ColorMapEntry rgb="0,51,63" sourceValue="[9.06,9.09)" value="[9.06,9.09)" transparent="false" label="9.06 – 9.09 gC/m²/d" ref="230"/>
+      <ColorMapEntry rgb="0,51,66" sourceValue="[9.09,9.13)" value="[9.09,9.13)" transparent="false" label="9.09 – 9.13 gC/m²/d" ref="231"/>
+      <ColorMapEntry rgb="0,51,68" sourceValue="[9.13,9.17)" value="[9.13,9.17)" transparent="false" label="9.13 – 9.17 gC/m²/d" ref="232"/>
+      <ColorMapEntry rgb="0,51,71" sourceValue="[9.17,9.21)" value="[9.17,9.21)" transparent="false" label="9.17 – 9.21 gC/m²/d" ref="233"/>
+      <ColorMapEntry rgb="0,51,74" sourceValue="[9.21,9.25)" value="[9.21,9.25)" transparent="false" label="9.21 – 9.25 gC/m²/d" ref="234"/>
+      <ColorMapEntry rgb="0,51,76" sourceValue="[9.25,9.29)" value="[9.25,9.29)" transparent="false" label="9.25 – 9.29 gC/m²/d" ref="235"/>
+      <ColorMapEntry rgb="0,51,79" sourceValue="[9.29,9.33)" value="[9.29,9.33)" transparent="false" label="9.29 – 9.33 gC/m²/d" ref="236"/>
+      <ColorMapEntry rgb="0,51,82" sourceValue="[9.33,9.37)" value="[9.33,9.37)" transparent="false" label="9.33 – 9.37 gC/m²/d" ref="237"/>
+      <ColorMapEntry rgb="0,51,84" sourceValue="[9.37,9.41)" value="[9.37,9.41)" transparent="false" label="9.37 – 9.41 gC/m²/d" ref="238"/>
+      <ColorMapEntry rgb="0,51,87" sourceValue="[9.41,9.45)" value="[9.41,9.45)" transparent="false" label="9.41 – 9.45 gC/m²/d" ref="239"/>
+      <ColorMapEntry rgb="0,51,90" sourceValue="[9.45,9.49)" value="[9.45,9.49)" transparent="false" label="9.45 – 9.49 gC/m²/d" ref="240"/>
+      <ColorMapEntry rgb="0,51,92" sourceValue="[9.49,9.53)" value="[9.49,9.53)" transparent="false" label="9.49 – 9.53 gC/m²/d" ref="241"/>
+      <ColorMapEntry rgb="0,51,95" sourceValue="[9.53,9.57)" value="[9.53,9.57)" transparent="false" label="9.53 – 9.57 gC/m²/d" ref="242"/>
+      <ColorMapEntry rgb="0,51,98" sourceValue="[9.57,9.61)" value="[9.57,9.61)" transparent="false" label="9.57 – 9.61 gC/m²/d" ref="243"/>
+      <ColorMapEntry rgb="0,51,100" sourceValue="[9.61,9.65)" value="[9.61,9.65)" transparent="false" label="9.61 – 9.65 gC/m²/d" ref="244"/>
+      <ColorMapEntry rgb="0,51,103" sourceValue="[9.65,9.69)" value="[9.65,9.69)" transparent="false" label="9.65 – 9.69 gC/m²/d" ref="245"/>
+      <ColorMapEntry rgb="0,51,106" sourceValue="[9.69,9.72)" value="[9.69,9.72)" transparent="false" label="9.69 – 9.72 gC/m²/d" ref="246"/>
+      <ColorMapEntry rgb="0,51,108" sourceValue="[9.72,9.76)" value="[9.72,9.76)" transparent="false" label="9.72 – 9.76 gC/m²/d" ref="247"/>
+      <ColorMapEntry rgb="0,51,111" sourceValue="[9.76,9.80)" value="[9.76,9.80)" transparent="false" label="9.76 – 9.80 gC/m²/d" ref="248"/>
+      <ColorMapEntry rgb="0,51,114" sourceValue="[9.80,9.84)" value="[9.80,9.84)" transparent="false" label="9.80 – 9.84 gC/m²/d" ref="249"/>
+      <ColorMapEntry rgb="0,51,116" sourceValue="[9.84,9.88)" value="[9.84,9.88)" transparent="false" label="9.84 – 9.88 gC/m²/d" ref="250"/>
+      <ColorMapEntry rgb="0,51,119" sourceValue="[9.88,9.92)" value="[9.88,9.92)" transparent="false" label="9.88 – 9.92 gC/m²/d" ref="251"/>
+      <ColorMapEntry rgb="0,51,122" sourceValue="[9.92,9.96)" value="[9.92,9.96)" transparent="false" label="9.92 – 9.96 gC/m²/d" ref="252"/>
+      <ColorMapEntry rgb="0,51,124" sourceValue="[9.96,10.00)" value="[9.96,10.00)" transparent="false" label="9.96 – 10.00 gC/m²/d" ref="253"/>
+      <ColorMapEntry rgb="0,51,127" sourceValue="[10.00,+INF)" value="[10.00,+INF)" transparent="false" label="&gt;= 10.00 gC/m²/d" ref="254"/>
+    </Entries>
+    <Legend type="continuous" minLabel="0.00 gC/m²/d" maxLabel="&gt;= 10.00 gC/m²/d">
+      <LegendEntry rgb="254,254,171" label="0.00 – 0.04 gC/m²/d" id="0"/>
+      <LegendEntry rgb="253,253,164" label="0.04 – 0.08 gC/m²/d" id="1"/>
+      <LegendEntry rgb="252,252,157" label="0.08 – 0.12 gC/m²/d" id="2"/>
+      <LegendEntry rgb="251,251,150" label="0.12 – 0.16 gC/m²/d" id="3"/>
+      <LegendEntry rgb="250,250,143" label="0.16 – 0.20 gC/m²/d" id="4"/>
+      <LegendEntry rgb="249,249,136" label="0.20 – 0.24 gC/m²/d" id="5"/>
+      <LegendEntry rgb="248,248,129" label="0.24 – 0.28 gC/m²/d" id="6"/>
+      <LegendEntry rgb="247,247,122" label="0.28 – 0.31 gC/m²/d" id="7"/>
+      <LegendEntry rgb="246,246,115" label="0.31 – 0.35 gC/m²/d" id="8"/>
+      <LegendEntry rgb="245,245,108" label="0.35 – 0.39 gC/m²/d" id="9"/>
+      <LegendEntry rgb="244,244,101" label="0.39 – 0.43 gC/m²/d" id="10"/>
+      <LegendEntry rgb="243,243,94" label="0.43 – 0.47 gC/m²/d" id="11"/>
+      <LegendEntry rgb="242,242,87" label="0.47 – 0.51 gC/m²/d" id="12"/>
+      <LegendEntry rgb="241,241,80" label="0.51 – 0.55 gC/m²/d" id="13"/>
+      <LegendEntry rgb="240,240,73" label="0.55 – 0.59 gC/m²/d" id="14"/>
+      <LegendEntry rgb="239,239,66" label="0.59 – 0.63 gC/m²/d" id="15"/>
+      <LegendEntry rgb="238,238,59" label="0.63 – 0.67 gC/m²/d" id="16"/>
+      <LegendEntry rgb="237,237,52" label="0.67 – 0.71 gC/m²/d" id="17"/>
+      <LegendEntry rgb="236,236,45" label="0.71 – 0.75 gC/m²/d" id="18"/>
+      <LegendEntry rgb="235,235,38" label="0.75 – 0.79 gC/m²/d" id="19"/>
+      <LegendEntry rgb="234,234,31" label="0.79 – 0.83 gC/m²/d" id="20"/>
+      <LegendEntry rgb="233,233,24" label="0.83 – 0.87 gC/m²/d" id="21"/>
+      <LegendEntry rgb="232,232,17" label="0.87 – 0.91 gC/m²/d" id="22"/>
+      <LegendEntry rgb="231,231,10" label="0.91 – 0.94 gC/m²/d" id="23"/>
+      <LegendEntry rgb="230,230,3" label="0.94 – 0.98 gC/m²/d" id="24"/>
+      <LegendEntry rgb="226,229,1" label="0.98 – 1.02 gC/m²/d" id="25"/>
+      <LegendEntry rgb="220,230,5" label="1.02 – 1.06 gC/m²/d" id="26"/>
+      <LegendEntry rgb="214,231,8" label="1.06 – 1.10 gC/m²/d" id="27"/>
+      <LegendEntry rgb="208,231,11" label="1.10 – 1.14 gC/m²/d" id="28"/>
+      <LegendEntry rgb="202,232,15" label="1.14 – 1.18 gC/m²/d" id="29"/>
+      <LegendEntry rgb="196,233,18" label="1.18 – 1.22 gC/m²/d" id="30"/>
+      <LegendEntry rgb="190,233,21" label="1.22 – 1.26 gC/m²/d" id="31"/>
+      <LegendEntry rgb="184,234,24" label="1.26 – 1.30 gC/m²/d" id="32"/>
+      <LegendEntry rgb="178,235,28" label="1.30 – 1.34 gC/m²/d" id="33"/>
+      <LegendEntry rgb="172,235,31" label="1.34 – 1.38 gC/m²/d" id="34"/>
+      <LegendEntry rgb="166,236,35" label="1.38 – 1.42 gC/m²/d" id="35"/>
+      <LegendEntry rgb="160,237,38" label="1.42 – 1.46 gC/m²/d" id="36"/>
+      <LegendEntry rgb="154,237,41" label="1.46 – 1.50 gC/m²/d" id="37"/>
+      <LegendEntry rgb="148,238,45" label="1.50 – 1.54 gC/m²/d" id="38"/>
+      <LegendEntry rgb="142,239,48" label="1.54 – 1.57 gC/m²/d" id="39"/>
+      <LegendEntry rgb="136,239,51" label="1.57 – 1.61 gC/m²/d" id="40"/>
+      <LegendEntry rgb="130,240,55" label="1.61 – 1.65 gC/m²/d" id="41"/>
+      <LegendEntry rgb="124,241,58" label="1.65 – 1.69 gC/m²/d" id="42"/>
+      <LegendEntry rgb="118,241,61" label="1.69 – 1.73 gC/m²/d" id="43"/>
+      <LegendEntry rgb="112,242,64" label="1.73 – 1.77 gC/m²/d" id="44"/>
+      <LegendEntry rgb="106,243,68" label="1.77 – 1.81 gC/m²/d" id="45"/>
+      <LegendEntry rgb="100,243,71" label="1.81 – 1.85 gC/m²/d" id="46"/>
+      <LegendEntry rgb="94,244,75" label="1.85 – 1.89 gC/m²/d" id="47"/>
+      <LegendEntry rgb="88,245,78" label="1.89 – 1.93 gC/m²/d" id="48"/>
+      <LegendEntry rgb="82,245,81" label="1.93 – 1.97 gC/m²/d" id="49"/>
+      <LegendEntry rgb="76,246,85" label="1.97 – 2.01 gC/m²/d" id="50"/>
+      <LegendEntry rgb="70,247,88" label="2.01 – 2.05 gC/m²/d" id="51"/>
+      <LegendEntry rgb="64,247,91" label="2.05 – 2.09 gC/m²/d" id="52"/>
+      <LegendEntry rgb="58,248,95" label="2.09 – 2.13 gC/m²/d" id="53"/>
+      <LegendEntry rgb="52,249,98" label="2.13 – 2.17 gC/m²/d" id="54"/>
+      <LegendEntry rgb="46,249,101" label="2.17 – 2.20 gC/m²/d" id="55"/>
+      <LegendEntry rgb="40,250,104" label="2.20 – 2.24 gC/m²/d" id="56"/>
+      <LegendEntry rgb="34,251,108" label="2.24 – 2.28 gC/m²/d" id="57"/>
+      <LegendEntry rgb="28,251,111" label="2.28 – 2.32 gC/m²/d" id="58"/>
+      <LegendEntry rgb="22,252,115" label="2.32 – 2.36 gC/m²/d" id="59"/>
+      <LegendEntry rgb="16,253,118" label="2.36 – 2.40 gC/m²/d" id="60"/>
+      <LegendEntry rgb="10,253,121" label="2.40 – 2.44 gC/m²/d" id="61"/>
+      <LegendEntry rgb="4,254,125" label="2.44 – 2.48 gC/m²/d" id="62"/>
+      <LegendEntry rgb="0,254,0" label="2.48 – 2.52 gC/m²/d" id="63"/>
+      <LegendEntry rgb="1,251,0" label="2.52 – 2.56 gC/m²/d" id="64"/>
+      <LegendEntry rgb="2,248,0" label="2.56 – 2.60 gC/m²/d" id="65"/>
+      <LegendEntry rgb="3,245,0" label="2.60 – 2.64 gC/m²/d" id="66"/>
+      <LegendEntry rgb="4,242,0" label="2.64 – 2.68 gC/m²/d" id="67"/>
+      <LegendEntry rgb="5,239,0" label="2.68 – 2.72 gC/m²/d" id="68"/>
+      <LegendEntry rgb="6,236,0" label="2.72 – 2.76 gC/m²/d" id="69"/>
+      <LegendEntry rgb="7,233,0" label="2.76 – 2.80 gC/m²/d" id="70"/>
+      <LegendEntry rgb="8,230,0" label="2.80 – 2.83 gC/m²/d" id="71"/>
+      <LegendEntry rgb="9,227,0" label="2.83 – 2.87 gC/m²/d" id="72"/>
+      <LegendEntry rgb="10,224,0" label="2.87 – 2.91 gC/m²/d" id="73"/>
+      <LegendEntry rgb="11,221,0" label="2.91 – 2.95 gC/m²/d" id="74"/>
+      <LegendEntry rgb="12,218,0" label="2.95 – 2.99 gC/m²/d" id="75"/>
+      <LegendEntry rgb="13,215,0" label="2.99 – 3.03 gC/m²/d" id="76"/>
+      <LegendEntry rgb="14,212,0" label="3.03 – 3.07 gC/m²/d" id="77"/>
+      <LegendEntry rgb="15,209,0" label="3.07 – 3.11 gC/m²/d" id="78"/>
+      <LegendEntry rgb="16,206,0" label="3.11 – 3.15 gC/m²/d" id="79"/>
+      <LegendEntry rgb="17,203,0" label="3.15 – 3.19 gC/m²/d" id="80"/>
+      <LegendEntry rgb="18,200,0" label="3.19 – 3.23 gC/m²/d" id="81"/>
+      <LegendEntry rgb="19,197,0" label="3.23 – 3.27 gC/m²/d" id="82"/>
+      <LegendEntry rgb="20,194,0" label="3.27 – 3.31 gC/m²/d" id="83"/>
+      <LegendEntry rgb="21,191,0" label="3.31 – 3.35 gC/m²/d" id="84"/>
+      <LegendEntry rgb="22,188,0" label="3.35 – 3.39 gC/m²/d" id="85"/>
+      <LegendEntry rgb="23,185,0" label="3.39 – 3.43 gC/m²/d" id="86"/>
+      <LegendEntry rgb="24,182,0" label="3.43 – 3.46 gC/m²/d" id="87"/>
+      <LegendEntry rgb="25,179,0" label="3.46 – 3.50 gC/m²/d" id="88"/>
+      <LegendEntry rgb="26,176,0" label="3.50 – 3.54 gC/m²/d" id="89"/>
+      <LegendEntry rgb="27,173,0" label="3.54 – 3.58 gC/m²/d" id="90"/>
+      <LegendEntry rgb="28,170,0" label="3.58 – 3.62 gC/m²/d" id="91"/>
+      <LegendEntry rgb="29,167,0" label="3.62 – 3.66 gC/m²/d" id="92"/>
+      <LegendEntry rgb="30,164,0" label="3.66 – 3.70 gC/m²/d" id="93"/>
+      <LegendEntry rgb="31,161,0" label="3.70 – 3.74 gC/m²/d" id="94"/>
+      <LegendEntry rgb="32,158,0" label="3.74 – 3.78 gC/m²/d" id="95"/>
+      <LegendEntry rgb="33,155,0" label="3.78 – 3.82 gC/m²/d" id="96"/>
+      <LegendEntry rgb="34,152,0" label="3.82 – 3.86 gC/m²/d" id="97"/>
+      <LegendEntry rgb="35,149,0" label="3.86 – 3.90 gC/m²/d" id="98"/>
+      <LegendEntry rgb="36,146,0" label="3.90 – 3.94 gC/m²/d" id="99"/>
+      <LegendEntry rgb="37,143,0" label="3.94 – 3.98 gC/m²/d" id="100"/>
+      <LegendEntry rgb="38,140,0" label="3.98 – 4.02 gC/m²/d" id="101"/>
+      <LegendEntry rgb="39,137,0" label="4.02 – 4.06 gC/m²/d" id="102"/>
+      <LegendEntry rgb="40,134,0" label="4.06 – 4.09 gC/m²/d" id="103"/>
+      <LegendEntry rgb="41,131,0" label="4.09 – 4.13 gC/m²/d" id="104"/>
+      <LegendEntry rgb="42,128,0" label="4.13 – 4.17 gC/m²/d" id="105"/>
+      <LegendEntry rgb="43,125,0" label="4.17 – 4.21 gC/m²/d" id="106"/>
+      <LegendEntry rgb="44,122,0" label="4.21 – 4.25 gC/m²/d" id="107"/>
+      <LegendEntry rgb="45,119,0" label="4.25 – 4.29 gC/m²/d" id="108"/>
+      <LegendEntry rgb="46,116,0" label="4.29 – 4.33 gC/m²/d" id="109"/>
+      <LegendEntry rgb="47,113,0" label="4.33 – 4.37 gC/m²/d" id="110"/>
+      <LegendEntry rgb="48,110,0" label="4.37 – 4.41 gC/m²/d" id="111"/>
+      <LegendEntry rgb="49,107,0" label="4.41 – 4.45 gC/m²/d" id="112"/>
+      <LegendEntry rgb="50,104,0" label="4.45 – 4.49 gC/m²/d" id="113"/>
+      <LegendEntry rgb="50,102,0" label="4.49 – 4.53 gC/m²/d" id="114"/>
+      <LegendEntry rgb="49,102,3" label="4.53 – 4.57 gC/m²/d" id="115"/>
+      <LegendEntry rgb="48,103,5" label="4.57 – 4.61 gC/m²/d" id="116"/>
+      <LegendEntry rgb="47,103,8" label="4.61 – 4.65 gC/m²/d" id="117"/>
+      <LegendEntry rgb="46,104,10" label="4.65 – 4.69 gC/m²/d" id="118"/>
+      <LegendEntry rgb="45,104,13" label="4.69 – 4.72 gC/m²/d" id="119"/>
+      <LegendEntry rgb="44,105,15" label="4.72 – 4.76 gC/m²/d" id="120"/>
+      <LegendEntry rgb="43,105,18" label="4.76 – 4.80 gC/m²/d" id="121"/>
+      <LegendEntry rgb="42,106,20" label="4.80 – 4.84 gC/m²/d" id="122"/>
+      <LegendEntry rgb="41,106,23" label="4.84 – 4.88 gC/m²/d" id="123"/>
+      <LegendEntry rgb="40,107,25" label="4.88 – 4.92 gC/m²/d" id="124"/>
+      <LegendEntry rgb="39,107,28" label="4.92 – 4.96 gC/m²/d" id="125"/>
+      <LegendEntry rgb="38,108,30" label="4.96 – 5.00 gC/m²/d" id="126"/>
+      <LegendEntry rgb="37,108,33" label="5.00 – 5.04 gC/m²/d" id="127"/>
+      <LegendEntry rgb="36,109,35" label="5.04 – 5.08 gC/m²/d" id="128"/>
+      <LegendEntry rgb="35,109,38" label="5.08 – 5.12 gC/m²/d" id="129"/>
+      <LegendEntry rgb="34,110,40" label="5.12 – 5.16 gC/m²/d" id="130"/>
+      <LegendEntry rgb="33,110,43" label="5.16 – 5.20 gC/m²/d" id="131"/>
+      <LegendEntry rgb="32,111,45" label="5.20 – 5.24 gC/m²/d" id="132"/>
+      <LegendEntry rgb="31,111,48" label="5.24 – 5.28 gC/m²/d" id="133"/>
+      <LegendEntry rgb="30,112,50" label="5.28 – 5.31 gC/m²/d" id="134"/>
+      <LegendEntry rgb="29,112,53" label="5.31 – 5.35 gC/m²/d" id="135"/>
+      <LegendEntry rgb="28,113,55" label="5.35 – 5.39 gC/m²/d" id="136"/>
+      <LegendEntry rgb="27,113,58" label="5.39 – 5.43 gC/m²/d" id="137"/>
+      <LegendEntry rgb="26,114,60" label="5.43 – 5.47 gC/m²/d" id="138"/>
+      <LegendEntry rgb="25,114,63" label="5.47 – 5.51 gC/m²/d" id="139"/>
+      <LegendEntry rgb="24,115,65" label="5.51 – 5.55 gC/m²/d" id="140"/>
+      <LegendEntry rgb="23,115,68" label="5.55 – 5.59 gC/m²/d" id="141"/>
+      <LegendEntry rgb="22,116,70" label="5.59 – 5.63 gC/m²/d" id="142"/>
+      <LegendEntry rgb="21,116,73" label="5.63 – 5.67 gC/m²/d" id="143"/>
+      <LegendEntry rgb="20,117,75" label="5.67 – 5.71 gC/m²/d" id="144"/>
+      <LegendEntry rgb="19,117,78" label="5.71 – 5.75 gC/m²/d" id="145"/>
+      <LegendEntry rgb="18,118,80" label="5.75 – 5.79 gC/m²/d" id="146"/>
+      <LegendEntry rgb="17,118,83" label="5.79 – 5.83 gC/m²/d" id="147"/>
+      <LegendEntry rgb="16,119,85" label="5.83 – 5.87 gC/m²/d" id="148"/>
+      <LegendEntry rgb="15,119,88" label="5.87 – 5.91 gC/m²/d" id="149"/>
+      <LegendEntry rgb="14,120,90" label="5.91 – 5.94 gC/m²/d" id="150"/>
+      <LegendEntry rgb="13,120,93" label="5.94 – 5.98 gC/m²/d" id="151"/>
+      <LegendEntry rgb="12,121,95" label="5.98 – 6.02 gC/m²/d" id="152"/>
+      <LegendEntry rgb="11,121,98" label="6.02 – 6.06 gC/m²/d" id="153"/>
+      <LegendEntry rgb="10,122,100" label="6.06 – 6.10 gC/m²/d" id="154"/>
+      <LegendEntry rgb="9,122,103" label="6.10 – 6.14 gC/m²/d" id="155"/>
+      <LegendEntry rgb="8,123,105" label="6.14 – 6.18 gC/m²/d" id="156"/>
+      <LegendEntry rgb="7,123,108" label="6.18 – 6.22 gC/m²/d" id="157"/>
+      <LegendEntry rgb="6,124,110" label="6.22 – 6.26 gC/m²/d" id="158"/>
+      <LegendEntry rgb="5,124,113" label="6.26 – 6.30 gC/m²/d" id="159"/>
+      <LegendEntry rgb="4,125,115" label="6.30 – 6.34 gC/m²/d" id="160"/>
+      <LegendEntry rgb="3,125,118" label="6.34 – 6.38 gC/m²/d" id="161"/>
+      <LegendEntry rgb="2,126,120" label="6.38 – 6.42 gC/m²/d" id="162"/>
+      <LegendEntry rgb="1,126,123" label="6.42 – 6.46 gC/m²/d" id="163"/>
+      <LegendEntry rgb="0,127,125" label="6.46 – 6.50 gC/m²/d" id="164"/>
+      <LegendEntry rgb="0,127,127" label="6.50 – 6.54 gC/m²/d" id="165"/>
+      <LegendEntry rgb="0,125,125" label="6.54 – 6.57 gC/m²/d" id="166"/>
+      <LegendEntry rgb="0,124,123" label="6.57 – 6.61 gC/m²/d" id="167"/>
+      <LegendEntry rgb="0,122,121" label="6.61 – 6.65 gC/m²/d" id="168"/>
+      <LegendEntry rgb="0,121,119" label="6.65 – 6.69 gC/m²/d" id="169"/>
+      <LegendEntry rgb="0,119,117" label="6.69 – 6.73 gC/m²/d" id="170"/>
+      <LegendEntry rgb="0,118,115" label="6.73 – 6.77 gC/m²/d" id="171"/>
+      <LegendEntry rgb="0,116,113" label="6.77 – 6.81 gC/m²/d" id="172"/>
+      <LegendEntry rgb="0,115,111" label="6.81 – 6.85 gC/m²/d" id="173"/>
+      <LegendEntry rgb="0,113,109" label="6.85 – 6.89 gC/m²/d" id="174"/>
+      <LegendEntry rgb="0,112,107" label="6.89 – 6.93 gC/m²/d" id="175"/>
+      <LegendEntry rgb="0,110,105" label="6.93 – 6.97 gC/m²/d" id="176"/>
+      <LegendEntry rgb="0,109,103" label="6.97 – 7.01 gC/m²/d" id="177"/>
+      <LegendEntry rgb="0,107,101" label="7.01 – 7.05 gC/m²/d" id="178"/>
+      <LegendEntry rgb="0,106,99" label="7.05 – 7.09 gC/m²/d" id="179"/>
+      <LegendEntry rgb="0,104,97" label="7.09 – 7.13 gC/m²/d" id="180"/>
+      <LegendEntry rgb="0,103,95" label="7.13 – 7.17 gC/m²/d" id="181"/>
+      <LegendEntry rgb="0,101,93" label="7.17 – 7.20 gC/m²/d" id="182"/>
+      <LegendEntry rgb="0,100,90" label="7.20 – 7.24 gC/m²/d" id="183"/>
+      <LegendEntry rgb="0,98,89" label="7.24 – 7.28 gC/m²/d" id="184"/>
+      <LegendEntry rgb="0,97,87" label="7.28 – 7.32 gC/m²/d" id="185"/>
+      <LegendEntry rgb="0,95,85" label="7.32 – 7.36 gC/m²/d" id="186"/>
+      <LegendEntry rgb="0,94,82" label="7.36 – 7.40 gC/m²/d" id="187"/>
+      <LegendEntry rgb="0,92,81" label="7.40 – 7.44 gC/m²/d" id="188"/>
+      <LegendEntry rgb="0,91,79" label="7.44 – 7.48 gC/m²/d" id="189"/>
+      <LegendEntry rgb="0,89,77" label="7.48 – 7.52 gC/m²/d" id="190"/>
+      <LegendEntry rgb="0,88,75" label="7.52 – 7.56 gC/m²/d" id="191"/>
+      <LegendEntry rgb="0,86,73" label="7.56 – 7.60 gC/m²/d" id="192"/>
+      <LegendEntry rgb="0,85,71" label="7.60 – 7.64 gC/m²/d" id="193"/>
+      <LegendEntry rgb="0,83,69" label="7.64 – 7.68 gC/m²/d" id="194"/>
+      <LegendEntry rgb="0,82,67" label="7.68 – 7.72 gC/m²/d" id="195"/>
+      <LegendEntry rgb="0,80,65" label="7.72 – 7.76 gC/m²/d" id="196"/>
+      <LegendEntry rgb="0,79,63" label="7.76 – 7.80 gC/m²/d" id="197"/>
+      <LegendEntry rgb="0,77,60" label="7.80 – 7.83 gC/m²/d" id="198"/>
+      <LegendEntry rgb="0,76,59" label="7.83 – 7.87 gC/m²/d" id="199"/>
+      <LegendEntry rgb="0,74,56" label="7.87 – 7.91 gC/m²/d" id="200"/>
+      <LegendEntry rgb="0,73,54" label="7.91 – 7.95 gC/m²/d" id="201"/>
+      <LegendEntry rgb="0,71,52" label="7.95 – 7.99 gC/m²/d" id="202"/>
+      <LegendEntry rgb="0,70,50" label="7.99 – 8.03 gC/m²/d" id="203"/>
+      <LegendEntry rgb="0,68,48" label="8.03 – 8.07 gC/m²/d" id="204"/>
+      <LegendEntry rgb="0,67,47" label="8.07 – 8.11 gC/m²/d" id="205"/>
+      <LegendEntry rgb="0,65,44" label="8.11 – 8.15 gC/m²/d" id="206"/>
+      <LegendEntry rgb="0,64,42" label="8.15 – 8.19 gC/m²/d" id="207"/>
+      <LegendEntry rgb="0,62,40" label="8.19 – 8.23 gC/m²/d" id="208"/>
+      <LegendEntry rgb="0,61,38" label="8.23 – 8.27 gC/m²/d" id="209"/>
+      <LegendEntry rgb="0,59,36" label="8.27 – 8.31 gC/m²/d" id="210"/>
+      <LegendEntry rgb="0,58,35" label="8.31 – 8.35 gC/m²/d" id="211"/>
+      <LegendEntry rgb="0,56,32" label="8.35 – 8.39 gC/m²/d" id="212"/>
+      <LegendEntry rgb="0,55,31" label="8.39 – 8.43 gC/m²/d" id="213"/>
+      <LegendEntry rgb="0,53,28" label="8.43 – 8.46 gC/m²/d" id="214"/>
+      <LegendEntry rgb="0,52,26" label="8.46 – 8.50 gC/m²/d" id="215"/>
+      <LegendEntry rgb="0,51,26" label="8.50 – 8.54 gC/m²/d" id="216"/>
+      <LegendEntry rgb="0,51,28" label="8.54 – 8.58 gC/m²/d" id="217"/>
+      <LegendEntry rgb="0,51,31" label="8.58 – 8.62 gC/m²/d" id="218"/>
+      <LegendEntry rgb="0,51,34" label="8.62 – 8.66 gC/m²/d" id="219"/>
+      <LegendEntry rgb="0,51,36" label="8.66 – 8.70 gC/m²/d" id="220"/>
+      <LegendEntry rgb="0,51,39" label="8.70 – 8.74 gC/m²/d" id="221"/>
+      <LegendEntry rgb="0,51,42" label="8.74 – 8.78 gC/m²/d" id="222"/>
+      <LegendEntry rgb="0,51,44" label="8.78 – 8.82 gC/m²/d" id="223"/>
+      <LegendEntry rgb="0,51,47" label="8.82 – 8.86 gC/m²/d" id="224"/>
+      <LegendEntry rgb="0,51,50" label="8.86 – 8.90 gC/m²/d" id="225"/>
+      <LegendEntry rgb="0,51,52" label="8.90 – 8.94 gC/m²/d" id="226"/>
+      <LegendEntry rgb="0,51,55" label="8.94 – 8.98 gC/m²/d" id="227"/>
+      <LegendEntry rgb="0,51,58" label="8.98 – 9.02 gC/m²/d" id="228"/>
+      <LegendEntry rgb="0,51,60" label="9.02 – 9.06 gC/m²/d" id="229"/>
+      <LegendEntry rgb="0,51,63" label="9.06 – 9.09 gC/m²/d" id="230"/>
+      <LegendEntry rgb="0,51,66" label="9.09 – 9.13 gC/m²/d" id="231"/>
+      <LegendEntry rgb="0,51,68" label="9.13 – 9.17 gC/m²/d" id="232"/>
+      <LegendEntry rgb="0,51,71" label="9.17 – 9.21 gC/m²/d" id="233"/>
+      <LegendEntry rgb="0,51,74" label="9.21 – 9.25 gC/m²/d" id="234"/>
+      <LegendEntry rgb="0,51,76" label="9.25 – 9.29 gC/m²/d" id="235"/>
+      <LegendEntry rgb="0,51,79" label="9.29 – 9.33 gC/m²/d" id="236"/>
+      <LegendEntry rgb="0,51,82" label="9.33 – 9.37 gC/m²/d" id="237"/>
+      <LegendEntry rgb="0,51,84" label="9.37 – 9.41 gC/m²/d" id="238"/>
+      <LegendEntry rgb="0,51,87" label="9.41 – 9.45 gC/m²/d" id="239"/>
+      <LegendEntry rgb="0,51,90" label="9.45 – 9.49 gC/m²/d" id="240"/>
+      <LegendEntry rgb="0,51,92" label="9.49 – 9.53 gC/m²/d" id="241"/>
+      <LegendEntry rgb="0,51,95" label="9.53 – 9.57 gC/m²/d" id="242"/>
+      <LegendEntry rgb="0,51,98" label="9.57 – 9.61 gC/m²/d" id="243"/>
+      <LegendEntry rgb="0,51,100" label="9.61 – 9.65 gC/m²/d" id="244"/>
+      <LegendEntry rgb="0,51,103" label="9.65 – 9.69 gC/m²/d" id="245"/>
+      <LegendEntry rgb="0,51,106" label="9.69 – 9.72 gC/m²/d" id="246"/>
+      <LegendEntry rgb="0,51,108" label="9.72 – 9.76 gC/m²/d" id="247"/>
+      <LegendEntry rgb="0,51,111" label="9.76 – 9.80 gC/m²/d" id="248"/>
+      <LegendEntry rgb="0,51,114" label="9.80 – 9.84 gC/m²/d" id="249"/>
+      <LegendEntry rgb="0,51,116" label="9.84 – 9.88 gC/m²/d" id="250"/>
+      <LegendEntry rgb="0,51,119" label="9.88 – 9.92 gC/m²/d" id="251"/>
+      <LegendEntry rgb="0,51,122" label="9.92 – 9.96 gC/m²/d" id="252"/>
+      <LegendEntry rgb="0,51,124" label="9.96 – 10.00 gC/m²/d" id="253"/>
+      <LegendEntry rgb="0,51,127" label="&gt;= 10.00 gC/m²/d" id="254"/>
+    </Legend>
+  </ColorMap>
+</ColorMaps>
