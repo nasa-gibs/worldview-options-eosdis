@@ -2,7 +2,7 @@
     "layers": {
         "MODIS_Terra_Cloud_Effective_Radius_37": {
             "id":       "MODIS_Terra_Cloud_Effective_Radius_37",
-            "title":    "Cloud Effective Radius (37)",
+            "title":    "Cloud Effective Radius (3.7 micron)",
             "subtitle": "Terra/MODIS",
             "group":    "overlays",
             "product":  "MOD06_L2",
