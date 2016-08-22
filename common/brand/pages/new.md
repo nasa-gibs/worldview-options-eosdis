@@ -19,14 +19,14 @@
 
 
 ## Known Issues
-* Events currently do not work with Permalinks
+
 * Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier
+  and earlier.
 * On iOS and Android, layers cannot be reordered
 * WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995)
+  displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
-  servers not using https
+  servers not using https.
 
 ---
 
