@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+          xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.3.xsd">
   <ColorMap title="No Data">
     <Entries>
-      <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" nodata="true"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" nodata="true" ref="0"/>
     </Entries>
   </ColorMap>
-  
   <ColorMap title="Carbon Monoxide Total Column" units="ppb">
-    <Entries minLabel="40 ppb" maxLabel="&gt;140 ppb">
-      <ColorMapEntry rgb="251,209,251" transparent="false" value="[40,40.4)" label="40 – 40.4 ppb" ref="1"/>
-      <ColorMapEntry rgb="166,5,176" transparent="false" value="[40.4,50)" label="40.4 – 50 ppb" ref="2"/>
-      <ColorMapEntry rgb="30,0,234" transparent="false" value="[50,60)" label="50 – 60 ppb" ref="3"/>
-      <ColorMapEntry rgb="3,107,244" transparent="false" value="[60,70)" label="60 – 70 ppb" ref="4"/>
-      <ColorMapEntry rgb="0,221,241" transparent="false" value="[70,80)" label="70 – 80 ppb" ref="5"/>
-      <ColorMapEntry rgb="3,249,54" transparent="false" value="[80,90)" label="80 – 90 ppb" ref="6"/>
-      <ColorMapEntry rgb="81,201,0" transparent="false" value="[90,100)" label="90 – 100 ppb" ref="7"/>
-      <ColorMapEntry rgb="214,224,0" transparent="false" value="[100,110)" label="100 – 110 ppb" ref="8"/>
-      <ColorMapEntry rgb="251,204,0" transparent="false" value="[110,120)" label="110 – 120 ppb" ref="9"/>
-      <ColorMapEntry rgb="255,99,0" transparent="false" value="[120,130)" label="120 – 130 ppb" ref="10"/>
-      <ColorMapEntry rgb="207,5,0" transparent="false" value="[130,140)" label="130 – 140 ppb" ref="11"/>
-      <ColorMapEntry rgb="220,220,220" transparent="false" value="[140,500]" label="&gt;= 140 ppb" ref="12"/>
+    <Entries>
+      <ColorMapEntry rgb="251,209,251" transparent="false" value="[40,40.4)" ref="1"/>
+      <ColorMapEntry rgb="166,5,176" transparent="false" value="[40.4,50)" ref="2"/>
+      <ColorMapEntry rgb="30,0,234" transparent="false" value="[50,60)" ref="3"/>
+      <ColorMapEntry rgb="3,107,244" transparent="false" value="[60,70)" ref="4"/>
+      <ColorMapEntry rgb="0,221,241" transparent="false" value="[70,80)" ref="5"/>
+      <ColorMapEntry rgb="3,249,54" transparent="false" value="[80,90)" ref="6"/>
+      <ColorMapEntry rgb="81,201,0" transparent="false" value="[90,100)" ref="7"/>
+      <ColorMapEntry rgb="214,224,0" transparent="false" value="[100,110)" ref="8"/>
+      <ColorMapEntry rgb="251,204,0" transparent="false" value="[110,120)" ref="9"/>
+      <ColorMapEntry rgb="255,99,0" transparent="false" value="[120,130)" ref="10"/>
+      <ColorMapEntry rgb="207,5,0" transparent="false" value="[130,140)" ref="11"/>
+      <ColorMapEntry rgb="220,220,220" transparent="false" value="[140,500]" ref="12"/>
     </Entries>
     <Legend type="continuous" minLabel="40" maxLabel="&gt;140">
-      <LegendEntry rgb="251,209,251" id="1"/>
-      <LegendEntry rgb="166,5,176" id="2" label="40.4" showLabel="true"/>
-      <LegendEntry rgb="30,0,234" id="3" showTick="true"/>
-      <LegendEntry rgb="3,107,244" id="4" label="60" showLabel="true"/>
-      <LegendEntry rgb="0,221,241" id="5" showTick="true"/>
-      <LegendEntry rgb="3,249,54" id="6" label="80" showLabel="true"/>
-      <LegendEntry rgb="81,201,0" id="7" showTick="true"/>
-      <LegendEntry rgb="214,224,0" id="8" label="100" showLabel="true"/>
-      <LegendEntry rgb="251,204,0" id="9" showTick="true"/>
-      <LegendEntry rgb="255,99,0" id="10" label="120" showLabel="true"/>
-      <LegendEntry rgb="207,5,0" id="11" showTick="true"/>
-      <LegendEntry rgb="220,220,220" id="12"/>
+      <LegendEntry rgb="251,209,251" tooltip="40 – 40.4" id="1"/>
+      <LegendEntry rgb="166,5,176" tooltip="40.4 – 50" id="2"/>
+      <LegendEntry rgb="30,0,234" tooltip="50 – 60" id="3"/>
+      <LegendEntry rgb="3,107,244" tooltip="60 – 70" id="4"/>
+      <LegendEntry rgb="0,221,241" tooltip="70 – 80" id="5"/>
+      <LegendEntry rgb="3,249,54" tooltip="80 – 90" id="6"/>
+      <LegendEntry rgb="81,201,0" tooltip="90 – 100" id="7"/>
+      <LegendEntry rgb="214,224,0" tooltip="100 – 110" id="8"/>
+      <LegendEntry rgb="251,204,0" tooltip="110 – 120" id="9"/>
+      <LegendEntry rgb="255,99,0" tooltip="120 – 130" id="10"/>
+      <LegendEntry rgb="207,5,0" tooltip="130 – 140" id="11"/>
+      <LegendEntry rgb="220,220,220" tooltip="&gt;= 140" id="12"/>
     </Legend>
   </ColorMap>
 </ColorMaps>

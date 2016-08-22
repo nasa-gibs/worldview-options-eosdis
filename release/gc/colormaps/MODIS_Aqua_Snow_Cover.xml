@@ -1,55 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
-
+          xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.3.xsd">
   <ColorMap title="No Data">
     <Entries>
-      <ColorMapEntry rgb="0,0,0" transparent="true" label="No Data" nodata="true"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" nodata="true" ref="0"/>
     </Entries>
   </ColorMap>
-
   <ColorMap title="Snow Cover" units="%">
-    <Entries minLabel="1 %" maxLabel="100 %">
-      <ColorMapEntry rgb="30,0,234" transparent="false" value="[1,20)" label="1 – 20 %" ref="1"/>
-      <ColorMapEntry rgb="3,107,244" transparent="false" value="[20,30)" label="20 – 30 %" ref="2"/>
-      <ColorMapEntry rgb="0,221,241" transparent="false" value="[30,40)" label="30 – 40 %" ref="3"/>
-      <ColorMapEntry rgb="3,249,54" transparent="false" value="[40,50)" label="40 – 50 %" ref="4"/>
-      <ColorMapEntry rgb="81,201,0" transparent="false" value="[50,60)" label="50 – 60 %" ref="5"/>
-      <ColorMapEntry rgb="214,224,0" transparent="false" value="[60,70)" label="60 – 70 %" ref="6"/>
-      <ColorMapEntry rgb="251,204,0" transparent="false" value="[70,80)" label="70 – 80 %" ref="7"/>
-      <ColorMapEntry rgb="255,99,0" transparent="false" value="[80,90)" label="80 – 90 %" ref="8"/>
-      <ColorMapEntry rgb="207,5,0" transparent="false" value="[90,100)" label="90 – 100 %" ref="9"/>
+    <Entries>
+      <ColorMapEntry rgb="30,0,234" transparent="false" value="[1,20)" ref="1"/>
+      <ColorMapEntry rgb="3,107,244" transparent="false" value="[20,30)" ref="2"/>
+      <ColorMapEntry rgb="0,221,241" transparent="false" value="[30,40)" ref="3"/>
+      <ColorMapEntry rgb="3,249,54" transparent="false" value="[40,50)" ref="4"/>
+      <ColorMapEntry rgb="81,201,0" transparent="false" value="[50,60)" ref="5"/>
+      <ColorMapEntry rgb="214,224,0" transparent="false" value="[60,70)" ref="6"/>
+      <ColorMapEntry rgb="251,204,0" transparent="false" value="[70,80)" ref="7"/>
+      <ColorMapEntry rgb="255,99,0" transparent="false" value="[80,90)" ref="8"/>
+      <ColorMapEntry rgb="207,5,0" transparent="false" value="[90,100)" ref="9"/>
     </Entries>
-    
     <Legend type="continuous" minLabel="1" maxLabel="100">
-      <LegendEntry rgb="30,0,234" id="1"/>
-      <LegendEntry rgb="3,107,244" id="2" label="20" showLabel="true"/>
-      <LegendEntry rgb="0,221,241" id="3"/>
-      <LegendEntry rgb="3,249,54" id="4" label="40" showLabel="true"/>
-      <LegendEntry rgb="81,201,0" id="5"/>
-      <LegendEntry rgb="214,224,0" id="6" label="60" showLabel="true"/>
-      <LegendEntry rgb="251,204,0" id="7"/>
-      <LegendEntry rgb="255,99,0" id="8" label="80" showLabel="true"/>
-      <LegendEntry rgb="207,5,0" id="9"/>
+      <LegendEntry rgb="30,0,234" tooltip="1 – 20" id="1"/>
+      <LegendEntry rgb="3,107,244" tooltip="20 – 30" id="2"/>
+      <LegendEntry rgb="0,221,241" tooltip="30 – 40" id="3"/>
+      <LegendEntry rgb="3,249,54" tooltip="40 – 50" id="4"/>
+      <LegendEntry rgb="81,201,0" tooltip="50 – 60" id="5"/>
+      <LegendEntry rgb="214,224,0" tooltip="60 – 70" id="6"/>
+      <LegendEntry rgb="251,204,0" tooltip="70 – 80" id="7"/>
+      <LegendEntry rgb="255,99,0" tooltip="80 – 90" id="8"/>
+      <LegendEntry rgb="207,5,0" tooltip="90 – 100" id="9"/>
     </Legend>
   </ColorMap>
-  
   <ColorMap title="Unknown">
     <Entries>
-      <ColorMapEntry rgb="0,0,255" transparent="true" label="Unknown 1"/>
-      <ColorMapEntry rgb="127,255,0" transparent="true" label="Unknown 2"/>
-      <ColorMapEntry rgb="127,255,212" transparent="true" label="Unknown 3"/>
-      <ColorMapEntry rgb="150,155,148" transparent="true" label="Unknown 4"/>
-      <ColorMapEntry rgb="160,32,240" transparent="true" label="Unknown 5"/>
-      <ColorMapEntry rgb="171,171,171" transparent="true" label="Unknown 6"/>
-      <ColorMapEntry rgb="191,188,191" transparent="true" label="Unknown 7"/>
-      <ColorMapEntry rgb="255,0,0" transparent="true" label="Unknown 8"/>
-      <ColorMapEntry rgb="255,0,255" transparent="true" label="Unknown 9"/>
-      <ColorMapEntry rgb="255,255,0" transparent="true" label="Unknown 10"/>
-      <ColorMapEntry rgb="45,7,224" transparent="true" label="Unknown 11"/>
-      <ColorMapEntry rgb="46,139,255" transparent="true" label="Unknown 12"/>
-      <ColorMapEntry rgb="47,115,87" transparent="true" label="Unknown 13"/>
+      <ColorMapEntry rgb="0,0,255" transparent="true" ref="10"/>
+      <ColorMapEntry rgb="127,255,0" transparent="true" ref="11"/>
+      <ColorMapEntry rgb="127,255,212" transparent="true" ref="12"/>
+      <ColorMapEntry rgb="150,155,148" transparent="true" ref="13"/>
+      <ColorMapEntry rgb="160,32,240" transparent="true" ref="14"/>
+      <ColorMapEntry rgb="171,171,171" transparent="true" ref="15"/>
+      <ColorMapEntry rgb="191,188,191" transparent="true" ref="16"/>
+      <ColorMapEntry rgb="255,0,0" transparent="true" ref="17"/>
+      <ColorMapEntry rgb="255,0,255" transparent="true" ref="18"/>
+      <ColorMapEntry rgb="255,255,0" transparent="true" ref="19"/>
+      <ColorMapEntry rgb="45,7,224" transparent="true" ref="20"/>
+      <ColorMapEntry rgb="46,139,255" transparent="true" ref="21"/>
+      <ColorMapEntry rgb="47,115,87" transparent="true" ref="22"/>
     </Entries>
   </ColorMap>
-
 </ColorMaps>

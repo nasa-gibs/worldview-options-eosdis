@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColorMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.2.xsd">
+          xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.3.xsd">
   <ColorMap title="Data / No Data">
     <Entries>
-      <ColorMapEntry rgb="202,170,86" transparent="false" label="No Data" ref="1" nodata="true"/>
-      <ColorMapEntry rgb="0,0,0" transparent="true" label="Data" ref="2"/>
+      <ColorMapEntry rgb="202,170,86" transparent="false" nodata="true" ref="0"/>
+      <ColorMapEntry rgb="0,0,0" transparent="true" ref="1"/>
     </Entries>
     <Legend type="classification">
-      <LegendEntry rgb="202,170,86" id="1" label="No Data" showLabel="true"/>
+      <LegendEntry rgb="202,170,86" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
 </ColorMaps>
