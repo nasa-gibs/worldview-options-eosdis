@@ -2,20 +2,16 @@
     "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-geographic.xml"
         },
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-arctic.xml"
         },
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
-        },
-        {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg3857/std/wmts.cgi?request=GetCapabilities",
-            "to": "gibs-mercator.xml"
         }
     ],
     "wv-options-wmts": [
@@ -40,11 +36,5 @@
             "projection": "antarctic",
             "maxResolution": 8192.0
         }
-    ],
-    "skip": [
-        "ASTER_L1T_Radiance_Terrain_Corrected",
-        "CCMP_REMSS_Scalar_Wind_Speed_Monthly",
-        "CCMP_REMSS_Zonal_Wind_Speed_Monthly",
-        "CCMP_REMSS_Meridional_Wind_Speed_Monthly"
     ]
 }
