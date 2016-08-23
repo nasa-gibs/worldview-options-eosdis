@@ -118,7 +118,7 @@
       <ColorMapEntry rgb="34,34,34" transparent="true" sourceValue="[254]" ref="55"/>
       <ColorMapEntry rgb="35,35,35" transparent="true" sourceValue="[255]" ref="56"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="51"/>
       <LegendEntry rgb="31,31,31" tooltip="Missing wind speed due to rain" id="52"/>
       <LegendEntry rgb="32,32,32" tooltip="Sea ice" id="53"/>

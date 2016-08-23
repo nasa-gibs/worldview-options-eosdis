@@ -221,7 +221,7 @@
       <ColorMapEntry rgb="170,0,0" transparent="true" sourceValue="[254]" ref="108"/>
       <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="[255]" nodata="true" ref="109"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="255,200,255" tooltip="Missing Data" id="101"/>
       <LegendEntry rgb="200,200,200" tooltip="No Decision" id="102"/>
       <LegendEntry rgb="189,0,189" tooltip="Night" id="103"/>

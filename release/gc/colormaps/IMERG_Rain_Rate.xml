@@ -6,7 +6,7 @@
       <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="[-INF,0.1)" value="[-INF,0.1)" ref="0"/>
       <ColorMapEntry rgb="128,128,128" transparent="true" nodata="true" ref="1"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="255,255,255" tooltip="&lt; 0.1 mm/hr" id="0"/>
       <LegendEntry rgb="128,128,128" tooltip="No Data" id="1"/>
     </Legend>

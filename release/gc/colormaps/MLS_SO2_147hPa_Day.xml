@@ -5,7 +5,7 @@
     <Entries>
       <ColorMapEntry rgb="255,255,255" transparent="true" nodata="true" ref="0"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="255,255,255" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>

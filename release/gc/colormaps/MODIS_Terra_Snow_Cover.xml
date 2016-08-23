@@ -5,7 +5,7 @@
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" nodata="true" ref="0"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
@@ -49,7 +49,7 @@
       <ColorMapEntry rgb="46,139,255" transparent="true" ref="21"/>
       <ColorMapEntry rgb="47,115,87" transparent="true" ref="22"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="0,0,255" tooltip="Unknown 1" id="10"/>
       <LegendEntry rgb="127,255,0" tooltip="Unknown 2" id="11"/>
       <LegendEntry rgb="127,255,212" tooltip="Unknown 3" id="12"/>

@@ -5,11 +5,11 @@
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" sourceValue="[-9999]" value="[-9999]" nodata="true" ref="0"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Net Ecosystem CO2 Exchange Uncertainty" units="gC/m²/d">
+  <ColorMap title="Net Ecosystem CO2 Exchange Uncertainty" units="gC/m²d">
     <Entries>
       <ColorMapEntry rgb="0,0,132" transparent="false" sourceValue="[0.00,0.01)" value="[0.00,0.01)" ref="1"/>
       <ColorMapEntry rgb="0,0,136" transparent="false" sourceValue="[0.01,0.02)" value="[0.01,0.02)" ref="2"/>

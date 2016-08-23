@@ -8,7 +8,7 @@
       <ColorMapEntry rgb="0,0,1" transparent="true" sourceValue="[-260,-250]" ref="2"/>
       <ColorMapEntry rgb="0,0,2" transparent="true" sourceValue="[-220]" ref="3"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="220,220,255" tooltip="No Data" id="0"/>
       <LegendEntry rgb="0,0,0" tooltip="Unknown 1" id="1"/>
       <LegendEntry rgb="0,0,1" tooltip="Unknown 2" id="2"/>

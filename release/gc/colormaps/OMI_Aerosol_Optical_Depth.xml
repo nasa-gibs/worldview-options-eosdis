@@ -5,11 +5,11 @@
     <Entries>
       <ColorMapEntry rgb="255,0,255" transparent="true" nodata="true" ref="0"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="255,0,255" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="No Data">
+  <ColorMap title="Aerosol Optical Depth">
     <Entries>
       <ColorMapEntry rgb="255,245,240" transparent="false" sourceValue="[-INF,0.0000)" value="[-INF,0.0000)" ref="1"/>
       <ColorMapEntry rgb="254,224,210" transparent="false" sourceValue="[0.0000,0.0125)" value="[0.0000,0.0125)" ref="2"/>

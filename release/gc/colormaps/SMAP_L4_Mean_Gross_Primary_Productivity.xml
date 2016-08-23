@@ -5,11 +5,11 @@
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" sourceValue="[-9999]" value="[-9999]" nodata="true" ref="0"/>
     </Entries>
-    <Legend type="Classification">
+    <Legend type="classification">
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Gross Primary Production" units="gC/m²/d">
+  <ColorMap title="Gross Primary Production" units="gC/m²d">
     <Entries>
       <ColorMapEntry rgb="254,254,171" transparent="false" sourceValue="[0.00,0.04)" value="[0.00,0.04)" ref="1"/>
       <ColorMapEntry rgb="253,253,164" transparent="false" sourceValue="[0.04,0.08)" value="[0.04,0.08)" ref="2"/>
