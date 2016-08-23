@@ -15,6 +15,7 @@
       <ColorMapEntry rgb="51,102,0" transparent="false" sourceValue="9" ref="9"/>
     </Entries>
     <Legend type="classification">
+      <LegendEntry rgb="100,100,100" tooltip="Fill" id="0"/>
       <LegendEntry rgb="0,0,100" tooltip="Single Layer Cloud" id="1"/>
       <LegendEntry rgb="0,136,238" tooltip="Lowest Confidence Multi-Layer Cloud" id="2"/>
       <LegendEntry rgb="188,210,254" tooltip="+1 Confidence Multi-Layer Cloud" id="3"/>

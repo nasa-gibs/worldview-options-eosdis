@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="0,68,202" transparent="true" sourceValue="[-9999,-9999)" value="[-9999,0)" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,68,202" tooltip="0 m" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Elevation" units="m">
     <Entries>

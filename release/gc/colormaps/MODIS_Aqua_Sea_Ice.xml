@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="31,31,31" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="31,31,31" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Classifications">
     <Entries>
@@ -27,5 +30,17 @@
       <ColorMapEntry rgb="255,255,0" transparent="true" ref="10"/>
       <ColorMapEntry rgb="46,139,87" transparent="true" ref="11"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="Unknown 1" id="2"/>
+      <LegendEntry rgb="0,0,255" tooltip="Unknown 2" id="3"/>
+      <LegendEntry rgb="127,255,212" tooltip="Unknown 3" id="4"/>
+      <LegendEntry rgb="160,32,240" tooltip="Unknown 4" id="5"/>
+      <LegendEntry rgb="170,170,170" tooltip="Unknown 5" id="6"/>
+      <LegendEntry rgb="181,181,181" tooltip="Unknown 6" id="7"/>
+      <LegendEntry rgb="255,0,0" tooltip="Unknown 7" id="8"/>
+      <LegendEntry rgb="255,0,255" tooltip="Unknown 8" id="9"/>
+      <LegendEntry rgb="255,255,0" tooltip="Unknown 9" id="10"/>
+      <LegendEntry rgb="46,139,87" tooltip="Unknown 10" id="11"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

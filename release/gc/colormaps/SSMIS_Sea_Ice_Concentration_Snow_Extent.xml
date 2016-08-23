@@ -12,9 +12,13 @@
       <ColorMapEntry rgb="1,1,255" transparent="true" sourceValue="[255]" nodata="true" ref="6"/>
     </Entries>
     <Legend type="classification">
+      <LegendEntry rgb="119,119,119" tooltip="Snow-free land" id="0"/>
       <LegendEntry rgb="240,240,240" tooltip="Permanent Ice" id="1"/>
       <LegendEntry rgb="250,250,250" tooltip="Snow" id="2"/>
+      <LegendEntry rgb="0,0,0" tooltip="Mixed Pixels at Coastlines" id="3"/>
       <LegendEntry rgb="200,200,200" tooltip="Suspect Ice Value" id="4"/>
+      <LegendEntry rgb="0,1,0" tooltip="Corners" id="5"/>
+      <LegendEntry rgb="1,1,255" tooltip="Ocean" id="6"/>
     </Legend>
   </ColorMap>
   <ColorMap title="Sea Ice Concentration" units="%">

@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="64,64,64" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="64,64,64" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Land Surface Temperature" units="K">
     <Entries>

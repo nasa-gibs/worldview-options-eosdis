@@ -11,7 +11,12 @@
       <ColorMapEntry rgb="1,0,0" transparent="true" sourceValue="[255]" nodata="true" ref="5"/>
     </Entries>
     <Legend type="classification">
+      <LegendEntry rgb="0,5,133" tooltip="Ocean" id="0"/>
       <LegendEntry rgb="0,0,1" tooltip="Pole Mask" id="1"/>
+      <LegendEntry rgb="0,1,0" tooltip="Unused" id="2"/>
+      <LegendEntry rgb="0,1,1" tooltip="Coastlines" id="3"/>
+      <LegendEntry rgb="119,119,119" tooltip="Land Mask" id="4"/>
+      <LegendEntry rgb="1,0,0" tooltip="No Data" id="5"/>
     </Legend>
   </ColorMap>
   <ColorMap title="Sea Ice Concentration" units="%">

@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="255,255,255" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="255,255,255" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Nitrous Oxide" units="ppbv">
     <Entries>

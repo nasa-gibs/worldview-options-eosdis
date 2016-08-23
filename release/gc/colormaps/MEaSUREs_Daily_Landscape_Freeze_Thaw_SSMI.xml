@@ -16,11 +16,17 @@
       <LegendEntry rgb="255,0,0" tooltip="Thawed" id="1"/>
       <LegendEntry rgb="165,165,0" tooltip="Transitional" id="2"/>
       <LegendEntry rgb="0,255,0" tooltip="Inv Transitional" id="3"/>
+      <LegendEntry rgb="255,255,255" tooltip="No FT Status" id="4"/>
+      <LegendEntry rgb="17,17,17" tooltip="Non–Cold Area" id="5"/>
+      <LegendEntry rgb="119,85,51" tooltip="Open Water" id="6"/>
     </Legend>
   </ColorMap>
   <ColorMap title="No Data">
     <Entries>
       <ColorMapEntry rgb="119,154,187" transparent="true" sourceValue="255" nodata="true" ref="7"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="119,154,187" tooltip="Fill" id="7"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

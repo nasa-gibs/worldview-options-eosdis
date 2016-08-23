@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Precipitation" units="mm">
     <Entries>

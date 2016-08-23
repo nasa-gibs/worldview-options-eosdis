@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Snow Cover" units="%">
     <Entries>
@@ -46,5 +49,20 @@
       <ColorMapEntry rgb="46,139,255" transparent="true" ref="21"/>
       <ColorMapEntry rgb="47,115,87" transparent="true" ref="22"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,255" tooltip="Unknown 1" id="10"/>
+      <LegendEntry rgb="127,255,0" tooltip="Unknown 2" id="11"/>
+      <LegendEntry rgb="127,255,212" tooltip="Unknown 3" id="12"/>
+      <LegendEntry rgb="150,155,148" tooltip="Unknown 4" id="13"/>
+      <LegendEntry rgb="160,32,240" tooltip="Unknown 5" id="14"/>
+      <LegendEntry rgb="171,171,171" tooltip="Unknown 6" id="15"/>
+      <LegendEntry rgb="191,188,191" tooltip="Unknown 7" id="16"/>
+      <LegendEntry rgb="255,0,0" tooltip="Unknown 8" id="17"/>
+      <LegendEntry rgb="255,0,255" tooltip="Unknown 9" id="18"/>
+      <LegendEntry rgb="255,255,0" tooltip="Unknown 10" id="19"/>
+      <LegendEntry rgb="45,7,224" tooltip="Unknown 11" id="20"/>
+      <LegendEntry rgb="46,139,255" tooltip="Unknown 12" id="21"/>
+      <LegendEntry rgb="47,115,87" tooltip="Unknown 13" id="22"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

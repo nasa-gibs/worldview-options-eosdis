@@ -8,6 +8,12 @@
       <ColorMapEntry rgb="0,0,1" transparent="true" sourceValue="[-260,-250]" ref="2"/>
       <ColorMapEntry rgb="0,0,2" transparent="true" sourceValue="[-220]" ref="3"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="220,220,255" tooltip="No Data" id="0"/>
+      <LegendEntry rgb="0,0,0" tooltip="Unknown 1" id="1"/>
+      <LegendEntry rgb="0,0,1" tooltip="Unknown 2" id="2"/>
+      <LegendEntry rgb="0,0,2" tooltip="Unknown 3" id="3"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Aerosol Optical Depth">
     <Entries>
@@ -31,6 +37,8 @@
       <ColorMapEntry rgb="255,0,0" transparent="false" sourceValue="[700,5000]" value="0.70" ref="21"/>
     </Entries>
     <Legend type="continuous" minLabel="-0.15" maxLabel="0.70">
+      <LegendEntry rgb="192,192,192" tooltip="-0.15" id="4"/>
+      <LegendEntry rgb="220,220,255" tooltip="-0.10" id="5"/>
       <LegendEntry rgb="102,0,119" tooltip="-0.05" id="6"/>
       <LegendEntry rgb="183,15,141" tooltip="0.00" id="7"/>
       <LegendEntry rgb="0,0,100" tooltip="0.05" id="8"/>

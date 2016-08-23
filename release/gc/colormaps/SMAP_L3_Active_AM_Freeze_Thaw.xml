@@ -8,6 +8,7 @@
       <ColorMapEntry rgb="101,134,255" transparent="false" sourceValue="1" ref="2"/>
     </Entries>
     <Legend type="classification">
+      <LegendEntry rgb="0,0,0" tooltip="Not Recommended" id="0"/>
       <LegendEntry rgb="100,79,45" tooltip="Thaw" id="1"/>
       <LegendEntry rgb="101,134,255" tooltip="Freeze" id="2"/>
     </Legend>

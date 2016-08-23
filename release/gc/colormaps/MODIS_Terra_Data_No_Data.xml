@@ -8,6 +8,7 @@
     </Entries>
     <Legend type="classification">
       <LegendEntry rgb="202,170,86" tooltip="No Data" id="0"/>
+      <LegendEntry rgb="0,0,0" tooltip="Data" id="1"/>
     </Legend>
   </ColorMap>
 </ColorMaps>

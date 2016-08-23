@@ -12,9 +12,9 @@
       <ColorMapEntry rgb="48,0,239" transparent="false" sourceValue="[12]" value="[6]" ref="6"/>
       <ColorMapEntry rgb="24,0,247" transparent="false" sourceValue="[14]" value="[7]" ref="7"/>
       <ColorMapEntry rgb="0,0,255" transparent="false" sourceValue="[16]" value="[8]" ref="8"/>
-      <ColorMapEntry rgb="0,032,255" transparent="false" sourceValue="[18]" value="[9]" ref="9"/>
-      <ColorMapEntry rgb="0,064,255" transparent="false" sourceValue="[20]" value="[10]" ref="10"/>
-      <ColorMapEntry rgb="0,096,255" transparent="false" sourceValue="[22]" value="[11]" ref="11"/>
+      <ColorMapEntry rgb="0,32,255" transparent="false" sourceValue="[18]" value="[9]" ref="9"/>
+      <ColorMapEntry rgb="0,64,255" transparent="false" sourceValue="[20]" value="[10]" ref="10"/>
+      <ColorMapEntry rgb="0,96,255" transparent="false" sourceValue="[22]" value="[11]" ref="11"/>
       <ColorMapEntry rgb="0,128,255" transparent="false" sourceValue="[24]" value="[12]" ref="12"/>
       <ColorMapEntry rgb="0,159,255" transparent="false" sourceValue="[26]" value="[13]" ref="13"/>
       <ColorMapEntry rgb="0,191,255" transparent="false" sourceValue="[28]" value="[14]" ref="14"/>
@@ -46,6 +46,7 @@
       <ColorMapEntry rgb="192,0,0" transparent="false" sourceValue="[80,480]" value="[40,240]" ref="40"/>
     </Entries>
     <Legend type="discrete" minLabel="0" maxLabel="&gt;= 80">
+      <LegendEntry rgb="17,17,17" tooltip="0" id="0"/>
       <LegendEntry rgb="168,0,200" tooltip="1" id="1"/>
       <LegendEntry rgb="144,0,208" tooltip="2" id="2"/>
       <LegendEntry rgb="120,0,216" tooltip="3" id="3"/>
@@ -54,9 +55,9 @@
       <LegendEntry rgb="48,0,239" tooltip="6" id="6"/>
       <LegendEntry rgb="24,0,247" tooltip="7" id="7"/>
       <LegendEntry rgb="0,0,255" tooltip="8" id="8"/>
-      <LegendEntry rgb="0,032,255" tooltip="9" id="9"/>
-      <LegendEntry rgb="0,064,255" tooltip="10" id="10"/>
-      <LegendEntry rgb="0,096,255" tooltip="11" id="11"/>
+      <LegendEntry rgb="0,32,255" tooltip="9" id="9"/>
+      <LegendEntry rgb="0,64,255" tooltip="10" id="10"/>
+      <LegendEntry rgb="0,96,255" tooltip="11" id="11"/>
       <LegendEntry rgb="0,128,255" tooltip="12" id="12"/>
       <LegendEntry rgb="0,159,255" tooltip="13" id="13"/>
       <LegendEntry rgb="0,191,255" tooltip="14" id="14"/>
@@ -96,5 +97,12 @@
       <ColorMapEntry rgb="73,73,73" transparent="true" value="[254]" ref="44"/>
       <ColorMapEntry rgb="219,219,219" transparent="true" value="[247,251],[255]" ref="45"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="Fill" id="41"/>
+      <LegendEntry rgb="146,146,146" tooltip="Land" id="42"/>
+      <LegendEntry rgb="240,240,240" tooltip="Ice" id="43"/>
+      <LegendEntry rgb="73,73,73" tooltip="Water" id="44"/>
+      <LegendEntry rgb="219,219,219" tooltip="No data" id="45"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

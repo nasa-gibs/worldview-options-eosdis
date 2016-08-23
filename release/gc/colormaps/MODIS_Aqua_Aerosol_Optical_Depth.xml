@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="220,220,255" transparent="true" sourceValue="[-9999,-1000)" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="220,220,255" tooltip="Fill" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Dark Target Aerosol Optical Depth">
     <Entries>

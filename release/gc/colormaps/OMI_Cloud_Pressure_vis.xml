@@ -5,6 +5,9 @@
     <Entries>
       <ColorMapEntry rgb="255,255,255" transparent="true" nodata="true" ref="0"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="255,255,255" tooltip="No Data" id="0"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Unknown">
     <Entries>
@@ -25,6 +28,24 @@
       <ColorMapEntry rgb="220,220,220" transparent="true" ref="15"/>
       <ColorMapEntry rgb="240,240,240" transparent="true" ref="16"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="Unknown 1" id="1"/>
+      <LegendEntry rgb="227,26,28" tooltip="Unknown 2" id="2"/>
+      <LegendEntry rgb="51,160,44" tooltip="Unknown 3" id="3"/>
+      <LegendEntry rgb="31,120,180" tooltip="Unknown 4" id="4"/>
+      <LegendEntry rgb="255,127,255" tooltip="Unknown 5" id="5"/>
+      <LegendEntry rgb="106,61,154" tooltip="Unknown 6" id="6"/>
+      <LegendEntry rgb="251,154,153" tooltip="Unknown 7" id="7"/>
+      <LegendEntry rgb="178,223,138" tooltip="Unknown 8" id="8"/>
+      <LegendEntry rgb="156,216,217" tooltip="Unknown 9" id="9"/>
+      <LegendEntry rgb="253,191,111" tooltip="Unknown 10" id="10"/>
+      <LegendEntry rgb="202,178,214" tooltip="Unknown 11" id="11"/>
+      <LegendEntry rgb="90,90,90" tooltip="Unknown 12" id="12"/>
+      <LegendEntry rgb="150,150,150" tooltip="Unknown 13" id="13"/>
+      <LegendEntry rgb="188,188,188" tooltip="Unknown 14" id="14"/>
+      <LegendEntry rgb="220,220,220" tooltip="Unknown 15" id="15"/>
+      <LegendEntry rgb="240,240,240" tooltip="Unknown 16" id="16"/>
+    </Legend>
   </ColorMap>
   <ColorMap title="Cloud Pressure" units="hPa">
     <Entries>

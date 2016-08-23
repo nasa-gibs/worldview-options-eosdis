@@ -106,6 +106,7 @@
       <ColorMapEntry rgb="255,0,0" transparent="false" sourceValue="[100]" value="[100]" ref="100"/>
     </Entries>
     <Legend type="discrete" minLabel="1" maxLabel="100 %">
+      <LegendEntry rgb="0,255,0" tooltip="0" id="0"/>
       <LegendEntry rgb="240,240,128" tooltip="1" id="1"/>
       <LegendEntry rgb="240,240,129" tooltip="2" id="2"/>
       <LegendEntry rgb="240,240,130" tooltip="3" id="3"/>
@@ -220,5 +221,16 @@
       <ColorMapEntry rgb="170,0,0" transparent="true" sourceValue="[254]" ref="108"/>
       <ColorMapEntry rgb="255,255,255" transparent="true" sourceValue="[255]" nodata="true" ref="109"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="255,200,255" tooltip="Missing Data" id="101"/>
+      <LegendEntry rgb="200,200,200" tooltip="No Decision" id="102"/>
+      <LegendEntry rgb="189,0,189" tooltip="Night" id="103"/>
+      <LegendEntry rgb="0,0,255" tooltip="Inland Water" id="104"/>
+      <LegendEntry rgb="35,35,117" tooltip="Ocean" id="105"/>
+      <LegendEntry rgb="0,191,255" tooltip="Cloud" id="106"/>
+      <LegendEntry rgb="0,128,0" tooltip="Probable Cloud" id="107"/>
+      <LegendEntry rgb="170,0,0" tooltip="Detector Saturated" id="108"/>
+      <LegendEntry rgb="255,255,255" tooltip="Fill" id="109"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

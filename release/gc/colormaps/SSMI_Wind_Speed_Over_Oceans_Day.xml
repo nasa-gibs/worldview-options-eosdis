@@ -218,5 +218,13 @@
       <ColorMapEntry rgb="34,34,34" transparent="true" sourceValue="[254]" ref="105"/>
       <ColorMapEntry rgb="35,35,35" transparent="true" sourceValue="[255]" ref="106"/>
     </Entries>
+    <Legend type="Classification">
+      <LegendEntry rgb="0,0,0" tooltip="No Data" id="101"/>
+      <LegendEntry rgb="31,31,31" tooltip="Missing wind speed due to rain" id="102"/>
+      <LegendEntry rgb="32,32,32" tooltip="Sea ice" id="103"/>
+      <LegendEntry rgb="33,33,33" tooltip="Bad data" id="104"/>
+      <LegendEntry rgb="34,34,34" tooltip="No observation" id="105"/>
+      <LegendEntry rgb="35,35,35" tooltip="Land mass" id="106"/>
+    </Legend>
   </ColorMap>
 </ColorMaps>

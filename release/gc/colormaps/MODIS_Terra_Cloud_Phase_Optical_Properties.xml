@@ -10,6 +10,8 @@
       <ColorMapEntry rgb="240,190,64" transparent="false" sourceValue="4" ref="4"/>
     </Entries>
     <Legend type="classification">
+      <LegendEntry rgb="0,0,0" tooltip="Fill" id="0"/>
+      <LegendEntry rgb="100,100,100" tooltip="Clear" id="1"/>
       <LegendEntry rgb="0,0,100" tooltip="Liquid Water" id="2"/>
       <LegendEntry rgb="188,210,254" tooltip="Ice" id="3"/>
       <LegendEntry rgb="240,190,64" tooltip="Uncertain" id="4"/>
