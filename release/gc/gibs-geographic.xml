@@ -4040,7 +4040,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2010-01-01/2016-08-25/P1D</Value>
+             <Value>2000-02-24/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -4190,7 +4190,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2000-02-24/2016-08-25/P1D</Value>
+             <Value>2010-01-01/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -5600,7 +5600,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2010-01-01/2016-08-25/P1D</Value>
+             <Value>2002-07-03/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -5750,7 +5750,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2002-07-03/2016-08-25/P1D</Value>
+             <Value>2010-01-01/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
