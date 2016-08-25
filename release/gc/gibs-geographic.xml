@@ -3109,9 +3109,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-23</Default>
+             <Default>2016-08-24</Default>
              <Current>false</Current>
-             <Value>2010-06-21/2016-08-23/P1D</Value>
+             <Value>2010-06-21/2016-08-24/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -4040,7 +4040,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2000-02-24/2016-08-25/P1D</Value>
+             <Value>2010-01-01/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -5600,7 +5600,7 @@
              <UOM>ISO8601</UOM>
              <Default>2016-08-25</Default>
              <Current>false</Current>
-             <Value>2002-07-03/2016-08-25/P1D</Value>
+             <Value>2010-01-01/2016-08-25/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -7844,9 +7844,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-23</Default>
+             <Default>2016-08-24</Default>
              <Current>false</Current>
-             <Value>2015-03-31/2016-08-23/P1D</Value>
+             <Value>2015-03-31/2016-08-24/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -7904,9 +7904,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-23</Default>
+             <Default>2016-08-24</Default>
              <Current>false</Current>
-             <Value>2015-03-31/2016-08-23/P1D</Value>
+             <Value>2015-03-31/2016-08-24/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
@@ -7964,9 +7964,9 @@
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-23</Default>
+             <Default>2016-08-24</Default>
              <Current>false</Current>
-             <Value>2015-03-31/2016-08-23/P1D</Value>
+             <Value>2015-03-31/2016-08-24/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>2km</TileMatrixSet>
