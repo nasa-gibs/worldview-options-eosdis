@@ -12,21 +12,21 @@
   <ColorMap title="Unknown">
     <Entries>
       <ColorMapEntry rgb="0,0,0" transparent="true" ref="1"/>
-      <ColorMapEntry rgb="227,26,28" transparent="true" ref="2"/>
-      <ColorMapEntry rgb="51,160,44" transparent="true" ref="3"/>
-      <ColorMapEntry rgb="31,120,180" transparent="true" ref="4"/>
+      <ColorMapEntry rgb="227,26,28" transparent="false" ref="2"/>
+      <ColorMapEntry rgb="51,160,44" transparent="false" ref="3"/>
+      <ColorMapEntry rgb="31,120,180" transparent="false" ref="4"/>
       <ColorMapEntry rgb="255,127,255" transparent="true" ref="5"/>
-      <ColorMapEntry rgb="106,61,154" transparent="true" ref="6"/>
-      <ColorMapEntry rgb="251,154,153" transparent="true" ref="7"/>
-      <ColorMapEntry rgb="178,223,138" transparent="true" ref="8"/>
-      <ColorMapEntry rgb="156,216,217" transparent="true" ref="9"/>
-      <ColorMapEntry rgb="253,191,111" transparent="true" ref="10"/>
-      <ColorMapEntry rgb="202,178,214" transparent="true" ref="11"/>
-      <ColorMapEntry rgb="90,90,90" transparent="true" ref="12"/>
-      <ColorMapEntry rgb="150,150,150" transparent="true" ref="13"/>
-      <ColorMapEntry rgb="188,188,188" transparent="true" ref="14"/>
-      <ColorMapEntry rgb="220,220,220" transparent="true" ref="15"/>
-      <ColorMapEntry rgb="240,240,240" transparent="true" ref="16"/>
+      <ColorMapEntry rgb="106,61,154" transparent="false" ref="6"/>
+      <ColorMapEntry rgb="251,154,153" transparent="false" ref="7"/>
+      <ColorMapEntry rgb="178,223,138" transparent="false" ref="8"/>
+      <ColorMapEntry rgb="156,216,217" transparent="false" ref="9"/>
+      <ColorMapEntry rgb="253,191,111" transparent="false" ref="10"/>
+      <ColorMapEntry rgb="202,178,214" transparent="false" ref="11"/>
+      <ColorMapEntry rgb="90,90,90" transparent="false" ref="12"/>
+      <ColorMapEntry rgb="150,150,150" transparent="false" ref="13"/>
+      <ColorMapEntry rgb="188,188,188" transparent="false" ref="14"/>
+      <ColorMapEntry rgb="220,220,220" transparent="false" ref="15"/>
+      <ColorMapEntry rgb="240,240,240" transparent="false" ref="16"/>
     </Entries>
     <Legend type="classification">
       <LegendEntry rgb="0,0,0" tooltip="Unknown 1" id="1"/>
