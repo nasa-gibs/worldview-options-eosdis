@@ -2,15 +2,15 @@
     "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-geographic.xml"
         },
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-arctic.xml"
         },
         {
-            "from": "http://uat.gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
+            "from": "http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
         }
     ],
@@ -36,8 +36,5 @@
             "projection": "antarctic",
             "maxResolution": 8192.0
         }
-    ],
-    "skip": [
-        "ASTER_L1T_Radiance_Terrain_Corrected"
     ]
 }
