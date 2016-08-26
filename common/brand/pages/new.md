@@ -1,5 +1,24 @@
 <input type="hidden" autofocus>
 
+# Version 1.2.1
+
+## Updates
+
+* Atmosphere layers now display correctly under Scientific layers
+
+## Known Issues
+
+* Permalinks do not currently work with events or the product picker
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+
+---
+
 # Version 1.2
 
 ## New Features
@@ -15,18 +34,6 @@
 * Fixed loading on mobile devices with higher pixel densities
 * Fixed SMAP orbit track labels, GCOM-W1 orbit track color
 * Updated layer descriptions
-
-
-
-## Known Issues
-
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 
 ---
 
