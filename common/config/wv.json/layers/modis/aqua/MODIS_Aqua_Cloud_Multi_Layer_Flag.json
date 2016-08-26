@@ -5,9 +5,7 @@
             "title":    "Cloud Multi Layer Flag",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD06_L2",
-
-            "metadata": "modis/CloudQA"
-            }
+            "product":  "MYD06_L2"
         }
     }
+}

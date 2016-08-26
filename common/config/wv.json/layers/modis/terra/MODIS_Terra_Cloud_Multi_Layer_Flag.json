@@ -5,9 +5,7 @@
             "title":    "Cloud Multi Layer Flag",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2",
-
-            "metadata": "modis/CloudQA"
-            }
+            "product":  "MOD06_L2"
         }
     }
+}
