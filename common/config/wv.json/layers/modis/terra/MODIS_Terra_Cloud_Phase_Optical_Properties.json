@@ -5,9 +5,7 @@
             "title":    "Cloud Phase Optical Properties",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2",
-
-            "metadata": "modis/CloudPhase"
+            "product":  "MOD06_L2"
             }
         }
     }

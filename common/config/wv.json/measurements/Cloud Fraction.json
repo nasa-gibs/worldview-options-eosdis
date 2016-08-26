@@ -8,7 +8,6 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua / MODIS",
-                    "description": "modis/CloudFraction",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Cloud_Fraction_Day",
@@ -20,7 +19,6 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra / MODIS",
-                    "description": "modis/CloudFraction",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Cloud_Fraction_Day",

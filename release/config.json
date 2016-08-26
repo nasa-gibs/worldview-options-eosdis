@@ -36,8 +36,5 @@
             "projection": "antarctic",
             "maxResolution": 8192.0
         }
-    ],
-    "skip": [
-
     ]
 }
