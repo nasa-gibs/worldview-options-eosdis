@@ -7,7 +7,8 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: gpp_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-[Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/); [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)

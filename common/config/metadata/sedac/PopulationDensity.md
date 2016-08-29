@@ -1,4 +1,4 @@
-#SEDAC Population Density (GRUMP v1 2000)
+# SEDAC Population Density (GRUMP v1 2000)
 
 The SEDAC Population Density layer indicates the  number of people per kilometer living in each grid cell in the year 2000 and is part of  the Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) data set.
 

@@ -2,7 +2,7 @@
 
 True Color: Red = Band I1, Green = Band M4, Blue = Band M3
 
-These images are called true-color or natural color because this combination of wavelengths is similar to what the human eye would see. The images are natural-looking images of land surface, oceanic and atmospheric features. 
+These images are called true-color or natural color because this combination of wavelengths is similar to what the human eye would see. The images are natural-looking images of land surface, oceanic and atmospheric features.
 
 The Visible Infrared Imaging Radiometer Suite (VIIRS) Corrected Reflectance imagery is available only as near real-time imagery. The imagery can be visualized in Worldview, the Global Imagery Browse Services (GIBS) and Rapid Response. The sensor resolution is 750m and 375m (M Bands are 750m, I Bands are 375m), imagery resolution is 250m, temporal resolution is daily and temporal availability for viewing in GIBS/Worldview is November 24, 2015 - present.
 
@@ -39,5 +39,5 @@ Vegetation is very reflective in the near infrared (Band I2), and absorbent in B
 Burned areas or fire-affected areas are characterized by deposits of charcoal and ash, removal of vegetation and/or the alteration of vegetation structure. When bare soil becomes exposed, the brightness in Band I1 may increase, but that may be offset by the presence of black carbon residue; the near infrared (Band I2) will become darker, and Band M11 becomes more reflective. When assigned to red in the image, Band M11 will show burn scars as deep or bright red, depending on the type of vegetation burned, the amount of residue, or the completeness of the burn.
 
 ## Water
-Liquid water on the ground appears very dark since it absorbs in the red and the SWIR. Sediments in water appear dark blue. Ice and snow appear as bright turquoise. 
+Liquid water on the ground appears very dark since it absorbs in the red and the SWIR. Sediments in water appear dark blue. Ice and snow appear as bright turquoise.
 Clouds comprised of small water droplets scatter light equally in both the visible and the SWIR and will appear white. These clouds are usually lower to the ground and warmer. High and cold clouds are comprised of ice crystals and will appear turquoise.

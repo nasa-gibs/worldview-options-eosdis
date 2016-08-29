@@ -7,9 +7,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_rootzone_analysis
+
 #### References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
 # Root Zone Soil Moisture Uncertainty (L4, 12z Instantaneous, Model Value-Added)
@@ -21,9 +23,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_rootzone_analysis_ensstd
+
 #### References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
 # Surface Soil Moisture (L4, 12z Instantaneous, Model Value-Added)
@@ -35,9 +39,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_surface_analysis
+
 #### References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
 # Surface Soil Moisture Uncertainty (L4, 12z Instantaneous, Model Value-Added)
@@ -49,9 +55,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_surface_analysis_ensstd
+
 #### References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
 # Gross Primary Production (L4, 9 km Grid Cell Mean, Model Value-Added)
@@ -63,9 +71,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: gpp_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
 # Heterotrophic Respiration (L4, 9 km Grid Cell Mean, Model Value-Added)
@@ -77,9 +87,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: rh_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
 # Net Ecosystem CO2 Exchange (L4, 9 km Grid Cell Mean, Model Value-Added)
@@ -91,9 +103,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: nee_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
 # Net Ecosystem CO2 Exchange Uncertainty (L4, 9 km Grid Cell Mean, Model Value-Added)
@@ -105,10 +119,13 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: nee_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
+
 # Percent of Potential Vegetation Light Use Efficiency (L4, 9 km Grid Cell Mean, Model Value-Added)
 Temporal coverage: April 13, 2015 - present.
 
@@ -118,9 +135,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: emult_mean
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
 # Percent Frozen Area (L4, 9 km Grid Cell Coverage, Model Value-Added)
@@ -132,10 +151,11 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
+
 Data field: frozen_area
+
 #### References
-[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-[SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
+[SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
 # Snow Mass (L4, 12z-3z Time Average, Model Value-Added)
 Temporal coverage: March 31, 2015 - present.
@@ -146,7 +166,8 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ### Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data](https://nsidc.org/data/spl4smgp/)
+
 Data field: snow_mass
+
 #### References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data](https://nsidc.org/data/spl4smgp/)
-[Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
+[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data](https://nsidc.org/data/spl4smgp/); [Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
