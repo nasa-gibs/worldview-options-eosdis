@@ -10,6 +10,7 @@
   * Wildfire events are now set to automatically display the next day, as these events often do not appear in the satellite imagery on the day they are reported
   * Not listing EONET earthquake, drought, and landslide events since they're not readily visible with current imagery
 * Auto-setting resolution setting of image capture tool to match the map's current zoom level
+* Fixed formatting of layer descriptions
 * Fixed problem with "!" warning appearing next to layer item at incorrect zoom level in polar view
 
 ## Known Issues
