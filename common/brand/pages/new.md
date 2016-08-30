@@ -1,14 +1,20 @@
 <input type="hidden" autofocus>
 
-# Version 1.2.1
+# Version 1.2.2
 
 ## Updates
 
-* Atmosphere layers now display correctly under Scientific layers
+* Enhancements to Events feature:
+  * Now showing place labels and borders when an event is selected
+  * Map zooms further into wildfire and volcano events to show more detail
+  * Wildfire events are now set to automatically display the next day, as these events often do not appear in the satellite imagery on the day they are reported
+  * Not listing EONET earthquake, drought, and landslide events since they're not readily visible with current imagery
+* Auto-setting resolution setting of image capture tool to match the map's current zoom level
+* Fixed problem with "!" warning appearing next to layer item at incorrect zoom level in polar view
 
 ## Known Issues
 
-* Permalinks do not currently work with events or the product picker
+* Permalinks do not currently link directly to events or the product picker state
 * Custom color palettes are not supported on Internet Explorer or on Safari 5
   and earlier.
 * On iOS and Android, layers cannot be reordered
@@ -16,6 +22,14 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 1.2.1
+
+## Updates
+
+* Atmosphere layers now display correctly under Scientific layers
 
 ---
 
