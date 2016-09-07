@@ -1,0 +1,20 @@
+{
+    "layers": {
+        "MapboxStreets_Worldview": {
+            "id":       "MapboxStreets_Worldview",
+            "title":    "Mapbox Studio Mapbox Streets",
+            "subtitle": "Under Development",
+            "tags":     "osm reference",
+            "group":    "overlays",
+            "type":     "tm2",
+            "tags":     "country, countries, state, provence",
+            "noTransition":     "true",
+            
+            "projections": {
+                "webmerc": {
+                    "source": "MAPBOX:tm2"
+                }
+            }
+        }
+    }
+}
