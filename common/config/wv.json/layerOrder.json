@@ -49,6 +49,8 @@
         "MODIS_Terra_Cloud_Top_Temp_Night",
         "MODIS_Aqua_Cloud_Top_Temp_Day",
         "MODIS_Aqua_Cloud_Top_Temp_Night",
+        "MODIS_Aqua_Cloud_Top_Height_Day",
+        "MODIS_Aqua_Cloud_Top_Height_Night",
         "MODIS_Terra_Cloud_Fraction_Day",
         "MODIS_Terra_Cloud_Fraction_Night",
         "MODIS_Aqua_Cloud_Fraction_Day",
