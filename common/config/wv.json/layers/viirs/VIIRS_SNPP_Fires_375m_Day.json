@@ -4,7 +4,7 @@
             "id":       "VIIRS_SNPP_Fires_375m_Day",
             "title":    "Fires and Thermal Anomalies (Day, 375m)",
             "subtitle": "Suomi NPP / VIIRS",
-            "tags":     "hotspot",
+            "tags":     "hotspot s-npp snpp",
             "group":    "overlays",
             "format":   "image/png",
             "period":   "daily",
