@@ -1,5 +1,28 @@
 <input type="hidden" autofocus>
 
+# Version 1.2.3
+
+## Updates
+
+* Added MODIS Cloud Top Height layers
+* Defaulting to VIIRS Corrected Reflectance layer for Severe Storm events
+* Fixed unexpected date changes when using arrow keys in text fields
+  
+
+## Known Issues
+
+* Permalinks do not currently link directly to events or the product picker state
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+
+---
+
+
 # Version 1.2.2
 
 ## Updates
@@ -12,17 +35,6 @@
 * Auto-setting resolution setting of image capture tool to match the map's current zoom level
 * Fixed formatting of layer descriptions
 * Fixed problem with "!" warning appearing next to layer item at incorrect zoom level in polar view
-
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 
 ---
 
