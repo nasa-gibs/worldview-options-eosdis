@@ -7,7 +7,7 @@
             "group":    "overlays",
             "product":  "MOD06_L2",
 
-            "metadata": ""
+            "metadata": "modis/CloudEffectiveRadius"
 
             }
         }

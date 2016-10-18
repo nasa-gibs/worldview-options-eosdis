@@ -11,7 +11,10 @@
                     "Carbon Monoxide",
                     "Corrected Reflectance",
                     "Fires and Thermal Anomalies",
-                    "Sulfur Dioxide"
+                    "Sulfur Dioxide",
+                    "Nitric Acid",
+                    "Nitrous Oxide",
+                    "Ozone"
                 ]
             }
         }

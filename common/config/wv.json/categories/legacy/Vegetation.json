@@ -13,6 +13,8 @@
                     "Freeze / Thaw",
                     "Gross Primary Productivity",
                     "Land Surface Temperature",
+                    "Precipitation Estimate",
+					          "Precipitation Rate",
                     "Snow Cover",
                     "Snow Mass",
                     "Soil Moisture"

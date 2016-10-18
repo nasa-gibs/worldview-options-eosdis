@@ -8,12 +8,16 @@
                 "image": "drought.jpg",
                 "measurements": [
                     "Corrected Reflectance",
+                    "Land Surface Reflectance",
+                    "Land Surface Temperature",
                     "Dams",
                     "Drought Hazard",
-                    "Land Surface Reflectance",
                     "Precipitation Estimate",
+                    "Precipitation_Rate",
+                    "Temperature",
                     "Reservoirs",
                     "Snow Cover",
+                    "Snow Water Equivalent",
                     "Soil Moisture"
                 ]
             }

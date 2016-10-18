@@ -16,8 +16,21 @@
 					          "Precipitation Rate",
                     "Relative Humidity",
                     "Soil Moisture",
+                    "Snow Cover",
+                    "Land Surface Temperature",
                     "Temperature",
-                    "Water Vapor"
+                    "Water Vapor",
+                    "Wind Speed",
+                    "Cloud Fraction",
+                    "Cloud Multi Layer Flag",
+                    "Cloud Phase",
+                    "Cloud Pressure",
+                    "Cloud Effective Radius",
+                    "Cloud Optical Thickness",
+                    "Cloud Top Temperature",
+                    "Cloud Top Height",
+                    "Cloud Water Path",
+                    "Sea Surface Temperature"
                 ]
             }
         }

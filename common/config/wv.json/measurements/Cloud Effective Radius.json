@@ -8,7 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "",
+                    "description": "modis/CloudEffectiveRadius",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Cloud_Effective_Radius_37_PCL",
@@ -21,7 +21,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "",
+                    "description": "modis/CloudEffectiveRadius",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Cloud_Effective_Radius_37_PCL",

@@ -8,6 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
+                    "description": "modis/MultiLayerFlag",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Cloud_Multi_Layer_Flag",
@@ -17,6 +18,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
+                    "description": "modis/MultiLayerFlag",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Cloud_Multi_Layer_Flag",

@@ -5,7 +5,9 @@
             "title":    "Cloud Phase Infrared (Day)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2_DAY"
+            "product":  "MOD06_L2_DAY",
+
+            "metadata": "modis/CloudPhase"
             }
         }
     }

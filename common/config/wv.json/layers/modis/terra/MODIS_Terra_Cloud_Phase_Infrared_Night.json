@@ -5,7 +5,9 @@
             "title":    "Cloud Phase Infrared (Night)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2_NIGHT"
+            "product":  "MOD06_L2_NIGHT",
+
+            "metadata": "modis/CloudPhase"
             }
         }
     }

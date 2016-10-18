@@ -8,7 +8,7 @@
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
                     "title": "Aqua/MODIS",
-                    "description": "",
+                    "description": "modis/CloudOpticalThickness",
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_Cloud_Optical_Thickness_PCL",
@@ -19,7 +19,7 @@
                 "Terra/MODIS": {
                     "id": "terra-modis",
                     "title": "Terra/MODIS",
-                    "description": "",
+                    "description": "modis/CloudOpticalThickness",
                     "image": "",
                     "settings": [
                         "MODIS_Terra_Cloud_Optical_Thickness_PCL",

@@ -9,8 +9,9 @@
                 "measurements": [
                     "Brightness Temperature",
                     "Corrected Reflectance",
-                    "Land Surface Reflectance",                    
-                    "Sea Ice"
+                    "Land Surface Reflectance",
+                    "Sea Ice",
+                    "Sea Surface Temperature"
                 ]
             }
         }
