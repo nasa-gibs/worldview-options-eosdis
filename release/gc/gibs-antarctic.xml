@@ -100,16 +100,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-08-25/P1D</Value>
+             <Value>2016-01-13/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -134,16 +132,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-08-25/P1D</Value>
+             <Value>2016-01-13/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -168,16 +164,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-08-25/P1D</Value>
+             <Value>2016-01-13/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -202,16 +196,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2016-08-25/P1D</Value>
+             <Value>2016-01-13/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -236,8 +228,6 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
@@ -270,8 +260,6 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
@@ -304,8 +292,6 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
@@ -338,8 +324,6 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
@@ -372,8 +356,6 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
@@ -402,14 +384,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3031_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Blue_Marble_Reverb/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Blue_Marble_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble (MODIS)</ows:Title>
@@ -425,14 +405,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_NextGeneration/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_NextGeneration/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief (MODIS)</ows:Title>
@@ -448,14 +426,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief and Bathymetry (MODIS)</ows:Title>
@@ -471,14 +447,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief_Bathymetry/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/BlueMarble_ShadedRelief_Bathymetry/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Coastlines</ows:Title>
@@ -494,14 +468,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Coastlines/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule</ows:Title>
@@ -517,14 +489,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule (Reverb)</ows:Title>
@@ -540,14 +510,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3031_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule_Reverb/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/Graticule_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Day, MODIS, Terra)</ows:Title>
@@ -567,16 +535,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -601,16 +567,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -635,16 +599,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -669,16 +631,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -699,16 +659,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-08-25/P1D</Value>
+             <Value>2013-06-06/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -729,16 +687,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-08-25/P1D</Value>
+             <Value>2013-06-06/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -759,16 +715,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-08-25/P1D</Value>
+             <Value>2013-06-06/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -793,16 +747,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -827,16 +779,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -861,16 +811,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
@@ -895,16 +843,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2016-08-25/P1D</Value>
+             <Value>2012-05-08/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
@@ -925,16 +871,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-08-25/P1D</Value>
+             <Value>2013-06-06/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -955,16 +899,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2016-08-25/P1D</Value>
+             <Value>2013-06-06/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -985,14 +927,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Mask/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Mask/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Land Water Map (SCAR)</ows:Title>
@@ -1008,14 +948,12 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/png</Format>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Water_Map/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3031/best/SCAR_Land_Water_Map/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, VIIRS, SNPP)</ows:Title>
@@ -1031,16 +969,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-08-25/P1D</Value>
+             <Value>2015-11-24/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1061,16 +997,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-08-25/P1D</Value>
+             <Value>2015-11-24/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
@@ -1091,16 +1025,14 @@
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
-             
-             
          </Style>
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
              <UOM>ISO8601</UOM>
-             <Default>2016-08-25</Default>
+             <Default>2016-09-29</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2016-08-25/P1D</Value>
+             <Value>2015-11-24/2016-09-29/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>

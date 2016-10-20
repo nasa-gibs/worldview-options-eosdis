@@ -100,7 +100,7 @@
       <ColorMapEntry rgb="241,191,64" transparent="false" sourceValue="[4300,4350)" value="[4300,4350)" ref="6"/>
       <ColorMapEntry rgb="241,191,65" transparent="false" sourceValue="[4350,4400)" value="[4350,4400)" ref="6"/>
       <ColorMapEntry rgb="241,192,65" transparent="false" sourceValue="[4400,4450)" value="[4400,4450)" ref="6"/>
-      <ColorMapEntry rgb="241,192,64" transparent="false" sourceValue="[4450,4800)" value="[4450,4800)" ref="6"/>
+      <ColorMapEntry rgb="241,192,64" transparent="false" sourceValue="[4450,4500)" value="[4450,4500)" ref="6"/>
       <ColorMapEntry rgb="241,192,66" transparent="false" sourceValue="[4500,4550)" value="[4500,4550)" ref="6"/>
       <ColorMapEntry rgb="242,190,64" transparent="false" sourceValue="[4550,4600)" value="[4550,4600)" ref="6"/>
       <ColorMapEntry rgb="242,190,65" transparent="false" sourceValue="[4600,4650)" value="[4600,4650)" ref="6"/>
