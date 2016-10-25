@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SSMI_DMSP_F16_Rain_Rate_Over_Oceans_Ascending": {
+            "id":       "SSMI_DMSP_F16_Rain_Rate_Over_Oceans_Ascending",
+            "title":    "Rain Rate (Ascending, Local AM)",
+            "subtitle": "DMSP-F16 / SSMI",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "rssmif16d"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SSMI_DMSP_F16_Cloud_Liquid_Water_Over_Oceans_Descending": {
+            "id":       "SSMI_DMSP_F16_Cloud_Liquid_Water_Over_Oceans_Descending",
+            "title":    "Cloud Liquid Water (Descending, Local PM)",
+            "subtitle": "DMSP-F16 / SSMI",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "rssmif16d"
+        }
+    }
+}

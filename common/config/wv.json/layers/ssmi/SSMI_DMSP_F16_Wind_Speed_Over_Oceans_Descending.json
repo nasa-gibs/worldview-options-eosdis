@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SSMI_DMSP_F16_Wind_Speed_Over_Oceans_Descending": {
+            "id":       "SSMI_DMSP_F16_Wind_Speed_Over_Oceans_Descending",
+            "title":    "Surface Wind Speed (Descending, Local PM)",
+            "subtitle": "DMSP-F16 / SSMI",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "rssmif16d"
+        }
+    }
+}
