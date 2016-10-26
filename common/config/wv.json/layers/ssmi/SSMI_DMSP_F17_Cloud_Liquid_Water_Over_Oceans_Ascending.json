@@ -6,7 +6,7 @@
             "subtitle": "DMSP-F17 / SSMIS",
             "tags":     "",
             "group":    "overlays",
-            "product":  ""
+            "product":  "rssmif17d"
         }
     }
 }

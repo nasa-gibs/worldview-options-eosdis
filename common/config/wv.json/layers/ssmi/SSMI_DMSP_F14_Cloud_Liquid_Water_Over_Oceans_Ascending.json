@@ -6,7 +6,7 @@
             "subtitle": "DMSP-F14 / SSMI",
             "tags":     "",
             "group":    "overlays",
-            "product":  "",
+            "product":  "rssmif14d",
             "inactive": true
         }
     }

@@ -6,7 +6,7 @@
             "subtitle": "DMSP-F15 / SSMI",
             "tags":     "",
             "group":    "overlays",
-            "product":  "",
+            "product":  "rssmif15d",
             "inactive": true
         }
     }
