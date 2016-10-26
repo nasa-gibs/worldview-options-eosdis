@@ -3,7 +3,7 @@
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Descending": {
             "id":       "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Descending",
             "title":    "Surface Wind Speed (Descending, Local PM)",
-            "subtitle": "DMSP-F17 / SSMI",
+            "subtitle": "DMSP-F17 / SSMIS",
             "tags":     "",
             "group":    "overlays",
             "product":  "rssmif17d"
