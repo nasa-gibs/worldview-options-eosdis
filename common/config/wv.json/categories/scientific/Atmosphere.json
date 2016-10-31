@@ -11,7 +11,7 @@
                     "Carbon Monoxide",
                     "Cloud Effective Radius",
                     "Cloud Fraction",
-                    "Cloud Liquid Water Over Oceans",
+                    "Cloud Liquid Water",
 		                "Cloud Multi Layer Flag",
                     "Cloud Optical Thickness",
                     "Cloud Phase",
@@ -19,19 +19,16 @@
                     "Cloud Top Height",
                     "Cloud Top Temperature",
                     "Cloud Water Path",
-		                "Columnar Cloud Liquid Water",
                     "Nitric Acid",
                     "Nitrous Oxide",
                     "Ozone",
                     "Precipitation Estimate",
 		                "Precipitation Rate",
-                    "Rain Rate Over Oceans",
                     "Sulfur Dioxide",
                     "Relative Humidity",
                     "Temperature",
                     "Water Vapor",
-                    "Water Vapor Over Oceans",
-                    "Wind Speed Over Oceans"
+                    "Wind Speed"
                 ]
             }
         }

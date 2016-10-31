@@ -23,7 +23,7 @@
                   "Cloud Top Temperature",
                   "Cloud Top Height",
                   "Cloud Water Path",
-                  "Columnar Cloud Liquid Water",
+                  "Cloud Liquid Water",
                   "Corrected Reflectance",
                   "Cyclone Hazard",
                   "Dams",
@@ -49,7 +49,6 @@
                   "Power Plants, Nuclear",
                   "Precipitation Estimate",
                   "Precipitation Rate",
-                  "Rain Rate Over Oceans",
                   "Relative Humidity",
                   "Reference Map",
                   "Reservoirs",
@@ -68,9 +67,7 @@
                   "Urban Rural Extents in the 10m Low Elevation Zone",
                   "Volcano Hazard",
                   "Water Vapor",
-                  "Water Vapor Over Oceans",
-                  "Wind Speed",
-                  "Wind Speed Over Oceans"
+                  "Wind Speed"
                 ]
             }
         }
