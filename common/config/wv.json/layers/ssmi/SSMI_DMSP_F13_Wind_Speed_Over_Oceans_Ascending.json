@@ -2,7 +2,7 @@
     "layers": {
         "SSMI_DMSP_F13_Wind_Speed_Over_Oceans_Ascending": {
             "id":       "SSMI_DMSP_F13_Wind_Speed_Over_Oceans_Ascending",
-            "title":    "Surface Wind Speed (Ascending, Local AM)",
+            "title":    "Surface Wind Speed Over Oceans (Ascending, Local AM)",
             "subtitle": "DMSP-F13 / SSMI",
             "tags":     "",
             "group":    "overlays",

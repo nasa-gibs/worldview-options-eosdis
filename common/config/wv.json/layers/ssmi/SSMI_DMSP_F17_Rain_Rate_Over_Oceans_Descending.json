@@ -2,7 +2,7 @@
     "layers": {
         "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Descending": {
             "id":       "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Descending",
-            "title":    "Rain Rate (Descending, Local PM)",
+            "title":    "Rain Rate Over Oceans (Descending, Local PM)",
             "subtitle": "DMSP-F17 / SSMIS",
             "tags":     "",
             "group":    "overlays",

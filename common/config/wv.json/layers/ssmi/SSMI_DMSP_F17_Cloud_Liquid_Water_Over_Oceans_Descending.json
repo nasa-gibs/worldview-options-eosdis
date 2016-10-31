@@ -2,7 +2,7 @@
     "layers": {
         "SSMI_DMSP_F17_Cloud_Liquid_Water_Over_Oceans_Descending": {
             "id":       "SSMI_DMSP_F17_Cloud_Liquid_Water_Over_Oceans_Descending",
-            "title":    "Cloud Liquid Water (Descending, Local PM)",
+            "title":    "Cloud Liquid Water Over Oceans (Descending, Local PM)",
             "subtitle": "DMSP-F17 / SSMIS",
             "tags":     "",
             "group":    "overlays",
