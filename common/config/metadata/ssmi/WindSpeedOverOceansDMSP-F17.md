@@ -1,2 +1,2 @@
 # SSMIS Wind Speed Over Oceans (Ascending/Descending)
-DMSP-F17 Temporal Coverage: 14 December 2006 - present
+DMSP-F17 Temporal Coverage: December 14, 2006 - present
