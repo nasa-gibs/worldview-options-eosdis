@@ -1,2 +1,2 @@
-# Rain Rate Over Oceans
-Temporal Coverage: 14 December 2006 - present
+# SSMIS Rain Rate Over Oceans
+DMSP-F17 Temporal Coverage: 14 December 2006 - present

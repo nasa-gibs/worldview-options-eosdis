@@ -1,2 +1,2 @@
-# Rain Rate Over Oceans
-Temporal Coverage: 8 May 1997 - 8 August 2008
+# SSMI Rain Rate Over Oceans
+DMSP-F14 Temporal Coverage: 8 May 1997 - 8 August 2008

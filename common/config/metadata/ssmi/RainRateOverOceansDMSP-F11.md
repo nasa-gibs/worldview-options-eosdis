@@ -1,2 +1,2 @@
-# Rain Rate Over Oceans
-Temporal Coverage: 3 December 1991 - 16 May 2000
+# SSMI Rain Rate Over Oceans
+DMSP-F11 Temporal Coverage: 3 December 1991 - 16 May 2000

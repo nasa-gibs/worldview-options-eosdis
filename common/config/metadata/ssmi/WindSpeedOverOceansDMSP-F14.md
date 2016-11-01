@@ -1,2 +1,2 @@
-# Wind Speed Over Oceans
-Temporal Coverage: 8 May 1997 - 8 August 2008
+# SSMI Wind Speed Over Oceans
+DMSP-F14 Temporal Coverage: 8 May 1997 - 8 August 2008

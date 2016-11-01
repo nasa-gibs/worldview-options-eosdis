@@ -1,2 +1,2 @@
-# Wind Speed Over Oceans
-Temporal Coverage: 18 December 1999 - 31 December 2011
+# SSMI Wind Speed Over Oceans
+DMSP-F15 Temporal Coverage: 18 December 1999 - 31 December 2011

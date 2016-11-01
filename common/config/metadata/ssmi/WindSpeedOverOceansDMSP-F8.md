@@ -1,2 +1,2 @@
-# Wind Speed Over Oceans
-Temporal Coverage: 9 July 1987 - 31 December 1991
+# SSMI Wind Speed Over Oceans
+DMSP-F8 Temporal Coverage: 9 July 1987 - 31 December 1991

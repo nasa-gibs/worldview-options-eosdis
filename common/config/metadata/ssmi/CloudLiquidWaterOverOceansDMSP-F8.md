@@ -1,2 +1,2 @@
-# Cloud Liquid Water Over Oceans
-Temporal Coverage: 9 July 1987 - 31 December 1991
+# SSMI Cloud Liquid Water Over Oceans
+DMSP-F8 Temporal Coverage: 9 July 1987 - 31 December 1991
