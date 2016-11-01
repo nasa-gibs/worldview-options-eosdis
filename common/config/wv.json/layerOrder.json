@@ -305,6 +305,8 @@
 
         "SSMIS_Sea_Ice_Concentration_Snow_Extent",
         "SSMIS_Sea_Ice_Concentration",
+        
+        "Aquarius_Soil_Moisture_Daily",
 
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
