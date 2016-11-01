@@ -3,7 +3,7 @@
         "Sea Ice": {
             "id": "sea-ice",
             "title":    "Sea Ice",
-            "subtitle": "Aqua / MODIS, Aqua / AMSR-E, GCOM-W1 / AMSR2, Terra / MODIS",
+            "subtitle": "Aqua / MODIS, Aqua / AMSR-E, GCOM-W1 / AMSR2, Terra / MODIS, DMSP 5D-3 F17/SSMIS & DMSP 5D-3 F18/SSMIS, DMSP 5D-3 F17/SSMIS",
             "sources": {
                 "Aqua/MODIS": {
                     "id": "aqua-modis",
@@ -49,6 +49,24 @@
                         "AMSR2_Sea_Ice_Concentration_25km",
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
+                    ]
+                },
+                "DMSP 5D-3 F17/SSMIS & DMSP 5D-3 F18/SSMIS": {
+                    "id": "dmsp-5d-3-f17-ssmis-dmsp-5d-3-f18-ssmis",
+                    "title": "DMSP 5D-3 F17/SSMIS, DMSP 5D-3 F18/SSMIS",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "SSMIS_Sea_Ice_Concentration"
+                    ]
+                },
+                "DMSP 5D-3 F17/SSMIS": {
+                    "id": "dmsp-5d-3-f17-ssmis",
+                    "title": "DMSP 5D-3 F17/SSMIS",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "SSMIS_Sea_Ice_Concentration_Snow_Extent"
                     ]
                 }
             }
