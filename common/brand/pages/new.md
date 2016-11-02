@@ -1,13 +1,16 @@
 <input type="hidden" autofocus>
+# Version 1.3
 
-# Version 1.2.3
+## New Features
+
+* Worldview can now animate imagery with the animation feature!
+  * A new button on the timeline opens the animation feature where it's possible to select start/end dates, frames per second, and whether to loop or not
+  * The animation can be exported as a gif file by using the "Share Animation GIF" button in the same dialog
+* The polar view now contain a widget to rotate the imagery
 
 ## Updates
 
-* Added MODIS Cloud Top Height layers
-* Defaulting to VIIRS Corrected Reflectance layer for Severe Storm events
-* Fixed unexpected date changes when using arrow keys in text fields
-  
+* MODIS C6 Atmosphere products now have metadata descriptions
 
 ## Known Issues
 
@@ -19,6 +22,16 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+
+---
+
+# Version 1.2.3
+
+## Updates
+
+* Added MODIS Cloud Top Height layers
+* Defaulting to VIIRS Corrected Reflectance layer for Severe Storm events
+* Fixed unexpected date changes when using arrow keys in text fields
 
 ---
 
