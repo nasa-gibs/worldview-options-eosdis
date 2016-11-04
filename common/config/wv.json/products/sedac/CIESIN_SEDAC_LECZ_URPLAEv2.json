@@ -5,8 +5,7 @@
             "handler": "CollectionList",
             "query": {
                 "collection": "true",
-                "shortName": "CIESIN_SEDAC_LECZ_URPLAEv2",
-                "dataCenterId": "SEDAC"
+                "shortName": "CIESIN_SEDAC_LECZ_URPLAEv2"
             },
             "noBulkDownload": "true"
         }

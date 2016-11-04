@@ -4,8 +4,7 @@
             "name": "AMSR-E/Aqua L2A Global Swath Spatially-Resampled Brightness Temperatures (Tb), Day",
             "handler": "HalfOrbit",
             "query": {
-                "shortName": "AE_L2A",
-                "dataCenterId": "NSIDC_ECS"
+                "shortName": "AE_L2A"
             },
             "orbit": {
                 "type": "regex_group",

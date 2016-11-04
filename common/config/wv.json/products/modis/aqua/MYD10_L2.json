@@ -5,7 +5,6 @@
             "handler": "AquaSwathMultiDay",
             "query": {
                 "shortName": "MYD10_L2",
-                "dataCenterId": ["NSIDC_ECS", "LANCEMODIS"],
                 "dayNightFlag": "DAY"
             },
             "nrt": {

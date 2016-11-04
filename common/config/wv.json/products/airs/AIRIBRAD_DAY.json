@@ -5,7 +5,6 @@
             "handler": "MODISSwath",
             "query": {
                 "shortName": ["AIRIBRAD", "AIRIBRAD_NRT"],
-                "dataCenterId": "GSFCS4PA",
                 "dayNightFlag": "DAY"
             },
             "nrt": {

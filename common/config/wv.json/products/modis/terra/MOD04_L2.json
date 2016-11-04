@@ -4,8 +4,7 @@
             "name": "MODIS/Terra Aerosol 5-Min L2 Swath 10km",
             "handler": "TerraSwathMultiDay",
             "query": {
-                "shortName": "MOD04_L2",
-                "dataCenterId": ["LAADS", "LANCEMODIS"]
+                "shortName": "MOD04_L2"
             },
             "nrt": {
                 "by": "value",

@@ -5,6 +5,7 @@
             "title":    "Aerosol Optical Depth",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
+            "product":  "OMAERUV",
             "tags":     "aod",
 
             "metadata": "omi/Aerosol_Optical_Depth",

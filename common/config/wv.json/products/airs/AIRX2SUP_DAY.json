@@ -5,7 +5,6 @@
             "handler": "MODISSwath",
             "query": {
                 "shortName": ["AIRX2SUP", "AIRX2SUP_NRT"],
-                "dataCenterId": "GSFCS4PA",
                 "dayNightFlag": "DAY"
             },
             "nrt": {

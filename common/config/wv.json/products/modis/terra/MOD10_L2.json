@@ -5,7 +5,6 @@
             "handler": "TerraSwathMultiDay",
             "query": {
                 "shortName": "MOD10_L2",
-                "dataCenterId": ["NSIDC_ECS", "LANCEMODIS"],
                 "dayNightFlag": "DAY"
             },
             "nrt": {

@@ -5,8 +5,7 @@
             "handler": "CollectionList",
             "query": {
                 "collection": "true",
-                "shortName": "CIESIN_CHRR_NDH_CYCLONE_PELRD",
-                "dataCenterId": "SEDAC"
+                "shortName": "CIESIN_CHRR_NDH_CYCLONE_PELRD"
             },
             "noBulkDownload": "true"
         }

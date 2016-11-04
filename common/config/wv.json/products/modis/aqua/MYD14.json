@@ -4,8 +4,7 @@
             "name": "MODIS/Aqua Thermal Anomalies/Fire 5-Min L2 Swath 1km",
             "handler": "MODISSwath",
             "query": {
-                "shortName": "MYD14",
-                "dataCenterId": ["LPDAAC_ECS", "LANCEMODIS"]
+                "shortName": "MYD14"
             },
             "nrt": {
                 "by": "value",

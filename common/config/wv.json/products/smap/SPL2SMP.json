@@ -4,8 +4,7 @@
             "name": "SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture",
             "handler": "HalfOrbit",
             "query": {
-                "shortName": "SPL2SMP",
-                "dataCenterId": "NSIDC_ECS"
+                "shortName": "SPL2SMP"
             },
             "orbit": {
                 "type": "regex_group",

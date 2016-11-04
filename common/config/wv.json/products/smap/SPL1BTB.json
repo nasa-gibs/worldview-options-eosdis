@@ -4,8 +4,7 @@
             "name": "SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures",
             "handler": "HalfOrbit",
             "query": {
-                "shortName": "SPL1BTB",
-                "dataCenterId": "NSIDC_ECS"
+                "shortName": "SPL1BTB"
             },
             "orbit": {
                 "type": "regex_group",

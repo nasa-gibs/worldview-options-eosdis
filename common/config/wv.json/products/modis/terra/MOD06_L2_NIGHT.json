@@ -5,7 +5,6 @@
             "handler": "MODISSwath",
             "query": {
                 "shortName": "MOD06_L2",
-                "dataCenterId": ["LAADS", "LANCEMODIS"],
                 "dayNightFlag": "NIGHT"
             },
             "nrt": {

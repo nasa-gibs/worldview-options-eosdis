@@ -4,8 +4,7 @@
             "name": "L1C_S0_HiRes_001",
             "handler": "HalfOrbit",
             "query": {
-                "shortName": "SPL1CS0",
-                "dataCenterId": "NSIDC_ECS"
+                "shortName": "SPL1CS0"
             },
             "orbit": {
                 "type": "regex_group",

@@ -5,8 +5,7 @@
             "handler": "CollectionList",
             "query": {
                 "collection": "true",
-                "shortName": "CIESIN_SEDAC_GRanD_DAMS",
-                "dataCenterId": "SEDAC"
+                "shortName": "CIESIN_SEDAC_GRanD_DAMS"
             },
             "noBulkDownload": "true"
         }

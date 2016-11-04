@@ -5,12 +5,10 @@
             "handler": "MODISMix",
             "query": {
                 "science": {
-                    "shortName": "MOD09GA",
-                    "dataCenterId": "LPDAAC_ECS"
+                    "shortName": "MOD09GA"
                 },
                 "nrt": {
-                    "shortName": "MOD09",
-                    "dataCenterId": "LANCEMODIS"
+                    "shortName": "MOD09"
                 }
             },
             "nrt": {
