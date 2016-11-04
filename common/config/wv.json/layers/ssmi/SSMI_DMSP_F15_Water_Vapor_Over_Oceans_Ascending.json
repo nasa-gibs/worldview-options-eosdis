@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "SSMI_DMSP_F15_Water_Vapor_Over_Oceans_Ascending": {
+            "id":       "SSMI_DMSP_F15_Water_Vapor_Over_Oceans_Ascending",
+            "title":    "Water Vapor Over Oceans (Ascending, Local AM)",
+            "subtitle": "DMSP-F15 / SSMI",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "rssmif15d",
+            "inactive": true
+        }
+    }
+}

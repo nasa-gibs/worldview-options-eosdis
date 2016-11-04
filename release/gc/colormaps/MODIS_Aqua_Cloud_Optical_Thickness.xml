@@ -3,7 +3,7 @@
           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.3.xsd">
   <ColorMap title="No Data">
     <Entries>
-      <ColorMapEntry rgb="220,220,255" transparent="true" sourceValue="[-9999,100)" nodata="true" ref="0"/>
+      <ColorMapEntry rgb="220,220,255" transparent="true" sourceValue="[-9999,1)" nodata="true" ref="0"/>
     </Entries>
     <Legend type="classification">
       <LegendEntry rgb="220,220,255" tooltip="Fill" id="0"/>
@@ -138,7 +138,7 @@
       <ColorMapEntry rgb="0,248,12" transparent="false" sourceValue="[9635.5002,10000.1002)" value="[96.355,100.001)" ref="125"/>
       <ColorMapEntry rgb="0,255,0" transparent="false" sourceValue="[10000.1002,15000.0000]" value="[100.001,150.000]" ref="126"/>
     </Entries>
-    <Legend type="continuous" minLabel="&lt; 1.00" maxLabel="&gt; 100.00">
+    <Legend type="continuous" minLabel="&lt; 1.00" maxLabel="&gt;= 100.00">
       <LegendEntry rgb="184,0,185" tooltip="0.01 – 1.00" id="1"/>
       <LegendEntry rgb="182,0,184" tooltip="1.00 – 1.04" id="2"/>
       <LegendEntry rgb="180,0,183" tooltip="1.04 – 1.08" id="3"/>
@@ -396,7 +396,7 @@
       <ColorMapEntry rgb="141,0,0" transparent="false" sourceValue="[9635.5002,10000.1002)" value="[96.355,100.001)" ref="251"/>
       <ColorMapEntry rgb="135,0,0" transparent="false" sourceValue="[10000.1002,15000.0000]" value="[100.001,150.000]" ref="252"/>
     </Entries>
-    <Legend type="continuous" minLabel="&lt; 1.00" maxLabel="&gt; 100.00">
+    <Legend type="continuous" minLabel="&lt; 1.00" maxLabel="&gt;= 100.00">
       <LegendEntry rgb="255,255,0" tooltip="0.01 – 1.00" id="127"/>
       <LegendEntry rgb="255,255,4" tooltip="1.00 – 1.04" id="128"/>
       <LegendEntry rgb="255,255,8" tooltip="1.04 – 1.08" id="129"/>
