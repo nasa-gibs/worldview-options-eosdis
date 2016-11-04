@@ -1,6 +1,7 @@
 {
     "features": {
         "dataDownload": true,
+        "animation": true,
         "urlShortening": true,
         "customPalettes": true,
         "tour": true,
