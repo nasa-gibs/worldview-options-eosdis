@@ -1,4 +1,23 @@
 <input type="hidden" autofocus>
+# Version 1.3.0-2
+
+## Updates
+
+* Fixed animation playback error
+
+## Known Issues
+
+* Permalinks do not currently link directly to events or the product picker state
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+
+---
+
 # Version 1.3
 
 ## New Features
@@ -11,17 +30,6 @@
 ## Updates
 
 * MODIS C6 Atmosphere products now have metadata descriptions
-
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 
 ---
 
