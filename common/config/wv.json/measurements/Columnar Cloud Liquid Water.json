@@ -1,18 +1,18 @@
 {
     "measurements": {
-        "Wind Speed": {
-            "id": "wind-speed",
-            "title":    "Wind Speed",
+        "Columnar Cloud Liquid Water": {
+            "id": "columnar-cloud-liquid-water",
+            "title":    "Columnar Cloud Liquid Water",
             "subtitle": "GCOM-W1 / AMSR2",
             "sources": {
                 "GCOM-W1/AMSR2": {
                     "id": "gcom-w1-amsr2",
                     "title": "GCOM-W1 / AMSR2",
-                    "description": "amsr2/WindSpeed",
+                    "description": "amsr2/CloudLiquidWater",
                     "image": "",
                     "settings": [
-                        "AMSR2_Wind_Speed_Day",
-                        "AMSR2_Wind_Speed_Night",
+                        "AMSR2_Cloud_Liquid_Water_Day",
+                        "AMSR2_Cloud_Liquid_Water_Night",
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]

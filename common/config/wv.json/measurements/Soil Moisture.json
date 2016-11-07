@@ -3,7 +3,7 @@
         "Soil Moisture": {
             "id": "soil-moisture",
             "title":    "Soil Moisture",
-            "subtitle": "SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SAC-D/Aquarius",
+            "subtitle": "SMAP / Radar, SMAP / Radiometer, SMAP / Model Value-Added",
             "sources": {
                 "SMAP/Radar": {
                     "id": "smap-radar",
@@ -11,7 +11,7 @@
                     "description": "smap/SoilMoisture_L3_Active",
                     "image": "",
                     "settings": [
-			                  "SMAP_L3_Active_Soil_Moisture",
+			"SMAP_L3_Active_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
@@ -36,7 +36,7 @@
                     "description": "smap/SoilMoisture_L3_ActivePassive",
                     "image": "",
                     "settings": [
-			                  "SMAP_L3_Active_Passive_Soil_Moisture",
+			"SMAP_L3_Active_Passive_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
@@ -47,27 +47,18 @@
                     "description": "smap/Value-Added",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Analyzed_Surface_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
-                    	  "SMAP_L4_Mean_Gross_Primary_Productivity",
-			                  "SMAP_L4_Mean_Heterotrophic_Respiration",
-			                  "SMAP_L4_Mean_Net_Ecosystem_Exchange",
-			                  "SMAP_L4_Emult_Average",
-			                  "SMAP_L4_Frozen_Area",
-		                    "SMAP_L4_Snow_Mass",
+			"SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
+			"SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
+			"SMAP_L4_Analyzed_Surface_Soil_Moisture",
+			"SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
+                    	"SMAP_L4_Mean_Gross_Primary_Productivity",
+			"SMAP_L4_Mean_Heterotrophic_Respiration",
+			"SMAP_L4_Mean_Net_Ecosystem_Exchange",
+			"SMAP_L4_Emult_Average",
+			"SMAP_L4_Frozen_Area",
+			"SMAP_L4_Snow_Mass",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
-                    ]
-                },
-                "SAC-D/Aquarius": {
-                    "id": "sac-d-aquarius",
-                    "title": "SAC-D/Aquarius",
-                    "description": "",
-                    "image": "",
-                    "settings": [
-			                  "Aquarius_Soil_Moisture_Daily"
                     ]
                 }
             }
