@@ -1,9 +1,14 @@
 <input type="hidden" autofocus>
-# Version 1.3.0-2
+# Version 1.3.1
 
 ## Updates
 
-* Fixed animation playback error
+* Data download search now uses CMR in place of ECHO
+* Fixed rotation error present on IOS devices
+* Openlayers update to 19.1.x
+* Releasing mouse click over timeline after dragging map no longer changes date
+* Animation default start/end date guesses have been adjusted
+* Animation is now dynamic/omittable in options configuration.
 
 ## Known Issues
 
@@ -15,6 +20,15 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+* Mix content warnings may be displayed when generating animation GIFs
+
+---
+
+# Version 1.3.0-2
+
+## Updates
+
+* Fixed animation playback error
 
 ---
 
