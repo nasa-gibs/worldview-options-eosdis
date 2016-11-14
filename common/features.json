@@ -9,7 +9,7 @@
         "feedback": true,
         "arcticProjectionChange": true,
         "imageDownload": {
-            "host": "http://gibs.earthdata.nasa.gov",
+            "host": "https://gibs.earthdata.nasa.gov",
             "path": "image-download"
         },
         "naturalEvents": {
