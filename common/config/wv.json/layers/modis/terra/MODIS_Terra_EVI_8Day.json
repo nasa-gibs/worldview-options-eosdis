@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MODIS_Terra_EVI_8Day": {
+            "id":       "MODIS_Terra_EVI_8Day",
+            "title":    "Enhanced Vegetation Index (EVI)",
+            "subtitle": "Terra / MODIS",
+            "group":    "overlays",
+            "product":  "MOD13Q4N",
+
+            "metadata": "modis/VegetationIndices"
+        }
+    }
+}

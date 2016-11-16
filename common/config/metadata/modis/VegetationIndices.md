@@ -1,0 +1,16 @@
+# MODIS (Terra) Vegetation Indices (8-day rolling)
+Vegetation indices are used for monitoring of vegetation conditions and can be used to identify areas undergoing land cover changes. These data may be used as input for modeling global biogeochemical and hydrologic processes and global and regional climate. These data also may be used for characterizing land surface biophysical properties and processes including primary production and land cover conversion. Vegetation indices also provide information on the health of vegetation and can assist farmers and resource managers monitor the health and development of their crops and fields over the growing season.
+
+# MODIS 8-day rolling NDVI
+The MODIS Normalized Difference Vegetation Index layer is a measure of the greenness and health of vegetation. The index is calculated based on how much red and near-infrared light is reflected by plant leaves. The index values range from -0.1 to 0.9 where higher values (0.4 to 0.9) indicate areas covered by green, leafy vegetation and lower values (0 to 0.4) indicate areas where there is little or no vegetation. Areas with a lot of green leaf growth, indicates the presence of chlorophyll which reflects more infrared light and less visible light, are depicted in dark green colors, areas with some green leaf growth are in light greens, and  areas with little to no vegetation growth are depicted in tan colors.
+
+The MODIS 8-day rolling NDVI layer is only available as a near real-time, rolling 8-day product from from the Terra satellite. It is created from a rolling 8-day land surface reflectance product, MOD09Q1N. The sensor resolution is 250 m, imagery resolution is 250 m, temporal resolution is an 8-day product which is updated daily, and temporal availability for viewing in GIBS/Worldview is September 9, 2016 - present.
+
+# MODIS 8-day rolling EVI
+The MODIS Enhanced Vegetation Index is also used as a measure of the greenness and health of vegetation. It is calculated in a similar fashion as NDVI but it corrects for distortions in reflected light caused by particles in the air and ground cover beneath the canopy vegetation. The EVI is more effective in areas with large amounts of chlorophyll such as rainforests. The index values range from -0.1 to 0.9 where higher values (0.4 to 0.9) indicate areas covered by green, leafy vegetation and lower values (0 to 0.4) indicate areas where there is little or no vegetation.
+
+The MODIS 8-day rolling EVI layer is only available as a near real-time, rolling 8-day product from from the Terra satellite. It is created from a rolling 8-day land surface reflectance product, MOD09Q1N. The sensor resolution is 250 m, imagery resolution is 250 m, temporal resolution is an 8-day product which is updated daily, and temporal availability for viewing in GIBS/Worldview is September 9, 2016 - present.
+
+
+References:
+[NASA Earth Observatory - Measuring Vegetation](http://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_4.php); [NASA Earthdata - New Vegetation Indices and Surface Reflectance Products Available from LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time/new-vegetation-indices-and-surface-reflectance-products-available-from-lance);[NASA NEO - Vegetation Index](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD13A2_M_NDVI)
