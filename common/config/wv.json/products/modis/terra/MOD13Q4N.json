@@ -10,13 +10,10 @@
                 }
             },
             "nrt": {
-                "handler": "TerraSwathMultiDay",
+                "handler": "MODISGrid",
                 "by": "value",
                 "field": "data_center",
                 "value": "LANCEMODIS"
-            },
-            "science": {
-                "handler": "MODISGrid"
             },
             "urs": {
                 "by": "value",
