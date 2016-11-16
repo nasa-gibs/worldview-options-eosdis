@@ -2,7 +2,7 @@
     "products": {
         "MOD13Q4N": {
             "name": "MODIS/Terra Vegetation Indices Daily Rolling-8-Day L3 Global 250m",
-            "handler": "MODISMix",
+            "handler": "MODISGrid",
             "query": {
                 "nrt": {
                     "shortName": "MOD13Q4N",
