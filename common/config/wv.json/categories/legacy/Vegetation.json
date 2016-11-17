@@ -9,6 +9,7 @@
                 "measurements": [
                     "Corrected Reflectance",
                     "Land Surface Reflectance",
+                    "Vegetation Indices",
                     "Forests, Mangrove",
                     "Freeze / Thaw",
                     "Gross Primary Productivity",
@@ -18,6 +19,7 @@
                     "Snow Cover",
                     "Snow Mass",
                     "Soil Moisture"
+
                 ]
             }
         }

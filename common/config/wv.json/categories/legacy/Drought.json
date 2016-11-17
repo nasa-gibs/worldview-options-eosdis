@@ -18,7 +18,8 @@
                     "Reservoirs",
                     "Snow Cover",
                     "Snow Water Equivalent",
-                    "Soil Moisture"
+                    "Soil Moisture",
+                    "Vegetation Indices"
                 ]
             }
         }

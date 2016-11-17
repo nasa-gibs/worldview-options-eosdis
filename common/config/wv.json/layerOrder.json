@@ -96,6 +96,8 @@
         "MODIS_Terra_Water_Vapor_5km_Night",
         "MODIS_Aqua_Water_Vapor_5km_Day",
         "MODIS_Aqua_Water_Vapor_5km_Night",
+        "MODIS_Terra_NDVI_8Day",
+        "MODIS_Terra_EVI_8Day",
         "GMI_Brightness_Temp_Asc",
         "GMI_Brightness_Temp_Dsc",
         "GMI_Rain_Rate_Asc",
