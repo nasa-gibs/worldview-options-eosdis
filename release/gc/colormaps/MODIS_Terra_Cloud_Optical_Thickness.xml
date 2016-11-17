@@ -3,7 +3,7 @@
           xsi:noNamespaceSchemaLocation="http://gibs.earthdata.nasa.gov/schemas/ColorMap_v1.3.xsd">
   <ColorMap title="No Data">
     <Entries>
-      <ColorMapEntry rgb="220,220,255" transparent="true" sourceValue="[-9999,100)" nodata="true" ref="0"/>
+      <ColorMapEntry rgb="220,220,255" transparent="true" sourceValue="[-9999,1)" nodata="true" ref="0"/>
     </Entries>
     <Legend type="classification">
       <LegendEntry rgb="220,220,255" tooltip="Fill" id="0"/>
