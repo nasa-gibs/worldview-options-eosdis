@@ -13,4 +13,4 @@ The MODIS rolling 8-day EVI layer is only available as a near real-time, rolling
 
 
 References:
-[NASA Earth Observatory - Measuring Vegetation](http://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_4.php); [NASA Earthdata - New Vegetation Indices and Surface Reflectance Products Available from LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time/new-vegetation-indices-and-surface-reflectance-products-available-from-lance);[NASA NEO - Vegetation Index](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD13A2_M_NDVI)
+[NASA Earth Observatory - Measuring Vegetation](http://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_4.php); [NASA Earthdata - New Vegetation Indices and Surface Reflectance Products Available from LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time/new-vegetation-indices-and-surface-reflectance-products-available-from-lance); [NASA NEO - Vegetation Index](http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD13A2_M_NDVI)
