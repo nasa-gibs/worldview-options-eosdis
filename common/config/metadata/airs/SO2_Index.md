@@ -7,6 +7,6 @@ Sulfur Dioxide (SO2), is a colorless gas with a pungent, suffocating odor that i
 
 The AIRS Sulfur Dioxide Index Prata algorithm was authored by Fred Prata from the Norwegian Institute for Air Research.
 
-The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Prata SO2 Index science parameter is a derived parameter from the Level 1B Near-Real Time Infrared (IR) geolocated and calibrated radiances, (AIRIBRAD_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution daily and temporal availability for viewing in GIBS/Worldview is 8 May 2012 - present.
+The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Prata SO2 Index science parameter is a derived parameter from the Level 1B Near-Real Time Infrared (IR) geolocated and calibrated radiances, (AIRIBRAD_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 8 May 2012 - present.
 
 References: [GES DISC - AIRS NRT Products and Images](http://disc.sci.gsfc.nasa.gov/nrt/data-holdings/airs-nrt-products); [GES DISC - AIRIBRAD_NRT Version 005](http://disc.sci.gsfc.nasa.gov/datacollection/AIRIBRAD_NRT_V005.html?AIRIBRAD_NRT)

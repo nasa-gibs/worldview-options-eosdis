@@ -7,6 +7,6 @@ Nitric acid (HNO3) is a very water soluble, acidic gas. In the atmosphere it i
 
 One of the main objectives of the Aura mission in general and MLS in particular is to track the stability of stratospheric ozone. HNO3 indirectly regulates the extent, duration, and cumulative magnitude of stratospheric ozone depletion. Despite international regulations controlling the production of ozone-depleting substances, the ozone layer may not recover as expected.
 
-The MLS Nitric Acid (HNO3) Mixing Ratio at 46hPa layer is derived from the MLS Nitric Acid  (ML2HNO3_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, temporal resolution is twice daily (day and night) and temporal availability for viewing in GIBS/Worldview is 9 May 2013 - present.
+The MLS Nitric Acid (HNO3) Mixing Ratio at 46hPa layer is derived from the MLS Nitric Acid  (ML2HNO3_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, temporal resolution is twice daily (day and night) and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 9 May 2013 - present.
 
 References: [MLS - HNO3 Product](http://mls.jpl.nasa.gov/products/hno3_product.php)

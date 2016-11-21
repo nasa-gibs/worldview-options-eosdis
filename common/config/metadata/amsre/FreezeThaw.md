@@ -7,6 +7,6 @@ The freeze/thaw layer is useful for assessing the impact of freeze/thaw variatio
 
 The Advanced Microwave Scanning Radiometer – Earth Observing System (AMSR-E) is a multi frequency, dual polarized passive microwave instrument. It detects faint microwave emissions from the Earth’s surface and atmosphere.
 
-The MEASUREs global record of daily landscape freeze/thaw status is available for the AMSR-E instrument. The sensor and imagery resolution is 25 km; temporal resolution is daily, as derived from morning (AM) and afternoon (PM) sensor brightness temperature retrievals; temporal availability in Worldview/GIBS extends from 9 June 2002 to 27 September 2011.
+The MEaSUREs global record of daily landscape freeze/thaw status is available for the AMSR-E instrument. The sensor and imagery resolution is 25 km; temporal resolution is daily, as derived from morning (AM) and afternoon (PM) sensor brightness temperature retrievals; temporal availability in Worldview/Global Imagery Browse Services (GIBS) extends from 9 June 2002 to 27 September 2011.
 
 References: [NSIDC - MEaSUREs Global Record of Daily Landscape Freeze/Thaw Status, Version 3](http://nsidc.org/data/nsidc-0477/); [Freeze/Thaw Earth System Data Record](http://freezethaw.ntsg.umt.edu/)
