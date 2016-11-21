@@ -3,7 +3,7 @@ Temporal coverage: 13 April 2015 - 7 July 2015
 
 The Soil Moisture Active Passive (SMAP) “Soil Moisture (L3, Active/Passive)” layer displays daily global composites of the surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> from the 6:00 a.m. descending half-orbit passes of the SMAP radar and radiometer.  Utilizing a combination of the active radar backscatter estimates and the passive radiometer surface emissivity estimates provides greater accuracy and spatial resolution in measuring moisture in the upper 5 cm of soil than is possible with either of the individual instruments alone.  
 
-The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
+The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate. The imagery resolution is 2 km and sensor resolution is 9 km. The temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 13 April 2015 - 7 July 2015.
 
 ## Source
 Data product: [SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3smap/)

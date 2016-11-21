@@ -5,7 +5,7 @@ The Soil Moisture Active Passive (SMAP) “Sigma0 (L3, Active, HH Polarization)�
 
 Backscatter is the portion of the outgoing radar signal that the target redirects directly back towards the radar antenna. Sigma0 (Sigma nought), the backscatter coefficient, is the normalized measure of the radar return from a distributed target, defined per unit area on the ground.
 
-The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
+The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate. The imagery resolution is 2 km and sensor resolution is 3 km. The temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 13 April 2015 - 7 July 2015.
 
 ## Source
 Data product: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
