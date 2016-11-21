@@ -7,7 +7,7 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3smap/)
+
 Data field: soil_moisture
 
-## References:
-[SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3smap/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document SMAP L2 & L3 Radar Soil Moisture (Active) Data Products Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/276_L2_3_SM_A_RevA_web.pdf); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
+## References: [SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3smap/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document SMAP L2 & L3 Radar Soil Moisture (Active) Data Products Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/276_L2_3_SM_A_RevA_web.pdf); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)

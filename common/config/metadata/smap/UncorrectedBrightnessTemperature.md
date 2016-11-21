@@ -7,10 +7,10 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data Product: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+
 Data fields: cell_tb_h_fore, cell_tb_h_aft, cell_tb_v_fore, cell_tb_v_aft
 
-## References:
-[SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+## References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
 
 # Uncorrected Brightness Temperature QA and RFI Flags
 Temporal coverage: 31 March 2015 - present
@@ -27,7 +27,7 @@ Within the image, green indicates that TB observations are free of RFI and appro
 
 ## Source
 Data Product: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+
 Data fields: cell_tb_qual_flag_h_fore, cell_tb_qual_flag_h_aft, cell_tb_qual_flag_v_fore, cell_tb_qual_flag_v_aft
 
-## References:
-[SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+## References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)

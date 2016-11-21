@@ -7,10 +7,10 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_surface_analysis
 
-## References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
+## References: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
 # Surface Soil Moisture Uncertainty (L4, 12z Instantaneous, Model Value-Added)
 Temporal coverage: March 31, 2015 - present
@@ -21,7 +21,7 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
+
 Data field: sm_surface_analysis_ensstd
 
-## References
-[SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
+## References: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)

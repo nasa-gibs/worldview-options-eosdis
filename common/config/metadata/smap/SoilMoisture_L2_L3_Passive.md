@@ -7,10 +7,10 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+
 Data field: soil_moisture_option1
 
-## References
-[SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
+## References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
 
 # Soil Moisture (L2, Passive, Single Channel Algorithm, V Polarization)
 Temporal coverage: March 31, 2015 - present
@@ -21,10 +21,10 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+
 Data field: soil_moisture_option2
 
-## References
-[SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
+## References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
 
 # Soil Moisture (L2, Passive, Dual Channel Algorithm)
 Temporal coverage: March 31, 2015 - present
@@ -35,10 +35,10 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+
 Data field: soil_moisture_option3
 
-## References
-[SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
+## References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
 
 # Soil Moisture (L3, Passive)
 Temporal coverage: March 31, 2015 - present
@@ -49,7 +49,7 @@ The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (
 
 ## Source
 Data product: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
+
 Data field: soil_moisture
 
-## References:
-[SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
+## References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
