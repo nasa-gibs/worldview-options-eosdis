@@ -1,5 +1,5 @@
 # Sigma0 (L3, Active, HH Polarization | VV Polarization | XPOL Polarization)
-Temporal coverage: April 13, 2015 - July 7, 2015
+Temporal coverage: 13 April 2015 - 7 July 2015
 
 The Soil Moisture Active Passive (SMAP) “Sigma0 (L3, Active, HH Polarization)” layers display backscatter from the SMAP radar in decibels (dB) for the horizontal (H) transmit and horizontal (H) receive polarizations, the vertical (V) transmit and the vertical (V) receive polarizations, and the cross-polarizations (XPOL).
 

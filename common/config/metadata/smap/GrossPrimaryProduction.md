@@ -1,5 +1,5 @@
 # Gross Primary Production (L4, 9 km Grid Cell Mean, Model Value-Added)
-Temporal coverage: April 13, 2015 - present.
+Temporal coverage: 13 April 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Gross Primary Production (L4, 9 km Grid Cell Mean, Model Value-Added)” layer displays global daily mean vegetation gross primary productivity (GPP)  in grams of carbon uptake per meter squared per day (gC m<sup>-2</sup> day<sup>-1</sup>).  GPP is defined as the rate at which vegetation captures and stores carbon dioxide in a given length of time via a photosynthetic process.
 

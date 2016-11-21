@@ -1,5 +1,5 @@
 # Surface Soil Moisture (L4, 12z Instantaneous, Model Value-Added)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Surface Soil Moisture (L4, 12z Instantaneous, Model Value-Added)” layer displays model-derived global surface soil moisture of the top 5 cm of the soil column in m<sup>3</sup>/m<sup>3</sup>.  Surface soil moisture estimates are obtained by merging SMAP observations with estimates from a land surface model in a soil moisture ensemble Kalman filter data assimilation system.  12z indicates the Z (or UTC) time used for nearest 3-hourly analysis time when SMAP observations are merged into the assimilation system.
 

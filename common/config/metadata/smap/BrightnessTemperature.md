@@ -1,5 +1,5 @@
 # Uncorrected Brightness Temperature (L1, Passive, Fore | Aft, H Polarization | V Polarization)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Uncorrected Brightness Temperature" layers display brightness temperatures (TBs) uncorrected for the presence of water in kelvins for the horizontal (H) and vertical (V) polarizations of the fore and aft scans from the SMAP radiometer. At the L-band frequency used by SMAP, the TB of the land surface is proportional to its emissivity multiplied by its physical temperature.
 
@@ -35,7 +35,7 @@ Data fields: cell_tb_qual_flag_h_fore, cell_tb_qual_flag_h_aft, cell_tb_qual_fla
 [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
 
 # Corrected Brightness Temperature (L3, Passive, H Polarization | V Polarization)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Corrected Brightness Temperature" layers display brightness temperatures (TBs) in kelvins for the horizontal (H) and vertical (V) polarizations from the SMAP radiometer.
 

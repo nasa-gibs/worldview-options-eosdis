@@ -1,5 +1,5 @@
 # Freeze/Thaw (L3, Active)
-Temporal coverage: April 13, 2015 - July 7, 2015
+Temporal coverage: 13 April 2015 - 7 July 2015
 
 The Soil Moisture Active Passive (SMAP) “Freeze/Thaw (L3, Active)” layer displays freeze/thaw state for land surface areas north of 45°N latitude from the SMAP radar. Freeze/thaw is detected by identifying the temporal response of radar backscatter to changes in the dielectric constant of the landscape components that occur as the water within the components transitions between frozen and non-frozen conditions.
 

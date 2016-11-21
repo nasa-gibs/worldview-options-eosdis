@@ -1,5 +1,5 @@
 # Soil Moisture (L3, Passive)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Soil Moisture (L3, Passive)" layer displays a daily global composite of surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> derived from the Single Channel Algorithm V-Pol (SCA-V), the baseline soil moisture algorithm, for the 6:00 a.m. descending half-orbit passes of the SMAP radiometer. The SMAP radiometer measures natural thermal emission emanating from the soil surface. The variation in the intensity of this radiation depends on the dielectric properties and temperature of the target medium, which for the near surface soil layer is a function of the amount of moisture present.
 

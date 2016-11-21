@@ -1,5 +1,5 @@
-# Sea Ice Brightness Temperature (6km, 89H | 89V)
-Temporal coverage: January 13, 2016 - present
+# AMSR2 Sea Ice Brightness Temperature (6km, 89H | 89V)
+Temporal coverage: 13 January 2016 - present
 
 The Advanced Microwave Scanning Radiometer 2 (AMSR2) "Sea Ice Brightness Temperature (6km, 89H and 89V)" layer displays sea ice brightness temperatures (TBs) in kelvins at the Polar regions for the 89 GHz horizontal (H) and vertical (V) polarizations. Brightness temperature data are particularly useful for sea ice studies because of the relatively high contrast in emissivities between open water and sea ice.
 

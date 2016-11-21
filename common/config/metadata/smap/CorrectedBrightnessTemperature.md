@@ -1,5 +1,5 @@
 # Corrected Brightness Temperature (L3, Passive, H Polarization | V Polarization)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Corrected Brightness Temperature" layers display brightness temperatures (TBs) in kelvins for the horizontal (H) and vertical (V) polarizations from the SMAP radiometer.
 

@@ -1,5 +1,5 @@
 # Surface Soil Temperature (L4, 12z Instantaneous, Model Value-Added)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Surface Soil Temperature (L4, 12z Instantaneous, Model Value-Added)” layer displays model-derived global surface soil temperature in the top 5 cm of the soil column in kelvins. Surface soil temperature estimates are based on a soil heat diffusion model component of the NASA Catchment Land Surface Model.  12z indicates the Z (or UTC) time used for nearest 3-hourly analysis time when SMAP observations are merged into the assimilation system.
 

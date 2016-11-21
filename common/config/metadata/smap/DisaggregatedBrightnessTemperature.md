@@ -1,5 +1,5 @@
 # Disaggregated Brightness Temperature (L3, Active/Passive, H Polarization | V Polarization)
-Temporal coverage:  April 13, 2015 - July 7, 2015
+Temporal coverage:  13 April 2015 - 7 July 2015
 
 The Soil Moisture Active Passive (SMAP) "Disaggregated Brightness Temperature” layers display brightness temperatures (TBs) in kelvins for the horizontal (H) and vertical (V) polarizations from the SMAP radiometer.
 

@@ -1,5 +1,5 @@
 # Soil Moisture (L3, Active/Passive)
-Temporal coverage: April 13, 2015 - July 7, 2015.
+Temporal coverage: 13 April 2015 - 7 July 2015.
 
 The Soil Moisture Active Passive (SMAP) “Soil Moisture (L3, Active/Passive)” layer displays daily global composites of the surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> from the 6:00 a.m. descending half-orbit passes of the SMAP radar and radiometer.  Utilizing a combination of the active radar backscatter estimates and the passive radiometer surface emissivity estimates provides greater accuracy and spatial resolution in measuring moisture in the upper 5 cm of soil than is possible with either of the individual instruments alone.  
 

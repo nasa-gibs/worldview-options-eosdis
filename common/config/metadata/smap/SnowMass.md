@@ -1,5 +1,5 @@
 # Snow Mass (L4, 12z-3z Time Average, Model Value-Added)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Snow Mass (L4, 12z-3z Time Average, Model Value-Added)” layer displays a model-derived global 3-hr time average of snow mass in kg/m<sup>2</sup>. Snow mass estimates are based on a snow model component of the NASA Catchment Land Surface Model. 12z-3z indicates the 3-hourly time averaging interval between the 12:00:00 UTC and 3:00:00 UTC analysis updates.
 

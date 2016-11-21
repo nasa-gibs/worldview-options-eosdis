@@ -1,5 +1,5 @@
 # Faraday Rotation Angle (L1, Passive, Fore | Aft)
-Temporal coverage: March 31, 2015 - present.
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Faraday Rotation Angle" layers display Faraday rotation angle in degrees for the fore and aft scans of the SMAP radiometer.
 

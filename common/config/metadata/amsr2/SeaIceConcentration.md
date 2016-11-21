@@ -1,5 +1,5 @@
-# Sea Ice Concentration, 12 km
-Temporal coverage: January 13, 2016 - present
+# AMSR2 Sea Ice Concentration, 12 km
+Temporal coverage: 13 January 2016 - present
 
 The Advanced Microwave Scanning Radiometer 2 (AMSR2) "Sea Ice Concentration, 12km" layer displays the percent of sea ice concentration in the Polar regions at a 12.5 km resolution.
 
@@ -10,8 +10,8 @@ The Advanced Microwave Scanning Radiometer 2 (AMSR2) instrument is a conically s
 ### Source
 Data product: [NRT AMSR2 Daily L3 12.5 km Tb and Sea Ice Concentration Polar Grids](https://ghrc.nsstc.nasa.gov/hydro/details.pl?ds=A2_SI12_NRT)
 
-# Sea Ice Concentration, 25 km
-Temporal coverage: January 13, 2016 - present
+# AMSR2 Sea Ice Concentration, 25 km
+Temporal coverage: 13 January 2016 - present
 
 The Advanced Microwave Scanning Radiometer 2 (AMSR2) "Sea Ice Concentration, 25km" layer displays the percent of sea ice concentration in the Polar regions at a 25 km resolution.
 

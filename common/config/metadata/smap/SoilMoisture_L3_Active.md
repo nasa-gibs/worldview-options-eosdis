@@ -1,5 +1,5 @@
 # Soil Moisture (L3, Active)
-Temporal coverage: March 31, 2015 - July 7, 2015.
+Temporal coverage: 31 March 2015 - 7 July 2015.
 
 The Soil Moisture Active Passive (SMAP) “Soil Moisture (L3, Active)” layer displays a daily global composite of surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> from the 6:00 a.m. descending half-orbit passes of the SMAP radar. The amount of backscatter returned to the radar changes with the amount of moisture in the soil. Wetter soil causes more backscatter to reach the radar. Retrieval of soil moisture from measured backscatter data typically implies an inversion of the radar forward scattering process. The SMAP approach is a multichannel retrieval algorithm that searches for a soil moisture solution such that the difference between modeled and observed backscatter is minimized in the least squares sense.
 

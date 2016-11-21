@@ -1,5 +1,5 @@
 # Percent of Potential Vegetation Light Use Efficiency (L4, 9 km Grid Cell Mean, Model Value-Added)
-Temporal coverage: April 13, 2015 - present.
+Temporal coverage: 13 April 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Percent of Potential Vegetation Light Use Efficiency (L4, 9 km Grid Cell Mean, Model Value-Added)” layer displays model-derived global daily average estimated percent of bulk environmental constraint to Photosynthetically Active Radiation (PAR) conversion efficiency and vegetation productivity. Light use efficiency is combined with three-pool soil decomposition algorithms within a terrestrial carbon flux model framework for estimating daily carbon fluxes and surface soil organic carbon stocks.
 

@@ -1,5 +1,5 @@
-# Sea Ice Brightness Temperature (89H GHz | 89V GHz, B Scan)
-Temporal coverage: June 18, 2002 - October 4, 2011
+# AMSR-E Sea Ice Brightness Temperature (89H GHz | 89V GHz, B Scan)
+Temporal coverage: 18 June 2002 - 4 October 2011
 
 The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Sea Ice Brightness Temperature (89H and 89V GHz, B Scan)" layer displays sea ice  brightness temperatures (TBs) in kelvins at the Polar regions for the 89 GHz horizontal (H) and vertical (V) polarizations for the 1:30 a.m. ascending (day) half-orbit passes of the AMSR-E radiometer B feedhorn. Brightness temperature data are particularly useful for sea ice studies because of the relatively high contrast in emissivities between open water and sea ice.
 

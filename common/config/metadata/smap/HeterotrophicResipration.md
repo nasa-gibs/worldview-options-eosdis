@@ -1,5 +1,5 @@
 # Heterotrophic Respiration (L4, 9 km Grid Cell Mean, Model Value-Added)
-Temporal coverage: April 13, 2015 - present.
+Temporal coverage: 13 April 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Heterotrophic Respiration (L4, 9 km Grid Cell Mean, Model Value-Added)” layer displays model-derived global daily heterotrophic respiration in grams of carbon uptake per meter squared per day ( gC m<sup>-2</sup> day<sup>-1</sup>).  Heterotrophic respiration is computed as the sum of variable decomposition and respiration rates from metabolic, structural, and recalcitrant Soil Organic Carbon (SOC) pools and corresponding decomposition rate parameters. The metabolic and structural SOC pools represent plant litter with relatively short (e.g., ≤ 5 years) turnover periods, while the recalcitrant pool represents more physically and chemically protected SOC with a longer turnover time.
 
