@@ -5,12 +5,11 @@ The Soil Moisture Active Passive (SMAP) “Root Zone Soil Moisture (L4, 12z Inst
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
-
 Data field: sm_rootzone_analysis
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
@@ -21,12 +20,11 @@ The Soil Moisture Active Passive (SMAP) “Root Zone Soil Moisture Uncertainty (
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
-
 Data field: sm_rootzone_analysis_ensstd
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
@@ -37,12 +35,11 @@ The Soil Moisture Active Passive (SMAP) “Surface Soil Moisture (L4, 12z Instan
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
-
 Data field: sm_surface_analysis
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
@@ -53,12 +50,11 @@ The Soil Moisture Active Passive (SMAP) “Surface Soil Moisture Uncertainty (L4
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
-
 Data field: sm_surface_analysis_ensstd
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/);
 [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)
 
@@ -69,12 +65,11 @@ The Soil Moisture Active Passive (SMAP) “Gross Primary Production (L4, 9 km Gr
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: gpp_mean
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
@@ -85,12 +80,11 @@ The Soil Moisture Active Passive (SMAP) “Heterotrophic Respiration (L4, 9 km G
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: rh_mean
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
@@ -101,12 +95,11 @@ The Soil Moisture Active Passive (SMAP) “Net Ecosystem CO2 Exchange (L4, 9 km 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: nee_mean
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
@@ -117,12 +110,11 @@ The Soil Moisture Active Passive (SMAP) “Net Ecosystem CO2 Exchange (L4, 9 km 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: nee_mean
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
@@ -133,12 +125,11 @@ The Soil Moisture Active Passive (SMAP) “Percent of Potential Vegetation Light
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: emult_mean
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/);
 [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
@@ -149,12 +140,11 @@ The Soil Moisture Active Passive (SMAP) “Percent Frozen Area (L4, 9 km Grid Ce
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/)
-
 Data field: frozen_area
 
-#### References
+## References
 [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
 # Snow Mass (L4, 12z-3z Time Average, Model Value-Added)
@@ -164,10 +154,9 @@ The Soil Moisture Active Passive (SMAP) “Snow Mass (L4, 12z-3z Time Average, M
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data](https://nsidc.org/data/spl4smgp/)
-
 Data field: snow_mass
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data](https://nsidc.org/data/spl4smgp/); [Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)

@@ -7,10 +7,9 @@ Faraday rotation is a phenomenon in which the polarization vector of an electrom
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures](https://nsidc.org/data/spl1btb/)
-
 Data field: faraday_rotation_angle
 
-#### References
+## References
 [SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures](https://nsidc.org/data/spl1btb/); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)

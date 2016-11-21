@@ -5,10 +5,9 @@ The Soil Moisture Active Passive (SMAP) “Freeze/Thaw (L3, Active)” layer dis
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3fta/)
-
 Data field : freeze_thaw
 
-#### References
+## References
 [SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3fta/); [Algorithm Theoretical Basis Document Level 3 Radar Freeze/Thaw Data Product, Revision A, December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/274_L3_FT_A_RevA_web.pdf)  

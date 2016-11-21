@@ -7,12 +7,11 @@ Backscatter is the portion of the outgoing radar signal that the target redirect
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
-
 Data fields: sigma0_hh_mean, sigma0_vv_mean, sigma0_xpol_mean
 
-#### References:
+## References:
 [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)
 
 # Sigma0 QA and RFI Flags
@@ -28,10 +27,9 @@ The Soil Moisture Active Passive (SMAP) "Sigma0 RFI" layers display Radio Freque
 
 Within the image, green indicates that Sigma0 observations are free of RFI and approved for science use, yellow indicates that caution should be used with the Sigma0 observations as RFI was detected but mitigated, and red indicates that Sigma0 observations are flagged as bad due to RFI.
 
-### Source
+## Source
 Data product: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
-
 Data fields: sigma0_qual_flag_hh, sigma0_qual_flag_vv, sigma0_qual_flag_xpol
 
-#### References:
+## References:
 [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/); [SMAP Handbook](https://smap.jpl.nasa.gov/files/smap2/SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf)

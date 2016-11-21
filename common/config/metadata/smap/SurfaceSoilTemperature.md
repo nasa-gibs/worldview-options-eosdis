@@ -5,10 +5,9 @@ The Soil Moisture Active Passive (SMAP) “Surface Soil Temperature (L4, 12z Ins
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-### Source
+## Source
 Data product: [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/)
-
 Data field: soil_temp_layer1_analysis
 
-#### References
+## References
 [SMAP L4 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update](https://nsidc.org/data/spl4smau/); [Soil Moisture Active Passive (SMAP) Algorithm Theoretical Basis Document Level 4 Surface and Root Zone Soil Moisture (L4_SM) Data Product Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/272_L4_SM_RevA_web.pdf)

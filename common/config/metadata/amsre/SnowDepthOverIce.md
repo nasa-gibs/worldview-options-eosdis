@@ -5,6 +5,6 @@ The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Sn
 
 Onboard NASA's Aqua satellite, the AMSR-E radiometer measured terrestrial, oceanic, and atmospheric parameters used to investigate global water and energy cycles.  
 
-### Source
+## Source
 Data product: [AMSR-E/Aqua Daily L3 12.5 km Brightness Temperature, Sea Ice Concentration, & Snow Depth Polar Grids](http://nsidc.org/data/ae_si12)
 Data fields: SI_12km_NH_SNOWDEPTH_5DAY; SI_12km_SH_SNOWDEPTH_5DAY
