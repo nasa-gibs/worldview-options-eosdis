@@ -1,14 +1,21 @@
 <input type="hidden" autofocus>
-# Version 1.3.1
+
+# Version 1.3.2
+
+## New Features
+
+* GHRC SSMI Layers including Cloud Liquid Water, Water Vapor, Rain Rate, Surface Wind Speed for July 1987 – present
+* NSIDC DMSP 5D-3 F17/SSMIS, DMSP 5D-3 F18/SSMIS Sea Ice Concentration (Polar projection only)
+* NSIDC SAC-D Aquarius Soil Moisture layer
+* Rolling 8-day MODIS Vegetation Indices layers – Normalized Difference Vegetation Index (NDVI) and Enhanced Vegetation Index (EVI) and descriptions
+* Animation-GIF date stamp capability
 
 ## Updates
 
-* Data download search now uses CMR in place of ECHO
-* Fixed rotation error present on IOS devices
-* Openlayers update to 19.1.x
-* Releasing mouse click over timeline after dragging map no longer changes date
-* Animation default start/end date guesses have been adjusted
-* Animation is now dynamic/omittable in options configuration.
+* Added a grunt task to relocate node_module dependencies within web/ directory
+* Now if non-existent images are requested for the creation of an animation-GIF, they will be skipped
+* Now filtering download links by file extension rather than CMR's "data" tag
+* Added text to denote temporal coverage to the beginning of layer descriptions
 
 ## Known Issues
 
@@ -20,8 +27,18 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
-* Mix content warnings may be displayed when generating animation GIFs
+---
 
+# Version 1.3.1
+
+## Updates
+
+* Data download search now uses CMR in place of ECHO
+* Fixed rotation error present on IOS devices
+* Openlayers update to 19.1.x
+* Releasing mouse click over timeline after dragging map no longer changes date
+* Animation default start/end date guesses have been adjusted
+* Animation is now dynamic/omittable in options configuration.
 ---
 
 # Version 1.3.0-2
