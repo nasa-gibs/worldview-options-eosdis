@@ -7,11 +7,11 @@
                 "description": "",
                 "image": "ash-plumes.jpg",
                 "measurements": [
-                    "Corrected Reflectance",
-                    "Land Surface Reflectance",
                     "Aerosol Optical Depth",
-                    "Sulfur Dioxide",
+                    "Corrected Reflectance",
                     "Fires and Thermal Anomalies",
+                    "Land Surface Reflectance",
+                    "Sulfur Dioxide",
                     "Volcano Hazard"
                 ]
             }

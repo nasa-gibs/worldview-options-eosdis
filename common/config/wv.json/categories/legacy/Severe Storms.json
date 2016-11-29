@@ -7,20 +7,7 @@
                 "image": "severe-storms.jpg",
                 "description": "",
                 "measurements": [
-                    "Cloud Pressure",
-                    "Cloud Top Temperature",
                     "Corrected Reflectance",
-                    "Cyclone Hazard",
-                    "Flood Hazard",
-                    "Precipitation Estimate",
-					          "Precipitation Rate",
-                    "Relative Humidity",
-                    "Soil Moisture",
-                    "Snow Cover",
-                    "Land Surface Temperature",
-                    "Temperature",
-                    "Water Vapor",
-                    "Wind Speed",
                     "Cloud Fraction",
                     "Cloud Multi Layer Flag",
                     "Cloud Phase",
@@ -30,7 +17,18 @@
                     "Cloud Top Temperature",
                     "Cloud Top Height",
                     "Cloud Water Path",
-                    "Sea Surface Temperature"
+                    "Cyclone Hazard",
+                    "Flood Hazard",
+                    "Land Surface Temperature",
+                    "Precipitation Estimate",
+					          "Precipitation Rate",
+                    "Relative Humidity",
+                    "Sea Surface Temperature",
+                    "Soil Moisture",
+                    "Snow Cover",
+                    "Temperature",
+                    "Water Vapor",
+                    "Wind Speed"
                 ]
             }
         }

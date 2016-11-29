@@ -7,8 +7,8 @@
                 "image": "fires.jpg",
                 "description": "",
                 "measurements": [
-                    "Fires and Thermal Anomalies",
                     "Aerosol Optical Depth",
+                    "Fires and Thermal Anomalies",
                     "Carbon Monoxide",
                     "Corrected Reflectance",
                     "Land Surface Reflectance",

@@ -2,7 +2,7 @@
     "measurements": {
         "Frozen Area": {
             "id": "frozen-area",
-            "title":    "Percent Frozen Area",
+            "title":    "Frozen Area",
             "subtitle": "SMAP/Model Value-Added",
             "sources": {
                   "SMAP/Model Value-Added": {

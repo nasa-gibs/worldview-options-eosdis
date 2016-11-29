@@ -8,13 +8,6 @@
                 "description": "",
                 "measurements": [
                     "Corrected Reflectance",
-                    "Land Surface Reflectance",
-                    "Precipitation Estimate",
-					          "Precipitation Rate",
-					          "Soil Moisture",
-                    "Snow Cover",
-                    "Snow Water Equivalent",
-                    "Water Vapor",
                     "Cloud Fraction",
                     "Cloud Multi Layer Flag",
                     "Cloud Phase",
@@ -24,11 +17,18 @@
                     "Cloud Top Temperature",
                     "Cloud Top Height",
                     "Cloud Water Path",
-                    "Flood Hazard",
-                    "Reservoirs",
                     "Dams",
+                    "Flood Hazard",
+                    "Global 250m Water Map",
+                    "Land Surface Reflectance",
+                    "Precipitation Estimate",
+					          "Precipitation Rate",
+                    "Reservoirs",
+					          "Soil Moisture",
+                    "Snow Cover",
+                    "Snow Water Equivalent",
                     "Urban Rural Extents in the 10m Low Elevation Zone",
-                    "Global 250m Water Map"
+                    "Water Vapor"
                 ]
             }
         }

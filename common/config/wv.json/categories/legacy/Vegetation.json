@@ -8,19 +8,19 @@
                 "description": "",
                 "measurements": [
                     "Corrected Reflectance",
-                    "Land Surface Reflectance",
-                    "Vegetation Indices",
                     "Forests, Mangrove",
                     "Freeze / Thaw",
+                    "Gross Primary Productivity",
+                    "Heterotrophic Respiration",
+                    "Land Surface Reflectance",
                     "Land Surface Temperature",
+                    "Net Ecosystem CO2 Exchange",
                     "Precipitation Estimate",
 					          "Precipitation Rate",
                     "Snow Cover",
                     "Snow Mass",
                     "Soil Moisture",
-                    "Gross Primary Productivity",
-                    "Heterotrophic Respiration",
-                    "Net Ecosystem CO2 Exchange",
+                    "Vegetation Indices",
                     "Vegetation Light Use Efficiency"
 
                 ]

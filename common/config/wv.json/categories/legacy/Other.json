@@ -8,10 +8,11 @@
                 "description": "",
                 "measurements": [
                     "Areas of No Data (mask)",
+                    "Blue Marble",
                     "Brightness Temperature",
                     "Chlorophyll A",
                     "Dams",
-                    "Earth at Night 2012",
+                    "Earth at Night",
                     "Global 250m Water Map",
                     "Global Digital Elevation Map",
                     "Latitude-Longitude Lines",
