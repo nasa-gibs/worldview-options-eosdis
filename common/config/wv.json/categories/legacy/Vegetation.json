@@ -12,13 +12,16 @@
                     "Vegetation Indices",
                     "Forests, Mangrove",
                     "Freeze / Thaw",
-                    "Gross Primary Productivity",
                     "Land Surface Temperature",
                     "Precipitation Estimate",
 					          "Precipitation Rate",
                     "Snow Cover",
                     "Snow Mass",
-                    "Soil Moisture"
+                    "Soil Moisture",
+                    "Gross Primary Productivity",
+                    "Heterotrophic Respiration",
+                    "Net Ecosystem CO2 Exchange",
+                    "Vegetation Light Use Efficiency"
 
                 ]
             }
