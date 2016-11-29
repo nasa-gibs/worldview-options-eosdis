@@ -1,5 +1,5 @@
 # MODIS (Terra) Vegetation Indices (rolling 8-day)
-Temporal coverage: September 15, 2016 - present
+Temporal coverage: 3 August 2016 - present
 
 Vegetation indices are used for monitoring of vegetation conditions and can be used to identify areas undergoing land cover changes. These data may be used as input for modeling global biogeochemical and hydrologic processes and global and regional climate. These data also may be used for characterizing land surface biophysical properties and processes including primary production and land cover conversion. Vegetation indices also provide information on the health of vegetation and can assist farmers and resource managers monitor the health and development of their crops and fields over the growing season.
 
