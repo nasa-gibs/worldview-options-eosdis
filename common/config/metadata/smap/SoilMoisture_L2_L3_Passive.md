@@ -27,7 +27,7 @@ Data field: soil_moisture_option2
 ## References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP); [Algorithm Theoretical Basis Document Level 2 & 3 Soil Moisture (Passive) Data Products](https://nsidc.org/sites/nsidc.org/files/files/L2_SM_P_ATBD_v7_Sep2015-po-en%281%29.pdf)
 
 # Soil Moisture (L2, Passive, Dual Channel Algorithm)
-Temporal coverage: March 31, 2015 - present
+Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Soil Moisture (L2, Passive, Dual Channel Algorithm)" layer displays surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> derived from the Dual Channel Algorithm (DCA), one of four optional soil moisture algorithms, for the 6:00 a.m. descending half-orbit passes of the SMAP radiometer. The SMAP radiometer measures natural thermal emission emanating from the soil surface. The variation in the intensity of this radiation depends on the dielectric properties and temperature of the target medium, which for the near surface soil layer is a function of the amount of moisture present. In the DCA, both the vertically and horizontally polarized brightness temperatures are used to solve for soil moisture and vegetation optical depth.
 
