@@ -1,17 +1,18 @@
 {
     "measurements": {
-        "Earth at Night 2012": {
+        "Earth at Night": {
             "id": "earth-at-night",
-            "title":    "Earth at Night 2012",
-            "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
+            "title":    "Earth at Night",
+            "subtitle": "Suomi NPP / VIIRS",
             "sources": {
                 "SuomiNPP/VIIRS": {
-                    "id": "aqua-airs",
+                    "id": "npp-viirs",
                     "title": "Suomi NPP / VIIRS",
                     "description": "viirs/EarthAtNight",
                     "image": "",
                     "settings": [
-                        "VIIRS_CityLights_2012"
+                        "VIIRS_CityLights_2012",
+			"VIIRS_SNPP_DayNightBand_ENCC"
                     ]
                 }
             }
