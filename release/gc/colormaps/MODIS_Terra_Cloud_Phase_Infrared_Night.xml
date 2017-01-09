@@ -13,7 +13,6 @@
       <LegendEntry rgb="100,100,100" tooltip="Clear" id="0"/>
       <LegendEntry rgb="0,0,100" tooltip="Liquid Water" id="1"/>
       <LegendEntry rgb="188,210,254" tooltip="Ice" id="2"/>
-      <LegendEntry rgb="120,38,32" tooltip="Mixed" id="3"/>
       <LegendEntry rgb="240,190,64" tooltip="Uncertain" id="4"/>
     </Legend>
   </ColorMap>
