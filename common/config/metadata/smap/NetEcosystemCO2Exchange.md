@@ -13,7 +13,7 @@ Data field: nee_mean
 ## References: [SMAP L4 Global Daily 9 km Carbon Net Ecosystem Exchange](https://nsidc.org/data/spl4cmdl/); [Algorithm Theoretical Basis Document SMAP Level 4 Carbon Data Product (L4_C) Revision A December 9, 2014](https://nsidc.org/sites/nsidc.org/files/files/271_L4_C_RevA_web.pdf)
 
 # Net Ecosystem CO2 Exchange Uncertainty (L4, 9 km Grid Cell Mean, Model Value-Added)
-Temporal coverage: April 13, 2015 - present
+Temporal coverage: 13 April 2015 - present
 
 The Soil Moisture Active Passive (SMAP) “Net Ecosystem CO2 Exchange (L4, 9 km Grid Cell Mean, Model Value-Added)” layer displays uncertainty estimates of model-derived global gridded mean daily estimates of net ecosystem carbon (CO<sub>2</sub>) exchange in grams of carbon uptake per meter squared per day (gC m<sup>-2</sup> day<sup>-1</sup>). The net ecosystem exchange of CO<sub>2</sub> with the atmosphere is a fundamental measure of the balance between carbon uptake by vegetation gross primary production (GPP) and carbon losses through autotrophic (Ra) and heterotrophic (Rh) respiration. The sum of Ra and Rh defines the total ecosystem respiration rate (Rtot), which encompasses most of the annual terrestrial CO<sub>2</sub> efflux to the atmosphere.
 

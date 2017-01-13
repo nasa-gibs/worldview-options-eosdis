@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,26,105" tooltip="Fill" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Normalized Difference Vegetation Index">
+  <ColorMap title="Vegetation Indices" units="NDVI">
     <Entries>
       <ColorMapEntry rgb="225,225,225" transparent="false" sourceValue="[-2000,-999)" value="[-0.2000,-0.0999)" ref="1"/>
       <ColorMapEntry rgb="225,225,226" transparent="false" sourceValue="[-999,1)" value="[-0.0999,0.0001)" ref="2"/>

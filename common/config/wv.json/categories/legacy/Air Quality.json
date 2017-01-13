@@ -10,11 +10,13 @@
                     "Aerosol Optical Depth",
                     "Carbon Monoxide",
                     "Corrected Reflectance",
+                    "Dust Score",
                     "Fires and Thermal Anomalies",
-                    "Sulfur Dioxide",
                     "Nitric Acid",
                     "Nitrous Oxide",
-                    "Ozone"
+                    "Ozone",
+                    "Sulfur Dioxide"
+
                 ]
             }
         }

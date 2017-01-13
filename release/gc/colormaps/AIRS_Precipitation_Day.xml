@@ -45,7 +45,7 @@
       <ColorMapEntry rgb="20,90,248" transparent="false" value="[3.72,3.84)" ref="32"/>
       <ColorMapEntry rgb="25,101,246" transparent="false" value="[3.84,3.96)" ref="33"/>
       <ColorMapEntry rgb="30,111,246" transparent="false" value="[3.96,4.08)" ref="34"/>
-      <ColorMapEntry rgb="34,120,241" transparent="false" value="[4.08,4.2" ref="35"/>
+      <ColorMapEntry rgb="34,120,241" transparent="false" value="[4.08,4.2)" ref="35"/>
       <ColorMapEntry rgb="39,131,242" transparent="false" value="[4.2,4.32)" ref="36"/>
       <ColorMapEntry rgb="45,141,241" transparent="false" value="[4.32,4.44)" ref="37"/>
       <ColorMapEntry rgb="50,150,238" transparent="false" value="[4.44,4.56)" ref="38"/>

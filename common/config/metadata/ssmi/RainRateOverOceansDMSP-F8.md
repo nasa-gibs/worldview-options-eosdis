@@ -1,2 +1,2 @@
 # SSMI Rain Rate Over Oceans (Ascending/Descending)
-DMSP-F8 Temporal Coverage: July 9, 1987 - December 31, 1991
+DMSP-F8 Temporal Coverage: 9 July 1987 - 31 December 1991

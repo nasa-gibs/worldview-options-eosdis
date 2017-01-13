@@ -9,8 +9,10 @@
                 "measurements": [
                     "Flood Hazard",
                     "Freeze / Thaw",
+                    "Frozen Area",
                     "Sea Ice",
                     "Snow Cover",
+                    "Snow Depth Over Ice",
                     "Snow Mass",
                     "Snow Water Equivalent",
                     "Soil Moisture"

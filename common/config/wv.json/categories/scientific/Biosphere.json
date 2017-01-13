@@ -7,9 +7,12 @@
                 "image": "biosphere.jpg",
                 "description": "",
                 "measurements": [
-                    "Fires and Thermal Anomalies",
-                    "Soil Moisture",
-                    "Forests, Mangrove"
+                    "Forests, Mangrove",
+                    "Gross Primary Productivity",
+                    "Heterotrophic Respiration",
+                    "Net Ecosystem CO2 Exchange",
+                    "Vegetation Indices",
+                    "Vegetation Light Use Efficiency"
                 ]
             }
         }

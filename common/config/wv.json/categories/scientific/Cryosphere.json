@@ -8,13 +8,13 @@
                 "description": "",
                 "measurements": [
                     "Freeze / Thaw",
+                    "Frozen Area",
                     "Sea Ice",
                     "Sea Surface Temperature",
                     "Snow Cover",
                     "Snow Depth Over Ice",
                     "Snow Mass",
-                    "Snow Water Equivalent",
-                    "Soil Moisture"
+                    "Snow Water Equivalent"
                 ]
             }
         }

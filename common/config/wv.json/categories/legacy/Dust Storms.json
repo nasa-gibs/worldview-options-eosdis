@@ -7,9 +7,10 @@
                 "image": "dust-storms.jpg",
                 "description": "",
                 "measurements": [
-                    "Dust Score",
                     "Aerosol Optical Depth",
-                    "Corrected Reflectance"
+                    "Dust Score",
+                    "Corrected Reflectance",
+                    "Land Surface Reflectance"
 
                 ]
             }

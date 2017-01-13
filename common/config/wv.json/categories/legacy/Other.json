@@ -8,6 +8,7 @@
                 "description": "",
                 "measurements": [
                     "Areas of No Data (mask)",
+                    "Blue Marble",
                     "Brightness Temperature",
                     "Chlorophyll A",
                     "Dams",
