@@ -64,21 +64,6 @@
 
 ---
 
-# Version 1.3
-
-## New Features
-
-* Worldview can now animate imagery with the animation feature!
-  * A new button on the timeline opens the animation feature where it's possible to select start/end dates, frames per second, and whether to loop or not
-  * The animation can be exported as a gif file by using the "Share Animation GIF" button in the same dialog
-* The polar view now contain a widget to rotate the imagery
-
-## Updates
-
-* MODIS C6 Atmosphere products now have metadata descriptions
-
----
-
 # Version 1.2.3
 
 ## Updates

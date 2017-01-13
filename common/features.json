@@ -8,6 +8,9 @@
         "whatsNew": true,
         "feedback": true,
         "arcticProjectionChange": true,
+        "googleAnalytics": {
+            "id": "UA-88182106-1"
+        },
         "imageDownload": {
             "host": "https://gibs.earthdata.nasa.gov",
             "path": "image-download"

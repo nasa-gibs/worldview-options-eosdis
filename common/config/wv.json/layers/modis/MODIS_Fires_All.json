@@ -21,7 +21,7 @@
             },
 
             "palette": {
-                "id":       "MODIS_Fires_Terra",
+                "id":       "MODIS_Fires_All",
                 "immutable": "true"
             }
         }

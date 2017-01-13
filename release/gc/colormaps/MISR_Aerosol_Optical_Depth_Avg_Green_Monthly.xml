@@ -206,7 +206,7 @@
       <ColorMapEntry rgb="197,3,2" transparent="false" sourceValue="[0.764,0.768)" value="[0.764,0.768)" ref="193"/>
       <ColorMapEntry rgb="197,4,3" transparent="false" sourceValue="[0.768,0.772)" value="[0.768,0.772)" ref="194"/>
       <ColorMapEntry rgb="198,5,4" transparent="false" sourceValue="[0.772,0.776)" value="[0.772,0.776)" ref="195"/>
-      <ColorMapEntry rgb="198,5,4" transparent="false" sourceValue="[0.776,0.780)" value="[0.776,0.780)" ref="196"/>
+      <ColorMapEntry rgb="198,6,4" transparent="false" sourceValue="[0.776,0.780)" value="[0.776,0.780)" ref="196"/>
       <ColorMapEntry rgb="198,6,5" transparent="false" sourceValue="[0.780,0.784)" value="[0.780,0.784)" ref="197"/>
       <ColorMapEntry rgb="198,7,5" transparent="false" sourceValue="[0.784,0.788)" value="[0.784,0.788)" ref="198"/>
       <ColorMapEntry rgb="198,8,6" transparent="false" sourceValue="[0.788,0.792)" value="[0.788,0.792)" ref="199"/>
@@ -460,7 +460,7 @@
       <LegendEntry rgb="197,3,2" tooltip="0.764 - 0.768" id="193"/>
       <LegendEntry rgb="197,4,3" tooltip="0.768 - 0.772" id="194"/>
       <LegendEntry rgb="198,5,4" tooltip="0.772 - 0.776" id="195"/>
-      <LegendEntry rgb="198,5,4" tooltip="0.776 - 0.780" id="196"/>
+      <LegendEntry rgb="198,6,4" tooltip="0.776 - 0.780" id="196"/>
       <LegendEntry rgb="198,6,5" tooltip="0.780 - 0.784" id="197"/>
       <LegendEntry rgb="198,7,5" tooltip="0.784 - 0.788" id="198"/>
       <LegendEntry rgb="198,8,6" tooltip="0.788 - 0.792" id="199"/>
