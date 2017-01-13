@@ -1,4 +1,4 @@
-#VIIRS Nighttime Radiances (Day/Night Band, Enhanced Near Constant Contrast)
+# VIIRS Nighttime Radiances (Day/Night Band, Enhanced Near Constant Contrast)
 
 The VIIRS Day/Night Band layer shows the earth’s surface and atmosphere using a sensor designed to look at the earth under differing illumination conditions, especially low light conditions, during the night time satellite orbit. It is displayed as a grey scale image. Sources of illumination include lunar reflection and both natural and anthropogenic night time light emissions. Lunar reflection can be used to highlight the location of clouds and terrestrial features such as sea ice and snow cover when there is partial to full moon conditions. When there is no moonlight, natural and anthropogenic night time light emissions are highlighted such as city lights, lightning, auroras, fires, gas flares, fishing fleets and lava flows. This layer is useful for showing patterns of human activity such as cities and highways, tracking of shipping and fishing fleets at night and burning of waste natural gas (gas flares) from on and off shore oil/gas production sites.
 
