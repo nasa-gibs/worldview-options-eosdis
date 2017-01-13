@@ -37,8 +37,7 @@
                 	"VIIRS_SNPP_CorrectedReflectance_TrueColor",
                 	"VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
                 	"VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
-			"VIIRS_SNPP_DayNightBand_ENCC",
-                       "Suomi_NPP_Orbit_Asc"
+                        "Suomi_NPP_Orbit_Asc"
                     ]
                 }
             }

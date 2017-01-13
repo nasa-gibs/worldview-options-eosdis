@@ -44,7 +44,6 @@
                     "settings": [
                 	"VIIRS_SNPP_Fires_375m_Day",
 	                "VIIRS_SNPP_Fires_375m_Night",
-			"VIIRS_SNPP_DayNightBand_ENCC",
                         "Suomi_NPP_Orbit_Asc",
                         "Suomi_NPP_Orbit_Dsc"
                     ]

@@ -2,9 +2,9 @@
     "layers": {
         "VIIRS_SNPP_DayNightBand_ENCC": {
             "id":       "VIIRS_SNPP_DayNightBand_ENCC",
-            "title":    "Day / Night Band",
+            "title":    "Nighttime Radiances (Day/Night Band, Enhanced Near Constant Contrast)",
             "subtitle": "Suomi NPP / VIIRS",
-            "tags":     "natural color cr s-npp snpp",
+            "tags":     "dnb night s-npp snpp",
             "group":    "overlays"
         }
     }

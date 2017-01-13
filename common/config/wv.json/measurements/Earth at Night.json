@@ -11,8 +11,8 @@
                     "description": "viirs/EarthAtNight",
                     "image": "",
                     "settings": [
-                        "VIIRS_CityLights_2012",
-			"VIIRS_SNPP_DayNightBand_ENCC"
+			"VIIRS_SNPP_DayNightBand_ENCC",
+                        "VIIRS_CityLights_2012"
                     ]
                 }
             }
