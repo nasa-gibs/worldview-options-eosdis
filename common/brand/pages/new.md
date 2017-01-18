@@ -1,4 +1,28 @@
 <input type="hidden" autofocus>
+# Version 1.3.3
+
+## New Features
+
+* Added VIIRS Nighttime Imagery (Day/Night Band, Enhanced Near Constant Contrast) layer
+
+## Updates
+
+* Added Worldview stamp to animation GIFs
+* Fixed bug that prevented borders and place names from being visible in animation GIFs
+* Added option to slow animation speed down to 0.5 frames per second(fps). The previous minimium was 1 fps.
+* Fixed accidental date change on map panning bug
+
+## Known Issues
+
+* Permalinks do not currently link directly to events or the product picker state
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+---
 
 # Version 1.3.2
 
@@ -16,17 +40,6 @@
 * Now if non-existent images are requested for the creation of an animation-GIF, they will be skipped
 * Now filtering download links by file extension rather than CMR's "data" tag
 * Added text to denote temporal coverage to the beginning of layer descriptions
-
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 ---
 
 # Version 1.3.1
