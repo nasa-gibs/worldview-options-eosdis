@@ -9,7 +9,7 @@
 
 * Added Worldview stamp to animation GIFs
 * Fixed bug that prevented borders and place names from being visible in animation GIFs
-* Added option to slow animation speed down to 0.5 frames per second(fps). The previous minimium was 1 fps.
+* Added option to slow animation speed down to 0.5 frames per second(fps). The previous minimum was 1 fps.
 * Fixed accidental date change on map panning bug
 
 ## Known Issues
