@@ -20,8 +20,8 @@
         "VIIRS_CityLights_2012",
         "Land_Water_Map",
 
-	      "VIIRS_SNPP_Fires_375m_Day",
-	      "VIIRS_SNPP_Fires_375m_Night",
+	"VIIRS_SNPP_Fires_375m_Day",
+	"VIIRS_SNPP_Fires_375m_Night",
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
         "MODIS_Combined_Value_Added_AOD",
