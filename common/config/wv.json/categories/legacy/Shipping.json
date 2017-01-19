@@ -7,8 +7,8 @@
                 "image": "shipping.jpg",
                 "description": "",
                 "measurements": [
-                    "Brightness Temperature",
                     "Corrected Reflectance",
+                    "Brightness Temperature",
                     "Land Surface Reflectance",
                     "Sea Ice",
                     "Sea Surface Temperature"

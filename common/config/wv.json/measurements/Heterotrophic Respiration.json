@@ -1,17 +1,17 @@
 {
     "measurements": {
-        "Gross Primary Productivity": {
-            "id": "gross-primary-productivity",
-            "title":    "Gross Primary Productivity",
-            "subtitle": "SMAP / Model Value-Added",
+        "Heterotrophic Respiration": {
+            "id": "heterotrophic-respiration",
+            "title":    "Heterotrophic Respiration",
+            "subtitle": "SMAP/Model Value-Added",
             "sources": {
                 "SMAP/Model Value-Added": {
                     "id": "smap-model-value-added",
                     "title": "SMAP / Model Value-Added",
-                    "description": "smap/GrossPrimaryProduction",
+                    "description": "smap/HeterotrophicRespiration",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Mean_Gross_Primary_Productivity"
+			                  "SMAP_L4_Mean_Heterotrophic_Respiration"
                     ]
                 }
             }

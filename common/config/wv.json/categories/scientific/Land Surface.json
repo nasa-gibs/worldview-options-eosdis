@@ -9,11 +9,13 @@
                 "measurements": [
                     "Blue Marble",
                     "Corrected Reflectance",
+                    "Fires and Thermal Anomalies",
                     "Global Digital Elevation Map",
                     "Land Surface Reflectance",
                     "Land Surface Temperature",
-                    "Vegetation Indices",
-                    "Fires and Thermal Anomalies"
+                    "Soil Moisture",
+                    "Soil Temperature",
+                    "Vegetation Indices"
                 ]
             }
         }

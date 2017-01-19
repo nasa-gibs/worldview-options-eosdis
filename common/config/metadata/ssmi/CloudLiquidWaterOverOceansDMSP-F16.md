@@ -1,2 +1,2 @@
 # SSMIS Cloud Liquid Water Over Oceans (Ascending/Descending)
-DMSP-F16 Temporal Coverage: October 26, 2003 - present
+DMSP-F16 Temporal Coverage: 26 October 2003 - present
