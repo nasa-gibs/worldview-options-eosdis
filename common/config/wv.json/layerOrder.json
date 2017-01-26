@@ -305,10 +305,19 @@
         "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Descending",
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Ascending",
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Descending",
-        
+
         "SSMIS_Sea_Ice_Concentration",
 
         "Aquarius_Soil_Moisture_Daily",
+
+        "MOPITT_CO_Daily_Total_Column_Day",
+        "MOPITT_CO_Daily_Total_Column_Night",
+        "MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",
+        "MOPITT_CO_Daily_Surface_Mixing_Ratio_Night",
+        "MOPITT_CO_Monthly_Total_Column_Day",
+        "MOPITT_CO_Monthly_Total_Column_Night",
+        "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
+        "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
 
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
