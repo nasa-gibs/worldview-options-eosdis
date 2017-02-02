@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "LIS_High_Resolution_Full_Climatology_LIS_Scaled_Flashes": {
+            "id":       "LIS_High_Resolution_Full_Climatology_LIS_Scaled_Flashes",
+            "title":    "Lightning Flashes (Scaled)",
+            "subtitle": "TRMM / LIS",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "lohrfc",
+            "inactive": true
+        }
+    }
+}

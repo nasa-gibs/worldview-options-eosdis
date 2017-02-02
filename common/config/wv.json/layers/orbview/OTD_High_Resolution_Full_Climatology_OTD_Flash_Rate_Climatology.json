@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "OTD_High_Resolution_Full_Climatology_OTD_Flash_Rate_Climatology": {
+            "id":       "OTD_High_Resolution_Full_Climatology_OTD_Flash_Rate_Climatology",
+            "title":    "Lightning Flash Rate",
+            "subtitle": "OrbView-1 / OTD",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "lohrfc",
+            "inactive": true
+        }
+    }
+}
