@@ -21,7 +21,8 @@
                       "description": "landsat/VegetationIndices",
                       "image": "",
                       "settings": [
-                          "Landsat_WELD_NDVI_Global_Monthly"
+                          "Landsat_WELD_NDVI_Global_Monthly",
+                          "Landsat_WELD_NDVI_Global_Annual"
                       ]
                   }
             }

@@ -1,0 +1,14 @@
+
+{
+    "layers": {
+        "Landsat_WELD_CorrectedReflectance_TrueColor_Global_Annual": {
+            "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_Global_Annual",
+            "title":    "Corrected Reflectance (True Color, Global, Annual)",
+            "subtitle": "Landsat / WELD",
+            "tags":     "",
+            "group":    "baselayers",
+            "product":  "",
+            "inactive": true
+        }
+    }
+}
