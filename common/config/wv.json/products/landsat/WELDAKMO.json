@@ -1,0 +1,11 @@
+{
+    "products": {
+        "WELDAKMO": {
+            "name": "NASA Web-Enabled Landsat Data Alaska 30m Composites over Monthly Periods",
+            "handler": "List",
+            "query": {
+                "shortName": "WELDAKMO"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal": {
+            "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal",
+            "title":    "Corrected Reflectance (True Color, CONUS, Seasonal)",
+            "subtitle": "Landsat / WELD",
+            "tags":     "",
+            "group":    "baselayers",
+            "product":  "WELDUSSE",
+            "inactive": true
+        }
+    }
+}

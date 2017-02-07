@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Monthly": {
+            "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Monthly",
+            "title":    "Corrected Reflectance (True Color, Alaska, Monthly)",
+            "subtitle": "Landsat / WELD",
+            "tags":     "",
+            "group":    "baselayers",
+            "product":  "WELDAKMO",
+            "inactive": true
+        }
+    }
+}
