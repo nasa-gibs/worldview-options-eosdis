@@ -8,6 +8,7 @@
                 "description": "",
                 "measurements": [
                     "Aerosol Optical Depth",
+                    "Aerosol Albedo",
                     "Areas of No Data (mask)",
                     "Blue Marble",
                     "Brightness Temperature",
@@ -44,6 +45,7 @@
                     "Latitude-Longitude Lines",
                     "Net Ecosystem CO2 Exchange",
                     "Nitric Acid",
+                    "Nitric Oxide",
                     "Nitrous Oxide",
                     "Orbital Track",
                     "Ozone",
