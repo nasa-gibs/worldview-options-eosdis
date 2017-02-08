@@ -1,0 +1,21 @@
+{
+    "measurements": {
+        "Nitric Oxide": {
+            "id": "nitric-oxide",
+            "title":    "Nitric Oxide",
+            "subtitle": "Aura/OMI",
+            "sources": {
+                "Aura/MLS": {
+                    "id": "aura-omi",
+                    "title": "Aura/OMI",
+                    "description": "omi/NO",
+                    "image": "",
+                    "settings": [
+                        "OMI_Nitric_Oxide_Tropo_Column",
+                        "Aura_Orbit_Asc"
+                    ]
+                }
+            }
+        }
+    }
+}

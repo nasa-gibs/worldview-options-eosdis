@@ -3,11 +3,11 @@
         "Ozone": {
             "id": "ozone",
             "title":    "Ozone",
-            "subtitle": "Aura / MLS",
+            "subtitle": "Aura/MLS, Aura/OMI",
             "sources": {
                 "Aura/MLS": {
                     "id": "aura-mls",
-                    "title": "Aura / MLS",
+                    "title": "Aura/MLS",
                     "description": "mls/O3",
                     "image": "",
                     "settings": [
@@ -15,6 +15,17 @@
                         "MLS_O3_46hPa_Night",
                         "Aura_Orbit_Asc",
                         "Aura_Orbit_Dsc"
+                    ]
+                },
+                "Aura/OMI": {
+                    "id": "aura-omi",
+                    "title": "Aura/OMI",
+                    "description": "omi/O3",
+                    "image": "",
+                    "settings": [
+                        "OMI_Ozone_DOAS_Total_Column",
+                        "OMI_Ozone_TOMS_Total_Column",
+                        "Aura_Orbit_Asc"
                     ]
                 }
             }

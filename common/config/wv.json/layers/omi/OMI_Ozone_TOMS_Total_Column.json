@@ -1,0 +1,16 @@
+{
+    "layers": {
+        "OMI_Ozone_TOMS_Total_Column": {
+            "id":       "OMI_Ozone_TOMS_Total_Column",
+            "title":    "Ozone (TOMS-Like)",
+            "subtitle": "Aura / OMI",
+            "group":    "overlays",
+            "product":  "OMTO3e",
+            "tags":     "",
+            "inactive": true
+
+
+
+        }
+    }
+}

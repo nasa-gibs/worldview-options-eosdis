@@ -3,7 +3,7 @@
         "Aerosol Optical Depth": {
             "id": "aerosol-optical-depth",
             "title":    "Aerosol Optical Depth",
-            "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS",
+            "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS, Aqua and Terra/MODIS",
             "sources": {
                 "Aura/OMI": {
                     "id": "aura-omi",
@@ -13,6 +13,7 @@
                     "settings": [
                         "OMI_Aerosol_Optical_Depth",
                         "OMI_Absorbing_Aerosol_Optical_Depth",
+                        "OMI_Absorbing_Aerosol_Optical_Thickness_MW_388",
                         "OMI_Aerosol_Index",
                         "Aura_Orbit_Asc"
                     ]
