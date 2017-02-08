@@ -314,6 +314,14 @@
 
         "SSMIS_Sea_Ice_Concentration",
 
+        "LIS_High_Resolution_Full_Climatology_LIS_Raw_Flashes",
+        "LIS_High_Resolution_Full_Climatology_LIS_Scaled_Flashes",
+        "LIS_High_Resolution_Full_Climatology_LIS_Flash_Rate_Climatology",
+        "OTD_High_Resolution_Full_Climatology_OTD_Raw_Flashes",
+        "OTD_High_Resolution_Full_Climatology_OTD_Scaled_Flashes",
+        "OTD_High_Resolution_Full_Climatology_OTD_Flash_Rate_Climatology",
+        "LIS_High_Resolution_Full_Climatology_Combined_Flash_Rate_Climatology",
+
         "Aquarius_Soil_Moisture_Daily",
 
         "Land_Mask",

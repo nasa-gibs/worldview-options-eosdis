@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "OTD_High_Resolution_Full_Climatology_OTD_Scaled_Flashes": {
+            "id":       "OTD_High_Resolution_Full_Climatology_OTD_Scaled_Flashes",
+            "title":    "Lightning Flashes (Scaled)",
+            "subtitle": "OrbView-1 / OTD",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "lohrfc",
+            "inactive": true
+        }
+    }
+}
