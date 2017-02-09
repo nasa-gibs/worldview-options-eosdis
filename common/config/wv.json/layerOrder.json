@@ -324,6 +324,15 @@
 
         "Aquarius_Soil_Moisture_Daily",
 
+        "MOPITT_CO_Daily_Total_Column_Day",
+        "MOPITT_CO_Daily_Total_Column_Night",
+        "MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",
+        "MOPITT_CO_Daily_Surface_Mixing_Ratio_Night",
+        "MOPITT_CO_Monthly_Total_Column_Day",
+        "MOPITT_CO_Monthly_Total_Column_Night",
+        "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
+        "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
+
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
         "ASTER_GDEM_Color_Shaded_Relief",
