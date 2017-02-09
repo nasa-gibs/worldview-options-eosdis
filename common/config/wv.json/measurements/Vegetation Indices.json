@@ -3,7 +3,7 @@
         "Vegetation Indices": {
             "id": "vegetation-indices",
             "title":    "Vegetation Indices",
-            "subtitle": "Terra / MODIS",
+            "subtitle": "Terra / MODIS, Landsat/WELD",
             "sources": {
                 "Terra/MODIS": {
                     "id": "terra-modis",
@@ -14,7 +14,17 @@
                         "MODIS_Terra_NDVI_8Day",
                         "MODIS_Terra_EVI_8Day"
                     ]
-                }
+                },
+                "Landsat/WELD": {
+                      "id": "landsat-weld",
+                      "title": "Landsat/WELD",
+                      "description": "landsat/VegetationIndices",
+                      "image": "",
+                      "settings": [
+                          "Landsat_WELD_NDVI_Global_Monthly",
+                          "Landsat_WELD_NDVI_Global_Annual"
+                      ]
+                  }
             }
         }
     }

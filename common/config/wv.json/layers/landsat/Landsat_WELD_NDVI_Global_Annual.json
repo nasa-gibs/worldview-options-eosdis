@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "Landsat_WELD_NDVI_Global_Annual": {
+            "id":       "Landsat_WELD_NDVI_Global_Annual",
+            "title":    "NDVI (Global, Annual)",
+            "subtitle": "Landsat / WELD",
+            "tags":     "",
+            "group":    "baselayers",
+            "product":  "",
+            "inactive": true
+        }
+    }
+}
