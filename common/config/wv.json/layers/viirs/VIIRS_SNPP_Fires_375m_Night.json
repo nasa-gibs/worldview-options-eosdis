@@ -16,6 +16,9 @@
             "startDate":    "2015-11-25",
 
             "projections": {
+              "arctic": {
+                 "source":   "GIBS:wms"
+              },
                 "geographic": {
                     "source": "GIBS:wms"
                 }
