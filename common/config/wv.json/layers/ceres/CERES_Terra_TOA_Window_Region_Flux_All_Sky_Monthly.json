@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "CERES_Terra_TOA_Window_Region_Flux_All_Sky_Monthly": {
+            "id":       "CERES_Terra_TOA_Window_Region_Flux_All_Sky_Monthly",
+            "title":    "TOA Window-Region Flux (Monthly, All-Sky)",
+            "subtitle": "Terra / CERES",
+            "tags":     "top of atmosphere",
+            "group":    "overlays",
+            "product":  "CER_SYN1deg-Month_Terra-MODIS_Edition3A",
+            "inactive": true
+        }
+    }
+}

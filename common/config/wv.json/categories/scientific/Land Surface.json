@@ -15,6 +15,7 @@
                     "Land Surface Temperature",
                     "Soil Moisture",
                     "Soil Temperature",
+                    "Surface Flux",
                     "Vegetation Indices"
                 ]
             }

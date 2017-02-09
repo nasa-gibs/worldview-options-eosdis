@@ -6,7 +6,7 @@
             "subtitle": "Terra and Aqua/ CERES",
             "tags":     "top of atmosphere, cloud radiative effect",
             "group":    "overlays",
-            "product":  "CER_SYN1deg-Month_Terra-Aqua-MODIS_Edition3A",
+            "product":  "",
             "inactive": true
         }
     }
