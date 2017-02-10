@@ -16,7 +16,7 @@
             "path": "image-download"
         },
         "naturalEvents": {
-            "host": "http://eonet.sci.gsfc.nasa.gov/api/v2.1"
+            "host": "https://eonet.sci.gsfc.nasa.gov/api/v2.1"
         }
     },
     "scripts": [

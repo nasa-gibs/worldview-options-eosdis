@@ -54,12 +54,12 @@
                 ["MODIS_Aqua_CorrectedReflectance_TrueColor", false],
                 ["VIIRS_SNPP_CorrectedReflectance_TrueColor", false]
             ]
-        }
-    },
-    "skip": [
-        "Floods",
-        "Earthquakes",
-        "Drought",
-        "Landslides"
-    ]
+        },
+        "skip": [
+            "Floods",
+            "Earthquakes",
+            "Drought",
+            "Landslides"
+        ]
+    }
 }
