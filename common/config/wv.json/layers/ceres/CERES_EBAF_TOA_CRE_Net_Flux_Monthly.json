@@ -6,7 +6,7 @@
             "subtitle": "Terra / CERES",
             "tags":     "top of atmosphere, cloud radiative effect",
             "group":    "overlays",
-            "product":  "CERES_EBAF-TOA_Edition2.8",
+            "product":  "",
             "inactive": true
         }
     }

@@ -20,7 +20,7 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "omi/O3",
+                    "description": "",
                     "image": "",
                     "settings": [
                         "OMI_Ozone_DOAS_Total_Column",

@@ -1,12 +1,12 @@
 {
     "layers": {
-        "CERES_Combined_TOA_Window_Region_Flux_All_Sky_Monthly": {
-            "id":       "CERES_Combined_TOA_Window_Region_Flux_All_Sky_Monthly",
-            "title":    "TOA Window-Region Flux (Monthly, All-Sky)",
-            "subtitle": "Terra and Aqua/ CERES",
-            "tags":     "top of atmosphere, cloud radiative effect",
+        "CERES_Terra_TOA_Longwave_Flux_Clear_Sky_Monthly": {
+            "id":       "CERES_Terra_TOA_Longwave_Flux_Clear_Sky_Monthly",
+            "title":    "TOA Longwave Flux (Monthly, All-Sky)",
+            "subtitle": "Terra / CERES",
+            "tags":     "top of atmosphere",
             "group":    "overlays",
-            "product":  "CER_SYN1deg-Month_Terra-Aqua-MODIS_Edition3A",
+            "product":  "",
             "inactive": true
         }
     }

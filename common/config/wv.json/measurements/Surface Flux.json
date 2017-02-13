@@ -8,7 +8,7 @@
                 "Terra/CERES": {
                     "id": "terra-ceres",
                     "title": "Terra/CERES",
-                    "description": "ceres/SurfaceFlux",
+                    "description": "",
                     "image": "",
                     "settings": [
                       "CERES_EBAF_Surface_CRE_Net_Total_Flux_Monthly",

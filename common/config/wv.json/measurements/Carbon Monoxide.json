@@ -32,7 +32,7 @@
                 "Terra/MOPITT": {
                     "id": "terra-mopitt",
                     "title": "Terra / MOPITT",
-                    "description": "mopitt/CO",
+                    "description": "",
                     "image": "",
                     "settings": [
                         "MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",

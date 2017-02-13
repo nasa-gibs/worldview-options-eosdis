@@ -9,7 +9,9 @@
                 "measurements": [
                     "Brightness Temperature",
                     "Sigma0",
-                    "Faraday Rotation"
+                    "Faraday Rotation",
+                    "Surface Flux",
+                    "TOA Flux"
                 ]
             }
         }
