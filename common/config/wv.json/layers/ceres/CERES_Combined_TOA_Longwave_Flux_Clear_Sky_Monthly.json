@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "CERES_Combined_TOA_Longwave_Flux_Clear_Sky_Monthly": {
+            "id":       "CERES_Combined_TOA_Longwave_Flux_Clear_Sky_Monthly",
+            "title":    "TOA Longwave Flux (Monthly, Clear-Sky)",
+            "subtitle": "Terra and Aqua/ CERES",
+            "tags":     "top of atmosphere, cloud radiative effect",
+            "group":    "overlays",
+            "product":  "",
+            "inactive": true
+        }
+    }
+}

@@ -31,6 +31,7 @@
                     "Relative Humidity",
                     "Sulfur Dioxide",
                     "Temperature",
+                    "TOA Flux",
                     "Water Vapor",
                     "Wind Speed"
                 ]

@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "CERES_EBAF_Surface_Longwave_Flux_Down_All_Sky_Monthly": {
+            "id":       "CERES_EBAF_Surface_Longwave_Flux_Down_All_Sky_Monthly",
+            "title":    "Surface Longwave Flux (Monthly, Energy Balanced and Filled, Down, All-Sky)",
+            "subtitle": "Terra / CERES",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "CERES_EBAF-Surface_Edition2.8",
+            "inactive": true
+        }
+    }
+}
