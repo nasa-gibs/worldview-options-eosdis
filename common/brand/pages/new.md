@@ -1,4 +1,33 @@
 <input type="hidden" autofocus>
+
+# Version 1.3.4
+
+## New Features
+
+* Added Monthly OMI Standard layers including Sulfur Dioxide (Planetary Boundary layer), Aerosol Optical Depth (388 nm, Multi-Wavelength), Aerosol Single Scattering Albedo 388 nm, Near-UV), Ozone (DOAS), Ozone (TOMS-line) Nitric Oxide (Tropospheric Column)
+* Added Monthly CERES Top-Of-Atmosphere (TOA Flux, Surface Flux and Incoming Solar Flux layers) 
+* Added TRMM Lightning Imaging Sensor (LIS) and OrbView-1 OTD Lightning Flashes and Lightning Flash Rate layers
+* Added Monthly, Annual and Seasonal Web Enabled Landsat Data (WELD) Corrected Reflectance for Alaska, Conterminous US and Global and NDVI layers
+* Added Monthly MOPITT Carbon Monoxide layers
+* MODIS and VIIRS fires can now be displayed in the Arctic view
+
+## Updates
+
+* Fixed animation widget styling issues specific to Safari
+* Fixed permalink of squashed palettes to retain max value
+
+## Known Issues
+
+* Permalinks do not currently link directly to events or the product picker state
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+---
+
 # Version 1.3.3
 
 ## New Features
@@ -12,16 +41,6 @@
 * Added option to slow animation speed down to 0.5 frames per second(fps). The previous minimum was 1 fps.
 * Fixed accidental date change on map panning bug
 
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 ---
 
 # Version 1.3.2
