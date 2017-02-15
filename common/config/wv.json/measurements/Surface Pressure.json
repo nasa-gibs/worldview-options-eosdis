@@ -1,0 +1,30 @@
+{
+    "measurements": {
+        "Surface Pressure": {
+            "id": "surface-pressure",
+            "title":    "Surface Pressure",
+            "subtitle": "MERRA, MERRA2",
+            "sources": {
+
+                "MERRA": {
+                    "id": "merra",
+                    "title": "MERRA",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "MERRA_Surface_Pressure_Monthly"
+                    ]
+                },
+                "MERRA2": {
+                    "id": "merra2",
+                    "title": "MERRA2",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "MERRA2_Surface_Pressure_Monthly"
+                    ]
+                }
+            }
+        }
+    }
+}

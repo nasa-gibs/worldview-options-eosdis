@@ -1,0 +1,11 @@
+{
+    "products": {
+        "WMATMNXSLV": {
+            "name": "tavgM_2d_slv_Nx: MERRA 2D IAU Diagnostic, Single Level Meteorology, Monthly Mean 1.25 x 1.25 degree V5.2.0 (MATMNXSLV) at GES DISC",
+            "handler": "List",
+            "query": {
+                "shortName": "MATMNXSLV"
+            }
+        }
+    }
+}

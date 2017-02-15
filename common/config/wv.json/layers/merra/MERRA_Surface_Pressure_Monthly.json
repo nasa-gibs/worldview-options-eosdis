@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MERRA_Surface_Pressure_Monthly": {
+            "id":       "MERRA_Surface_Pressure_Monthly",
+            "title":    "Surface Pressure (Monthly)",
+            "subtitle": "MERRA",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "",
+            "inactive": true
+        }
+    }
+}
