@@ -43,14 +43,14 @@
         <ows:Operation name="GetCapabilities">
             <ows:DCP>
                 <ows:HTTP>
-                    <ows:Get xlink:href="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml">
+                    <ows:Get xlink:href="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>RESTful</ows:Value>
                             </ows:AllowedValues>
                         </ows:Constraint>
                     </ows:Get>
-                    <ows:Get xlink:href="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?">
+                    <ows:Get xlink:href="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>KVP</ows:Value>
@@ -63,14 +63,14 @@
         <ows:Operation name="GetTile">
             <ows:DCP>
                 <ows:HTTP>
-                    <ows:Get xlink:href="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/">
+                    <ows:Get xlink:href="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>RESTful</ows:Value>
                             </ows:AllowedValues>
                         </ows:Constraint>
                     </ows:Get>
-                    <ows:Get xlink:href="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?">
+                    <ows:Get xlink:href="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi?">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>KVP</ows:Value>
@@ -93,10 +93,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Snow_Water_Equivalent</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Snow_Water_Equivalent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -104,15 +104,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2015-07-30/2017-01-10/P1D</Value>
+             <Value>2015-07-30/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Snow_Water_Equivalent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Snow_Water_Equivalent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (12 km, AMSR2, GCOM-W1)</ows:Title>
@@ -125,10 +125,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Concentration_12km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -136,15 +136,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2017-01-10/P1D</Value>
+             <Value>2016-01-13/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (25 km, AMSR2, GCOM-W1)</ows:Title>
@@ -157,10 +157,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Concentration_25km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -168,15 +168,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2017-01-10/P1D</Value>
+             <Value>2016-01-13/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, AMSR2, GCOM-W1)</ows:Title>
@@ -189,10 +189,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89H</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -200,15 +200,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2017-01-10/P1D</Value>
+             <Value>2016-01-13/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, AMSR2, GCOM-W1)</ows:Title>
@@ -221,10 +221,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSR2_Sea_Ice_Brightness_Temp_6km_89V</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSR2_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -232,15 +232,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2016-01-13/2017-01-10/P1D</Value>
+             <Value>2016-01-13/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSR2_Sea_Ice_Brightness_Temp_6km_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (12 km, AMSR-E, Aqua)</ows:Title>
@@ -253,10 +253,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Concentration_12km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_12km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -264,7 +264,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2011-10-04</Default>
              <Current>false</Current>
              <Value>2002-06-01/2011-10-04/P1D</Value>
@@ -272,7 +272,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Concentration_12km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Depth Over Ice (12 km, AMSR-E, Aqua)</ows:Title>
@@ -285,10 +285,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Snow_Depth_Over_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Snow_Depth_Over_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -296,7 +296,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2011-10-04</Default>
              <Current>false</Current>
              <Value>2002-06-01/2011-10-04/P1D</Value>
@@ -304,7 +304,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Snow_Depth_Over_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Snow_Depth_Over_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (25 km, AMSR-E, Aqua)</ows:Title>
@@ -317,10 +317,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Concentration_25km</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Concentration_25km.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -328,7 +328,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2011-10-04</Default>
              <Current>false</Current>
              <Value>2002-06-01/2011-10-04/P1D</Value>
@@ -336,7 +336,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Concentration_25km/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89H Ghz, AMSR-E, Aqua)</ows:Title>
@@ -349,10 +349,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Brightness_Temp_89H</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89H.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -360,7 +360,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2011-10-04</Default>
              <Current>false</Current>
              <Value>2002-06-01/2011-10-04/P1D</Value>
@@ -368,7 +368,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Brightness_Temp_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Brightness_Temp_89H/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature for Sea Ice (89V Ghz, AMSR-E, Aqua)</ows:Title>
@@ -381,10 +381,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>AMSRE_Sea_Ice_Brightness_Temp_89V</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/AMSRE_Sea_Ice_Brightness_Temp_89V.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -392,7 +392,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2011-10-04</Default>
              <Current>false</Current>
              <Value>2002-06-01/2011-10-04/P1D</Value>
@@ -400,7 +400,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Brightness_Temp_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/AMSRE_Sea_Ice_Brightness_Temp_89V/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble (Reverb)</ows:Title>
@@ -421,7 +421,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3413_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Blue_Marble_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Blue_Marble_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble (MODIS)</ows:Title>
@@ -442,7 +442,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_NextGeneration/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_NextGeneration/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief (MODIS)</ows:Title>
@@ -463,7 +463,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_ShadedRelief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_ShadedRelief/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Blue Marble Shaded Relief and Bathymetry (MODIS)</ows:Title>
@@ -484,7 +484,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_ShadedRelief_Bathymetry/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/BlueMarble_ShadedRelief_Bathymetry/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Coastlines (3995)</ows:Title>
@@ -505,7 +505,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/arctic_coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/arctic_coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Coastlines</ows:Title>
@@ -526,7 +526,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Coastlines/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule (3995)</ows:Title>
@@ -547,7 +547,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/arctic_graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/arctic_graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule</ows:Title>
@@ -568,7 +568,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Graticule/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Graticule (Reverb)</ows:Title>
@@ -589,7 +589,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>EPSG3413_BlueMarble</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Graticule_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Graticule_Reverb/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Ice Velocity (Greenland, ALOS/PALSAR, RADARSAT-1/SAR, TSX/SAR)</ows:Title>
@@ -602,10 +602,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MEaSUREs_Ice_Velocity_Greenland</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Ice_Velocity_Greenland.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -613,7 +613,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2008-12-01</Default>
              <Current>false</Current>
              <Value>2000-09-03/2000-09-03/P144D</Value>
@@ -625,7 +625,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MEaSUREs_Ice_Velocity_Greenland/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MEaSUREs_Ice_Velocity_Greenland/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice and Snow Extent (DMSP 5D-2 F13 / SSMI, DMSP 5D-3 F17 / SSMIS, Terra / MODIS)</ows:Title>
@@ -638,10 +638,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MEaSUREs_Sea_Ice_Snow_Extent</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MEaSUREs_Sea_Ice_Snow_Extent.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -649,7 +649,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2012-12-31</Default>
              <Current>false</Current>
              <Value>1999-01-01/2012-12-31/P1D</Value>
@@ -657,7 +657,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MEaSUREs_Sea_Ice_Snow_Extent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MEaSUREs_Sea_Ice_Snow_Extent/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Day, MODIS, Terra)</ows:Title>
@@ -670,10 +670,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Brightness_Temp_Band31_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -681,15 +681,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Night, MODIS, Terra)</ows:Title>
@@ -702,10 +702,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Brightness_Temp_Band31_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -713,15 +713,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Cover (MODIS, Terra)</ows:Title>
@@ -734,10 +734,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -745,15 +745,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Extent (MODIS, Terra)</ows:Title>
@@ -766,10 +766,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Terra_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Terra_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -777,15 +777,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, MODIS, Terra)</ows:Title>
@@ -805,15 +805,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2017-01-10/P1D</Value>
+             <Value>2013-06-06/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 3-6-7, MODIS, Terra)</ows:Title>
@@ -833,15 +833,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2017-01-10/P1D</Value>
+             <Value>2013-06-06/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_Bands367/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_Bands367/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 7-2-1, MODIS, Terra)</ows:Title>
@@ -861,15 +861,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2017-01-10/P1D</Value>
+             <Value>2013-06-06/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Terra_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Day, MODIS, Aqua)</ows:Title>
@@ -882,10 +882,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Brightness_Temp_Band31_Day</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Day.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -893,15 +893,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Brightness_Temp_Band31_Day/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Brightness Temperature (Band31, Night, MODIS, Aqua)</ows:Title>
@@ -914,10 +914,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Brightness_Temp_Band31_Night</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Brightness_Temp_Band31_Night.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -925,15 +925,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Brightness_Temp_Band31_Night/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Snow Cover (MODIS, Aqua)</ows:Title>
@@ -946,10 +946,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Snow_Cover</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Snow_Cover.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -957,15 +957,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Snow_Cover/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Extent (MODIS, Aqua)</ows:Title>
@@ -978,10 +978,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>MODIS_Aqua_Sea_Ice</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/MODIS_Aqua_Sea_Ice.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -989,15 +989,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2012-05-08/2017-01-10/P1D</Value>
+             <Value>2012-05-08/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_Sea_Ice/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, MODIS, Aqua)</ows:Title>
@@ -1017,15 +1017,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2017-01-10/P1D</Value>
+             <Value>2013-06-06/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (Bands 7-2-1, MODIS, Aqua)</ows:Title>
@@ -1045,15 +1045,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2013-06-06/2017-01-10/P1D</Value>
+             <Value>2013-06-06/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/MODIS_Aqua_CorrectedReflectance_Bands721/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Land Mask (OSM)</ows:Title>
@@ -1074,7 +1074,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/OSM_Land_Mask/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/OSM_Land_Mask/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Land Water Map (OSM)</ows:Title>
@@ -1095,7 +1095,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/OSM_Land_Water_Map/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/OSM_Land_Water_Map/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Reference Features (OSM)</ows:Title>
@@ -1116,7 +1116,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Reference_Features/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Reference_Features/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Reference Labels (OSM)</ows:Title>
@@ -1137,7 +1137,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Reference_Labels/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/Reference_Labels/default/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Freeze/Thaw (L3, Active, Radar, SMAP)</ows:Title>
@@ -1150,10 +1150,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>SMAP_L3_Active_AM_Freeze_Thaw</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/SMAP_L3_Active_AM_Freeze_Thaw.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1161,7 +1161,7 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
+             <ows:UOM>ISO8601</ows:UOM>
              <Default>2015-07-07</Default>
              <Current>false</Current>
              <Value>2015-04-13/2015-07-07/P1D</Value>
@@ -1169,7 +1169,7 @@
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/SMAP_L3_Active_AM_Freeze_Thaw/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/SMAP_L3_Active_AM_Freeze_Thaw/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Sea Ice Concentration (DMSP 5D-3 F17 / SSMIS, DMSP 5D-3 F18 / SSMIS)</ows:Title>
@@ -1182,10 +1182,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>SSMIS_Sea_Ice_Concentration</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/SSMIS_Sea_Ice_Concentration.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1193,19 +1193,19 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-07</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-06</Default>
              <Current>false</Current>
              <Value>1978-10-26/1987-08-18/P2D</Value>
-             <Value>1987-08-20/2017-01-07/P1D</Value>
+             <Value>1987-08-20/2017-02-06/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>1km</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/SSMIS_Sea_Ice_Concentration/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/SSMIS_Sea_Ice_Concentration/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
-         <ows:Title xml:lang="en">Nighttime Radiances (Day/Night Band, Enhanced Near Constant Contrast, Suomi NPP, VIIRS)</ows:Title>
+         <ows:Title xml:lang="en">Nighttime Imagery (Day/Night Band, Enhanced Near Constant Contrast, Suomi NPP, VIIRS)</ows:Title>
          <ows:WGS84BoundingBox crs="urn:ogc:def:crs:OGC:2:84">
             <ows:LowerCorner>-180 38.807151</ows:LowerCorner>
             <ows:UpperCorner>180 90</ows:UpperCorner>
@@ -1215,10 +1215,10 @@
             <ows:UpperCorner>4194304 4194304</ows:UpperCorner>
         </ows:BoundingBox>
          <ows:Identifier>VIIRS_SNPP_DayNightBand_ENCC</ows:Identifier>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.0/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.2/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
-         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="http://gibs.earthdata.nasa.gov/colormaps/v1.3/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.0" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.0/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.2" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.2/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
+         <ows:Metadata xlink:type="simple" xlink:role="http://earthdata.nasa.gov/gibs/metadata-type/colormap/1.3" xlink:href="https://gibs.earthdata.nasa.gov/colormaps/v1.3/VIIRS_SNPP_DayNightBand_ENCC.xml" xlink:title="GIBS Color Map: Data - RGB Mapping"/>
          <Style isDefault="true">
              <ows:Title xml:lang="en">default</ows:Title>
              <ows:Identifier>default</ows:Identifier>
@@ -1226,15 +1226,15 @@
          <Format>image/png</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2016-11-30/2017-01-10/P1D</Value>
+             <Value>2016-11-30/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>500m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/png" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_DayNightBand_ENCC/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
+         <ResourceURL format="image/png" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_DayNightBand_ENCC/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.png"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (True Color, VIIRS, SNPP)</ows:Title>
@@ -1254,15 +1254,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2017-01-10/P1D</Value>
+             <Value>2015-11-24/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_TrueColor/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (M11-I2-I1, VIIRS, SNPP)</ows:Title>
@@ -1282,15 +1282,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2017-01-10/P1D</Value>
+             <Value>2015-11-24/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
       <Layer>
          <ows:Title xml:lang="en">Corrected Reflectance (M3-I3-M11, VIIRS, SNPP)</ows:Title>
@@ -1310,15 +1310,15 @@
          <Format>image/jpeg</Format>
          <Dimension>
              <ows:Identifier>time</ows:Identifier>
-             <UOM>ISO8601</UOM>
-             <Default>2017-01-10</Default>
+             <ows:UOM>ISO8601</ows:UOM>
+             <Default>2017-02-14</Default>
              <Current>false</Current>
-             <Value>2015-11-24/2017-01-10/P1D</Value>
+             <Value>2015-11-24/2017-02-14/P1D</Value>
          </Dimension>
          <TileMatrixSetLink>
              <TileMatrixSet>250m</TileMatrixSet>
          </TileMatrixSetLink>
-         <ResourceURL format="image/jpeg" resourceType="tile" template="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
+         <ResourceURL format="image/jpeg" resourceType="tile" template="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11/default/{Time}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg"/>
       </Layer>
   <TileMatrixSet>
       <ows:Identifier>1km</ows:Identifier>
@@ -1517,5 +1517,5 @@
       </TileMatrix>
     </TileMatrixSet>
     </Contents>
-    <ServiceMetadataURL xlink:href="http://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml"/>
+    <ServiceMetadataURL xlink:href="https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml"/>
 </Capabilities>
