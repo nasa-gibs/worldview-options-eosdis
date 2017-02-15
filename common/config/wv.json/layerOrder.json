@@ -333,7 +333,7 @@
         "LIS_High_Resolution_Full_Climatology_Combined_Flash_Rate_Climatology",
 
         "Aquarius_Soil_Moisture_Daily",
-        
+
         "CERES_EBAF_TOA_CRE_Net_Flux_Monthly",
         "CERES_EBAF_TOA_CRE_Longwave_Flux_Monthly",
         "CERES_EBAF_TOA_CRE_Shortwave_Flux_Monthly",
@@ -382,6 +382,10 @@
         "MOPITT_CO_Monthly_Total_Column_Night",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
+
+        "OMI_UV_Erythemal_Dose_Rate",
+        "OMI_UV_Index",
+        "OMI_UV_Erythemal_Daily_Dose",
 
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
