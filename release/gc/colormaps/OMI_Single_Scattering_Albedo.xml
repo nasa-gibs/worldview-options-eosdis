@@ -9,6 +9,7 @@
       <LegendEntry rgb="255,0,255" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
+
   <ColorMap title="Aerosol Single Scattering Albedo">
     <Entries>
       <ColorMapEntry rgb="255,245,240" transparent="false" sourceValue="[-INF,0.75000)" value="[-INF,0.75000)" ref="1"/>
