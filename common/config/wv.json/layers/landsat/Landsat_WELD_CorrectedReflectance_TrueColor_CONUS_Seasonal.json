@@ -2,9 +2,9 @@
     "layers": {
         "Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal": {
             "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal",
-            "title":    "Corrected Reflectance (True Color, CONUS, Seasonal)",
+            "title":    "TOA Reflectance (True Color, CONUS, Seasonal, V1.5)",
             "subtitle": "Landsat / WELD",
-            "tags":     "",
+            "tags":     "corrected, top of atmosphere",
             "group":    "baselayers",
             "product":  "",
             "inactive": true
