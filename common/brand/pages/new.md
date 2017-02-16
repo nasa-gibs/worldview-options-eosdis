@@ -4,10 +4,10 @@
 
 ## New Features
 
-* Added Daily OMI Standard layers including Sulfur Dioxide (Planetary Boundary layer), Aerosol Optical Depth (388 nm, Multi-Wavelength), Aerosol Single Scattering Albedo 388 nm, Near-UV), Ozone (DOAS), Ozone (TOMS-line) Nitric Oxide (Tropospheric Column)
-* Added Monthly CERES Top-Of-Atmosphere (TOA Flux, Surface Flux and Incoming Solar Flux layers) 
+* Added Daily OMI Standard layers including Sulfur Dioxide (Planetary Boundary layer), Aerosol Optical Depth (388 nm, Multi-Wavelength), Aerosol Single Scattering Albedo 388 nm, Near-UV), Ozone (DOAS), Ozone (TOMS-like) Nitric Oxide (Tropospheric Column)
+* Added Monthly CERES Top-Of-Atmosphere (TOA) Flux, Surface Flux and Incoming Solar Flux layers 
 * Added TRMM Lightning Imaging Sensor (LIS) and OrbView-1 OTD Lightning Flashes and Lightning Flash Rate layers
-* Added Monthly, Annual and Seasonal Web Enabled Landsat Data (WELD) Corrected Reflectance for Alaska, Conterminous US and Global and NDVI layers
+* Added Monthly, Annual and Seasonal Web Enabled Landsat Data (WELD) TOA reflectance for Alaska and Conterminous US (V1.5) and Surface Reflectance (NBAR) Global and NDVI (V3.0) layers.
 * Added Daily and Monthly MOPITT Carbon Monoxide layers
 * MODIS and VIIRS fires can now be displayed in the Arctic view
 
