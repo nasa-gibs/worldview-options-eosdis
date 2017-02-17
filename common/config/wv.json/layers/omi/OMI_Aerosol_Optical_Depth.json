@@ -2,7 +2,7 @@
     "layers": {
         "OMI_Aerosol_Optical_Depth": {
             "id":       "OMI_Aerosol_Optical_Depth",
-            "title":    "Aerosol Optical Depth",
+            "title":    "Aerosol Optical Depth (Extinguishing, Near-UV, 388.0 nm)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMAERUV",
