@@ -4,7 +4,7 @@
 
 ## New Features
 
-* Added AMSR2 Soil Moisture Normalized Polarization Difference(Day and night) Layers
+* Added AMSR2 Soil Moisture Normalized Polarization Difference (Day and night) Layers
 * Added AMSR2 Soil Moisture Single Channel Algorithm (Day and night) Layers
 
 ## Known Issues
