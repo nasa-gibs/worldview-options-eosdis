@@ -3,8 +3,22 @@
         "Soil Moisture": {
             "id": "soil-moisture",
             "title":    "Soil Moisture",
-            "subtitle": "SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SAC-D/Aquarius",
+            "subtitle": "GCOM-W1/AMSR2, SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SAC-D/Aquarius",
             "sources": {
+              "GCOM-W1/AMSR2": {
+                  "id": "gcom-w1-amsr2",
+                  "title": "GCOM-W1 / AMSR2",
+                  "description": "",
+                  "image": "",
+                  "settings": [
+                      "AMSR2_Soil_Moisture_NPD_Day",
+                      "AMSR2_Soil_Moisture_NPD_Night",
+                      "AMSR2_Soil_Moisture_SCA_Day",
+                      "AMSR2_Soil_Moisture_SCA_Night",
+                      "GCOM_W1_Orbit_Asc",
+                      "GCOM_W1_Orbit_Dsc"
+                  ]
+              },
                 "SMAP/Radar": {
                     "id": "smap-radar",
                     "title": "SMAP / Radar",
