@@ -1,5 +1,25 @@
 <input type="hidden" autofocus>
 
+# Version 1.3.5
+
+## New Features
+
+* Added AMSR2 Soil Moisture Normalized Polarization Difference(Day and night) Layers
+* Added AMSR2 Soil Moisture Single Channel Algorithm (Day and night) Layers
+
+## Known Issues
+
+* Permalinks do not currently link directly to events or the product picker state
+* Custom color palettes are not supported on Internet Explorer or on Safari 5
+  and earlier.
+* On iOS and Android, layers cannot be reordered
+* WMS based layers (Population Density and Global Labels) can no longer be
+  displayed properly in the older arctic projection (EPSG:3995).
+* A mixed content warning may be displayed when using layers from external
+  servers not using https.
+---
+
+
 # Version 1.3.4
 
 ## New Features
@@ -15,17 +35,6 @@
 
 * Fixed animation widget styling issues specific to Safari
 * Fixed permalink of squashed palettes to retain max value
-
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 ---
 
 # Version 1.3.3
