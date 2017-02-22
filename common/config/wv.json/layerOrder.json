@@ -337,6 +337,7 @@
         "LIS_High_Resolution_Full_Climatology_Combined_Flash_Rate_Climatology",
 
         "Aquarius_Soil_Moisture_Daily",
+        "Aquarius_Soil_Moisture_Weekly",
 
         "CERES_EBAF_TOA_CRE_Net_Flux_Monthly",
         "CERES_EBAF_TOA_CRE_Longwave_Flux_Monthly",
