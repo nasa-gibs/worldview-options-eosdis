@@ -1,0 +1,15 @@
+{
+    "layers": {
+        "Aquarius_Soil_Moisture_Weekly": {
+            "id":       "Aquarius_Soil_Moisture_Weekly",
+            "title":    "Soil Moisture (Weekly, Radiometer)",
+            "subtitle": "SAC-D/Aquarius",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "AQ3_WKSM",
+            "startDate":"2011-08-25",
+            "endDate":  "2015-06-10",
+            "inactive": true
+        }
+    }
+}
