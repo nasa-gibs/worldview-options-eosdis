@@ -76,7 +76,7 @@
                     "image": "",
                     "settings": [
 			                  "Aquarius_Soil_Moisture_Daily",
-                        "Aquarius_Soil_Moisture_Weekly",
+                        "Aquarius_Soil_Moisture_Weekly"
                     ]
                 }
             }
