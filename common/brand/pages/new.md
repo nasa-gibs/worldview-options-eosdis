@@ -1,20 +1,11 @@
 <input type="hidden" autofocus>
 
-# Version 1.3.4
+# Version 1.3.5
 
 ## New Features
 
-* Added Monthly OMI Standard layers including Sulfur Dioxide (Planetary Boundary layer), Aerosol Optical Depth (388 nm, Multi-Wavelength), Aerosol Single Scattering Albedo 388 nm, Near-UV), Ozone (DOAS), Ozone (TOMS-line) Nitric Oxide (Tropospheric Column)
-* Added Monthly CERES Top-Of-Atmosphere (TOA Flux, Surface Flux and Incoming Solar Flux layers) 
-* Added TRMM Lightning Imaging Sensor (LIS) and OrbView-1 OTD Lightning Flashes and Lightning Flash Rate layers
-* Added Monthly, Annual and Seasonal Web Enabled Landsat Data (WELD) Corrected Reflectance for Alaska, Conterminous US and Global and NDVI layers
-* Added Monthly MOPITT Carbon Monoxide layers
-* MODIS and VIIRS fires can now be displayed in the Arctic view
-
-## Updates
-
-* Fixed animation widget styling issues specific to Safari
-* Fixed permalink of squashed palettes to retain max value
+* Added AMSR2 Soil Moisture Normalized Polarization Difference (Day and night) Layers
+* Added AMSR2 Soil Moisture Single Channel Algorithm (Day and night) Layers
 
 ## Known Issues
 
@@ -26,6 +17,24 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+---
+
+
+# Version 1.3.4
+
+## New Features
+
+* Added Daily OMI Standard layers including Sulfur Dioxide (Planetary Boundary layer), Aerosol Optical Depth (388 nm, Multi-Wavelength), Aerosol Single Scattering Albedo 388 nm, Near-UV), Ozone (DOAS), Ozone (TOMS-like) Nitric Oxide (Tropospheric Column)
+* Added Monthly CERES Top-Of-Atmosphere (TOA) Flux, Surface Flux and Incoming Solar Flux layers 
+* Added TRMM Lightning Imaging Sensor (LIS) and OrbView-1 OTD Lightning Flashes and Lightning Flash Rate layers
+* Added Monthly, Annual and Seasonal Web Enabled Landsat Data (WELD) TOA reflectance for Alaska and Conterminous US (V1.5) and Surface Reflectance (NBAR) Global and NDVI (V3.0) layers.
+* Added Daily and Monthly MOPITT Carbon Monoxide layers
+* MODIS and VIIRS fires can now be displayed in the Arctic view
+
+## Updates
+
+* Fixed animation widget styling issues specific to Safari
+* Fixed permalink of squashed palettes to retain max value
 ---
 
 # Version 1.3.3

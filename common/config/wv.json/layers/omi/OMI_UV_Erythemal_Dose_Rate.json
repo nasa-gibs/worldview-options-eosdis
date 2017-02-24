@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "OMI_UV_Erythemal_Dose_Rate": {
+            "id":       "OMI_UV_Erythemal_Dose_Rate",
+            "title":    "Erythemal Dose Rate (Local Noon)",
+            "subtitle": "Aura / OMI",
+            "group":    "overlays",
+            "product":  "OMUVBd",
+            "tags":     "",
+            "inactive": true
+
+        }
+    }
+}

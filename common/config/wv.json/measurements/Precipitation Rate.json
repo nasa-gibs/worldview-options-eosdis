@@ -3,7 +3,7 @@
         "Precipitation Rate": {
             "id": "precipitation-rate",
             "title":    "Precipitation Rate",
-            "subtitle": "GPM/GMI, GCOM-W1/AMSR2, Aqua/AMSR-E, DMSP-F8/SSMI, DMSP-F10/SSMI, DMSP-F11/SSMI, DMSP-F13/SSMI, DMSP-F14/SSMI, DMSP-F15/SSMI, DMSP-F16/SSMIS, DMSP-F17/SSMIS",
+            "subtitle": "GPM/GMI, GCOM-W1/AMSR2, Aqua/AMSR-E, DMSP-F8/SSMI, DMSP-F10/SSMI, DMSP-F11/SSMI, DMSP-F13/SSMI, DMSP-F14/SSMI, DMSP-F15/SSMI, DMSP-F16/SSMIS, DMSP-F17/SSMIS, GLDAS, NLDAS",
             "sources": {
                 "GPM/GMI": {
                     "id": "gpm-gmi",
@@ -125,6 +125,25 @@
                     "settings": [
                         "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Ascending",
                         "SSMI_DMSP_F17_Rain_Rate_Over_Oceans_Descending"
+                    ]
+                },
+                "GLDAS": {
+                    "id": "gldas",
+                    "title": "GLDAS",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "GLDAS_Surface_Total_Precipitation_Rate_Monthly"
+                    ]
+                },
+                "NLDAS": {
+                    "id": "nldas",
+                    "title": "NLDAS",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "NLDAS_Surface_Total_Precipitation_Primary_Monthly",
+                        "NLDAS_Surface_Total_Precipitation_Secondary_Monthly"
                     ]
                 }
             }

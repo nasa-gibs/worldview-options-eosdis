@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "AMSR2_Soil_Moisture_SCA_Night": {
+            "id":       "AMSR2_Soil_Moisture_SCA_Night",
+            "title":    "Soil Moisture (Single Channel Algorithm, Night)",
+            "subtitle": "GCOM-W1 / AMSR2",
+            "group":    "overlays",
+            "product":  "A2_Land_NRT"
+        }
+    }
+}

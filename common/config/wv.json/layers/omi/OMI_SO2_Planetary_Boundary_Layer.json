@@ -7,7 +7,7 @@
             "group":    "overlays",
             "product":  "OMSO2e",
             "tags":     "so2, sulphur dioxide",
-            "inactive": true
+            "inactive": false
 
 
         }
