@@ -25,7 +25,7 @@
                     "description": "smap/SoilMoisture_L3_Active",
                     "image": "",
                     "settings": [
-			                  "SMAP_L3_Active_Soil_Moisture",
+                        "SMAP_L3_Active_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
@@ -50,7 +50,7 @@
                     "description": "smap/SoilMoisture_L3_ActivePassive",
                     "image": "",
                     "settings": [
-			                  "SMAP_L3_Active_Passive_Soil_Moisture",
+                        "SMAP_L3_Active_Passive_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
@@ -61,11 +61,11 @@
                     "description": "smap/SoilMoisture_Value-Added",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
-			                  "SMAP_L4_Analyzed_Surface_Soil_Moisture",
-			                  "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
-                    	  "SMAP_Orbit_Asc",
+                        "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
+                        "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
+                        "SMAP_L4_Analyzed_Surface_Soil_Moisture",
+                        "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
+                        "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
                 },
@@ -75,7 +75,7 @@
                     "description": "",
                     "image": "",
                     "settings": [
-			                  "Aquarius_Soil_Moisture_Daily",
+                        "Aquarius_Soil_Moisture_Daily",
                         "Aquarius_Soil_Moisture_Weekly"
                     ]
                 }
