@@ -401,6 +401,11 @@
         "OMI_UV_Index",
         "OMI_UV_Erythemal_Daily_Dose",
 
+        "MERRA_Surface_Pressure_Monthly",
+        "MERRA_Surface_Skin_Temperature_Monthly",
+        "MERRA2_Surface_Skin_Temperature_Monthly",
+        "MERRA2_Surface_Pressure_Monthly",
+
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
         "ASTER_GDEM_Color_Shaded_Relief",
