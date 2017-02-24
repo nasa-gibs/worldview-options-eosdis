@@ -10,6 +10,7 @@
                     "Brightness Temperature",
                     "Sigma0",
                     "Faraday Rotation",
+                    "Radiation",
                     "Surface Flux",
                     "TOA Flux"
                 ]

@@ -397,6 +397,10 @@
         "NLDAS_Near_Surface_Air_Temperature_Primary_Monthly",
         "NLDAS_Surface_Total_Precipitation_Secondary_Monthly",
 
+        "OMI_UV_Erythemal_Dose_Rate",
+        "OMI_UV_Index",
+        "OMI_UV_Erythemal_Daily_Dose",
+
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
         "ASTER_GDEM_Color_Shaded_Relief",
