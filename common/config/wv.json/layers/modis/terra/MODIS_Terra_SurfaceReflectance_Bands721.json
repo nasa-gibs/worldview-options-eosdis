@@ -6,7 +6,8 @@
             "subtitle": "Terra / MODIS",
             "tags":     "lsr m11-i2-i1",
             "group":    "baselayers",
-            "product":  "MOD09GA"
+            "product":  "MOD09GA",
+            "wrapadjacentdays": true
         }
     }
 }

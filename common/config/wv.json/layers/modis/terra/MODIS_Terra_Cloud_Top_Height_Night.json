@@ -6,8 +6,7 @@
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
             "product":  "MOD06_L2_NIGHT",
-
-            "metadata": "modis/CloudTopHeight"
+            "wrapadjacentdays": true
             }
         }
     }

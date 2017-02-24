@@ -4,7 +4,8 @@
             "id":       "MODIS_Terra_Chlorophyll_A",
             "title":    "Chlorophyll a",
             "subtitle": "Terra / MODIS",
-            "group":    "overlays"
+            "group":    "overlays",
+            "wrapadjacentdays": true
         }
     }
 }

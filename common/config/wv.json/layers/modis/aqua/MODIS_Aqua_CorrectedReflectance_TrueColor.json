@@ -6,8 +6,7 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "natural color cr",
             "group":    "baselayers",
-            
-            "metadata": "modis/CorrectedReflectance_TrueColor"
+            "wrapadjacentdays": true
         }
     }
 }
