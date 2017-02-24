@@ -5,8 +5,7 @@
             "title":    "Cloud Fraction (Night)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD06_L2_NIGHT",
-            "wrapadjacentdays": true
+            "product":  "MYD06_L2_NIGHT"
         }
     }
 }

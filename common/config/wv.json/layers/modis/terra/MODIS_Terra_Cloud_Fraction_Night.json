@@ -5,8 +5,7 @@
             "title":    "Cloud Fraction (Night)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2_NIGHT",
-            "wrapadjacentdays": true
+            "product":  "MOD06_L2_NIGHT"
             }
         }
     }
