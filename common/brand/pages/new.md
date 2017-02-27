@@ -1,11 +1,17 @@
 <input type="hidden" autofocus>
 
-# Version 1.3.5
+# Version 1.3.6
 
 ## New Features
 
-* Added AMSR2 Soil Moisture Normalized Polarization Difference (Day and night) Layers
-* Added AMSR2 Soil Moisture Single Channel Algorithm (Day and night) Layers
+* Monthly MERRA and MERRA 2 Surface Skin Temperature and Surface Pressure layers
+* Monthly GLDAS Total Precipitation Rate, Air Temperature, Soil Moisture and NLDAS Precipitation Total, Air Temperature and Soil Moisture layers
+* Daily OMI UV Erythemal Daily Dose, Daily Rate and UV Index layers
+* Weekly Aquarius Soil Moisture layers
+
+## Updates
+
+* Corrected end dates of non-daily layers
 
 ## Known Issues
 
@@ -17,6 +23,14 @@
   displayed properly in the older arctic projection (EPSG:3995).
 * A mixed content warning may be displayed when using layers from external
   servers not using https.
+---
+
+# Version 1.3.5
+
+## New Features
+
+* Added AMSR2 Soil Moisture Normalized Polarization Difference (Day and night) Layers
+* Added AMSR2 Soil Moisture Single Channel Algorithm (Day and night) Layers
 ---
 
 
