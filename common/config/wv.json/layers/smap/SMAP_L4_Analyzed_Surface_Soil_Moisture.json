@@ -5,7 +5,8 @@
             "title":    "Surface Soil Moisture (L4, 12z Instantaneous)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
-            "product":  "SPL4SMAU"
+            "product":  "SPL4SMAU",
+            "wrapadjacentdays": true
         }
     }
 }

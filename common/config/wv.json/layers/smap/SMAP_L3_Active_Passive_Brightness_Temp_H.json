@@ -6,7 +6,8 @@
             "subtitle": "SMAP / Radar + Radiometer",
             "group":    "overlays",
             "product":  "SPL3SMAP",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays":true
         }
     }
 }

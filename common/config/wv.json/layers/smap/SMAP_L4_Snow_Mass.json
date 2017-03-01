@@ -5,7 +5,8 @@
             "title":    "Snow Mass (L4, 12z-3z Average)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
-            "product":  "SPL4SMGP"
+            "product":  "SPL4SMGP",
+            "wrapadjacentdays": true
         }
     }
 }
