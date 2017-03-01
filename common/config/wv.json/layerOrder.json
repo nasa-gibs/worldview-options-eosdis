@@ -387,7 +387,7 @@
         "MOPITT_CO_Monthly_Total_Column_Night",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
-        
+
         "GLDAS_Surface_Total_Precipitation_Rate_Monthly",
         "GLDAS_Underground_Soil_Moisture_Monthly",
         "GLDAS_Near_Surface_Air_Temperature_Monthly",
@@ -406,6 +406,9 @@
         "MERRA_Surface_Skin_Temperature_Monthly",
         "MERRA2_Surface_Skin_Temperature_Monthly",
         "MERRA2_Surface_Pressure_Monthly",
+        "Daymet_Maximum_Air_Temp_Daily",
+        "Daymet_Minimum_Air_Temp_Daily",
+
 
         "Land_Mask",
         "ASTER_GDEM_Color_Index",
