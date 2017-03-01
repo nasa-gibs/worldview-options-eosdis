@@ -6,7 +6,8 @@
             "subtitle": "Multi-mission / GHRSST",
             "tags":     "sst ghrsst",
             "product": 	"GHRSST_L4G1SST_LL",
-            "group":    "overlays"
+            "group":    "overlays",
+            "wrapadjacentdays": true
         }
     }
 }
