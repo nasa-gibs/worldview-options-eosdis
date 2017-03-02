@@ -7,7 +7,7 @@
             "group":    "overlays",
             "product":  "SPL3SMAP",
             "inactive": true,
-            "wrapadjacentdays":true
+            "wrapadjacentdays": true
         }
     }
 }
