@@ -26,7 +26,7 @@
             },
 
             "palette": {
-                "id":     "ISS_Orbit",
+                "id":     "ISS_Orbit_Asc",
                 "immutable": true
             }
         }

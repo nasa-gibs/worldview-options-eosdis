@@ -25,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "GCOM_W1_Orbit",
+                "id":     "GCOM_W1_Orbit_Asc",
                 "immutable": true
             }
         }

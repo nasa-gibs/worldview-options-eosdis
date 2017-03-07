@@ -25,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "SMAP_Orbit",
+                "id":     "SMAP_Orbit_Asc",
                 "immutable": true
             }
         }

@@ -13,13 +13,19 @@
             "startDate": "2014-02-27",
 
             "projections": {
-                "geographic": {
-                    "source":   "GIBS:wms"
-                }
+              "antarctic": {
+                  "source":   "GIBS:wms"
+              },
+              "arctic": {
+                  "source":   "GIBS:wms"
+              },
+              "geographic": {
+                  "source":   "GIBS:wms"
+              }
             },
 
             "palette": {
-                "id": "GPM_Orbit",
+                "id": "GPM_Orbit_Asc",
                 "immutable": true
             }
         }
