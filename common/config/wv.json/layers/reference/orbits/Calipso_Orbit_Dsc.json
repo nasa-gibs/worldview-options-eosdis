@@ -13,13 +13,19 @@
             "startDate": "2006-04-28",
 
             "projections": {
-                "geographic": {
-                    "source":   "GIBS:wms"
-                }
+              "antarctic": {
+                  "source":   "GIBS:wms"
+              },
+              "arctic": {
+                  "source":   "GIBS:wms"
+              },
+              "geographic": {
+                  "source":   "GIBS:wms"
+              }
             },
 
             "palette": {
-                "id": "Calipso_Orbit",
+                "id": "Calipso_Orbit_Dsc",
                 "immutable": true
             }
         }

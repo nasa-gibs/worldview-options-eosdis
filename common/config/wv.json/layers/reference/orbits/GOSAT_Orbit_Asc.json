@@ -25,7 +25,7 @@
             },
 
             "palette": {
-                "id":     "GOSAT_Orbit",
+                "id":     "GOSAT_Orbit_Asc",
                 "immutable": true
             }
         }
