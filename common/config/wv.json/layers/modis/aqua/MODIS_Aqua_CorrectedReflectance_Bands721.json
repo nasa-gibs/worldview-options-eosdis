@@ -6,8 +6,7 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "cr m11-i2-i1",
             "group":    "baselayers",
-            
-            "metadata": "modis/CorrectedReflectance_Bands721"
+            "wrapadjacentdays": true
         }
     }
 }

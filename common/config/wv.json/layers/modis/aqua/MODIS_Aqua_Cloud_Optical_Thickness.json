@@ -6,8 +6,7 @@
             "subtitle": "Aqua/MODIS",
             "group":    "overlays",
             "product":  "MYD06_L2",
-
-            "metadata": "modis/CloudOpticalThickness"
+            "wrapadjacentdays": true
 
             }
         }

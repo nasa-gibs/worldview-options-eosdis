@@ -5,7 +5,8 @@
             "title":    "Corrected Brightness Temperature (L3, Passive, H Polarization)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
-            "product":  "SPL3SMP"
+            "product":  "SPL3SMP",
+            "wrapadjacentdays": true
         }
     }
 }

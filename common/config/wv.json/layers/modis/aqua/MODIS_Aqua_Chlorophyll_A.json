@@ -5,8 +5,7 @@
             "title":    "Chlorophyll a",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            
-            "metadata": "modis/Chlorophyll_a"
+            "wrapadjacentdays": true
         }
     }
 }

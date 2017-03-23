@@ -4,9 +4,7 @@
             "id":       "MODIS_Aqua_Brightness_Temp_Band31_Night",
             "title":    "Brightness Temperature (Band 31-Night)",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays",
-            
-            "metadata": "modis/BrightnessTemperature"
+            "group":    "overlays"
         }
     }
 }

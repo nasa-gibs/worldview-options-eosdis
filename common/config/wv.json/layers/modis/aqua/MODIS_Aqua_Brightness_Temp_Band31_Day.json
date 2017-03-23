@@ -5,8 +5,7 @@
             "title":    "Brightness Temperature (Band 31-Day)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            
-            "metadata": "modis/BrightnessTemperature"
+            "wrapadjacentdays": true
         }
     }
 }

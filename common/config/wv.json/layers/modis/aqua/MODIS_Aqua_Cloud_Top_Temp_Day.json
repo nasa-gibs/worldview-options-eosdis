@@ -6,6 +6,7 @@
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
             "product":  "MYD06_L2_DAY",
+            "wrapadjacentdays": true,
 
             "palette": {
                 "recommended":  ["purple_2", "rainbow_1"]

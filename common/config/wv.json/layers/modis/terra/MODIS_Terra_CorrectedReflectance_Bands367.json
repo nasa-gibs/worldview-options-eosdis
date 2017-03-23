@@ -6,8 +6,7 @@
             "subtitle": "Terra / MODIS",
             "tags":     "cr m3-i3-m11",
             "group":    "baselayers",
-            
-            "metadata": "modis/CorrectedReflectance_Bands367"
+            "wrapadjacentdays": true
         }
     }
 }

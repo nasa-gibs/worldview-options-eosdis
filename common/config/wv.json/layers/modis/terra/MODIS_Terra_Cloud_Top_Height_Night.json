@@ -5,9 +5,7 @@
             "title":    "Cloud Top Height (Night)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD06_L2_NIGHT",
-
-            "metadata": "modis/CloudTopHeight"
+            "product":  "MOD06_L2_NIGHT"
             }
         }
     }

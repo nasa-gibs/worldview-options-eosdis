@@ -6,6 +6,7 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMCLDRR",
+            "wrapadjacentdays": true,
 
             "metadata": "omi/Cloud_Pressure",
             "palette": {

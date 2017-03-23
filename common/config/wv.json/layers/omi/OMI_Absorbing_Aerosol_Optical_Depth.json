@@ -5,8 +5,9 @@
             "title":    "Aerosol Optical Depth (Absorbing, Near-UV, 388.0 nm)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
-            "product":  "OMAERUV",
+            "product":  "OMAERUVd",
             "tags":     "aod",
+            "wrapadjacentdays": true,
 
             "metadata": "omi/Absorbing_Aerosol_Optical_Depth",
             "palette": {

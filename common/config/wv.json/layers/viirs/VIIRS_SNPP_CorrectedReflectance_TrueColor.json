@@ -5,7 +5,8 @@
             "title":    "Corrected Reflectance (True Color)",
             "subtitle": "Suomi NPP / VIIRS",
             "tags":     "natural color cr s-npp snpp",
-            "group":    "baselayers"
+            "group":    "baselayers",
+            "wrapadjacentdays": true
         }
     }
 }

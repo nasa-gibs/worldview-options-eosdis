@@ -5,7 +5,8 @@
             "title":    "Sigma0 RFI (L3, Active, VV Polarization)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }

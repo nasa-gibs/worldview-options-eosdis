@@ -10,6 +10,7 @@
             "period":   "daily",
             "tileSize": [512, 512],
             "type":     "wms",
+            "wrapadjacentdays": true,
 
             "transition":   "true",
             "startDate":    "2012-05-08",

@@ -5,7 +5,8 @@
             "title":    "Soil Moisture (L3, Passive)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
-            "product":  "SPL3SMP"
+            "product":  "SPL3SMP",
+            "wrapadjacentdays": true
         }
     }
 }

@@ -6,7 +6,8 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "lsr m11-i2-i1",
             "group":    "baselayers",
-            "product":  "MYD09GA"
+            "product":  "MYD09GA",
+            "wrapadjacentdays": true
         }
     }
 }
