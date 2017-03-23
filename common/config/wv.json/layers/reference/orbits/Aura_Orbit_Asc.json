@@ -9,6 +9,7 @@
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
+            "wrapadjacentdays": true,
 
             "startDate": "2004-07-15",
 
