@@ -15,10 +15,6 @@
 
 * Migrated to OpenLayers 4 mapping library
 
-## Known Issues
-
-* Events and custom color palettes do not work in Internet Explorer
-* On iOS and Android, layers cannot be reordered
 ---
 
 # Version 1.3.6
