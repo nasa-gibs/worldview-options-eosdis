@@ -1,5 +1,26 @@
 <input type="hidden" autofocus>
 
+# Version 1.4.0
+
+## New Features
+
+* Certain imagery layers (e.g. MODIS or VIIRS Corrected Reflectance and some other daytime layers) can now be viewed over the dateline/anti-meridian for the day prior to and after the current day. This allows for an unbroken view of the Pacific Ocean as observed by the satellites.
+* Users can now view the data value under the cursor in the respective layer's legend/color bar.
+* A marker or bounding box has been added to illustrate an event’s location shown in the Events feed.
+* Icons have been added to differentiate between natural event categories in the Events feed.
+* Auto-disable function which prevents a layer from being turned on if there is no imagery available for that date.
+* Daymet Minimum and Maximum Air Temperature layers added
+
+## Updates
+
+* Migrated to OpenLayers 4 mapping library
+
+## Known Issues
+
+* Events and custom color palettes do not work in Internet Explorer
+* On iOS and Android, layers cannot be reordered
+---
+
 # Version 1.3.6
 
 ## New Features
@@ -13,16 +34,6 @@
 
 * Corrected end dates of non-daily layers
 
-## Known Issues
-
-* Permalinks do not currently link directly to events or the product picker state
-* Custom color palettes are not supported on Internet Explorer or on Safari 5
-  and earlier.
-* On iOS and Android, layers cannot be reordered
-* WMS based layers (Population Density and Global Labels) can no longer be
-  displayed properly in the older arctic projection (EPSG:3995).
-* A mixed content warning may be displayed when using layers from external
-  servers not using https.
 ---
 
 # Version 1.3.5
