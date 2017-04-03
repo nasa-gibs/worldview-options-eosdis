@@ -12,9 +12,7 @@
                     "description": "smap/SurfaceSoilTemperature",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Soil_Temperature_Layer_1",
-		                    "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc"
+			                  "SMAP_L4_Soil_Temperature_Layer_1"
                     ]
                   }
             }
