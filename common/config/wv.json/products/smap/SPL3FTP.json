@@ -1,0 +1,11 @@
+{
+    "products": {
+        "SPL3FTP": {
+            "name": "SMAP L3 Radiometer Northern Hemisphere Daily 36 km EASE-Grid Freeze/Thaw State",
+            "handler": "List",
+            "query": {
+                "shortName": "SLP3FTP"
+            }
+        }
+    }
+}

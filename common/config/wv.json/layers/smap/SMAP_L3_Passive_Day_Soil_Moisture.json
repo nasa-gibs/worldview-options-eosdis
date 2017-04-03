@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SMAP_L3_Passive_Day_Soil_Moisture": {
+            "id":       "SMAP_L3_Passive_Day_Soil_Moisture",
+            "title":    "Soil Moisture (L3, Passive, Day)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL3SMP",
+            "wrapadjacentdays": true
+        }
+    }
+}

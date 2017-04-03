@@ -1,0 +1,11 @@
+{
+    "layers": {
+        "SMAP_L2_Passive_Night_Soil_Moisture_Option3": {
+            "id":       "SMAP_L2_Passive_Night_Soil_Moisture_Option3",
+            "title":    "Soil Moisture (L2, Passive, Night, Dual Channel Algorithm)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL2SMP"
+        }
+    }
+}
