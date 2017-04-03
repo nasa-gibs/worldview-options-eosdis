@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SMAP_L3_Passive_Enhanced_Night_Soil_Moisture": {
+            "id":       "SMAP_L3_Passive_Enhanced_Night_Soil_Moisture",
+            "title":    "Soil Moisture (L3, Passive Enhanced, Night)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL3SMP",
+            "wrapadjacentdays": true
+        }
+    }
+}

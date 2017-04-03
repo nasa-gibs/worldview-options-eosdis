@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "SMAP_L3_Passive_Day_Freeze_Thaw": {
+            "id":       "SMAP_L3_Passive_Day_Freeze_Thaw",
+            "title":    "Freeze/Thaw (L3, Passive, Day)",
+            "subtitle": "SMAP / Radiometer",
+            "group":    "overlays",
+            "product":  "SPL3FTP",
+            "wrapadjacentdays": true
+        }
+    }
+}
