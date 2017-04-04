@@ -1,5 +1,16 @@
 <input type="hidden" autofocus>
 
+# Version 1.4.1
+
+## New Features
+
+* Daily SMAP Enhanced versions of Passive Brightness Temperature and Passive Soil Moisture, Freeze/Thaw layers
+
+## Updates
+
+* Polar projection permalink issue patch
+
+---
 # Version 1.4.0
 
 ## New Features
