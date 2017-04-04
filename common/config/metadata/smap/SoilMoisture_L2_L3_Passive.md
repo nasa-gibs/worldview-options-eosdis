@@ -22,7 +22,7 @@ Data Product & References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil M
 
 Data field: soil_moisture_option2
 
-# Soil Moisture (L2, Passive, Day | Night, Dual Channel Algorithm)
+# Soil Moisture 36 km (L2, Passive, Day | Night, Dual Channel Algorithm)
 Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Soil Moisture 36 km (L2, Passive, Day | Night, Dual Channel Algorithm)" layers display surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> posted on a 36 km EASE-Grid 2.0 derived from the Dual Channel Algorithm (DCA), one of four optional soil moisture algorithms, for the 6:00 a.m. descending (Day) and the 6:00 p.m. ascending (Night) half-orbit passes of the SMAP radiometer. The SMAP radiometer measures natural thermal emission emanating from the soil surface. The variation in the intensity of this radiation depends on the dielectric properties and temperature of the target medium, which for the near surface soil layer is a function of the amount of moisture present. In the DCA, both the vertically and horizontally polarized brightness temperatures are used to solve for soil moisture and vegetation optical depth.

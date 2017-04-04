@@ -2,8 +2,9 @@
     "layers": {
         "SMAP_L1_Passive_Enhanced_Brightness_Temp_Aft_V_RFI": {
             "id":       "SMAP_L1_Passive_Enhanced_Brightness_Temp_Aft_V_RFI",
-            "title":    "Uncorrected Brightness Temperature RFI (L1, Passive Enhanced, Aft, V Polarization)",
+            "title":    "Uncorrected Brightness Temperature 9 km RFI (L1, Passive, Aft, V Polarization)",
             "subtitle": "SMAP / Radiometer",
+            "tags":     "enhanced",
             "group":    "overlays",
             "product":  "SPL1CTB_E"
         }

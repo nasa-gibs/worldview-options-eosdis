@@ -2,7 +2,7 @@
     "layers": {
         "SMAP_L3_Active_Day_Freeze_Thaw": {
             "id":       "SMAP_L3_Active_Day_Freeze_Thaw",
-            "title":    "Freeze/Thaw (L3, Active, Day)",
+            "title":    "Freeze/Thaw 3 km (L3, Active, Day)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
             "product":  "SPL3FTA",

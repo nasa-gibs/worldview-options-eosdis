@@ -2,9 +2,10 @@
     "layers": {
         "SMAP_L3_Passive_Enhanced_Night_Freeze_Thaw": {
             "id":       "SMAP_L3_Passive_Enhanced_Night_Freeze_Thaw",
-            "title":    "Freeze/Thaw (L3, Passive Enhanced, Night)",
+            "title":    "Freeze/Thaw 9 km (L3, Passive, Night)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
+            "tags":     "enhanced",
             "product":  "SPL3FTP_E"
         }
     }

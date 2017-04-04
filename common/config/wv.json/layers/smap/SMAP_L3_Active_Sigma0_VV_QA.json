@@ -2,7 +2,7 @@
     "layers": {
         "SMAP_L3_Active_Sigma0_VV_QA": {
             "id":       "SMAP_L3_Active_Sigma0_VV_QA",
-            "title":    "Sigma0 QA (L3, Active, VV Polarization)",
+            "title":    "Sigma0 3 km QA (L3, Active, VV Polarization)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
             "inactive": true,
