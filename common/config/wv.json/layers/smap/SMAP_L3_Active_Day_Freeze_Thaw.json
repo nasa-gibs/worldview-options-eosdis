@@ -6,8 +6,7 @@
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
             "product":  "SPL3FTA",
-            "inactive": true,
-            "wrapadjacentdays": true
+            "inactive": true
         }
     }
 }

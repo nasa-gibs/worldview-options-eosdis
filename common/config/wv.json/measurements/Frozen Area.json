@@ -11,9 +11,7 @@
                     "description": "smap/PercentFrozenArea",
                     "image": "",
                     "settings": [
-			                  "SMAP_L4_Frozen_Area",
-		                    "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc"
+			                  "SMAP_L4_Frozen_Area"
                     ]
                 }
             }

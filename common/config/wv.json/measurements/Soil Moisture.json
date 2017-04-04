@@ -25,9 +25,7 @@
                     "description": "smap/SoilMoisture_L3_Active",
                     "image": "",
                     "settings": [
-                        "SMAP_L3_Active_Soil_Moisture",
-                        "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc"
+                        "SMAP_L3_Active_Soil_Moisture"
                     ]
                 },
                 "SMAP/Radiometer": {
@@ -36,10 +34,22 @@
                     "description": "smap/SoilMoisture_L2_L3_Passive",
                     "image": "",
                     "settings": [
-                        "SMAP_L2_Passive_Soil_Moisture_Option1",
-                        "SMAP_L2_Passive_Soil_Moisture_Option2",
-                        "SMAP_L2_Passive_Soil_Moisture_Option3",
-                        "SMAP_L3_Passive_Soil_Moisture",
+                        "SMAP_L2_Passive_Day_Soil_Moisture_Option1",
+                        "SMAP_L2_Passive_Day_Soil_Moisture_Option2",
+                        "SMAP_L2_Passive_Day_Soil_Moisture_Option3",
+                        "SMAP_L2_Passive_Night_Soil_Moisture_Option1",
+                        "SMAP_L2_Passive_Night_Soil_Moisture_Option2",
+                        "SMAP_L2_Passive_Night_Soil_Moisture_Option3",
+                        "SMAP_L2_Passive_Enhanced_Day_Soil_Moisture_Option1",
+                        "SMAP_L2_Passive_Enhanced_Day_Soil_Moisture_Option2",
+                        "SMAP_L2_Passive_Enhanced_Day_Soil_Moisture_Option3",
+                        "SMAP_L2_Passive_Enhanced_Night_Soil_Moisture_Option1",
+                        "SMAP_L2_Passive_Enhanced_Night_Soil_Moisture_Option2",
+                        "SMAP_L2_Passive_Enhanced_Night_Soil_Moisture_Option3",
+                        "SMAP_L3_Passive_Day_Soil_Moisture",
+                        "SMAP_L3_Passive_Night_Soil_Moisture",
+                        "SMAP_L3_Passive_Enhanced_Day_Soil_Moisture",
+                        "SMAP_L3_Passive_Enhanced_Night_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
@@ -50,9 +60,7 @@
                     "description": "smap/SoilMoisture_L3_ActivePassive",
                     "image": "",
                     "settings": [
-                        "SMAP_L3_Active_Passive_Soil_Moisture",
-                        "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc"
+                        "SMAP_L3_Active_Passive_Soil_Moisture"
                     ]
                 },
                 "SMAP/Model Value-Added": {
@@ -64,9 +72,7 @@
                         "SMAP_L4_Analyzed_Root_Zone_Soil_Moisture",
                         "SMAP_L4_Uncertainty_Analyzed_Root_Zone_Soil_Moisture",
                         "SMAP_L4_Analyzed_Surface_Soil_Moisture",
-                        "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture",
-                        "SMAP_Orbit_Asc",
-                        "SMAP_Orbit_Dsc"
+                        "SMAP_L4_Uncertainty_Analyzed_Surface_Soil_Moisture"
                     ]
                 },
                 "SAC-D/Aquarius": {
