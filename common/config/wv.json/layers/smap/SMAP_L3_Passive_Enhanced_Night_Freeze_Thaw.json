@@ -5,8 +5,7 @@
             "title":    "Freeze/Thaw (L3, Passive Enhanced, Night)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
-            "product":  "SPL3FTP_E",
-            "wrapadjacentdays": true
+            "product":  "SPL3FTP_E"
         }
     }
 }
