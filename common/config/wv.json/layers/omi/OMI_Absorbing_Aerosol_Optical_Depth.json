@@ -7,7 +7,6 @@
             "group":    "overlays",
             "product":  "OMAERUVd",
             "tags":     "aod",
-            "wrapadjacentdays": true,
 
             "metadata": "omi/Absorbing_Aerosol_Optical_Depth",
             "palette": {

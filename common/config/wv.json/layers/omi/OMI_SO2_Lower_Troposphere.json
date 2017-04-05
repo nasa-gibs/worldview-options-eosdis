@@ -7,7 +7,6 @@
             "group":    "overlays",
             "product":  "OMSO2",
             "tags":     "so2",
-            "wrapadjacentdays": true,
 
             "metadata": "omi/SO2_Lower_Troposphere",
             "palette": {

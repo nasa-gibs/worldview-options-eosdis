@@ -4,8 +4,7 @@
             "id":       "MODIS_Aqua_Chlorophyll_A",
             "title":    "Chlorophyll a",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays",
-            "wrapadjacentdays": true
+            "group":    "overlays"
         }
     }
 }

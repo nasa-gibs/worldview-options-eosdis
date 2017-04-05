@@ -7,7 +7,6 @@
             "group":    "overlays",
             "product":  "OMAERUV",
             "tags":     "ai",
-            "wrapadjacentdays": true,
 
             "metadata": "omi/Aerosol_Index",
             "palette": {
