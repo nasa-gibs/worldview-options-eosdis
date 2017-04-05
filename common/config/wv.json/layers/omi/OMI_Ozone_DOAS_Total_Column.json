@@ -7,8 +7,7 @@
             "group":    "overlays",
             "product":  "OMDOAO3e",
             "tags":     "",
-            "inactive": true,
-            "wrapadjacentdays": true
+            "inactive": true
 
         }
     }

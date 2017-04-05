@@ -7,8 +7,7 @@
             "group":    "overlays",
             "product":  "OMAEROe",
             "tags":     "aerosol optical depth, aod",
-            "inactive": true,
-            "wrapadjacentdays": true
+            "inactive": true
 
         }
     }

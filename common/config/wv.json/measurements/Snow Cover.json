@@ -11,7 +11,8 @@
                     "description": "modis/SnowCover",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Snow_Cover"
+                        "MODIS_Aqua_Snow_Cover",
+                        "MODIS_Aqua_NDSI_Snow_Cover"
                     ]
                 },
                 "Terra/MODIS": {
@@ -20,7 +21,8 @@
                     "description": "modis/SnowCover",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Snow_Cover"
+                        "MODIS_Terra_Snow_Cover",
+                        "MODIS_Terra_NDSI_Snow_Cover"
                     ]
                 }
             }

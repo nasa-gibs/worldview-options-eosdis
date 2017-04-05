@@ -9,7 +9,6 @@
             "format":   "image/png",
             "period":   "daily",
             "product":  "MYD14",
-            "wrapadjacentdays": true,
 
             "tileSize": [512, 512],
             "type":     "wms",

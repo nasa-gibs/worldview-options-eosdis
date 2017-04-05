@@ -7,8 +7,7 @@
             "group":    "overlays",
             "product":  "OMTO3e",
             "tags":     "",
-            "inactive": true,
-            "wrapadjacentdays": true
+            "inactive": true
 
 
 
