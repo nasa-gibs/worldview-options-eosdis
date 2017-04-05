@@ -356,6 +356,13 @@
         "SSMI_DMSP_F17_Wind_Speed_Over_Oceans_Descending",
 
         "SSMIS_Sea_Ice_Concentration",
+        "SSMIS_Sea_Ice_Concentration_Snow_Extent",
+
+        "RSS_Merged_Wind_Climatology_Monthly",
+        "RSS_Total_Precipitable_Water_Climatology_Monthly",
+        "MEaSUREs_Ice_Velocity_Greenland",
+        "MEaSUREs_Ice_Velocity_Antarctica",
+        "MEaSUREs_Sea_Ice_Snow_Extent",
 
         "LIS_High_Resolution_Full_Climatology_LIS_Raw_Flashes",
         "LIS_High_Resolution_Full_Climatology_LIS_Scaled_Flashes",
