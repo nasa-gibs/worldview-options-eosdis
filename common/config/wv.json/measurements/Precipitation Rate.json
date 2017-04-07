@@ -3,7 +3,7 @@
         "Precipitation Rate": {
             "id": "precipitation-rate",
             "title":    "Precipitation Rate",
-            "subtitle": "GPM/GMI, GCOM-W1/AMSR2, Aqua/AMSR-E, DMSP-F8/SSMI, DMSP-F10/SSMI, DMSP-F11/SSMI, DMSP-F13/SSMI, DMSP-F14/SSMI, DMSP-F15/SSMI, DMSP-F16/SSMIS, DMSP-F17/SSMIS, GLDAS, NLDAS",
+            "subtitle": "GPM/GMI, GCOM-W1/AMSR2, Aqua/AMSR-E, DMSP-F8/SSMI, DMSP-F10/SSMI, DMSP-F11/SSMI, DMSP-F13/SSMI, DMSP-F14/SSMI, DMSP-F15/SSMI, DMSP-F16/SSMIS, DMSP-F17/SSMIS, GLDAS, NLDAS, Merged Microwave Radiometers",
             "sources": {
                 "GPM/GMI": {
                     "id": "gpm-gmi",
@@ -144,6 +144,15 @@
                     "settings": [
                         "NLDAS_Surface_Total_Precipitation_Primary_Monthly",
                         "NLDAS_Surface_Total_Precipitation_Secondary_Monthly"
+                    ]
+                },
+                "Merged Microwave Radiometers": {
+                    "id": "merged-microwave-radiometers",
+                    "title": "Aqua/AMSR-E, GCOM-W1/AMSR2, DMSP-F16/SSMI, DMSP-F17/SSMI",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "RSS_Total_Precipitable_Water_Climatology_Monthly"
                     ]
                 }
             }
