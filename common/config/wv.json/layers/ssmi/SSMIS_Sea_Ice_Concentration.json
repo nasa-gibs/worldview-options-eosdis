@@ -6,8 +6,7 @@
             "subtitle": "DMSP 5D-3 F17/SSMIS, DMSP 5D-3 F18/SSMIS",
             "tags":     "",
             "group":    "overlays",
-            "product":  "NSIDC-0081",
-            "inactive": true
+            "product":  "NSIDC-0051-0081"
         }
     }
 }
