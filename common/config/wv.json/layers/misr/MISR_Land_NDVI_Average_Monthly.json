@@ -6,7 +6,8 @@
             "subtitle": "Terra / MISR",
             "tags":     "normalized difference vegetation index",
             "group":    "overlays",
-            "product":  "MIL3MLS"
+            "product":  "MIL3MLS",
+            "inactive": true
         }
     }
 }

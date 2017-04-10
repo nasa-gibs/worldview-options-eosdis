@@ -6,7 +6,8 @@
             "subtitle": "Terra / MISR",
             "tags":     "top of atmosphere",
             "group":    "overlays",
-            "product":  "MIL3MAL"
+            "product":  "MIL3MAL",
+            "inactive": true
         }
     }
 }

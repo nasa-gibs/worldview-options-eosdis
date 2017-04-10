@@ -6,7 +6,8 @@
             "subtitle": "Terra / MISR",
             "tags":     "ir",
             "group":    "overlays",
-            "product":  "MIL3MRD"
+            "product":  "MIL3MRD",
+            "inactive": true
         }
     }
 }
