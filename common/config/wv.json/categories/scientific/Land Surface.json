@@ -9,10 +9,12 @@
                 "measurements": [
                     "Blue Marble",
                     "Corrected Reflectance",
+                    "DHR Reflectance",
                     "Fires and Thermal Anomalies",
                     "Global Digital Elevation Map",
                     "Land Surface Reflectance",
                     "Land Surface Temperature",
+                    "Radiance",
                     "Soil Moisture",
                     "Soil Temperature",
                     "Surface Flux",

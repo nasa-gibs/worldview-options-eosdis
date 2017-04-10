@@ -3,7 +3,7 @@
         "Aerosol Optical Depth": {
             "id": "aerosol-optical-depth",
             "title":    "Aerosol Optical Depth",
-            "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS, Aqua and Terra/MODIS",
+            "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS, Aqua and Terra/MODIS, Terra/MISR",
             "sources": {
                 "Aura/OMI": {
                     "id": "aura-omi",
@@ -55,6 +55,15 @@
                     "image": "",
                     "settings": [
                         "MODIS_Combined_Value_Added_AOD"
+                    ]
+                },
+                "Terra/MISR": {
+                    "id": "terra-misr",
+                    "title": "Terra/MISR",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                        "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly"
                     ]
                 }
             }
