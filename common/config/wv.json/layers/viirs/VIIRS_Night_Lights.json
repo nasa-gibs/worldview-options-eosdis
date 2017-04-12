@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "VIIRS_Night_Lights": {
+            "id":       "VIIRS_Night_Lights",
+            "title":    "Black Marble - Nighttime Lights only",
+            "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
+            "tags":     "night s-npp snpp night lights city",
+            "group":    "overlays",
+            "inactive": true
+        }
+    }
+}
