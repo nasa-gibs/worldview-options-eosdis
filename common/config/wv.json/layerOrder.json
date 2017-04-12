@@ -387,6 +387,13 @@
 
         "Aquarius_Soil_Moisture_Daily",
         "Aquarius_Soil_Moisture_Weekly",
+        "Aquarius_Wind_Speed_L3_Daily",
+        "Aquarius_Wind_Speed_L3_7Day_Snapshot",
+        "Aquarius_Sea_Surface_Salinity_L3_Daily",
+        "Aquarius_Sea_Surface_Salinity_L3_3Month",
+        "Aquarius_Sea_Surface_Salinity_L3_Monthly",
+        "Aquarius_Sea_Surface_Salinity_L3_3Month",
+        "Aquarius_Sea_Surface_Salinity_L3_7Day_RunningMean",
 
         "CERES_EBAF_TOA_CRE_Net_Flux_Monthly",
         "CERES_EBAF_TOA_CRE_Longwave_Flux_Monthly",

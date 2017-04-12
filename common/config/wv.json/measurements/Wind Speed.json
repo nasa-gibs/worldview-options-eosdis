@@ -105,8 +105,18 @@
                     "settings": [
                         "RSS_Merged_Wind_Climatology_Monthly"
                     ]
-                }
+                },
+                "SAC-D/Aquarius": {
+                    "id": "sac-d-aquarius",
+                    "title": "SAC-D/Aquarius",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                       "Aquarius_Wind_Speed_L3_Daily",
+                       "Aquarius_Wind_Speed_L3_7Day_Snapshot"
+              ]
             }
+          }
         }
     }
 }
