@@ -5,7 +5,8 @@
             "title":    "Black Marble",
             "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
             "tags":     "night s-npp snpp night lights",
-            "group":    "baselayers"
+            "group":    "baselayers",
+            "inactive": true
         }
     }
 }

@@ -5,7 +5,8 @@
             "title":    "Black Marble - Nighttime Lights only",
             "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
             "tags":     "night s-npp snpp night lights city",
-            "group":    "overlays"
+            "group":    "overlays",
+            "inactive": true
         }
     }
 }
