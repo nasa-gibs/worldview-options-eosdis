@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Chlorophyll" units="mg/m²">
+  <ColorMap title="Chlorophyll" units="mg/m³">
     <Entries>
       <ColorMapEntry rgb="144,0,111" transparent="false" value="0.01" ref="1"/>
       <ColorMapEntry rgb="141,0,114" transparent="false" value="0.09" ref="2"/>

@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Surface Shortwave Flux Down All-Sky" units="w/m²">
+  <ColorMap title="Surface Shortwave Flux Down All-Sky" units="W/m²">
     <Entries>
       <ColorMapEntry rgb="228,160,254" transparent="false" sourceValue="[-INF,-0.0)" value="[-INF,-0.0)" ref="1"/>
       <ColorMapEntry rgb="231,0,255" transparent="false" sourceValue="[-0.0,1.5)" value="[-0.0,1.5)" ref="2"/>
