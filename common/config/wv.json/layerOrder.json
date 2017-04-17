@@ -105,6 +105,8 @@
         "MODIS_Aqua_Snow_Cover",
         "MODIS_Terra_NDSI_Snow_Cover",
         "MODIS_Aqua_NDSI_Snow_Cover",
+        "MODIS_Aqua_Ice_Surface_Temp_Day",
+        "MODIS_Aqua_Ice_Surface_Temp_Night",
         "MODIS_Terra_Ice_Surface_Temp_Day",
         "MODIS_Terra_Ice_Surface_Temp_Night",
         "MODIS_Terra_Water_Vapor_5km_Day",
