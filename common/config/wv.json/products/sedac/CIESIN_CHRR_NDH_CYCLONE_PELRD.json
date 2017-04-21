@@ -4,8 +4,7 @@
             "name": "Global Cyclone Proportional Economic Loss Risk Deciles",
             "handler": "CollectionList",
             "query": {
-                "collection": "true",
-                "shortName": "CIESIN_CHRR_NDH_CYCLONE_PELRD"
+               "shortName": "CIESIN_CHRR_NDH_CYCLONE_PELRD"
             },
             "noBulkDownload": "true"
         }

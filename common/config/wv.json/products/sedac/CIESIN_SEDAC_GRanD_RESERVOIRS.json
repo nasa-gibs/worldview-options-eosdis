@@ -4,7 +4,6 @@
             "name": "Global Reservoir and Dam Database, Version 1 (GRanDv1): Reservoirs",
             "handler": "CollectionList",
             "query": {
-                "collection": "true",
                 "shortName": "CIESIN_SEDAC_GRanD_RESERVOIRS"
             },
             "noBulkDownload": "true"
