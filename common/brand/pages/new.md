@@ -1,5 +1,26 @@
 <input type="hidden" autofocus>
 
+# Version 1.4.2
+
+## New Features
+
+* Precipitable Water over Ice-Free Oceans and Wind Speed over Ice-Free Oceans (RSS) Monthly layers
+* SSMI Sea Ice Concentration Daily layer
+* MEaSUREs Ice Velocity for Greenland and Antarctica Daily layers
+* SSMIS Sea Ice Concentration and Snow Extent Daily layer
+* MODIS Normalized Snow Difference Index and Ice Surface Temperature Daily layers
+* MISR Aerosol Optical Depth, Cloud Stereo Height, Directional Hemispherical Reflectance, NDVI, Radiance, and Albedo Monthly layers
+* VIIRS Black Marble Nighttime Lights 2012 and 2016 layers
+
+## Updates
+
+* Fixed natural events feature in internet explorer
+* Improved colors of natural event Icons
+* Fixed certain data download queries to CMR so that data from only the selected date is returned
+* Changed logo format from PNG to SVG
+
+---
+
 # Version 1.4.1
 
 ## New Features

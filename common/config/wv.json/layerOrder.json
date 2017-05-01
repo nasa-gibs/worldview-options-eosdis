@@ -3,7 +3,6 @@
         "VIIRS_SNPP_CorrectedReflectance_TrueColor",
         "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
         "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
-      	"VIIRS_SNPP_DayNightBand_ENCC",
         "MODIS_Terra_CorrectedReflectance_TrueColor",
         "MODIS_Aqua_CorrectedReflectance_TrueColor",
         "MODIS_Terra_SurfaceReflectance_Bands143",
@@ -19,6 +18,7 @@
         "BlueMarble_ShadedRelief",
         "BlueMarble_ShadedRelief_Bathymetry",
         "VIIRS_CityLights_2012",
+        "VIIRS_Black_Marble",
         "Land_Water_Map",
         "Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Annual",
         "Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Monthly",
@@ -33,9 +33,11 @@
 
 	      "VIIRS_SNPP_Fires_375m_Day",
 	      "VIIRS_SNPP_Fires_375m_Night",
+        "VIIRS_SNPP_DayNightBand_ENCC",
+        "VIIRS_Night_Lights",
+
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
-        "MODIS_Combined_Value_Added_AOD",
         "MODIS_Terra_Aerosol_Optical_Depth_3km",
         "MODIS_Aqua_Aerosol_Optical_Depth_3km",
         "MODIS_Terra_Angstrom_Exponent_Land",

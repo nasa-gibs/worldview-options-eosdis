@@ -1,0 +1,12 @@
+{
+    "layers": {
+        "VIIRS_Black_Marble": {
+            "id":       "VIIRS_Black_Marble",
+            "title":    "Black Marble",
+            "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
+            "tags":     "night s-npp snpp night lights",
+            "group":    "baselayers",
+            "inactive": true
+        }
+    }
+}
