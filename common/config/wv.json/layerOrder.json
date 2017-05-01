@@ -35,6 +35,7 @@
 	      "VIIRS_SNPP_Fires_375m_Night",
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
+        "MODIS_Combined_Value_Added_AOD",
         "MODIS_Terra_Aerosol_Optical_Depth_3km",
         "MODIS_Aqua_Aerosol_Optical_Depth_3km",
         "MODIS_Terra_Angstrom_Exponent_Land",
