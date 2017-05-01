@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Surface Net Longwave Flux All-Sky" units="w/m²">
+  <ColorMap title="Surface Net Longwave Flux All-Sky" units="W/m²">
     <Entries>
       <ColorMapEntry rgb="228,160,254" transparent="false" sourceValue="[-INF,-170.0)" value="[-INF,-170.0)" ref="1"/>
       <ColorMapEntry rgb="231,0,255" transparent="false" sourceValue="[-170.0,-169.1)" value="[-170.0,-169.1)" ref="2"/>

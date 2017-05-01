@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Surface Net Total Flux Clear-Sky" units="w/m²">
+  <ColorMap title="Surface Net Total Flux Clear-Sky" units="W/m²">
     <Entries>
       <ColorMapEntry rgb="228,160,254" transparent="false" sourceValue="[-INF,-120.0)" value="[-INF,-120.0)" ref="1"/>
       <ColorMapEntry rgb="231,0,255" transparent="false" sourceValue="[-120.0,-118.2)" value="[-120.0,-118.2)" ref="2"/>
