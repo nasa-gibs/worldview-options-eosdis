@@ -9,6 +9,7 @@
 
 ## Updates
 
+* Removed MERRA Surface Skin Temperature and Surface Pressure layers (use MERRA-2 layers instead)
 * Date handling fix for yearly and monthly animations 
 
 ---
