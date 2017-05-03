@@ -1,0 +1,24 @@
+{
+    "measurements": {
+        "Sea Surface Salinity": {
+            "id": "sea-surface-salinity",
+            "title":    "Sea Surface Salinity",
+            "subtitle": "SAC-D/Aquarius",
+            "sources": {
+                "SAC-D/Aquarius": {
+                    "id": "sac-d-aquarius",
+                    "title": "SAC-D/Aquarius",
+                    "description": "",
+                    "image": "",
+                    "settings": [
+                      "Aquarius_Sea_Surface_Salinity_L3_Daily",
+                      "Aquarius_Sea_Surface_Salinity_L3_7Day_RunningMean",
+                      "Aquarius_Sea_Surface_Salinity_L3_7Day_Snapshot",
+                      "Aquarius_Sea_Surface_Salinity_L3_Monthly",
+                      "Aquarius_Sea_Surface_Salinity_L3_3Month"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -9,7 +9,7 @@
       <LegendEntry rgb="0,0,0" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Surface CRE Net Shortwave Flux" units="w/m²">
+  <ColorMap title="Surface CRE Net Shortwave Flux" units="W/m²">
     <Entries>
       <ColorMapEntry rgb="228,160,254" transparent="false" sourceValue="[-INF,-200.0)" value="[-INF,-200.0)" ref="1"/>
       <ColorMapEntry rgb="231,0,255" transparent="false" sourceValue="[-200.0,-199.1)" value="[-200.0,-199.1)" ref="2"/>
