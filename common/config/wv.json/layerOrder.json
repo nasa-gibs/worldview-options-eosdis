@@ -518,8 +518,6 @@
         "OMI_UV_Index",
         "OMI_UV_Erythemal_Daily_Dose",
 
-        "MERRA_Surface_Pressure_Monthly",
-        "MERRA_Surface_Skin_Temperature_Monthly",
         "MERRA2_Surface_Skin_Temperature_Monthly",
         "MERRA2_Surface_Pressure_Monthly",
         "Daymet_Maximum_Air_Temp_Daily",

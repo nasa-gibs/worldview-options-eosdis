@@ -3,20 +3,11 @@
         "Surface Temperature": {
             "id": "surface-temperature",
             "title":    "Surface Temperature",
-            "subtitle": "MERRA, MERRA2, MODIS/Aqua, MODIS/Terra",
+            "subtitle": "MERRA-2, MODIS/Aqua, MODIS/Terra",
             "sources": {
-                "MERRA": {
-                    "id": "merra",
-                    "title": "MERRA",
-                    "description": "",
-                    "image": "",
-                    "settings": [
-                        "MERRA_Surface_Skin_Temperature_Monthly"
-                    ]
-                },
                 "MERRA2": {
                     "id": "merra2",
-                    "title": "MERRA2",
+                    "title": "MERRA-2",
                     "description": "",
                     "image": "",
                     "settings": [
