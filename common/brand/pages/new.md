@@ -1,4 +1,17 @@
 <input type="hidden" autofocus>
+# Version 1.4.3
+
+## New Features
+
+* Aquarius Sea Surface Salinity (Daily, 7-Day Snapshot, 7-Day Running Mean, Monthly, 3 Month) and Wind Speed (Daily and 7-Day Snapshot) layers
+* MODIS Sea Surface Temperature (4km and 9km, Thermal and Mid-Infrared) Daily, 8 Day, Monthly and Annual layers
+* Cross-Calibrated Multi-Platform Wind Speed (Meridional, Scalar and Zonal) Monthly layers
+
+## Updates
+
+* Date handling fix for yearly and monthly animations 
+
+---
 
 # Version 1.4.2
 
