@@ -12,7 +12,8 @@
                     "image": "",
                     "settings": [
                         "MERRA2_Surface_Skin_Temperature_Monthly"
-                    ],
+                    ]
+                    },
                     "Aqua/MODIS": {
                         "id": "aqua-modis",
                         "title": "Aqua/MODIS",
@@ -37,4 +38,3 @@
             }
         }
     }
-}
