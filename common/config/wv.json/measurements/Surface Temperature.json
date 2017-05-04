@@ -3,7 +3,7 @@
         "Surface Temperature": {
             "id": "surface-temperature",
             "title":    "Surface Temperature",
-            "subtitle": "MERRA-2, MODIS/Aqua, MODIS/Terra",
+            "subtitle": "MERRA-2",
             "sources": {
                 "MERRA2": {
                     "id": "merra2",
@@ -13,27 +13,7 @@
                     "settings": [
                         "MERRA2_Surface_Skin_Temperature_Monthly"
                     ]
-                    },
-                    "Aqua/MODIS": {
-                        "id": "aqua-modis",
-                        "title": "Aqua/MODIS",
-                        "description": "",
-                        "image": "",
-                        "settings": [
-                            "MODIS_Aqua_Ice_Surface_Temp_Day",
-                            "MODIS_Aqua_Ice_Surface_Temp_Night"
-                        ]
-                    },
-                    "Terra/MODIS": {
-                        "id": "terra-modis",
-                        "title": "Terra/MODIS",
-                        "description": "",
-                        "image": "",
-                        "settings": [
-                            "MODIS_Terra_Ice_Surface_Temp_Day",
-                            "MODIS_Terra_Ice_Surface_Temp_Night"
-                        ]
-                    }
+                  }
                 }
             }
         }

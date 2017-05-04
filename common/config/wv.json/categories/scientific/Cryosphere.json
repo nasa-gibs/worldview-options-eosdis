@@ -9,6 +9,7 @@
                 "measurements": [
                     "Freeze/Thaw",
                     "Frozen Area",
+                    "Ice Surface Temperature",
                     "Sea Ice",
                     "Sea Surface Temperature",
                     "Snow Cover",
