@@ -5,8 +5,8 @@
             "title":    "Surface Temperature",
             "subtitle": "MERRA-2",
             "sources": {
-                "MERRA2": {
-                    "id": "merra2",
+                "MERRA-2": {
+                    "id": "merra-2",
                     "title": "MERRA-2",
                     "description": "",
                     "image": "",
