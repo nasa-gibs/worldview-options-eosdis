@@ -3,7 +3,7 @@
         "Temperature": {
             "id": "temperature",
             "title":    "Temperature",
-            "subtitle": "Aqua / AIRS, Aura / MLS, MERRA, MERRA2, GLDAS, NLDAS, Daymet",
+            "subtitle": "Aqua / AIRS, Aura / MLS, MERRA-2, GLDAS, NLDAS, Daymet",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
@@ -37,18 +37,9 @@
                         "Aura_Orbit_Dsc"
                     ]
                 },
-                "MERRA": {
-                    "id": "merra",
-                    "title": "MERRA",
-                    "description": "",
-                    "image": "",
-                    "settings": [
-                        "MERRA_Surface_Skin_Temperature_Monthly"
-                    ]
-                },
-                "MERRA2": {
-                    "id": "merra2",
-                    "title": "MERRA2",
+                "MERRA-2": {
+                    "id": "merra-2",
+                    "title": "MERRA-2",
                     "description": "",
                     "image": "",
                     "settings": [
