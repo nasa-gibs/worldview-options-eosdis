@@ -9,7 +9,8 @@
             "startDate":"1987-07-02",
             "endDate":  "2011-12-01",
             "group":    "overlays",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }
