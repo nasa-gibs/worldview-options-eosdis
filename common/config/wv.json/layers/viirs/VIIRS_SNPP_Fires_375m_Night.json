@@ -8,7 +8,6 @@
             "group":    "overlays",
             "format":   "image/png",
             "period":   "daily",
-            "wrapadjacentdays": true,
 
             "tileSize": [512, 512],
             "type":     "wms",

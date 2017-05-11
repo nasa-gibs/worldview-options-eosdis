@@ -9,7 +9,8 @@
             "product":  "lohrfc",
             "startDate":"1995-05-04",
             "endDate":  "2013-12-31",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }

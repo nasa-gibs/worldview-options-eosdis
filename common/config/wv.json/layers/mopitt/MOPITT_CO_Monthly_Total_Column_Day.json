@@ -9,7 +9,8 @@
             "product":  "MOP03JM",
             "startDate":"2000-03-03",
             "endDate":  "2016-04-05",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }

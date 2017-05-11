@@ -6,10 +6,11 @@
             "subtitle": "CCMP",
             "tags":     "",
             "product": 	"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK",
-            "startDate":"1987-07-02",
-            "endDate":  "2011-12-01",
+            "startDate":"1987-07-01",
+            "endDate":  "2011-12-31",
             "group":    "overlays",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }

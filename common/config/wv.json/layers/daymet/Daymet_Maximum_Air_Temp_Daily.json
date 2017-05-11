@@ -6,7 +6,8 @@
             "subtitle": "Daymet",
             "group":    "overlays",
             "product":  "",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }

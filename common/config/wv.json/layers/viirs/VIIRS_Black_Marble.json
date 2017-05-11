@@ -6,7 +6,8 @@
             "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
             "tags":     "night s-npp snpp night lights",
             "group":    "baselayers",
-            "inactive": true
+            "inactive": true,
+            "wrapadjacentdays": true
         }
     }
 }
