@@ -1,8 +1,8 @@
 {
     "measurements": {
-        "Nitric Oxide": {
-            "id": "nitric-oxide",
-            "title":    "Nitric Oxide",
+        "Nitrogen Dioxide": {
+            "id": "nitrogen-dioxide",
+            "title":    "Nitrogen Dioxide",
             "subtitle": "Aura/OMI",
             "sources": {
                 "Aura/MLS": {
