@@ -100,7 +100,7 @@
                 "Merged Microwave Radiometers": {
                     "id": "merged-microwave-radiometers",
                     "title": "Aqua/AMSR-E, GCOM-W1/AMSR2, DMSP-F16/SSMI, DMSP-F17/SSMI",
-                    "description": "",
+                    "description": "merged/WindSpeedOverIceFreeOceans",
                     "image": "",
                     "settings": [
                         "RSS_Merged_Wind_Climatology_Monthly"
