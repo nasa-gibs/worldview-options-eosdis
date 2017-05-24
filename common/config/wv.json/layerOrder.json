@@ -334,7 +334,7 @@
         "OMI_Single_Scattering_Albedo",
         "OMI_Ozone_DOAS_Total_Column",
         "OMI_Ozone_TOMS_Total_Column",
-        "OMI_Nitric_Oxide_Tropo_Column",
+        "OMI_Nitrogen_Dioxide_Tropo_Column",
         "MLS_CO_215hPa_Day",
         "MLS_CO_215hPa_Night",
         "MLS_HNO3_46hPa_Day",
