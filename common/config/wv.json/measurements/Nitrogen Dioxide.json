@@ -11,7 +11,7 @@
                     "description": "",
                     "image": "",
                     "settings": [
-                        "OMI_Nitric_Oxide_Tropo_Column",
+                        "OMI_Nitrogen_Dioxide_Tropo_Column",
                         "Aura_Orbit_Asc"
                     ]
                 }
