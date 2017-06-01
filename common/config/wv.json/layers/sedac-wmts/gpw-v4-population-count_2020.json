@@ -1,0 +1,25 @@
+{
+    "layers": {
+        "gpw-v4-population-count_2020": {
+            "id":       "gpw-v4-population-count_2020",
+            "title":    "SEDAC WMTS TEST",
+            "tags":     "borders",
+            "group":    "overlays",
+            "format":   "image/png",
+            "style":    "",
+            "matrixIds":  ["0:2%20Degrees", "1:1%20Degree", "2:30%20Arc%20Minutes", "3:20%20Arc%20Minutes", "4:10%20Arc%20Minutes"],
+            "extent":   [-180.0, -59.9999999999918, 180.00000000000244, 85.0000000000092],
+            "type":     "wmts",
+            "tileSize": [ 256, 256 ],
+
+            "projections": {
+                "geographic": {
+                    "layer":        "gpw-v4:gpw-v4-population-count_2020",
+                    "subtitle":     "SEDAC WMTS TEST",
+                    "source":       "SEDAC:wmts",
+                    "matrixSet":    "EPSG:4326"
+                }
+            }
+        }
+    }
+}
