@@ -32,6 +32,7 @@
                     "Relative Humidity",
                     "Sulfur Dioxide",
                     "Temperature",
+                    "TOA Albedo",
                     "TOA Flux",
                     "Water Vapor",
                     "Wind Speed"
