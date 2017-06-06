@@ -67,7 +67,7 @@
                 "Daymet": {
                     "id": "daymet",
                     "title": "Daymet",
-                    "description": "",
+                    "description": "daymet/Temperature",
                     "image": "",
                     "settings": [
                       "Daymet_Maximum_Air_Temp_Daily",
