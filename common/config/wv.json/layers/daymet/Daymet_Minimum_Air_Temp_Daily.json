@@ -5,7 +5,7 @@
             "title":    "Minimum Air Temperature (Daily)",
             "subtitle": "Daymet",
             "group":    "overlays",
-            "product":  "",
+            "product":  "1328",
             "inactive": true,
             "wrapadjacentdays": true
         }

@@ -6,7 +6,7 @@
             "subtitle": "MERRA-2",
             "tags":     "",
             "group":    "overlays",
-            "product":  "",
+            "product":  "M2TMNXSLV",
             "startDate":"1980-01-01",
             "endDate":  "2016-10-31",
             "inactive": true,
