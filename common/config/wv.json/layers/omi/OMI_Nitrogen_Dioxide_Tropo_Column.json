@@ -1,7 +1,7 @@
 {
     "layers": {
-        "OMI_Nitric_Oxide_Tropo_Column": {
-            "id":       "OMI_Nitric_Oxide_Tropo_Column",
+        "OMI_Nitrogen_Dioxide_Tropo_Column": {
+            "id":       "OMI_Nitrogen_Dioxide_Tropo_Column",
             "title":    "Nitrogen Dioxide (Tropospheric Column)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",

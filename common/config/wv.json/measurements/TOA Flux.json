@@ -37,7 +37,7 @@
                         "image": "",
                         "settings": [
                           "CERES_Combined_TOA_Longwave_Flux_All_Sky_Monthly",
-                          "CERES_Combined_TOA_Longwave_Flux_All_Sky_Monthly",
+                          "CERES_Combined_TOA_Shortwave_Flux_All_Sky_Monthly",
                           "CERES_Combined_TOA_Longwave_Flux_Clear_Sky_Monthly",
                           "CERES_Combined_TOA_Shortwave_Flux_Clear_Sky_Monthly",
                           "CERES_Combined_TOA_Window_Region_Flux_All_Sky_Monthly",

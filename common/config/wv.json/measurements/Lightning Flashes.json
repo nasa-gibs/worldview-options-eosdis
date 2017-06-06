@@ -8,7 +8,7 @@
                 "TRMM/LIS": {
                     "id": "trmm-lis",
                     "title": "TRMM/LIS",
-                    "description": "",
+                    "description": "trmm/LightningFlashes&Rate",
                     "image": "",
                     "settings": [
                        "LIS_High_Resolution_Full_Climatology_LIS_Raw_Flashes",
@@ -19,7 +19,7 @@
                 "OrbView-1/OTD": {
                     "id": "orbview-otd",
                     "title": "OrbView-1/OTD",
-                    "description": "",
+                    "description": "orbview/LightningFlashes&Rate",
                     "image": "",
                     "settings": [
                        "OTD_High_Resolution_Full_Climatology_OTD_Raw_Flashes",
@@ -30,7 +30,7 @@
                 "TRMM/LIS & OrbView-1/OTD": {
                     "id": "trmm-lis&orbview-otd",
                     "title": "TRMM/LIS & OrbView-1/OTD",
-                    "description": "",
+                    "description": "multi-mission/LightningFlashRate",
                     "image": "",
                     "settings": [
                        "LIS_High_Resolution_Full_Climatology_Combined_Flash_Rate_Climatology"
