@@ -8,7 +8,6 @@
             "group":    "overlays",
             "product":  "AIRX2RET_NIGHT",
 
-            "metadata": "airs/CO_Total_Column",
             "palette": {
                 "recommended": ["red_1"]
             }

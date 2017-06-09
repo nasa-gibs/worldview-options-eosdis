@@ -5,8 +5,7 @@
             "title":    "Snow Water Equivalent",
             "subtitle": "GCOM-W1 / AMSR2",
             "group":    "overlays",
-            "product": "A2_DySno_NRT",
-            "tags": ""
+            "product": "A2_DySno_NRT"
         }
     }
 }

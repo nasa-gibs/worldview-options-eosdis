@@ -6,9 +6,8 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMSO2",
-            "tags":     "so2",
+            "tags":     "so2 sulphur dioxide",
 
-            "metadata": "omi/SO2_Upper_Troposphere_and_Stratosphere",
             "palette": {
                 "recommended":  ["orange_1", "red_1"]
             }

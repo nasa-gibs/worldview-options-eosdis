@@ -7,8 +7,8 @@
             "tags":     "aod",
             "group":    "overlays",
             "product":  "MYD04_L2",
-
             "wrapadjacentdays": true,
+
             "palette": {
                 "recommended":  ["orange_1"]
             }

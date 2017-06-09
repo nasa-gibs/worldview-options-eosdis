@@ -6,7 +6,7 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMAEROe",
-            "tags":     "aerosol optical depth, aod",
+            "tags":     "aod",
             "inactive": true
 
         }

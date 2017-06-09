@@ -7,7 +7,6 @@
             "group":    "overlays",
             "product":  "OMCLDRR",
 
-            "metadata": "omi/Cloud_Pressure",
             "palette": {
                 "recommended":  ["blue_4"]
             }
