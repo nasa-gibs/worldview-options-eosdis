@@ -6,7 +6,7 @@
             "subtitle": "Landsat / WELD",
             "tags":     "corrected, top of atmosphere",
             "group":    "baselayers",
-            "product":  "",
+            "product":  "WELDAKMO",
             "startDate":"2002-12-01",
             "endDate":  "2012-11-30",
             "inactive": true
