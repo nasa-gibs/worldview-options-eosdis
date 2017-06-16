@@ -2,26 +2,24 @@
     "products": {
         "NSIDC-0051-0081": {
             "name": "Near-Real-Time DMSP SSMIS Daily Polar Gridded Sea Ice Concentrations",
-            "handler": "CollectionMix",        
+            "handler": "CollectionMix",
             "query": {
                 "science": {
-	                "collection": "true",
                     "shortName": "NSIDC-0051"
                 },
                 "nrt": {
-	                "collection": "true",
                     "shortName": "NSIDC-0081"
                 }
             },
-            
+
             "nrt": {
                 "handler": "CollectionList"
             },
             "science": {
                 "handler": "CollectionList"
             },
-            
-            
+
+
             "noBulkDownload": "true"
         }
     }

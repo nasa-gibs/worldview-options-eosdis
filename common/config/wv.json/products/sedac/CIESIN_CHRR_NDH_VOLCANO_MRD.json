@@ -4,7 +4,6 @@
             "name": "Global Volcano Mortality Risks and Distribution",
             "handler": "CollectionList",
             "query": {
-                "collection": "true",
                 "shortName": "CIESIN_CHRR_NDH_VOLCANO_MRD"
             },
             "noBulkDownload": "true"
