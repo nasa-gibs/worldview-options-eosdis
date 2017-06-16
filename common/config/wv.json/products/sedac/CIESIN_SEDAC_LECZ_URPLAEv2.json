@@ -4,7 +4,6 @@
             "name": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2",
             "handler": "CollectionList",
             "query": {
-                "collection": "true",
                 "shortName": "CIESIN_SEDAC_LECZ_URPLAEv2"
             },
             "noBulkDownload": "true"
