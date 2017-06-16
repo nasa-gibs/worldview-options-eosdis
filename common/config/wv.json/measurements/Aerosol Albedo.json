@@ -3,7 +3,7 @@
         "Aerosol Albedo": {
             "id": "aerosol-albedo",
             "title":    "Aerosol Albedo",
-            "subtitle": "Aura/OMI, Terra/MISR",
+            "subtitle": "Aura/OMI",
             "sources": {
                 "Aura/OMI": {
                     "id": "aura-omi",
@@ -14,16 +14,7 @@
                         "OMI_Single_Scattering_Albedo",
                         "Aura_Orbit_Asc"
                     ]
-                },
-                    "Terra/MISR": {
-                        "id": "terra-misr",
-                        "title": "Terra/MISR",
-                        "description": "",
-                        "image": "",
-                        "settings": [
-                            "MISR_TOA_Albedo_Average_Red_Monthly"
-                        ]
-                    }
+                }
             }
         }
     }
