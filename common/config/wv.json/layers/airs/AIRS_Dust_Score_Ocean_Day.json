@@ -7,7 +7,6 @@
             "group":    "overlays",
             "product":  "AIRIBQAP",
 
-            "metadata": "airs/Dust_Score",
             "palette": {
                 "exclude":  ["orange_1"]
             }
