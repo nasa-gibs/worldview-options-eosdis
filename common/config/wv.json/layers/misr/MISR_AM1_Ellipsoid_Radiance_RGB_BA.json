@@ -6,8 +6,7 @@
             "subtitle": "Terra / MISR",
             "tags":     "",
             "group":    "overlays",
-            "product":  "MI1B2_ELLIPSOID_NRT",
-            "wrapadjacentdays": true
+            "product":  "MI1B2_ELLIPSOID_NRT"
         }
     }
 }
