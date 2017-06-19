@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MISR_AM1_Ellipsoid_Radiance_RGB_DF": {
+            "id":       "MISR_AM1_Ellipsoid_Radiance_RGB_DF",
+            "title":    "Color Radiance (DF, RGB)",
+            "subtitle": "Terra / MISR",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "MI1B2_ELLIPSOID_NRT",
+            "wrapadjacentdays": true
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "products": {
+        "MI1B2_ELLIPSOID_NRT": {
+            "name": "MISR Near Real Time (NRT) Level 1B2 Ellipsoid Data",
+            "handler": "List",
+            "query": {
+                "shortName": "MI1B2_ELLIPSOID_NRT"
+            }
+        }
+    }
+}

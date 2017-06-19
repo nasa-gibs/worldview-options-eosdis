@@ -1,0 +1,13 @@
+{
+    "layers": {
+        "MISR_AM1_Ellipsoid_Radiance_NGB_AA": {
+            "id":       "MISR_AM1_Ellipsoid_Radiance_NGB_AA",
+            "title":    "Color Radiance (AA, NGB)",
+            "subtitle": "Terra / MISR",
+            "tags":     "",
+            "group":    "overlays",
+            "product":  "MI1B2_ELLIPSOID_NRT",
+            "wrapadjacentdays": true
+        }
+    }
+}
