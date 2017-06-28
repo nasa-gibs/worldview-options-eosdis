@@ -6,8 +6,7 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMAEROe",
-            "tags":     "aod",
-            "inactive": true
+            "tags":     "aod"
 
         }
     }
