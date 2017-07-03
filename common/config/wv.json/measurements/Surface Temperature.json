@@ -8,7 +8,7 @@
                 "MERRA-2": {
                     "id": "merra-2",
                     "title": "MERRA-2",
-                    "description": "",
+                    "description": "merra2/SurfaceSkinTemperature",
                     "image": "",
                     "settings": [
                         "MERRA2_Surface_Skin_Temperature_Monthly"
