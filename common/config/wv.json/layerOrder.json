@@ -191,10 +191,11 @@
         "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
         "AMSR2_Sea_Ice_Concentration_12km",
         "AMSR2_Sea_Ice_Concentration_25km",
-        "AMSR2_Soil_Moisture_NPD_Day",
-        "AMSR2_Soil_Moisture_NPD_Night",
-        "AMSR2_Soil_Moisture_SCA_Day",
-        "AMSR2_Soil_Moisture_SCA_Night",
+        
+        "AMSRU2_Soil_Moisture_NPD_Day",
+        "AMSRU2_Soil_Moisture_NPD_Night",
+        "AMSRU2_Soil_Moisture_SCA_Day",
+        "AMSRU2_Soil_Moisture_SCA_Night",
 
         "CCMP_REMSS_Meridional_Wind_Speed_Monthly",
         "CCMP_REMSS_Scalar_Wind_Speed_Monthly",
