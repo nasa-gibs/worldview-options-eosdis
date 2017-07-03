@@ -7,7 +7,6 @@
             "tags":     "normalized difference vegetation index",
             "group":    "overlays",
             "product":  "MIL3MLS",
-            "inactive": true,
             "wrapadjacentdays": true
         }
     }
