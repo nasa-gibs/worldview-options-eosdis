@@ -78,7 +78,7 @@
                 "SAC-D/Aquarius": {
                     "id": "sac-d-aquarius",
                     "title": "SAC-D/Aquarius",
-                    "description": "",
+                    "description": "aquarius/SoilMoisture",
                     "image": "",
                     "settings": [
                         "Aquarius_Soil_Moisture_Daily",
