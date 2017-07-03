@@ -9,7 +9,7 @@
       <LegendEntry rgb="255,0,255" tooltip="No Data" id="0"/>
     </Legend>
   </ColorMap>
-  <ColorMap title="Precipitation Total" units="kg/m²">
+  <ColorMap title="Precipitation Total" units="kg/m²/s">
     <Entries>
       <ColorMapEntry rgb="158,1,66" transparent="false" sourceValue="[-INF,0.0e+00)" value="[-INF,0.0e+00)" ref="1"/>
       <ColorMapEntry rgb="213,62,79" transparent="false" sourceValue="[0.0e+00,1.0e-05)" value="[0.0e+00,1.0e-05)" ref="2"/>
