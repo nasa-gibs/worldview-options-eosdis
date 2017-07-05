@@ -1,11 +1,11 @@
 {
     "layers": {
-        "AMSR2_Soil_Moisture_SCA_Day": {
-            "id":       "AMSR2_Soil_Moisture_SCA_Day",
+        "AMSRU2_Soil_Moisture_SCA_Day": {
+            "id":       "AMSRU2_Soil_Moisture_SCA_Day",
             "title":    "Soil Moisture (Single Channel Algorithm, Day)",
             "subtitle": "GCOM-W1 / AMSR2",
             "group":    "overlays",
-            "product":  "A2_Land_NRT"
+            "product":  "AU_Land"
         }
     }
 }

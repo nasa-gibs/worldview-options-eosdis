@@ -11,12 +11,10 @@
                   "description": "amsr2/SoilMoisture",
                   "image": "",
                   "settings": [
-                      "AMSR2_Soil_Moisture_NPD_Day",
-                      "AMSR2_Soil_Moisture_NPD_Night",
-                      "AMSR2_Soil_Moisture_SCA_Day",
-                      "AMSR2_Soil_Moisture_SCA_Night",
-                      "GCOM_W1_Orbit_Asc",
-                      "GCOM_W1_Orbit_Dsc"
+                      "AMSRU2_Soil_Moisture_NPD_Day",
+                      "AMSRU2_Soil_Moisture_NPD_Night",
+                      "AMSRU2_Soil_Moisture_SCA_Day",
+                      "AMSRU2_Soil_Moisture_SCA_Night"
                   ]
               },
                 "SMAP/Radar": {
