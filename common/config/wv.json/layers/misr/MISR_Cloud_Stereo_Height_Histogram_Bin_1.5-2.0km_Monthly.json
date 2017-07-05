@@ -7,7 +7,6 @@
             "tags":     "",
             "group":    "overlays",
             "product":  "MIL3MCLD",
-            "inactive": true,
             "wrapadjacentdays": true
         }
     }

@@ -7,7 +7,6 @@
             "tags":     "top of atmosphere",
             "group":    "overlays",
             "product":  "MIL3MAL",
-            "inactive": true,
             "wrapadjacentdays": true
         }
     }
