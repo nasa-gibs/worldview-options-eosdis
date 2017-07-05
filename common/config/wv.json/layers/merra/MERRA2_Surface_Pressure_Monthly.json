@@ -7,9 +7,6 @@
             "tags":     "",
             "group":    "overlays",
             "product":  "M2IMNPASM",
-            "startDate":"1980-01-01",
-            "endDate":  "2016-10-31",
-            "inactive": true,
             "wrapadjacentdays": true
         }
     }

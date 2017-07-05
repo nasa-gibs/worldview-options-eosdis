@@ -6,8 +6,7 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMDOAO3e",
-            "tags":     "Differential Absorption Spectroscopy",
-            "inactive": true
+            "tags":     "Differential Absorption Spectroscopy"
 
         }
     }
