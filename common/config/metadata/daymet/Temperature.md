@@ -5,7 +5,6 @@ Daymet is a computer program that uses observations from ground weather stations
 
 Daymet data products are used within a variety of studies that require daily continuous temperature data including, but not limited to, crop modelling, forest production, vector borne illnesses, and climate change adaptation.
 
-
 # Daymet Maximum Air Temperature
 Temporal Coverage: 1 January 1980 - 31 December 2015
 
