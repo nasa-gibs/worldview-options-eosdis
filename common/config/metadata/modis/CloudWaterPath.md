@@ -5,7 +5,7 @@ The MODIS Cloud Water Path indicates the amount of water in the atmosphere above
 
 The MODIS Cloud Water Path layers available are: (1) the MODIS Cloud Water Path layer - is the Column Water Path retrieved using Band 7 (2.1 μm); and (2) the MODIS Cloud Water Path PCL (partly cloudy) layer - is the Column Water Path retrieved using Band 7 (2.1 μm) for pixels classified as either partly cloudy from 250 m cloud mask test or 1 km cloud edges.
 
-The MODIS Cloud Water Path layers are available from both the Terra (MOD06) and Aqua (MYD06) satellites for daytime overpasses. The sensor/algorithm resolution is 1 km, imagery resolution is 1 km, temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) for Terra is 24 February 2000 and Aqua is 3 July 2002 - present.
+The MODIS Cloud Water Path layers are available from both the Terra (MOD06) and Aqua (MYD06) satellites for daytime overpasses. The sensor/algorithm resolution is 1 km, imagery resolution is 1 km, and the temporal resolution is daily.
 
-References: [NCAR|UCAR Climate Date Guide: Cloud Water Path](https://climatedataguide.ucar.edu/climate-data/liquid-water-path-overview)
+Data Product & References: [MODIS Atmosphere - MOD06](http://modis-atmos.gsfc.nasa.gov/MOD06_L2/format.html); [MODIS Atmosphere - ATBD MOD06](http://modis-atmos.gsfc.nasa.gov/_docs/MOD06_ATBD_2013_03_06.pdf); [NCAR|UCAR Climate Date Guide: Cloud Water Path](https://climatedataguide.ucar.edu/climate-data/liquid-water-path-overview)
 ; [GES DISC: Cloud Water Path](http://disc.sci.gsfc.nasa.gov/data-holdings/PIP/cloud_water_path.shtml)
