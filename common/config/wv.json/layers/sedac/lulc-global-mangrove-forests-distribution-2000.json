@@ -12,9 +12,6 @@
             "product":  "CIESIN_SEDAC_LULC_MANGROVES_2000",
 
             "projections": {
-                "arctic": {
-                    "source": "SEDAC:wms"
-                },
                 "geographic": {
                     "source": "SEDAC:wms"
                 }

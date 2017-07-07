@@ -27,6 +27,10 @@
                 ["VIIRS_SNPP_CorrectedReflectance_TrueColor", false],
                 ["MODIS_Aqua_CorrectedReflectance_TrueColor", false],
                 ["MODIS_Terra_CorrectedReflectance_TrueColor", true],
+                ["MODIS_Terra_Brightness_Temp_Band31_Day", false],
+                ["MODIS_Terra_Brightness_Temp_Band31_Night", false],
+                ["MODIS_Aqua_Brightness_Temp_Band31_Day", false],
+                ["MODIS_Aqua_Brightness_Temp_Band31_Night", false],
                 ["MODIS_Aqua_Sea_Ice", false],
                 ["MODIS_Terra_Sea_Ice", false]
             ],

@@ -4,7 +4,8 @@
             "id":       "MODIS_Aqua_Brightness_Temp_Band31_Night",
             "title":    "Brightness Temperature (Band 31-Night)",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays"
+            "group":    "overlays",
+            "product":  "MYD021KM"
         }
     }
 }
