@@ -5,7 +5,7 @@
             "title":    "Brightness Temperature (Band 31-Night)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
-            "product":  "MOD021KM"
+            "product":  "MOD021KM_NIGHT"
         }
     }
 }

@@ -5,7 +5,7 @@
             "title":    "Brightness Temperature (Band 31-Day)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
-            "product":  "MYD021KM",
+            "product":  "MYD021KM_DAY",
             "wrapadjacentdays": true
         }
     }
