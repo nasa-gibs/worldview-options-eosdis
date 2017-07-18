@@ -1,0 +1,29 @@
+{
+    "measurements": {
+        "Sea Ice Polar only": {
+            "id": "sea-ice-polar-only",
+            "title":    "Sea Ice (Polar only)",
+            "subtitle": "SSMI, SSMIS",
+            "sources": {
+                "SSMI": {
+                    "id": "ssmi",
+                    "title": "SSMI",
+                    "description": "multi-mission/SeaIceConcentration",
+                    "image": "",
+                    "settings": [
+                        "SSMIS_Sea_Ice_Concentration"
+                    ]
+                },
+                "SSMIS": {
+                    "id": "ssmis",
+                    "title": "SSMIS",
+                    "description": "ssmi/SeaIceConcentrationSnowExtent",
+                    "image": "",
+                    "settings": [
+                        "SSMIS_Sea_Ice_Concentration_Snow_Extent"
+                    ]
+                }
+            }
+        }
+    }
+}
