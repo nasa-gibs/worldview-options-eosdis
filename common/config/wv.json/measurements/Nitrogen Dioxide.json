@@ -8,7 +8,7 @@
                 "Aura/MLS": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "",
+                    "description": "omi/NitrogenDioxide",
                     "image": "",
                     "settings": [
                         "OMI_Nitrogen_Dioxide_Tropo_Column",

@@ -8,7 +8,7 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "",
+                    "description": "omi/AerosolAlbedo",
                     "image": "",
                     "settings": [
                         "OMI_Single_Scattering_Albedo",
