@@ -1,28 +1,11 @@
 {
     "categories": {
-        "scientific": {
-            "Land Surface": {
-                "title": "Land Surface",
-                "id": "land-surface",
-                "image": "land-surface.jpg",
-                "description": "",
-                "measurements": [
-                    "Blue Marble",
-                    "Corrected Reflectance",
-                    "DHR Reflectance",
-                    "Fires and Thermal Anomalies",
-                    "Global Digital Elevation Map",
-                    "Land Surface Reflectance",
-                    "Land Surface Temperature",
-                    "Radiance",
-                    "Soil Moisture",
-                    "Soil Temperature",
-                    "Surface Flux",
-                    "Surface Pressure",
-                    "Surface Temperature",
-                    "Vegetation Indices"
-                ]
-            }
+        "Land Surface": {
+            "title": "Land Surface",
+            "id": "land-surface",
+            "image": "land-surface.jpg",
+            "description": "",
+            "type": "scientific"
         }
     }
 }
