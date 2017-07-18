@@ -3,9 +3,17 @@
         "ASTER_GDEM_Greyscale_Shaded_Relief": {
             "id":       "ASTER_GDEM_Greyscale_Shaded_Relief",
             "title":    "Global Digital Elevation Map (Greyscale Shaded Relief)",
-            "subtitle": "Terra / ASTER",
             "tags":     "gdem",
+            "description":    "aster/GDEM/ASTER_GDEM_Greyscale_Shaded_Relief.md",
             "group":    "baselayers",
+            "time": "day",
+            "sources":[
+                        "terra_aster",
+                        "aster_gdem"
+            ],
+            "measurements":[
+                        "global_digital_elevation_map"
+            ],
             "type":     "wmts",
             "product":  "ASTGTM"
         }

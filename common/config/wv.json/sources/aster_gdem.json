@@ -1,0 +1,15 @@
+{
+    "sources": {
+        "aster_gdem": {
+            "id":                     "aster_gdem",
+            "title":                  "ASTER/GDEM",
+            "description":    "sources/aster_gdem.md",
+            "provider":         "nasa",
+            "status":              "active",
+            "tracks":              {
+                 "day": "terra_aster_desc",
+                 "night": "terra_aster_asc"
+            }
+        }
+    }
+}

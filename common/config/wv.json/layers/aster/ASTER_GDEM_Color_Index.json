@@ -3,12 +3,20 @@
         "ASTER_GDEM_Color_Index": {
             "id":       "ASTER_GDEM_Color_Index",
             "title":    "Global Digital Elevation Map (Color Index)",
-            "subtitle": "Terra / ASTER",
             "tags":     "gdem",
+            "description":    "aster/GDEM/ASTER_GDEM_Color_Index.md",
             "group":    "overlays",
+            "time": "day",
+            "sources":[
+                        "terra_aster",
+                        "aster_gdem"
+            ],
+            "measurements":[
+                        "global_digital_elevation_map"
+            ],
             "type":     "wmts",
             "product":  "ASTGTM",
-            "wrapadjacentdays": true
+            "wrapdays": true
         }
     }
 }
