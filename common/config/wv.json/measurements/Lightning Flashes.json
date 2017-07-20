@@ -13,7 +13,11 @@
                     "settings": [
                        "LIS_High_Resolution_Full_Climatology_LIS_Raw_Flashes",
                        "LIS_High_Resolution_Full_Climatology_LIS_Scaled_Flashes",
-                       "LIS_High_Resolution_Full_Climatology_LIS_Flash_Rate_Climatology"
+                       "LIS_High_Resolution_Full_Climatology_LIS_Flash_Rate_Climatology",
+                       "LIS_Very_High_Resolution_Lightning_Daily_Climatology_LIS_Mean_Flash_Rate",
+                       "LIS_Very_High_Resolution_Lightning_Full_Climatology_LIS_Mean_Flash_Rate",
+                       "LIS_Very_High_Resolution_Lightning_Monthly_Climatology_LIS_Mean_Flash_Rate",
+                       "LIS_Very_High_Resolution_Lightning_Seasonal_Climatology_LIS_Mean_Flash_Rate"
                     ]
                 },
                 "OrbView-1/OTD": {

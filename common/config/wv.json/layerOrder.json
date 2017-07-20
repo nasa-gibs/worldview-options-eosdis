@@ -191,7 +191,7 @@
         "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
         "AMSR2_Sea_Ice_Concentration_12km",
         "AMSR2_Sea_Ice_Concentration_25km",
-        
+
         "AMSRU2_Soil_Moisture_NPD_Day",
         "AMSRU2_Soil_Moisture_NPD_Night",
         "AMSRU2_Soil_Moisture_SCA_Day",
@@ -445,6 +445,10 @@
         "OTD_High_Resolution_Full_Climatology_OTD_Scaled_Flashes",
         "OTD_High_Resolution_Full_Climatology_OTD_Flash_Rate_Climatology",
         "LIS_High_Resolution_Full_Climatology_Combined_Flash_Rate_Climatology",
+        "LIS_Very_High_Resolution_Lightning_Daily_Climatology_LIS_Mean_Flash_Rate",
+        "LIS_Very_High_Resolution_Lightning_Full_Climatology_LIS_Mean_Flash_Rate",
+        "LIS_Very_High_Resolution_Lightning_Monthly_Climatology_LIS_Mean_Flash_Rate",
+        "LIS_Very_High_Resolution_Lightning_Seasonal_Climatology_LIS_Mean_Flash_Rate",
 
         "Aquarius_Soil_Moisture_Daily",
         "Aquarius_Soil_Moisture_Weekly",
