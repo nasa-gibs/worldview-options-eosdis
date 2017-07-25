@@ -12,7 +12,8 @@
                         "aster_gdem"
             ],
             "measurements":[
-                        "global_digital_elevation_map"
+                        "global_digital_elevation_map",
+                        "global_digital_elevation_map2"
             ],
             "type":     "wmts",
             "product":  "ASTGTM",

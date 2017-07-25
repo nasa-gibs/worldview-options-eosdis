@@ -1,0 +1,13 @@
+{
+    "measurements": {
+        "global_digital_elevation_map2": {
+            "id": "global_digital_elevation_map2",
+            "title": "Global Digital Elevation Map 2",
+            "description": "measurements2/gdem.md",
+            "categories": [
+                           "land_surface",
+                           "vegetation"
+            ]
+        }
+    }
+}

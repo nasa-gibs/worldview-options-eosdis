@@ -1,8 +1,8 @@
 {
     "categories": {
-        "Land Surface": {
+        "land_surface": {
             "title": "Land Surface",
-            "id": "land-surface",
+            "id": "land_surface",
             "image": "land-surface.jpg",
             "description": "",
             "type": "scientific"
