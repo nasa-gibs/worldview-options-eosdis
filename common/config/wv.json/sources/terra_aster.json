@@ -3,7 +3,7 @@
         "terra_aster": {
             "id":                     "terra_aster",
             "title":                  "Terra/ASTER",
-            "description":    "sources/terra_aster.md",
+            "description":    "sources/terra_aster",
             "provider":          "nasa",
             "status":               "active",
             "tracks":               {

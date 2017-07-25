@@ -3,7 +3,7 @@
         "aster_gdem": {
             "id":                     "aster_gdem",
             "title":                  "ASTER/GDEM",
-            "description":    "sources/aster_gdem.md",
+            "description":    "sources/aster_gdem",
             "provider":         "nasa",
             "status":              "active",
             "tracks":              {
