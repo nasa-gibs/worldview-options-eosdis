@@ -86,7 +86,7 @@
                 "GLDAS": {
                     "id": "gldas",
                     "title": "GLDAS",
-                    "description": "",
+                    "description": "ldas/GLDASSoilMoisture",
                     "image": "",
                     "settings": [
 			                  "GLDAS_Underground_Soil_Moisture_Monthly"
@@ -95,7 +95,7 @@
                 "NLDAS": {
                     "id": "nldas",
                     "title": "NLDAS",
-                    "description": "",
+                    "description": "ldas/NLDASSoilMoisture",
                     "image": "",
                     "settings": [
 			                  "NLDAS_Underground_Soil_Moisture_Mosaic_Monthly",
