@@ -1,5 +1,5 @@
 {
-    "sources": {
+    "capabilities": {
         "GIBS:arctic": {
             "url": "//gibs-{a-c}.earthdata.nasa.gov/wmts/epsg3413/best/wmts.cgi"
         },
