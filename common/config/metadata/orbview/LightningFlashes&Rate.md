@@ -1,21 +1,21 @@
-# OrbView/OTD Lightning Flashes (Raw)
+# Lightning Flashes (Raw)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The OrbView-1/OTD Lightning Flashes (Raw) layer indicates the average number of total raw lightning flashes from May 4, 1995 to December 31, 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) instrument on the OrbView-1 satellite.
+The OrbView-1/OTD Lightning Flashes (Raw) layer indicates the average number of total raw lightning flashes from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) instrument on the OrbView-1 satellite.
 
 The OTD instrument detects both intra-cloud and cloud-to-ground lightning discharges during day and night conditions with a high detection efficiency. The OTD located the lightning discharges that occurred within its field-of-view and marked the time of occurrence of the lightning.
 
-# OrbView-1/OTD Lightning Flashes (Scaled)
+# Lightning Flashes (Scaled)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The OrbView-1/ OTD Lightning Flashes (Scaled) layer indicates the average number of total scaled lightning flashes from May 4, 1995 to December 31, 2013. The scaled flashes are the raw lightning flashes that have been scaled by detection efficiency values of the instruments, which varies throughout the day since lightning is easier to detect at night than during the day. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then were scaled to be more regional measurements.
+The OrbView-1/ OTD Lightning Flashes (Scaled) layer indicates the average number of total scaled lightning flashes from 4 May 1995 to 31 December 20133. The scaled flashes are the raw lightning flashes that have been scaled by detection efficiency values of the instruments, which varies throughout the day since lightning is easier to detect at night than during the day. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then were scaled to be more regional measurements.
 
 The OTD instrument detects both intra-cloud and cloud-to-ground lightning discharges during day and night conditions with a high detection efficiency. The OTD located the lightning discharges that occurred within its field-of-view and marked the time of occurrence of the lightning.
 
-# OrbView-1/OTD Lightning Flash Rate
+# Lightning Flash Rate
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The OrbView-1/ OTD Lightning Flash Rate layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year from May 4, 1995 to December 31, 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then calculated the frequency of each lightning flash.
+The OrbView-1/ OTD Lightning Flash Rate layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year (Flashes/km<sup>2</sup>/year) from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then calculated the frequency of each lightning flash.
 
 The OTD instrument detects both intra-cloud and cloud-to-ground lightning discharges during day and night conditions with a high detection efficiency. The OTD located the lightning discharges that occurred within its field-of-view and marked the time of occurrence of the lightning.
 
