@@ -17,7 +17,7 @@
             ],
             "type":     "wmts",
             "product":  "ASTGTM",
-            "wrapdays": true
+            "wrapadjacentdays": true
         }
     }
 }

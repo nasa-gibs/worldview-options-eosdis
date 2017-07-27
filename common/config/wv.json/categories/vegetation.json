@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "vegetation": {
+            "title": "Vegetation",
+            "id": "vegetation",
+            "image": "vegetation.jpg",
+            "description": "",
+            "type": "hazards"
+        }
+    }
+}
