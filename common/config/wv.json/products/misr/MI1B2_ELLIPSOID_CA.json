@@ -1,7 +1,7 @@
 {
     "products": {
         "MI1B2_ELLIPSOID_CA": {
-            "name": "MISR Level 1B2 Ellipsoid Data - CA Sensor",
+            "name": "MISR Level 1B2 Ellipsoid Data - Ca Sensor",
             "handler": "MODISSwath",
             "query": {
                 "shortName": "MI1B2E",

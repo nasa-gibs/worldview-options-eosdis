@@ -2,7 +2,7 @@
     "layers": {
         "MISR_AM1_Ellipsoid_Radiance_NGB_AF": {
             "id":       "MISR_AM1_Ellipsoid_Radiance_NGB_AF",
-            "title":    "Color Radiance (AF, NGB)",
+            "title":    "Color Radiance (Af, NGB)",
             "subtitle": "Terra / MISR",
             "tags":     "",
             "group":    "overlays",

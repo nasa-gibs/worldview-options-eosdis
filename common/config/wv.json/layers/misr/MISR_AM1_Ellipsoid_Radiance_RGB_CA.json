@@ -2,7 +2,7 @@
     "layers": {
         "MISR_AM1_Ellipsoid_Radiance_RGB_CA": {
             "id":       "MISR_AM1_Ellipsoid_Radiance_RGB_CA",
-            "title":    "Color Radiance (CA, RGB)",
+            "title":    "Color Radiance (Ca, RGB)",
             "subtitle": "Terra / MISR",
             "tags":     "",
             "group":    "overlays",
