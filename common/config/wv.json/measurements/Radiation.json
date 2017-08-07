@@ -8,7 +8,7 @@
                 "Aura/OMI": {
                     "id": "aura-omi",
                     "title": "Aura/OMI",
-                    "description": "",
+                    "description": "omi/UVRadiation",
                     "image": "",
                     "settings": [
                       "OMI_UV_Erythemal_Daily_Dose",

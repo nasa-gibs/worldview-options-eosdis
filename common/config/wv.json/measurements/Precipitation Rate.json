@@ -130,7 +130,7 @@
                 "GLDAS": {
                     "id": "gldas",
                     "title": "GLDAS",
-                    "description": "",
+                    "description": "ldas/GLDASPrecipitationRate",
                     "image": "",
                     "settings": [
                         "GLDAS_Surface_Total_Precipitation_Rate_Monthly"
@@ -139,7 +139,7 @@
                 "NLDAS": {
                     "id": "nldas",
                     "title": "NLDAS",
-                    "description": "",
+                    "description": "ldas/NLDASPrecipitationTotal",
                     "image": "",
                     "settings": [
                         "NLDAS_Surface_Total_Precipitation_Primary_Monthly",

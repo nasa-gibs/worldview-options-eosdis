@@ -6,8 +6,7 @@
             "subtitle": "Aura / OMI",
             "group":    "overlays",
             "product":  "OMNO2d",
-            "tags":     "no2",
-            "inactive": true
+            "tags":     "no2"
 
         }
     }

@@ -24,9 +24,14 @@
             "Sea and Lake Ice": [
                 ["Reference_Features", true],
                 ["Reference_Labels", true],
-                ["VIIRS_SNPP_CorrectedReflectance_TrueColor", true],
+                ["VIIRS_SNPP_CorrectedReflectance_TrueColor", false],
                 ["MODIS_Aqua_CorrectedReflectance_TrueColor", false],
-                ["MODIS_Terra_CorrectedReflectance_TrueColor", false],
+                ["MODIS_Terra_CorrectedReflectance_TrueColor", true],
+                ["VIIRS_SNPP_DayNightBand_ENCC", false],
+                ["MODIS_Terra_Brightness_Temp_Band31_Day", false],
+                ["MODIS_Terra_Brightness_Temp_Band31_Night", false],
+                ["MODIS_Aqua_Brightness_Temp_Band31_Day", false],
+                ["MODIS_Aqua_Brightness_Temp_Band31_Night", false],
                 ["MODIS_Aqua_Sea_Ice", false],
                 ["MODIS_Terra_Sea_Ice", false]
             ],

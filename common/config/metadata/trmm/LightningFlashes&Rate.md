@@ -1,23 +1,35 @@
-# TRMM/LIS Lightning Flashes (Raw)
+# Lightning Flashes (Raw)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The TRMM/LIS Lightning Flashes (Raw) layer indicates the average number of total raw lightning flashes from May 4, 1995 to December 31, 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite.
+The TRMM/LIS Lightning Flashes (Raw) layer indicates the average number of total raw lightning flashes from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite.
 
 The LIS instrument contains a staring imager which is optimized to locate and detect lightning with storm-scale resolution of 3 to 6 kilometers over a large region of the Earth’s surface. The field-of-view is sufficient to observe a point on the Earth or a cloud for about 80 seconds, adequate to estimate the flashing rate of many storms. The instrument records the time of occurrence of a lightning event and estimates the location.
 
-# TRMM/LIS Lightning Flashes (Scaled)
+# Lightning Flashes (Scaled)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The TRMM/LIS Lightning Flashes (Scaled) layer indicates the average number of totals scaled lightning flashes from May 4, 1995 to December 31, 2013. The scaled flashes are the raw lightning flashes that have been scaled by detection efficiency values of the instruments, which varies throughout the day since lightning is easier to detect at night than during the day. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite, and then were scaled to be more regional measurements.
+The TRMM/LIS Lightning Flashes (Scaled) layer indicates the average number of totals scaled lightning flashes from 4 May 1995 to 31 December 2013. The scaled flashes are the raw lightning flashes that have been scaled by detection efficiency values of the instruments, which varies throughout the day since lightning is easier to detect at night than during the day. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite, and then were scaled to be more regional measurements.
 
 The LIS instrument contains a staring imager which is optimized to locate and detect lightning with storm-scale resolution of 3 to 6 kilometers over a large region of the Earth’s surface. The field-of-view is sufficient to observe a point on the Earth or a cloud for about 80 seconds, adequate to estimate the flashing rate of many storms. The instrument records the time of occurrence of a lightning event and estimates the location.
 
-# TRMM/LIS Lightning Flash Rate
+# Lightning Flash Rate
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
-The TRMM/LIS Lightning Flash Rate layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year from May 4, 1995 to December 31, 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite, and then calculated the frequency of each lightning flash.
+The TRMM/LIS Lightning Flash Rate layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year (Flashes/km<sup>2</sup>/year) from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite, and then calculated the frequency of each lightning flash.
 
 The LIS instrument contains a staring imager which is optimized to locate and detect lightning with storm-scale resolution of 3 to 6 kilometers over a large region of the Earth’s surface. The field-of-view is sufficient to observe a point on the Earth or a cloud for about 80 seconds, adequate to estimate the flashing rate of many storms. The instrument records the time of occurrence of a lightning event and estimates the location.
+
+# Daily Mean Lightning Flash Rate
+Temporal Coverage: 4 May 1995 - 31 December 2013 (Daily)
+
+# Climatology Mean Lightning Flash Rate
+Temporal Coverage: 4 May 1995 - 31 December 2013 composite
+
+# Monthly Mean Lightning Flash Rate
+Temporal Coverage: 4 May 1995 - 31 December 2013 (Monthly)
+
+# Seasonal Mean Lightning Flash Rate
+Temporal Coverage: 4 May 1995 - 31 December 2013 (Seasonal/3 Month)
 
 Data Product & References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA308);
 [GHRC: Lighting Imaging Sensor (LIS) Overview](https://lightning.nsstc.nasa.gov/lis/overview_lis_instrument.html);

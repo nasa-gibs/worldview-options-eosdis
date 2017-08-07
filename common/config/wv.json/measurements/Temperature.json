@@ -49,7 +49,7 @@
                 "GLDAS": {
                     "id": "gldas",
                     "title": "GLDAS",
-                    "description": "",
+                    "description": "ldas/GLDASAirTemperature",
                     "image": "",
                     "settings": [
                         "GLDAS_Near_Surface_Air_Temperature_Monthly"
@@ -58,7 +58,7 @@
                 "NLDAS": {
                     "id": "nldas",
                     "title": "NLDAS",
-                    "description": "",
+                    "description": "ldas/NLDASAirTemperature",
                     "image": "",
                     "settings": [
                         "NLDAS_Near_Surface_Air_Temperature_Primary_Monthly"
