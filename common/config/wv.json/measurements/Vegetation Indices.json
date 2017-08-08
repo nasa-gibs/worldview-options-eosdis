@@ -28,7 +28,7 @@
                   "Terra/MISR": {
                       "id": "terra-misr",
                       "title": "Terra / MISR",
-                      "description": "",
+                      "description": "misr/NDVI",
                       "image": "",
                       "settings": [
                           "MISR_Land_NDVI_Average_Monthly"

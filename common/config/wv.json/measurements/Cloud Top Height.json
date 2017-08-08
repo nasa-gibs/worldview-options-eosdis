@@ -32,7 +32,7 @@
                 "Terra/MISR": {
                     "id": "terra-misr",
                     "title": "Terra/MISR",
-                    "description": "",
+                    "description": "misr/CloudStereoHeight",
                     "image": "",
                     "settings": [
                         "MISR_Cloud_Stereo_Height_Histogram_Bin_0.5km_Monthly",

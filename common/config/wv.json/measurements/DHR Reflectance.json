@@ -8,7 +8,7 @@
                 "Terra/MISR": {
                     "id": "terra-misr",
                     "title": "Terra / MISR",
-                    "description": "",
+                    "description": "misr/DHRReflectance",
                     "image": "",
                     "settings": [
                         "MISR_Directional_Hemispherical_Reflectance_Average_Natural_Color_Monthly"
