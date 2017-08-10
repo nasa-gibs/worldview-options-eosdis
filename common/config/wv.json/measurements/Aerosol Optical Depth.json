@@ -60,7 +60,7 @@
                 "Terra/MISR": {
                     "id": "terra-misr",
                     "title": "Terra/MISR",
-                    "description": "",
+                    "description": "misr/Aerosol",
                     "image": "",
                     "settings": [
                         "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly"
