@@ -3,11 +3,11 @@
         "Blue Marble": {
             "id": "blue-marble",
             "title":    "Blue Marble",
-            "subtitle": "MODIS / NASA EO",
+            "subtitle": "NASA EO / MODIS",
             "sources": {
                 "MODIS/NASAEO": {
-                    "id": "modis-nasaeo",
-                    "title": "MODIS / NASA EO",
+                    "id": "nasaeo-modis",
+                    "title": "NASA EO / MODIS",
                     "description": "modis/BlueMarble",
                     "image": "",
                     "settings": [
