@@ -6,6 +6,9 @@
             "subtitle": "SAC-D/Aquarius",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "aquarius"
+            ],
             "product":  "AQ3_WKSM",
             "startDate":"2011-08-25",
             "endDate":  "2015-06-10",

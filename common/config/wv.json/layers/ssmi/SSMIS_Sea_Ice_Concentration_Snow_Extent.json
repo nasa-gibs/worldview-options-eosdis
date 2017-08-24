@@ -6,6 +6,9 @@
             "subtitle": "DMSP 5D-3 F17 / SSMIS",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "ssmi"
+            ],
             "product":  "NISE"
         }
     }

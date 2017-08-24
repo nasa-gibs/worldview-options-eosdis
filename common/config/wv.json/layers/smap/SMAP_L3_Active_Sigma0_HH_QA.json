@@ -5,9 +5,11 @@
             "title":    "Sigma0 3 km QA (L3, Active, HH Polarization)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "inactive": true,
             "wrapadjacentdays": true
-
         }
     }
 }

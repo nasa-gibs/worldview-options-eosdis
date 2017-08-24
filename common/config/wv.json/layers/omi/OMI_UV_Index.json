@@ -5,6 +5,9 @@
             "title":    "UV Index (Local Noon)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
+            "layergroup": [
+              "omi"
+            ],
             "product":  "OMUVBd",
             "tags":     "ultra violet",
             "inactive": true

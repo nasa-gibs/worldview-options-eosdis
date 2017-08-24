@@ -4,12 +4,18 @@
             "id":       "Landsat_8_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / Landsat 8",
+            "description": "",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "night",
+            "track": "descending",
             "startDate": "2013-02-11",
 
             "projections": {

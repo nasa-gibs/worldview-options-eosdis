@@ -4,12 +4,18 @@
             "id":       "SMAP_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Day)",
             "subtitle": "Space-Track.org / SMAP",
+            "description": "",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "descending",
             "startDate": "2012-05-08",
 
             "projections": {

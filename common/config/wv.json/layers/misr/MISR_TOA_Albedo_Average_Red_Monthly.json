@@ -6,6 +6,9 @@
             "subtitle": "Terra / MISR",
             "tags":     "top of atmosphere",
             "group":    "overlays",
+            "layergroup": [
+              "misr"
+            ],
             "product":  "MIL3MAL",
             "wrapadjacentdays": true
         }

@@ -6,7 +6,10 @@
             "subtitle": "PODAAC / MODIS / Terra and Aqua / 5 day",
             "tags":     "sst",
             "group":    "overlays",
-
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "palette": {
                 "recommended":  ["purple_2"]
             }

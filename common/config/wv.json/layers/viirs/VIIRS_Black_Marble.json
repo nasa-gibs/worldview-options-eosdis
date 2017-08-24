@@ -5,6 +5,9 @@
             "title":    "Black Marble (Annual, 2012 & 2016)",
             "subtitle": "Suomi NPP / VIIRS via NASA Earth Observatory",
             "tags":     "night s-npp snpp night lights city urban",
+            "layergroup": [
+              "viirs"
+            ],
             "group":    "baselayers",
             "inactive": true,
             "wrapadjacentdays": true

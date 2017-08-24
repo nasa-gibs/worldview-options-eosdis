@@ -8,7 +8,10 @@
             "group":    "overlays",
             "type":     "wmts",
             "tags":     "country, countries, state, province",
-            "noTransition":     "true"
+            "noTransition":     "true",
+            "layergroup": [
+              "reference"
+            ]
         }
     }
 }

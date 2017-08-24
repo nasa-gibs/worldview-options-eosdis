@@ -5,7 +5,11 @@
             "title":    "Blue Marble (August 2004)",
             "subtitle": "MODIS / NASA Earth Observatory",
             "tags":     "bm bmng",
-            "group":    "baselayers"
+            "group":    "baselayers",
+            "layergroup": [
+              "reference",
+              "reference_bluemarble"
+            ]
         }
     }
 }

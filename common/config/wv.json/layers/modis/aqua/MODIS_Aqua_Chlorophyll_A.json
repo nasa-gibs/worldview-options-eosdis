@@ -4,7 +4,11 @@
             "id":       "MODIS_Aqua_Chlorophyll_A",
             "title":    "Chlorophyll a",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays"
+            "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ]
         }
     }
 }

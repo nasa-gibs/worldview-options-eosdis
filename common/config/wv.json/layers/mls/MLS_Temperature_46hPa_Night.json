@@ -5,6 +5,9 @@
             "title":    "Temperature (46 hPa, Night)",
             "subtitle": "Aura / MLS",
             "group":    "overlays",
+            "layergroup": [
+              "mls"
+            ],
             "product":  "ML2T"
         }
     }

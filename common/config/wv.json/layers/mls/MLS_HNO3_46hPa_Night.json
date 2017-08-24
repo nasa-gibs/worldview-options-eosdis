@@ -6,6 +6,9 @@
             "subtitle": "Aura / MLS",
             "tags":     "hno3",
             "group":    "overlays",
+            "layergroup": [
+              "mls"
+            ],
             "product":  "ML2HNO3"
         }
     }

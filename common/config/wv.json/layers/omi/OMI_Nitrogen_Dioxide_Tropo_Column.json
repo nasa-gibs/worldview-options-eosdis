@@ -5,6 +5,9 @@
             "title":    "Nitrogen Dioxide (Tropospheric Column)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
+            "layergroup": [
+              "omi"
+            ],
             "product":  "OMNO2d",
             "tags":     "no2"
 

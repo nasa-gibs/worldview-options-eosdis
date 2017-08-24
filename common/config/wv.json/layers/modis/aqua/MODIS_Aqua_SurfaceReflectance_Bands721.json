@@ -6,6 +6,10 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "lsr m11-i2-i1",
             "group":    "baselayers",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD09GA",
             "wrapadjacentdays": true
         }

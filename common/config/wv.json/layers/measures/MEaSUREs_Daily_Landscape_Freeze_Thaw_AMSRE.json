@@ -5,6 +5,9 @@
             "title":    "Freeze/Thaw (Daily Landscape)",
             "subtitle": "Aqua / AMSR-E",
             "group":    "overlays",
+            "layergroup": [
+              "measures"
+            ],
             "product": "NSIDC-0477",
             "inactive": true,
 

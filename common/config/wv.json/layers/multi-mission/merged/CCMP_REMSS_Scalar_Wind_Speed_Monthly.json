@@ -5,6 +5,10 @@
             "title":    "Wind Speed (Scalar, REMSS, Monthly)",
             "subtitle": "CCMP",
             "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_merged"
+            ],
             "product": 	"CCMP_MEASURES_ATLAS_L4_OW_L3_5A_MONTHLY_WIND_VECTORS_FLK",
             "startDate":"1987-07-01",
             "endDate":  "2011-12-31",

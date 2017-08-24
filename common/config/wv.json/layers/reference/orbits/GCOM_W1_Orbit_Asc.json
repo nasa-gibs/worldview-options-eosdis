@@ -4,13 +4,19 @@
             "id":       "GCOM_W1_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / GCOM-W1",
+            "description": "reference/orbits/GCOM_W1_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
             "wrapadjacentdays": true,
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "ascending",
             "startDate": "2012-05-17",
 
             "projections": {

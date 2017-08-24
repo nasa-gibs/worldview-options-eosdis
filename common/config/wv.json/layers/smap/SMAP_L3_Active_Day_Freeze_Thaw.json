@@ -5,6 +5,9 @@
             "title":    "Freeze/Thaw 3 km (L3, Active, Day)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL3FTA",
             "inactive": true
         }

@@ -6,6 +6,9 @@
             "subtitle": "MERRA-2",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "merra"
+            ],
             "product":  "M2TMNXSLV",
             "wrapadjacentdays": true
         }

@@ -5,6 +5,10 @@
             "title":    "Snow Cover",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD10_L2",
             "wrapadjacentdays": true,
 

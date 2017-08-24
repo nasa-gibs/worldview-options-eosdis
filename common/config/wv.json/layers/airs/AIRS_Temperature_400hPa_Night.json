@@ -21,6 +21,9 @@
                 }
             },
 
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "id":   "AIRS_Temperature_400hPa_Night"
             }

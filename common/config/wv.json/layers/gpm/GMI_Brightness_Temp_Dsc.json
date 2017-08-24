@@ -5,6 +5,9 @@
             "title":    "Brightness Temperature (Descending)",
             "subtitle": "GPM / GMI",
             "group":    "overlays",
+            "layergroup": [
+              "gpm"
+            ],
             "product":  "GPM_1CGPMGMI"
         }
     }

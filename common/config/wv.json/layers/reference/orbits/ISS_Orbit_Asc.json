@@ -4,13 +4,19 @@
             "id":       "ISS_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / Int'l Space Station",
+            "description": "",
             "tags":     "iss international",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "ascending",
             "startDate": "1998-11-20",
 
             "projections": {

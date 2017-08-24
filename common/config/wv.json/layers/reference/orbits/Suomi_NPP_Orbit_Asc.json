@@ -4,6 +4,7 @@
             "id":       "Suomi_NPP_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / Suomi NPP",
+            "description": "reference/orbits/Suomi_NPP_Orbit_Asc",
             "group":    "overlays",
             "tags":     "snpp s-npp",
             "format":   "image/png",
@@ -11,7 +12,12 @@
             "tileSize": [512, 512],
             "period":   "daily",
             "wrapadjacentdays": true,
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "ascending",
             "startDate": "2011-10-28",
 
             "projections": {

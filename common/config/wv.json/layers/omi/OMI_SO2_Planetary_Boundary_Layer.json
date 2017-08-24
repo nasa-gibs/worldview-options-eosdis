@@ -5,6 +5,9 @@
             "title":    "Sulfur Dioxide (Planetary Boundary Layer)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
+            "layergroup": [
+              "omi"
+            ],
             "product":  "OMSO2e",
             "tags":     "so2 sulphur dioxide"
         }

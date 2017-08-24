@@ -6,6 +6,9 @@
             "subtitle": "Terra / MOPITT",
             "tags":     "co",
             "group":    "overlays",
+            "layergroup": [
+              "mopitt"
+            ],
             "product":  "MOP03JM",
             "wrapadjacentdays": true
         }

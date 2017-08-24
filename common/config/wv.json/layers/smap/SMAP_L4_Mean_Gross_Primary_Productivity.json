@@ -5,6 +5,9 @@
             "title":    "Gross Primary Production (L4, 9 km Grid Cell Mean)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL4CMDL",
             "wrapadjacentdays": true
         }

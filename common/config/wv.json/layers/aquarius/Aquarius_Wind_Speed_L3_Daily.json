@@ -6,6 +6,9 @@
             "subtitle": "SAC-D/Aquarius",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "aquarius"
+            ],
             "product":  "AQUARIUS_L3_WIND_SPEED_SMI_DAILY_V4",
             "inactive": true
         }

@@ -6,6 +6,10 @@
             "subtitle": "Terra and Aqua / MODIS",
             "tags":     "aod",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "product":  "MCDAODHD",
             "wrapadjacentdays": true,
 

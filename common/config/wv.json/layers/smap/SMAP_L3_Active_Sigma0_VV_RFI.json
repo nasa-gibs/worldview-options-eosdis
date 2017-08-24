@@ -5,6 +5,9 @@
             "title":    "Sigma0 3 km RFI (L3, Active, VV Polarization)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "inactive": true,
             "wrapadjacentdays": true
         }

@@ -22,6 +22,9 @@
                 }
             },
 
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "id": "AIRS_RelativeHumidity_850hPa_Day"
             }

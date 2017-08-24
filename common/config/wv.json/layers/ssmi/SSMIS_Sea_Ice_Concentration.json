@@ -6,6 +6,9 @@
             "subtitle": "NIMBUS-7/SSMR, DMSP 5D-2 F8/SSMI, DMSP 5D-2 F11/SSMI, DMSP 5D-2 F13/SSMI, DMSP 5D-3 F17/SSMIS, DMSP 5D-3 F18/SSMIS",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "ssmi"
+            ],
             "product":  "NSIDC-0051-0081"
         }
     }

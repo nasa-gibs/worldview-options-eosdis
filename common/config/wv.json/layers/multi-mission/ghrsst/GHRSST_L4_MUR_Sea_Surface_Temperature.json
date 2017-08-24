@@ -5,6 +5,10 @@
             "title":    "Sea Surface Temperature (L4, MUR)",
             "subtitle": "Multi-mission / GHRSST",
             "tags":     "sst ghrsst",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_ghrsst"
+            ],
             "product": 	"GHRSST_L4MUR_LL",
             "group":    "overlays",
             "wrapadjacentdays": true

@@ -5,6 +5,10 @@
             "title":    "Sea Ice",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD29",
             "wrapadjacentdays": true
         }

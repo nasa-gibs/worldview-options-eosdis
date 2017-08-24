@@ -6,6 +6,9 @@
             "subtitle": "Terra / MISR",
             "tags":     "normalized difference vegetation index",
             "group":    "overlays",
+            "layergroup": [
+              "misr"
+            ],
             "product":  "MIL3MLS",
             "wrapadjacentdays": true
         }

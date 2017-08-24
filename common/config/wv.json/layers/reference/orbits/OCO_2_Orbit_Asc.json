@@ -4,13 +4,19 @@
             "id":       "OCO_2_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / OCO-2",
+            "description": "",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
             "wrapadjacentdays": true,
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "ascending",
             "startDate": "2014-07-02",
 
             "projections": {

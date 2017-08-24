@@ -5,6 +5,10 @@
             "title":    "Sea Ice and Snow Extent",
             "subtitle": " DMSP 5D-2 F13/SSMI, DMSP 5D-3 F17/SSMIS, Terra/MODIS",
             "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_merged"
+            ],
             "product": 	"NSIDC-0534",
             "group":    "overlays",
             "startDate":"1999-01-01",

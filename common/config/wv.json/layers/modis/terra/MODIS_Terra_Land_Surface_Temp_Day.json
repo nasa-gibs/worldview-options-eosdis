@@ -6,6 +6,10 @@
             "subtitle": "Terra / MODIS",
             "tags":     "lst",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "product":  "MOD11_L2_DAY",
             "wrapadjacentdays": true,
 

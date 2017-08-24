@@ -4,12 +4,18 @@
             "id":       "OCO_2_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / OCO-2",
+            "description": "",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "night",
+            "track": "descending",
             "startDate": "2014-07-02",
 
             "projections": {

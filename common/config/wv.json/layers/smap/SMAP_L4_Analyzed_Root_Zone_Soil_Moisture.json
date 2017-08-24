@@ -5,6 +5,9 @@
             "title":    "Root Zone Soil Moisture 9 km (L4, 12z Instantaneous)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL4SMAU",
             "wrapadjacentdays": true
         }

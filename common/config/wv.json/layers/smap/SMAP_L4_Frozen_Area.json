@@ -5,6 +5,9 @@
             "title":    "Percent Frozen Area (L4, 9 km Grid Cell Coverage)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL4CMDL",
             "wrapadjacentdays": true
         }

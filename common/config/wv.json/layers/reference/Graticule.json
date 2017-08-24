@@ -9,7 +9,9 @@
             "tileSize": [ 512, 512 ],
             "noTransition":     "true",
             "type":     "variable",
-
+            "layergroup": [
+              "reference"
+            ],
             "projections": {
                 "arctic": {
                     "subtitle":     "Polarview / Graticule",

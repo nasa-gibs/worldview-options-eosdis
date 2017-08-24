@@ -6,6 +6,9 @@
             "subtitle": "NLDAS",
             "tags":     "north american land data assimilation system",
             "group":    "overlays",
+            "layergroup": [
+              "ldas"
+            ],
             "product":  "NLDAS_VIC0125_M"
         }
     }

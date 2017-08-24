@@ -6,6 +6,10 @@
             "subtitle": "TRMM / LIS, OrbView-1 / OTD",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_trmmorbview"
+            ],
             "product":  "lohrfc",
             "inactive": true,
             "wrapadjacentdays": true

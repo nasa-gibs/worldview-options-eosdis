@@ -8,6 +8,9 @@
             "group":    "overlays",
             "product":  "AIRX2RET_NIGHT",
 
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "recommended": ["red_1"]
             }

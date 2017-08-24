@@ -7,6 +7,9 @@
             "tags":     "srtm gdem",
             "group":    "overlays",
             "type":     "wmts",
+            "layergroup": [
+              "srtm"
+            ],
             "product":  "SRTMGL1",
             "wrapadjacentdays": true
         }

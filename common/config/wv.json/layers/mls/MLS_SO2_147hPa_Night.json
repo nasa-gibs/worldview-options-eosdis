@@ -6,6 +6,9 @@
             "subtitle": "Aura / MLS",
             "tags":     "so2 sulphur",
             "group":    "overlays",
+            "layergroup": [
+              "mls"
+            ],
             "product":  "ML2SO2"
         }
     }

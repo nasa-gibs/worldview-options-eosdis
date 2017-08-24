@@ -7,7 +7,12 @@
             "tags":     "co",
             "group":    "overlays",
             "product":  "AIRX2RET_DAY",
-
+            "layergroup": [
+              "airs"
+            ],
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "recommended": ["red_1"]
             }

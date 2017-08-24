@@ -6,6 +6,10 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "lsr",
             "group":    "baselayers",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD09GQ",
             "wrapadjacentdays": true
         }

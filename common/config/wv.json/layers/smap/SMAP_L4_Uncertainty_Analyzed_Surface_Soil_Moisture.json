@@ -5,6 +5,9 @@
             "title":    "Surface Soil Moisture Uncertainty 9 km (L4, 12z Instantaneous)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL4SMAU",
             "wrapadjacentdays": true
         }

@@ -5,6 +5,10 @@
             "title":    "Wind Speed over Ice-Free Oceans (Monthly, Average)",
             "subtitle": "Aqua/AMSR-E, GCOM-W1/AMSR2, DMSP-F16/SSMI, DMSP-F17/SSMI",
             "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_merged"
+            ],
             "product": 	"rss1windnv7r01",
             "startDate":"1988-01-01",
             "endDate":  "2016-08-31",

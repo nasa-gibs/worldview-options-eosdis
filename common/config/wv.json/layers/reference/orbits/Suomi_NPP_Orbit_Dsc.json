@@ -4,13 +4,19 @@
             "id":       "Suomi_NPP_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / Suomi NPP",
+            "description": "reference/orbits/Suomi_NPP_Orbit_Dsc",
             "group":    "overlays",
             "tags":     "snpp s-npp",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "night",
+            "track": "descending",
             "startDate": "2011-10-28",
 
             "projections": {

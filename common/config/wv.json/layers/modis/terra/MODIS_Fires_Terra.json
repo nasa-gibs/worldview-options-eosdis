@@ -8,6 +8,10 @@
             "group":    "overlays",
             "format":   "image/png",
             "period":   "daily",
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "product":  "MOD14",
 
             "tileSize": [512, 512],
