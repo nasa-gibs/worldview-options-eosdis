@@ -3,7 +3,7 @@
         "Orbital Track": {
             "id": "orbital-track",
             "title":    "Orbital Track",
-            "subtitle": "Space-Track.org - Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, SMAP, Landsat 8, ISS, GOSAT",
+            "subtitle": "Space-Track.org / Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, SMAP, Landsat 8, ISS, GOSAT",
             "sources": {
                 "Space-Track.org / Terra": {
                     "id": "space-track-org-terra",
