@@ -3,7 +3,8 @@
         "MODIS_Aqua_Cloud_Water_Path": {
             "id":       "MODIS_Aqua_Cloud_Water_Path",
             "title":    "Cloud Water Path",
-            "subtitle": "Aqua/MODIS",
+            "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/",
             "group":    "overlays",
             "layergroup": [
               "modis",

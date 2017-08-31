@@ -4,6 +4,7 @@
             "id":       "MISR_Radiance_Average_Natural_Color_Monthly",
             "title":    "Radiance Average (Monthly, Natural Color)",
             "subtitle": "Terra / MISR",
+            "description": "misr/",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

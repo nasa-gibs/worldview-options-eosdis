@@ -4,6 +4,7 @@
             "id":       "AMSRE_Sea_Ice_Brightness_Temp_89V",
             "title":    "Sea Ice Brightness Temperature (89V GHz B Scan)",
             "subtitle": "Aqua / AMSR-E",
+            "description": "amsre/",
             "group":    "overlays",
             "product":  "AE_SI6",
             "layergroup": [

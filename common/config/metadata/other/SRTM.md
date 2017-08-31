@@ -1,4 +1,4 @@
-# Shuttle Radar Topography Mission (SRTM, Color Index)
+### Shuttle Radar Topography Mission (SRTM, Color Index)
 The Shuttle Radar Topography Mission (SRTM) Color Index layer shows land elevation around the world, measured in meters. On the default palette, white indicates the highest elevations, then brown, yellow and greens indicate low elevations.
 
 The Shuttle Radar Topography Mission flew on board the Space Shuttle Endeavour on the STS-99 mission in February 2000. The Shuttle Radar Topography Mission (SRTM) is a static product. It was created using an imaging radar to map the surface of the Earth numerous times from different perspectives over the 11-day mission and covers land surfaces between 60°N and 56°S. The spatial resolution of the SRTM layer is 30 meters.

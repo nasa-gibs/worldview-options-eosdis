@@ -1,4 +1,4 @@
-# Ice Velocity (Greenland)
+### Ice Velocity (Greenland)
 Temporal Coverage: 3 September 2000-24 January 2001; 13 December 2005-20 April 2006; 18 December 2006-15 April 2007; 1 November 2007-30 April 2008; 1 December 2008-28 February 2009
 
 This MEaSUREs Ice Velocity (Greenland) layer reports seasonal (winter) ice-sheet-wide velocity maps for Greenland derived from Interferometric Synthetic Aperture Radar (InSAR) data obtained by RADARSAT-1, the Advanced Land Observation Satellite (ALOS), and the TerraSAR-X satellite.

@@ -1,4 +1,4 @@
-# Surface Skin Temperature (Monthly)
+### Surface Skin Temperature (Monthly)
 Temporal Coverage: January 1980 - present
 
 The monthly surface skin temperature layer is an atmospheric reanalysis product from NASA second Modern-Era Retrospective analysis for Research and Applications (MERRA-2), produced by the Goddard Earth Observing System Model, Version 5 (GEOS-5) data assimilation system. The layer’s units are in Kelvin (K). The monthly surface skin temperature is time aggregated from corresponding hourly data with spatial resolution of 0.625°×0.5°.

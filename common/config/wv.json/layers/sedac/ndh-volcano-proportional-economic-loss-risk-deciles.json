@@ -4,6 +4,7 @@
             "id":       "ndh-volcano-proportional-economic-loss-risk-deciles",
             "title":    "Volcano Hazard: Economic Risk",
             "subtitle": "SEDAC Global Volcano Proportional Economic Loss Risk Deciles, v1 (2000)",
+            "description": "sedac/",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

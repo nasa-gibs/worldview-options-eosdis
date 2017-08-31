@@ -4,6 +4,7 @@
             "id":       "AMSRE_Surface_Precipitation_Rate_Night",
             "title":    "Surface Precipitation Rate (Night)",
             "subtitle": "Aqua / AMSR-E",
+            "description": "amsre/",
             "tags":      "rain snow",
             "group":    "overlays",
             "product":  "AE_Rain",

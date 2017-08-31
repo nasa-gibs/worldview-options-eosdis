@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Top_Height_Night",
             "title":    "Cloud Top Height (Night)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Phase_Infrared_Night",
             "title":    "Cloud Phase Infrared (Night)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

@@ -1,4 +1,4 @@
-# OMI Upper tropospheric and Stratospheric SO2 column  
+### OMI Upper tropospheric and Stratospheric SO2 column  
 
 This is a gridded Level-2 OMI/Aura Sulphur Dioxide (SO2) Total Column (OMSO2) daily composite images of one of the 4 different estimates of the column density of SO2, STL (obtained by making different assumptions about the vertical distribution of the SO2). 
 

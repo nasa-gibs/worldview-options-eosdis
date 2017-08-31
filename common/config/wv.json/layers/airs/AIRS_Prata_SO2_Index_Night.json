@@ -4,6 +4,7 @@
             "id":       "AIRS_Prata_SO2_Index_Night",
             "title":    "Sulfur Dioxide (Night, Prata Algorithm)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/",
             "tags":     "so2 sulphur",
             "group":    "overlays",
             "product":  "AIRIBRAD_NIGHT",

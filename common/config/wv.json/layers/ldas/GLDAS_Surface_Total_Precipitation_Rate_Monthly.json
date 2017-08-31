@@ -4,6 +4,7 @@
             "id":       "GLDAS_Surface_Total_Precipitation_Rate_Monthly",
             "title":    "Total Precipitation Rate (Monthly, Surface, Noah LSM)",
             "subtitle": "GLDAS",
+            "description": "ldas/",
             "tags":     "global land data assimilation system, land surface model",
             "group":    "overlays",
             "layergroup": [

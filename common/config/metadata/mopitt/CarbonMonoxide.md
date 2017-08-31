@@ -1,11 +1,11 @@
-# Carbon Monoxide (Daily | Monthly, Day | Night, Surface Mixing Ratio)
+### Carbon Monoxide (Daily | Monthly, Day | Night, Surface Mixing Ratio)
 Temporal coverage: 1 March 2000 - present (Daily); March 2000 - present (Monthly)
 
 The MOPITT Carbon Monoxide (CO), Surface Mixing Ratio layer shows the amount of carbon monoxide present at the Earth’s surface in the lower atmosphere (troposphere) and is measured in parts per billion by volume (ppbv). CO is a trace gas produced by methane oxidation, fossil fuel consumption (emitted from factories and cars) and biomass burning (from forest fires and agricultural burning). These measurements are useful for analyzing the distribution, transport, sources and sinks of CO in the troposphere and can be used to observe how it interacts with land and ocean biospheres. CO hinders the atmosphere’s natural ability to rid itself of harmful pollutants.
 
 The MOPITT Carbon Monoxide, Surface Mixing Ratio layer is available from the Measurements of Pollution in the Troposphere (MOPITT) instrument on the Terra satellite. The sensor resolution is 22 km at nadir, imagery resolution is 2 km, and the temporal resolution is daily and monthly (with day and night layers).
 
-# Carbon Monoxide (Daily | Monthly, Day | Night, Total Column)
+### Carbon Monoxide (Daily | Monthly, Day | Night, Total Column)
 Temporal Coverage: 1 March 2000 - present (Daily); March 2000 - present (Monthly)
 
 The MOPITT Carbon Monoxide (CO), Total Column layer shows the amount of carbon monoxide present in the total vertical column of the lower atmosphere (troposphere) and is measured in mole per square centimeter (mol/cm<sup>2</sup>). CO is a trace gas produced by methane oxidation, fossil fuel consumption (emitted from factories and cars) and biomass burning (from forest fires and agricultural burning). These measurements are useful for analyzing the distribution, transport, sources and sinks of CO in the troposphere and can be used to observe how it interacts with land and ocean biospheres. CO hinders the atmosphere’s natural ability to rid itself of harmful pollutants.

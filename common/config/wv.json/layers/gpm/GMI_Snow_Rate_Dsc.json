@@ -4,6 +4,7 @@
             "id":       "GMI_Snow_Rate_Dsc",
             "title":    "Snow Rate (Descending)",
             "subtitle": "GPM / GMI",
+            "description": "gpm/",
             "group":    "overlays",
             "layergroup": [
               "gpm"

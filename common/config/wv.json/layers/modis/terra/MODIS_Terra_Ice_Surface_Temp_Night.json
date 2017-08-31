@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Ice_Surface_Temp_Night",
             "title":    "Ice Surface Temperature (Night)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

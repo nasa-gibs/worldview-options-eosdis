@@ -3,7 +3,8 @@
         "MODIS_Terra_Cloud_Effective_Radius": {
             "id":       "MODIS_Terra_Cloud_Effective_Radius",
             "title":    "Cloud Effective Radius",
-            "subtitle": "Terra/MODIS",
+            "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

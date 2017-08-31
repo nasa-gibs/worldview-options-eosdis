@@ -4,6 +4,7 @@
             "id":       "OMI_Nitrogen_Dioxide_Tropo_Column",
             "title":    "Nitrogen Dioxide (Tropospheric Column)",
             "subtitle": "Aura / OMI",
+            "description": "omi/",
             "group":    "overlays",
             "layergroup": [
               "omi"

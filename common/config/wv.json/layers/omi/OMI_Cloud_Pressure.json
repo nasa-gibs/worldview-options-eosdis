@@ -4,6 +4,7 @@
             "id":       "OMI_Cloud_Pressure",
             "title":    "Cloud Pressure",
             "subtitle": "Aura / OMI",
+            "description": "omi/",
             "group":    "overlays",
             "layergroup": [
               "omi"

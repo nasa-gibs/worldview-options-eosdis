@@ -1,4 +1,4 @@
-# DMSP-F17 SSMIS Cloud Liquid Water Over Oceans (Ascending/Descending)
+### DMSP-F17 SSMIS Cloud Liquid Water Over Oceans (Ascending/Descending)
 Temporal Coverage: 14 December 2006 - present
 
 The DMSP-F17 SSMIS Cloud Liquid Water Over Oceans layer indicates the amount of cloud liquid water in kilograms per meters squared over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM, for December 14, 2006 through present day for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed by the Special Sensor Microwave Imager Sounder (SSMIS) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F17 spacecraft using a unified, physically based algorithm that was carefully intercalibrated on the brightness temperature level with the previous SSM/I data to retrieve cloud liquid measurements.

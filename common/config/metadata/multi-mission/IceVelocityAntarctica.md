@@ -1,4 +1,4 @@
-# Ice Velocity (Antarctica)
+### Ice Velocity (Antarctica)
 Temporal Coverage: 1 January 1996 - 30 December 2011
 
 This MEaSUREs Ice Velocity (Antarctica) layer provides a high-resolution digital mosaic composite of ice motion in Antarctica assembled from multiple satellite interferometric synthetic-aperture radar systems: RADARSAT-1, ERS-1 and 2, ALOS PALSAR, ENVISAT ASAR, RADARSAT-2, TerraSAR-X, TanDEM-X, Sentinel-1, and Landsat-8.

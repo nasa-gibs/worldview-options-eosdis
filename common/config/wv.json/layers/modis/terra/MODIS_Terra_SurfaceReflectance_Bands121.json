@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_SurfaceReflectance_Bands121",
             "title":    "Land Surface Reflectance (Bands 1-2-1)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "tags":     "lsr",
             "group":    "baselayers",
             "layergroup": [

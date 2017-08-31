@@ -4,6 +4,7 @@
             "id":       "MODIS_Aqua_SurfaceReflectance_Bands143",
             "title":    "Land Surface Reflectance (True Color)",
             "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/",
             "tags":     "lsr",
             "group":    "baselayers",
             "layergroup": [

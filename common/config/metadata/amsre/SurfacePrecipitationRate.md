@@ -1,4 +1,4 @@
-# AMSR-E Surface Precipitation Rate (Day/Night)
+### AMSR-E Surface Precipitation Rate (Day/Night)
 Temporal coverage: 1 June 2002 - 4 October 2011
 
 The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Surface Precipitation Rate (Day)" layer displays instantaneous total precipitation (solid and liquid) rate in millimeters per hour (mm/hr) at the surface for the 1:30 a.m. ascending (day) and the 1:30 p.m. descending (night) half-orbit passes of the AMSR-E B feedhorn.
@@ -7,12 +7,12 @@ Surface precipitation rate is derived from brightness temperatures by modeling t
 
 Onboard NASA's Aqua satellite, the AMSR-E radiometer measured terrestrial, oceanic, and atmospheric parameters used to investigate global water and energy cycles. The imagery resolution is 2 km and sensor resolution is 10 km along track x 5 km along scan. The temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 1 June 2002 - 4 October 2011.
 
-## Source
+#### Source
 Data product: [AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm](http://nsidc.org/data/ae_rain)
 
 Data field: surfacePrecipitation
 
-# AMSR-E Surface Rain Rate (Day/Night)
+### AMSR-E Surface Rain Rate (Day/Night)
 Temporal coverage: 1 June 2002 - 4 October 2011
 
 The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Surface Rain Rate (Day)" layer displays instantaneous rain rate in millimeters per hour (mm/hr) for the 1:30 a.m. ascending (day) and the 1:30 p.m. descending (night) half-orbit passes of the AMSR-E B feedhorn.
@@ -21,7 +21,7 @@ Surface rain rate is derived from brightness temperatures by modeling the absorp
 
 Onboard NASA's Aqua satellite, the AMSR-E radiometer measured terrestrial, oceanic, and atmospheric parameters used to investigate global water and energy cycles.The imagery resolution is 2 km and sensor resolution is 10 km along track x 5 km along scan. The temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 1 June 2002 - 4 October 2011.
 
-## Source
+#### Source
 Data product: [AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm](http://nsidc.org/data/ae_rain)
 
 Data field: surfaceRain

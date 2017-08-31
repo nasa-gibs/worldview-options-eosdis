@@ -4,6 +4,7 @@
             "id":       "OMI_Aerosol_Index",
             "title":    "Aerosol Index",
             "subtitle": "Aura / OMI",
+            "description": "omi/",
             "group":    "overlays",
             "layergroup": [
               "omi"

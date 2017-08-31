@@ -1,4 +1,4 @@
-# DMSP-F8 SSMI Cloud Liquid Water Over Oceans (Ascending/Descending)
+### DMSP-F8 SSMI Cloud Liquid Water Over Oceans (Ascending/Descending)
 Temporal Coverage: 9 July 1987 - 31 December 1991
 
 The DMSP-F8 Cloud Liquid Water Over Oceans layer indicates the amount of cloud liquid water in kilograms per meters squared over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local AM and descending, local PM, for July 9, 1987 through December 31, 1991 for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed by the Special Sensor Microwave/Imager (SSM/I) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F08 spacecraft  using a unified, physically based algorithm to retrieve cloud liquid water measurements.

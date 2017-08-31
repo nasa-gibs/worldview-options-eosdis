@@ -1,4 +1,4 @@
-# OMI Aerosol Index  
+### OMI Aerosol Index  
 
 This is a gridded Level-2 OMI/Aura Near-UV Aerosol Absorption and Extinction Optical Depth and Single Scattering Albedo (OMAERUV) daily composite images for the UV aerosol index (UVAI) at 354, 388 and 500 nm. 
 

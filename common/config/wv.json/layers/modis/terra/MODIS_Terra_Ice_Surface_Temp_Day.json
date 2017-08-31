@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Ice_Surface_Temp_Day",
             "title":    "Ice Surface Temperature (Day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

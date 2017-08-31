@@ -4,6 +4,7 @@
             "id":       "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
             "title":    "Carbon Monoxide (Monthly, Night, Surface Mixing Ratio)",
             "subtitle": "Terra / MOPITT",
+            "description": "mopitt/",
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [

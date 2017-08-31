@@ -1,4 +1,4 @@
-# Soil Moisture (Monthly, 0 - 100 cm, VIC LSM)
+### Soil Moisture (Monthly, 0 - 100 cm, VIC LSM)
 Temporal Coverage: 1 January 1979 - present (Monthly)
 
 This NLDAS Soil Moisture is one of the model assimilated fields from the North America Land Data Assimilation System Phase 2 (NLDAS-2) VIC-4.0.3 Land Surface Model (LSM). The NLDAS Soil Moisture monthly data are generated through temporal averaging of the hourly data. This NLDAS-2 VIC Soil Moisture parameter represents the 0 - 100 cm depth-averaged amount of water in unit “kg/m<sup>2</sup>” which is equivalent to “mm”.  
@@ -10,7 +10,7 @@ The NLDAS Soil Moisture data are in 1/8th-degree grid spacing and the imagery re
 Data Product & References: [DOI: 10.5067/ZO0X4QAX5WTD](https://disc.gsfc.nasa.gov/datacollection/NLDAS_VIC0125_M_002.html);
 [NLDAS Phase 2 (NLDAS-2) README](https://hydro1.gesdisc.eosdis.nasa.gov/data/NLDAS/README.NLDAS2.pdf)
 
-# Soil Moisture (Monthly, 0 - 100 cm, Noah LSM)
+### Soil Moisture (Monthly, 0 - 100 cm, Noah LSM)
 Temporal Coverage: 1 January 1979 -  present  (Monthly)
 
 This NLDAS Soil Moisture is one of the model assimilated fields from the North America Land Data Assimilation System Phase 2 (NLDAS-2) Noah-2.8 Land Surface Model (LSM). The NLDAS Soil Moisture monthly data are generated through temporal averaging of the hourly data.  This NLDAS-2 Noah Soil Moisture parameter represents the 0 - 100 cm depth-averaged amount of water in unit “kg/m<sup>2</sup>” which is equivalent to “mm”.  
@@ -22,7 +22,7 @@ The NLDAS Soil Moisture data are in 1/8th-degree grid spacing and the imagery re
 Data Product & References: [DOI: 10.5067/NOXZSD0Z6JGD](https://disc.gsfc.nasa.gov/datacollection/NLDAS_NOAH0125_M_002.html);
 [NLDAS Phase 2 (NLDAS-2) README](https://hydro1.gesdisc.eosdis.nasa.gov/data/NLDAS/README.NLDAS2.pdf)
 
-# Soil Moisture (Monthly, 0 - 10 cm, Mosaic LSM)
+### Soil Moisture (Monthly, 0 - 10 cm, Mosaic LSM)
 Temporal Coverage: 1 January 1979 - 1 November 2016 (Monthly)
 
 This NLDAS Soil Moisture is one of the model assimilated fields from the North America Land Data Assimilation System Phase 2 (NLDAS-2) Mosaic Land Surface Model (LSM). The NLDAS Soil Moisture monthly data are generated through temporal averaging of the hourly data.  This NLDAS-2 Mosaic Soil Moisture parameter represents the 0 - 10 cm depth-averaged amount of water in unit “kg/m<sup>2</sup>” which is equivalent to “mm”.  

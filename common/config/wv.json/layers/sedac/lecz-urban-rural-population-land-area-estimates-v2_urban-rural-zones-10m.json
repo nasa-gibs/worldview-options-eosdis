@@ -5,6 +5,7 @@
             "layer":    "lecz:lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m",
             "title":    "Urban Rural Extents in the 10m Low Elevation Zone",
             "subtitle": "SEDAC Urban-Rural Population and Land Area Estimates, v2 (1990, 2000, 2010, 2100)",
+            "description": "sedac/",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

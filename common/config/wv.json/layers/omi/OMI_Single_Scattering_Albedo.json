@@ -4,6 +4,7 @@
             "id":       "OMI_Single_Scattering_Albedo",
             "title":    "Aerosol Single Scattering Albedo (Near-UV, 388.0 nm)",
             "subtitle": "Aura / OMI",
+            "description": "omi/",
             "group":    "overlays",
             "layergroup": [
               "omi"

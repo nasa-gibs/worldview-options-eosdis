@@ -3,7 +3,8 @@
         "Aquarius_Sea_Surface_Salinity_L3_Daily": {
             "id":       "Aquarius_Sea_Surface_Salinity_L3_Daily",
             "title":    "Sea Surface Salinity (L3, Daily)",
-            "subtitle": "SAC-D/Aquarius",
+            "subtitle": "SAC-D / Aquarius",
+            "description": "aquarius/",
             "tags":     "sss",
             "group":    "overlays",
             "layergroup": [

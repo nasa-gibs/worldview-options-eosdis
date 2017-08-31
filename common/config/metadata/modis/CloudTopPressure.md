@@ -1,4 +1,4 @@
-# MODIS (Terra/Aqua) Cloud Top Pressure (Day/Night)
+### MODIS (Terra/Aqua) Cloud Top Pressure (Day/Night)
 Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 The MODIS Cloud Top Pressure layer indicates the pressure at the top of the clouds measured in hectopascals (hPa). Cloud Top Pressure can be used as an indicator of the highest altitude of the visible portion of the cloud. The Cloud Top Pressure layer is useful for identifying convective clouds - tall puffy clouds that produce thunderstorms. Generally, air pressure decreases as altitude increases so the lower the cloud top pressure, the taller the cloud.

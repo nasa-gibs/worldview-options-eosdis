@@ -1,4 +1,4 @@
-# Corrected Brightness Temperature (L3, Passive, H Polarization | V Polarization)
+### Corrected Brightness Temperature (L3, Passive, H Polarization | V Polarization)
 Temporal coverage: 31 March 2015 - present
 
 The Soil Moisture Active Passive (SMAP) "Corrected Brightness Temperature" layers display brightness temperatures (TBs) in Kelvin (K) for the horizontal (H) and vertical (V) polarizations from the SMAP radiometer.
@@ -7,7 +7,7 @@ The TBs are corrected for the presence of water wherever water fraction is below
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate. The imagery resolution is 2 km and sensor resolution is 36 km. The temporal resolution is daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 31 March 2015 - present.
 
-## Source
+#### Source
 Data Product and References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
 
 Data fields: tb_h_corrected, tb_v_corrected

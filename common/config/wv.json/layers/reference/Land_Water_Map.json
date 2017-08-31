@@ -3,6 +3,7 @@
         "Land_Water_Map": {
             "id":       "Land_Water_Map",
             "title":    "Land / Water Map",
+            "description": "reference/",
             "tags":     "borders",
             "group":    "baselayers",
             "format":   "image/png",

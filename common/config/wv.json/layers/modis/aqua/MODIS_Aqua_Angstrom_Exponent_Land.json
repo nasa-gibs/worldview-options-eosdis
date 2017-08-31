@@ -4,6 +4,7 @@
             "id":       "MODIS_Aqua_Angstrom_Exponent_Land",
             "title":    "Deep Blue Aerosol Angstrom Exponent (Land)",
             "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

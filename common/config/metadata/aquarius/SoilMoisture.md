@@ -1,4 +1,4 @@
-# Soil Moisture (Daily, Radiometer)
+### Soil Moisture (Daily, Radiometer)
 Temporal Coverage: 25 August 2011 - 7 June 2015 (Daily)
 
 The Aquarius “Daily Soil Moisture (L3)” layer displays global soil moisture in m<sup>3</sup>/m<sup>3</sup>.  The Level-3 processing of Aquarius satellite data takes measurements at the boresight locations of the three Aquarius radiometer beams, which are converted into physical units of soil moisture, and maps these onto a 1 degree grid. The mean for the daily observation period is used to obtain the values for the grid.
@@ -10,7 +10,7 @@ Data Product & References: [Aquarius L3 Gridded 1-Degree Daily Soil Moisture](ht
 
 Data Field: l3m_data
 
-# Soil Moisture (Weekly, Radiometer)
+### Soil Moisture (Weekly, Radiometer)
 Temporal Coverage: 25 August 2011 to 7 June 2015 (Weekly)
 
 The Aquarius “Weekly Soil Moisture (L3)” layer displays global soil moisture in m<sup>3</sup>/m<sup>3</sup>.  The Level-3 processing of Aquarius satellite data takes measurements at the boresight locations of the three Aquarius radiometer beams, which are converted into physical units of soil moisture, and maps these onto a 1 degree grid. The mean for the weekly observation period is used to obtain the values for the grid.

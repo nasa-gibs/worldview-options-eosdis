@@ -1,4 +1,4 @@
-# Soil Moisture (Monthly, 0 - 10 cm, Noah LSM)
+### Soil Moisture (Monthly, 0 - 10 cm, Noah LSM)
 Temporal Coverage: 1 January 1948 - 31 December 2010 (Monthly)
 
 This GLDAS Soil Moisture parameter is one of the model assimilated fields from the Global Land Data Assimilation System Version 2.0 (GLDAS-2.0) Noah-3.3 Land Surface Model (LSM) monthly 1.0 degree data product. The GLDAS monthly data are generated through temporal averaging of the 3-hourly data. This GLDAS Noah Soil Moisture parameter represents the 0 - 10 cm depth-averaged amount of water in unit “kg/m<sup>2</sup>” which is equivalent to “mm”.  

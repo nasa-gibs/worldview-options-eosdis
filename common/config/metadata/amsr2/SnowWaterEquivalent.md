@@ -1,4 +1,4 @@
-# AMSR2 Snow Water Equivalent
+### AMSR2 Snow Water Equivalent
 Temporal coverage: 30 July 2015 - present
 
 The AMSR2 Snow Water Equivalent layer indicates the amount of water that is contained in snowpack in the Northern and Southern Hemispheres measured in millimeters (mm). Another way to think of it is if all the snow were melted instantaneously, it would be the depth of that water. The snow water equivalent layer is useful for assessing the amount of water that is present in the snowpack and can be used to assess surface runoff when the snow melts and to assess water availability for regions in lower elevations.

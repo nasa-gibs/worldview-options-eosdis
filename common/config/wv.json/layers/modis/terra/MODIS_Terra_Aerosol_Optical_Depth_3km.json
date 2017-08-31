@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Aerosol_Optical_Depth_3km",
             "title":    "Aerosol Optical Depth 3km (3km, Land and Ocean)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

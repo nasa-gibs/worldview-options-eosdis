@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Aerosol",
             "title":    "Aerosol Optical Depth",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

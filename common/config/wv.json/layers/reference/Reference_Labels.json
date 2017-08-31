@@ -4,6 +4,7 @@
             "id":       "Reference_Labels",
             "title":    "Place Labels",
             "subtitle": "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>, Natural Earth",
+            "description": "reference/",
             "tags":     "osm reference",
             "group":    "overlays",
             "type":     "wmts",

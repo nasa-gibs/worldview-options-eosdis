@@ -4,6 +4,7 @@
             "id":       "arctic_coastlines",
             "title":    "Coastlines  (EPSG:3995, legacy)",
             "subtitle": "Polarview / Coastlines",
+            "description": "reference/",
             "tags":     "borders",
             "group":    "overlays",
             "format":   "image/png",

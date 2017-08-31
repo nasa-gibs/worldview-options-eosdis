@@ -4,6 +4,7 @@
             "id":       "AIRS_Dust_Score",
             "title":    "Dust Score",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/",
             "group":    "overlays",
             "product":  "AIRIBQAP",
 

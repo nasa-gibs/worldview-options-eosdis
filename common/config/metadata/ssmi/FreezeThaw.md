@@ -1,4 +1,4 @@
-# Daily Landscape Freeze/Thaw DMSP SSM/I-SSMIS (MEaSUREs)
+### Daily Landscape Freeze/Thaw DMSP SSM/I-SSMIS (MEaSUREs)
 Temporal coverage: 1 January 1979 - 31 December 2010
 
 The Daily Landscape Freeze/Thaw layer shows the predominant frozen or non-frozen (thawed) status of the landscape in vegetated regions where seasonal frozen temperatures are a major constraint to ecosystem processes. It is derived using a temporal change classification of calibrated radiometric brightness temperatures at 37 GHz frequency from Scanning Multichannel Microwave Radiometer (SMMR) and Special Sensor Microwave Imager (SSM/I, SSMIS) sensor records available from Nimbus-7 and Defense Meteorological Satellite Program (DMSP) satellites.

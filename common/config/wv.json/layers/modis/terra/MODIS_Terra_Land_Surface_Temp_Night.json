@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Land_Surface_Temp_Night",
             "title":    "Land Surface Temperature (Night)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "tags":     "lst",
             "group":    "overlays",
             "layergroup": [

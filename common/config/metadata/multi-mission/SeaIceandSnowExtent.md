@@ -1,4 +1,4 @@
-# Sea Ice and Snow Extent
+### Sea Ice and Snow Extent
 Temporal Coverage: 1 January 1999 - 30 December 2012
 
 This MEaSUREs Sea Ice and Snow Extent layer reports the location of Northern Hemisphere snow cover and sea ice extent derived from the Terra, DMSP 5D-2/F13, and DMSP 5D-3/F17 satellites.

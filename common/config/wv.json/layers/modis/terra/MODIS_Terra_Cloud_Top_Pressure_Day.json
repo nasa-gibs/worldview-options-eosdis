@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Top_Pressure_Day",
             "title":    "Cloud Top Pressure (Day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

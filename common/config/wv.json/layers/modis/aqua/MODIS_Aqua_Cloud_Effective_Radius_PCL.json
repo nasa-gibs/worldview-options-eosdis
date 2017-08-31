@@ -4,6 +4,7 @@
             "id":       "MODIS_Aqua_Cloud_Effective_Radius_PCL",
             "title":    "Cloud Effective Radius (PCL)",
             "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/",
             "group":    "overlays",
             "layergroup": [
               "modis",

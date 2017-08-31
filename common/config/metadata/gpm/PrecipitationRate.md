@@ -1,4 +1,4 @@
-# GMI Rain Rate (Ascending/Descending)
+### GMI Rain Rate (Ascending/Descending)
 Temporal Coverage: 4 March 2014 - present
 
 The Global Precipitation Measurement (GPM) Microwave Imager (GMI) Rain Rate layer provides the rate at with rain reaches the earth's surface in millimeters per hour (mm/hr). The Rain Rate layer provides snapshots of individual storms, including tropical cyclones and flood-producing systems.  The GPM IMERG algorithm combines the data shown in the Rain Rate layer with the precipitation estimates from a constellation of other satellites to produce a comprehensive view of precipitation everywhere on earth every 30 minutes.
@@ -7,7 +7,7 @@ The GPM Microwave Imager (GMI) has a total of 13 channels, each observing the ea
 
 GMI is an instrument on the satellite known as the Global Precipitation Measurement (GPM) Core Observatory. The parent data product for the Rain Rate layer is the 2AGPROFGMI data product, which is also known as "Level 2A Goddard Profiling algorithm" or as "GPM_2AGPROFGPMGMI". The imagery resolution is 2 km and sensor resolution is approximately 4 km at the equator, and the rain estimates are reported on footprints that are approximately 6 km across. The temporal resolution is twice daily (ascending and descending) and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 4 March 2014 – present.
 
-# GMI Snow Rate (Ascending/Descending)
+### GMI Snow Rate (Ascending/Descending)
 Temporal Coverage: 4 March 2014 - present
 
 The Global Precipitation Measurement (GPM) Microwave Imager (GMI) Snow Rate layer provides the rate at with frozen precipitation reaches the earth's surface in millimeters per hour (mm/hr). The Snow Rate layer provides snapshots of individual storms. The GPM IMERG algorithm combines the data shown in the Snow Rate layer with the precipitation estimates from a constellation of other satellites to produce a comprehensive view of precipitation everywhere on earth every 30 minutes.

@@ -1,4 +1,4 @@
-# Wind Speed over Ice-Free Oceans (Monthly, Average)
+### Wind Speed over Ice-Free Oceans (Monthly, Average)
 Temporal Coverage: January 1988 - August 2016
 
 The RSS Wind Speed over Ice-Free Oceans layer indicates the average wind speed within a month in meters per second over ocean areas that are not covered in ice. The imagery resolution is about 1 degree, or about 111 kilometers, and the temporal resolution is monthly. This layer is also available from January 1988 through August 2016 for viewing in Worldview/Global Imagery Browse Services (GIBS) and was constructed using data collected from all of the SSM/I, SSMIS F16, SSMIS F17, AMSR-E, AMSR-2, and WindSat instruments. This layer was constructed by first creating a monthly wind speed 1-degree map from each satellite. Then, quality control measures were applied to this map and combined with wind speed measurements from each instrument to output this layer.

@@ -4,6 +4,7 @@
             "id":       "AIRS_Precipitation_Night",
             "title":    "Precipitation Estimate (Night)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/",
             "tags":     "rain snow",
             "group":    "overlays",
             "product":  "AIRX2SUP_NIGHT",

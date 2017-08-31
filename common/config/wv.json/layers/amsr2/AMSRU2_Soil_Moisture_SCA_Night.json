@@ -4,6 +4,7 @@
             "id":       "AMSRU2_Soil_Moisture_SCA_Night",
             "title":    "Soil Moisture (Single Channel Algorithm, Night)",
             "subtitle": "GCOM-W1 / AMSR2",
+            "description": "amsr2/",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

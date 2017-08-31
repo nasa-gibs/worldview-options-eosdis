@@ -4,6 +4,7 @@
             "id":       "MLS_HNO3_46hPa_Night",
             "title":    "Nitric Acid (46 hPa, Night)",
             "subtitle": "Aura / MLS",
+            "description": "mls/",
             "tags":     "hno3",
             "group":    "overlays",
             "layergroup": [

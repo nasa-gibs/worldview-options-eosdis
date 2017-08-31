@@ -4,6 +4,7 @@
             "id":       "MLS_N2O_46hPa_Night",
             "title":    "Nitrous Oxide (46 hPa, Night)",
             "subtitle": "Aura / MLS",
+            "description": "mls/",
             "tags":     "n2o",
             "group":    "overlays",
             "layergroup": [

@@ -4,6 +4,7 @@
             "id":       "MISR_Aerosol_Optical_Depth_Avg_Green_Monthly",
             "title":    "Aerosol Optical Depth Average (Green, Monthly)",
             "subtitle": "Terra / MISR",
+            "description": "misr/",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

@@ -4,6 +4,7 @@
             "id":       "OMI_Absorbing_Aerosol_Optical_Thickness_MW_388",
             "title":    "Aerosol Optical Depth (Absorbing, Multi-Wavelength, 388.0 nm)",
             "subtitle": "Aura / OMI",
+            "description": "omi/",
             "group":    "overlays",
             "layergroup": [
               "omi"

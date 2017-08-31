@@ -5,6 +5,7 @@
             "layer":    "grump-v1:grump-v1-settlement-points",
             "title":    "Settlements",
             "subtitle": "SEDAC Global Rural-Urban Mapping Project (GRUMP), v1",
+            "description": "sedac/",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

@@ -1,4 +1,4 @@
-# MODIS (Aqua/Terra) Cloud Optical Thickness (Cloud Optical Thickness and Cloud Optical Thickness PCL)
+### MODIS (Aqua/Terra) Cloud Optical Thickness (Cloud Optical Thickness and Cloud Optical Thickness PCL)
 Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 The MODIS Cloud Optical Thickness layer is a measure of the amount of sunlight affected by absorption and scattering when passing through the clouds. Clouds scatter and reflect most visible light. Hence it is simultaneously retrieved with Cloud Effective Radius by simultaneously measuring the reflection function of a non-absorbing and absorbing spectral channel (e.g., Visible/Near Infrared (VIS/NIR) and Shortwave Infrared (SWIR), respectively) and comparing the resulting measurements with theoretical forward model calculations.

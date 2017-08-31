@@ -1,4 +1,4 @@
-# DMSP-F13 SSMI Rain Rate Over Oceans (Ascending/Descending)
+### DMSP-F13 SSMI Rain Rate Over Oceans (Ascending/Descending)
 Temporal Coverage: 3 May 1995 - 4 November 2009
 
 The DMSP-F13 SSMI Rain Rate Over Oceans layer indicates the rain rate in millimeters per hour over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM, for May 3, 1995 through November 4, 2009 for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed by the Special Sensor Microwave/Imager (SSM/I) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F13 spacecraft using a unified, physically based algorithm to retrieve rain rate measurements.

@@ -3,7 +3,8 @@
         "Aquarius_Wind_Speed_L3_7Day_Snapshot": {
             "id":       "Aquarius_Wind_Speed_L3_7Day_Snapshot",
             "title":    "Wind Speed (L3, 7-Day Snapshot)",
-            "subtitle": "SAC-D/Aquarius",
+            "subtitle": "SAC-D / Aquarius",
+            "description": "aquarius/",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

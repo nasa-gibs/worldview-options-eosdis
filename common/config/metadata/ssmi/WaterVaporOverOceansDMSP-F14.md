@@ -1,4 +1,4 @@
-# DMSP-F14 SSMI Water Vapor Over Oceans (Ascending/Descending)
+### DMSP-F14 SSMI Water Vapor Over Oceans (Ascending/Descending)
 Temporal Coverage: 8 May 1997 - 8 August 2008
 
 The DMSP-F14 SSMI Water Vapor Over Oceans layer indicates the amount of water vapor in kilograms per meters squared over oceans. The imagery resolution is about 0.25  degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM, for May 8, 1997 through August 8, 2008 for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed by the Special Sensor Microwave/Imager (SSM/I) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F14 spacecraft using a unified, physically based algorithm to retrieve water vapor measurements.

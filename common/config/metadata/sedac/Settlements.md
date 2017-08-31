@@ -1,4 +1,4 @@
-# SEDAC Settlements
+### SEDAC Settlements
 The SEDAC Population Count layer indicates the locations of settlements around the world and is part of the Global Rural-Urban Mapping Project, Version 1 (GRUMPv1).
 
 The settlement points served as an input to the population gridding algorithm and the urban extents products of the Global Rural-Urban Mapping Project, Version 1 (GRUMPv1).

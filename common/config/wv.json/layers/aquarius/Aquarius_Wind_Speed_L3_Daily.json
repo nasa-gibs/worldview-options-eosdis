@@ -3,7 +3,8 @@
         "Aquarius_Wind_Speed_L3_Daily": {
             "id":       "Aquarius_Wind_Speed_L3_Daily",
             "title":    "Wind Speed (L3, Daily)",
-            "subtitle": "SAC-D/Aquarius",
+            "subtitle": "SAC-D / Aquarius",
+            "description": "aquarius/",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

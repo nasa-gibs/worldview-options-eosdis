@@ -4,6 +4,7 @@
             "id":       "AMSRE_Surface_Rain_Rate_Day",
             "title":    "Surface Rain Rate (Day)",
             "subtitle": "Aqua / AMSR-E",
+            "description": "amsre/",
             "group":    "overlays",
             "product":  "AE_Rain",
             "layergroup": [

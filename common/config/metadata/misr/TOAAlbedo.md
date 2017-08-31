@@ -1,4 +1,4 @@
-# TOA Albedo Average (Red, Monthly)
+### TOA Albedo Average (Red, Monthly)
 Temporal Coverage: March 2000 - present (Monthly)
 
 The MISR TOA Albedo Average layer displays the global top-of-atmosphere (TOA) albedo calculated from the red-band (670 nm) radiances measured by MISR’s cameras, averaged on a monthly basis. TOA albedo is a unitless measure of how much solar radiation is being absorbed by the Earth and its atmosphere versus how much is being emitted, and varies between zero and one, with zero corresponding to all solar radiation being absorbed, while one represents all radiation being reflected. Values tend to be high over ice and snow, moderate over clouds, and low over dark ocean and vegetated areas. MISR TOA albedo is calculated by dividing the red-band reflectance by the average solar insolation. TOA albedo is useful for studying the radiation budget of the Earth.

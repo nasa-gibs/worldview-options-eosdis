@@ -4,6 +4,7 @@
             "id":       "MOPITT_CO_Monthly_Total_Column_Day",
             "title":    "Carbon Monoxide (Monthly, Day, Total Column)",
             "subtitle": "Terra / MOPITT",
+            "description": "mopitt/",
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [

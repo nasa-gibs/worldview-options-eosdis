@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Sea_Ice",
             "title":    "Sea Ice",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

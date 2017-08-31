@@ -1,4 +1,4 @@
-# DMSP-F16 SSMIS Water Vapor Over Oceans (Ascending/Descending)
+### DMSP-F16 SSMIS Water Vapor Over Oceans (Ascending/Descending)
 Temporal Coverage: 26 October 2003 - present
 
 The DMSP-F16 SSMIS Water Vapor Over Oceans layer indicates the amount of water vapor in kilograms per meters squared over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM, for October 26, 2003 through present day for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed by the Special Sensor Microwave Imager Sounder (SSMIS) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F16 spacecraft using a unified, physically based algorithm that was carefully intercalibrated on the brightness temperature level with the previous SSM/I data to retrieve water vapor measurements.

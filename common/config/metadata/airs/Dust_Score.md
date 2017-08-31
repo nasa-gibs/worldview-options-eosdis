@@ -1,4 +1,4 @@
-# AIRS Dust Score (Ocean) (Day/Night)
+### AIRS Dust Score (Ocean) (Day/Night)
 Temporal coverage: 28 January 2016 - present (day); 9 February 2016 - present (night)
 
 The AIRS Dust Score (Ocean) layer indicates the level of atmospheric aerosols in the Earth’s atmosphere over the ocean. The numerical scale is a qualitative representation of the presence of dust in the atmosphere, an indication of where large dust storms may form and the areas that may be affected. Pixels where the dust score is less than 360 are not shown in Worldview/Global Imagery Browse Services (GIBS).

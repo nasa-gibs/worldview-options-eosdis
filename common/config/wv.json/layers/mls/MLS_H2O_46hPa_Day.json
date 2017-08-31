@@ -4,6 +4,7 @@
             "id":       "MLS_H2O_46hPa_Day",
             "title":    "Water Vapor (46 hPa, Day)",
             "subtitle": "Aura / MLS",
+            "description": "mls/",
             "tags":     "h2o",
             "group":    "overlays",
             "layergroup": [

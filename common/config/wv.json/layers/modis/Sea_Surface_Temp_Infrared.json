@@ -4,6 +4,7 @@
             "id":       "Sea_Surface_Temp_Infrared",
             "title":    "Sea Surface Temperature (Infrared)",
             "subtitle": "PODAAC / MODIS / Terra and Aqua / 5 day",
+            "description": "modis/",
             "tags":     "sst",
             "group":    "overlays",
             "layergroup": [

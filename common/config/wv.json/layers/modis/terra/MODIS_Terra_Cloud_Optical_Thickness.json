@@ -3,7 +3,8 @@
         "MODIS_Terra_Cloud_Optical_Thickness": {
             "id":       "MODIS_Terra_Cloud_Optical_Thickness",
             "title":    "Cloud Optical Thickness",
-            "subtitle": "Terra/MODIS",
+            "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

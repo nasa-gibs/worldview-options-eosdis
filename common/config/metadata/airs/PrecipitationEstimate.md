@@ -1,4 +1,4 @@
-# AIRS Precipitation Estimate (Day/Night)
+### AIRS Precipitation Estimate (Day/Night)
 Temporal coverage: 8 May 2012 - present
 
 The AIRS Precipitation Estimate Day/Night layer is an estimate of daily precipitation measured in millimeters (mm) using cloud-related parameters of cloud-top pressure, fractional cloud cover, and cloud-layer relative humidity.

@@ -1,4 +1,4 @@
-# AMSR2 Columnar Water Vapor (Day/Night)
+### AMSR2 Columnar Water Vapor (Day/Night)
 Temporal coverage: 7 June 2015 - present
 
 The AMSR2 Columnar Water Vapor layer indicates the depth of the total gaseous water within a vertical column of atmosphere over the ocean, measured in millimeters (mm). Almost all of atmospheric moisture is in the form of water vapor. This water vapor drives the development of weather systems on short time scales and influences the climate on longer time scales. Water vapor is Earth’s primary greenhouse gas and traps more heat than carbon dioxide. The movement of water vapor around the globe helps determine the amount of precipitation a region might receive and helps transport heat from the tropics to the poles. Total water vapor is the amount of water dissolved in the air; relative humidity is the amount of water in the air relative to the amount of water the air could hold.

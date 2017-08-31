@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_NDVI_8Day",
             "title":    "Normalized Difference Vegetation Index (NDVI) (rolling 8-day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

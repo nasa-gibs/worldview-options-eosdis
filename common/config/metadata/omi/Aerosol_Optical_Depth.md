@@ -1,4 +1,4 @@
-# OMI Aerosol Optical Depth  
+### OMI Aerosol Optical Depth  
 
 This is a gridded Level-2 OMI/Aura Near-UV Aerosol Absorption and Extinction Optical Depth and Single Scattering Albedo (OMAERUV) daily composite images for aerosol extinction optical depth (AOD) at 354, 388 and 500 nm. 
 

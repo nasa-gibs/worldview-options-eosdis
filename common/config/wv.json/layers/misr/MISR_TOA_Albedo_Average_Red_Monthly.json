@@ -4,6 +4,7 @@
             "id":       "MISR_TOA_Albedo_Average_Red_Monthly",
             "title":    "TOA Albedo Average (Red, Monthly)",
             "subtitle": "Terra / MISR",
+            "description": "misr/",
             "tags":     "top of atmosphere",
             "group":    "overlays",
             "layergroup": [

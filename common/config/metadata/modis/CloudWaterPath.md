@@ -1,4 +1,4 @@
-# MODIS (Aqua/Terra) Cloud Water Path (Cloud Water Path and Cloud Water Path PCL)
+### MODIS (Aqua/Terra) Cloud Water Path (Cloud Water Path and Cloud Water Path PCL)
 Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 The MODIS Cloud Water Path indicates the amount of water in the atmosphere above a unit surface area of the earth. It is measured in grams per square meter (g/m<sup>2</sup>) and is globally retrieved for liquid and ice cloud phases. Cloud water path forms a link between radiative and hydrological properties of the Earth’s climate system.

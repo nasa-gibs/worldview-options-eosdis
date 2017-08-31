@@ -4,6 +4,7 @@
             "id":       "MLS_CO_215hPa_Day",
             "title":    "Carbon Monoxide (215 hPa, Day)",
             "subtitle": "Aura / MLS",
+            "description": "mls/",
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [

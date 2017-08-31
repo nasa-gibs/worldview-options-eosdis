@@ -1,4 +1,4 @@
-# Lightning Flash Rate (Combined)
+### Lightning Flash Rate (Combined)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
 The TRMM/LIS, OrbView-1/OTD Lightning Flash Rate (Combined) layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year (Flashes/km<sup>2</sup>/year) from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Measuring Mission (TRMM) satellite and the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then calculated the frequency of each lightning flash.

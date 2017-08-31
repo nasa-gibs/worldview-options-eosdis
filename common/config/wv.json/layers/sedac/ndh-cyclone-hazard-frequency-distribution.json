@@ -4,6 +4,7 @@
             "id":       "ndh-cyclone-hazard-frequency-distribution",
             "title":    "Cyclone Hazard: Frequency and Distribution",
             "subtitle": "SEDAC Global Cyclone Hazard Frequency and Distribution, v1 (1980-2000)",
+            "description": "sedac/",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

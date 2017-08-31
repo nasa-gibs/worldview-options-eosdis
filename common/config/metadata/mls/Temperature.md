@@ -1,4 +1,4 @@
-# MLS Temperature 46hPa (Day/Night)
+### MLS Temperature 46hPa (Day/Night)
 Temporal coverage: 9 May 2013 - present
 
 The Microwave Limb Sounder (MLS) Temperature layer indicates the temperature of the atmosphere at the vertical atmospheric pressure level of 46 hectopascals (hPa) and is measured in Kelvin (K). The MLS instrument measures naturally-occurring microwave thermal emission from the limb (edge) of the Earth's atmosphere to remotely sense vertical profiles of atmospheric gases, temperature, pressure, and cloud ice.

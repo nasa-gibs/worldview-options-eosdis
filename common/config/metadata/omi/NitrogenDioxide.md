@@ -1,4 +1,4 @@
-# Nitrogen Dioxide (Tropospheric Column)
+### Nitrogen Dioxide (Tropospheric Column)
 Temporal Coverage: 1 October 2004 - Present
 
 The OMI Nitrogen Dioxide (NO2) tropospheric parameter displays the tropospheric component of the total NO2 column measured in molecules/cm2. Nitrogen dioxide is an important chemical species in both, the stratosphere where it plays a key role in ozone chemistry, and in the troposphere where it is a precursor to ozone production. In the troposphere, it is produced in various combustion processes and in lightning and is an indicator of poor air quality and urban smog.

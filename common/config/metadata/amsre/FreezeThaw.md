@@ -1,4 +1,4 @@
-# AMSR-E Daily Landscape Freeze/Thaw (MEaSUREs)
+### AMSR-E Daily Landscape Freeze/Thaw (MEaSUREs)
 Temporal coverage: 9 June 2002 to 27 September 2011
 
 The AMSR-E Daily Landscape Freeze/Thaw layer shows the predominant daily frozen or non-frozen (thawed) status of the landscape in vegetated regions where seasonal frozen temperatures are a major constraint to ecosystem processes. It is derived using a temporal change classification of calibrated radiometric brightness temperatures at 36.5 GHz frequency from the AMSR-E instrument. The layer shows 4 states: frozen, non-frozen (thawed), transitional (AM frozen, PM thawed) and inverse transitional (AM thawed, PM frozen) conditions.

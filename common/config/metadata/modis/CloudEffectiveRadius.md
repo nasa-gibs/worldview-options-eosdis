@@ -1,4 +1,4 @@
-# MODIS (Aqua/Terra) Cloud Effective Radius (PCL, 3.7 micron and 3.7 micron PCL)
+### MODIS (Aqua/Terra) Cloud Effective Radius (PCL, 3.7 micron and 3.7 micron PCL)
 Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 The MODIS Cloud Effective Radius layer is a measure of cloud particle size in microns (μm). It is retrieved globally during day time for liquid and ice phases. It is simultaneously retrieved with Cloud Optical Thickness by simultaneously measuring the reflection function of a non-absorbing and absorbing spectral channel (e.g., Visible/Near Infrared (VIS/NIR) and Shortwave Infrared (SWIR), respectively) and comparing the resulting measurements with theoretical forward model calculations. Generally, smaller the particle size, brighter and more reflective are the clouds. The smaller cloud particles tend to reflect and scatter more sunlight back into space.

@@ -4,6 +4,7 @@
             "id":       "AMSRE_Sea_Ice_Concentration_25km",
             "title":    "Sea Ice Concentration, 25km",
             "subtitle": "Aqua / AMSR-E",
+            "description": "amsre/",
             "group":    "overlays",
             "product":  "AE_SI25",
             "layergroup": [

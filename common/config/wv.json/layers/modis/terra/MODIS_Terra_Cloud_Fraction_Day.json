@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Fraction_Day",
             "title":    "Cloud Fraction (Day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

@@ -1,4 +1,4 @@
-# AIRS Prata Sulfur Dioxide (SO2) Index (Day/Night)
+### AIRS Prata Sulfur Dioxide (SO2) Index (Day/Night)
 Temporal coverage:  8 May 2012 - present
 
 The AIRS Prata SO2 Index Day/Night layer indicates Sulfur Dioxide column amounts in the atmosphere, measured in Dobson Units (DU).  

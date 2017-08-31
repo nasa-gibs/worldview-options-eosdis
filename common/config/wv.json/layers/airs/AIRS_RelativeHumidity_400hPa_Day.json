@@ -4,6 +4,7 @@
             "id":       "AIRS_RelativeHumidity_400hPa_Day",
             "title":    "Relative Humidity (400 hPa, Day)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/",
             "tags":     "rh",
             "group":    "overlays",
             "product":  "AIRX2RET_DAY",

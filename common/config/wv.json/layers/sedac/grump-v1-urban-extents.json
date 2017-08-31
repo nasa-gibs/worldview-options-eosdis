@@ -5,6 +5,7 @@
             "layer":    "grump-v1:grump-v1-urban-extents",
             "title":    "Urban Extents",
             "subtitle": "SEDAC Urban Extents Grid, v1 (1995)",
+            "description": "sedac/",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

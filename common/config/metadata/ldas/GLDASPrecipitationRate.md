@@ -1,4 +1,4 @@
-# Total Precipitation Rate (Monthly, Surface, Noah LSM)
+### Total Precipitation Rate (Monthly, Surface, Noah LSM)
 Temporal Coverage: 1 January 1948 - 31 December 2010 (Monthly)
 
 This GLDAS Total Precipitation Rate parameter is one of the land-surface forcing fields included in the Global Land Data Assimilation System Version 2.0 (GLDAS-2.0) Noah-3.3 Land Surface Model (LSM) monthly 1.0 degree data product. GLDAS-2.0 data use the Princeton Global Meteorological Forcing Dataset, which provides near-surface meteorological data for driving land surface models and other terrestrial modeling systems. The GLDAS monthly data are generated through temporal averaging of the 3-hourly data. The data are in unit “kg/m<sup>2</sup>/s” which is equivalent to “mm/s”.  

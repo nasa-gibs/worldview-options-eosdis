@@ -4,6 +4,7 @@
             "id":       "GLDAS_Near_Surface_Air_Temperature_Monthly",
             "title":    "Air Temperature (Monthly, Near Surface, Noah LSM)",
             "subtitle": "GLDAS",
+            "description": "ldas/",
             "tags":     "global land data assimilation system, land surface model",
             "group":    "overlays",
             "layergroup": [

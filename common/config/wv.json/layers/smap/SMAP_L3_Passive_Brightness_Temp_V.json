@@ -4,6 +4,7 @@
             "id":       "SMAP_L3_Passive_Brightness_Temp_V",
             "title":    "Corrected Brightness Temperature (L3, Passive, V Polarization)",
             "subtitle": "SMAP / Radiometer",
+            "description": "smap/",
             "group":    "overlays",
             "layergroup": [
               "smap"
