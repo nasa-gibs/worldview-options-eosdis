@@ -6,6 +6,9 @@
             "subtitle": "SAC-D/Aquarius",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "aquarius"
+            ],
             "product":  "AQ3_DYSM",
             "inactive": true
         }

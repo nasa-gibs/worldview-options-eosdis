@@ -5,6 +5,10 @@
             "title":    "Ice Velocity (Greenland)",
             "subtitle": "ALOS/PALSAR, RADARSAT-1/SAR, TSX/SAR",
             "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_merged"
+            ],
             "product": 	"NSIDC-0478",
             "group":    "overlays",
             "startDate":"2000-09-03",

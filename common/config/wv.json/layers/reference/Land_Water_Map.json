@@ -8,7 +8,9 @@
             "format":   "image/png",
             "type":     "wmts",
             "tileSize": [ 512, 512 ],
-
+            "layergroup": [
+              "reference"
+            ],
             "projections": {
                 "antarctic": {
                     "layer":        "SCAR_Land_Water_Map",

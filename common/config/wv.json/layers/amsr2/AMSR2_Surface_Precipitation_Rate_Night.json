@@ -5,6 +5,9 @@
             "title":    "Surface Precipitation Rate (Night)",
             "subtitle": "GCOM-W1 / AMSR2",
             "group":    "overlays",
+            "layergroup": [
+              "amsr2"
+            ],
             "product":  "A2_RainOcn_NRT"
         }
     }

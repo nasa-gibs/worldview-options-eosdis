@@ -5,6 +5,9 @@
             "title":    "Soil Moisture 9 km (L3, Active/Passive)",
             "subtitle": "SMAP / Radar + Radiometer",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL3SMAP",
             "wrapadjacentdays": true,
             "inactive": true

@@ -8,6 +8,9 @@
             "group":    "overlays",
             "product":  "AIRIBRAD_DAY",
 
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "recommended": ["orange_1", "red_1"]
             }

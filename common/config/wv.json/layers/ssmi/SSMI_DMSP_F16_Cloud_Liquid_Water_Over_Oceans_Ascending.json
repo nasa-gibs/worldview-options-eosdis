@@ -6,6 +6,9 @@
             "subtitle": "DMSP-F16 / SSMIS",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "ssmi"
+            ],
             "product":  "rssmif16d"
         }
     }

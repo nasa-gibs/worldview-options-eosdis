@@ -5,6 +5,9 @@
             "title":    "Rain Rate (Descending)",
             "subtitle": "GPM / GMI",
             "group":    "overlays",
+            "layergroup": [
+              "gpm"
+            ],
             "product":  "GPM_2AGPROFGPMGMI"
         }
     }

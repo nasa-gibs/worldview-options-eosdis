@@ -6,6 +6,9 @@
             "subtitle": "DMSP-F8 / SSMI",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "ssmi"
+            ],
             "product":  "rssmif08d",
             "inactive": true
         }

@@ -5,6 +5,9 @@
             "title":    "Disaggregated Brightness Temperature 9 km (L3, Active/Passive, H Polarization)",
             "subtitle": "SMAP / Radar + Radiometer",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL3SMAP",
             "inactive": true,
             "wrapadjacentdays": true

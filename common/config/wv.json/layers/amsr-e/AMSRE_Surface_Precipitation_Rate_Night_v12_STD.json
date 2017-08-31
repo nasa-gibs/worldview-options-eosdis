@@ -7,6 +7,9 @@
             "tags":      "rain snow",
             "group":    "overlays",
             "product":  "AE_Rain",
+            "layergroup": [
+              "amsr-e"
+            ],
             "inactive": true
         }
     }

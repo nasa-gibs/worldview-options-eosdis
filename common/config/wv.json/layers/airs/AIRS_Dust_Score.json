@@ -7,6 +7,9 @@
             "group":    "overlays",
             "product":  "AIRIBQAP",
 
+            "layergroup": [
+              "airs"
+            ],
             "palette": {
                 "exclude":  ["orange_1"]
             }

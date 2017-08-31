@@ -6,6 +6,9 @@
             "subtitle": "Aura / MLS",
             "tags":     "h2o",
             "group":    "overlays",
+            "layergroup": [
+              "mls"
+            ],
             "product":  "ML2H2O"
         }
     }

@@ -5,6 +5,9 @@
             "title":    "Sulfur Dioxide (Upper Troposphere and Stratosphere)",
             "subtitle": "Aura / OMI",
             "group":    "overlays",
+            "layergroup": [
+              "omi"
+            ],
             "product":  "OMSO2",
             "tags":     "so2 sulphur dioxide",
 

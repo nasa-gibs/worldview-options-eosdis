@@ -6,6 +6,9 @@
             "subtitle": "Aura / MLS",
             "tags":     "co",
             "group":    "overlays",
+            "layergroup": [
+              "mls"
+            ],
             "product":  "ML2CO"
         }
     }

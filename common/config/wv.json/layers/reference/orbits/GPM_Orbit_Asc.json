@@ -4,12 +4,18 @@
             "id":       "GPM_Orbit_Asc",
             "title":    "Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / GPM",
+            "description": "reference/orbits/GPM_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "day",
+            "track": "ascending",
             "startDate": "2014-02-27",
 
             "projections": {

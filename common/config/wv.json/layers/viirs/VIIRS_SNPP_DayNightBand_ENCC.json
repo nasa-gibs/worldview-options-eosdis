@@ -5,6 +5,9 @@
             "title":    "Nighttime Imagery (Day/Night Band, Enhanced Near Constant Contrast)",
             "subtitle": "Suomi NPP / VIIRS",
             "tags":     "dnb night s-npp snpp night lights",
+            "layergroup": [
+              "viirs"
+            ],
             "group":    "overlays"
         }
     }

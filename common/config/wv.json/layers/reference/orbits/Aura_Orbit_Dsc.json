@@ -4,12 +4,18 @@
             "id":       "Aura_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / Aura",
+            "description": "reference/orbits/Aura_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "night",
+            "track": "descending",
             "startDate": "2004-07-15",
 
             "projections": {

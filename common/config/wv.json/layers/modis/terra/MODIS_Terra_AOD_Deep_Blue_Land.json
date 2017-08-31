@@ -6,6 +6,10 @@
             "subtitle": "Terra / MODIS",
             "tags":     "aod",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "product":  "MOD04_L2",
             "wrapadjacentdays": true
             }

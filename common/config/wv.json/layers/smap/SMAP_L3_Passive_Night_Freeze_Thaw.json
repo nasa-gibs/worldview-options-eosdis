@@ -5,6 +5,9 @@
             "title":    "Freeze/Thaw 36 km (L3, Passive, Night)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL3FTP"
         }
     }

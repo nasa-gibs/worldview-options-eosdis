@@ -4,12 +4,18 @@
             "id":       "Calipso_Orbit_Dsc",
             "title":    "Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / CALIPSO",
+            "description": "reference/orbits/Calipso_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-
+            "layergroup": [
+              "reference",
+              "reference_orbits"
+            ],
+            "daynight": "night",
+            "track": "descending",
             "startDate": "2006-04-28",
 
             "projections": {

@@ -9,7 +9,9 @@
             "format":   "image/png",
             "type":     "wmts",
             "tileSize": [ 512, 512 ],
-
+            "layergroup": [
+              "reference"
+            ],
             "noTransition":     "true",
 
             "projections": {

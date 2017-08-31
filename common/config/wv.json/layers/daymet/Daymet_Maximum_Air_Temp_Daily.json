@@ -5,6 +5,9 @@
             "title":    "Maximum Air Temperature (Daily)",
             "subtitle": "Daymet",
             "group":    "overlays",
+            "layergroup": [
+              "daymet"
+            ],
             "product":  "1328",
             "inactive": true,
             "wrapadjacentdays": true

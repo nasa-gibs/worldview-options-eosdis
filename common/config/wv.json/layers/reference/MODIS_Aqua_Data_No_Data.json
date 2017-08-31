@@ -4,7 +4,10 @@
             "id":       "MODIS_Aqua_Data_No_Data",
             "title":    "Areas of No Data (mask)",
             "subtitle": "Aqua / MODIS",
-            "group":    "overlays"
+            "group":    "overlays",
+            "layergroup": [
+              "reference"
+            ]
         }
     }
 }

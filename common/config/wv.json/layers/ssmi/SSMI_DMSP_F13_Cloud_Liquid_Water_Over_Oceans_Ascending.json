@@ -6,6 +6,9 @@
             "subtitle": "DMSP-F13 / SSMI",
             "tags":     "",
             "group":    "overlays",
+            "layergroup": [
+              "ssmi"
+            ],
             "product":  "rssmif13d",
             "inactive": true
         }

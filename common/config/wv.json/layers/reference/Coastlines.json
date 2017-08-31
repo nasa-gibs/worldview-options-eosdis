@@ -8,7 +8,9 @@
             "type":     "wmts",
             "tileSize": [ 512, 512 ],
             "noTransition":     "true",
-
+            "layergroup": [
+              "reference"
+            ],
             "projections": {
                 "antarctic": {
                     "subtitle":     "SCAR Antarctic Digital Database / Coastlines",

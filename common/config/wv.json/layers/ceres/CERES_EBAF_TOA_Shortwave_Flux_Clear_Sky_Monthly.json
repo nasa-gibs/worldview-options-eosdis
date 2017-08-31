@@ -6,6 +6,9 @@
             "subtitle": "Terra / CERES",
             "tags":     "top of atmosphere",
             "group":    "overlays",
+            "layergroup": [
+              "ceres"
+            ],
             "product":  "",
             "startDate":"2000-03-01",
             "endDate":  "2011-11-30",

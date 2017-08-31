@@ -5,6 +5,10 @@
             "title":    "Water Vapor (Day)",
             "subtitle": "Terra / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_terra"
+            ],
             "product":  "MOD05_L2_DAY",
             "wrapadjacentdays": true,
 

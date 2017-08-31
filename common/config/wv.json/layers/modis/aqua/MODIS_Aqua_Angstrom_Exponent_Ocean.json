@@ -6,6 +6,10 @@
             "subtitle": "Aqua / MODIS",
             "tags":     "aod",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD04_L2",
             "wrapadjacentdays": true
             }

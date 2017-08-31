@@ -5,6 +5,10 @@
             "title":    "Cloud Top Temperature (Night)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD06_L2_NIGHT",
 
             "palette": {

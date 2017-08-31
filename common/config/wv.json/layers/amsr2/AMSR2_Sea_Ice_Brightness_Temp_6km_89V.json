@@ -5,6 +5,9 @@
             "title":    "Sea Ice Brightness Temperature 6km 89V",
             "subtitle": "GCOM-W1 / AMSR2",
             "group":    "overlays",
+            "layergroup": [
+              "amsr2"
+            ],
             "product":  "A2_SI6_NRT"
         }
     }

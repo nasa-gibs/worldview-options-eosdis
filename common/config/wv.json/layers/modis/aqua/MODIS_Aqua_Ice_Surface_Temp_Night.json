@@ -5,6 +5,10 @@
             "title":    "Ice Surface Temperature (Night)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MYD29"
         }
     }

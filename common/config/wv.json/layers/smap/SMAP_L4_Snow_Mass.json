@@ -5,6 +5,9 @@
             "title":    "Snow Mass 9 km (L4, 12z-3z Average)",
             "subtitle": "SMAP / Model Value-Added",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL4SMGP",
             "wrapadjacentdays": true
         }

@@ -5,6 +5,9 @@
             "title":    "Soil Moisture 3 km (L3, Active)",
             "subtitle": "SMAP / Radar",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL3SMA",
             "inactive": true,
             "wrapadjacentdays": true

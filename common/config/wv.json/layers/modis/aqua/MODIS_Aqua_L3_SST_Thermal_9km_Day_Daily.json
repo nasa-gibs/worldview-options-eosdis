@@ -5,6 +5,10 @@
             "title":    "Sea Surface Temperature (L3, Day, Daily, Thermal, 9 km)",
             "subtitle": "Aqua / MODIS",
             "group":    "overlays",
+            "layergroup": [
+              "modis",
+              "modis_aqua"
+            ],
             "product":  "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2014.0",
             "wrapadjacentdays": true
         }

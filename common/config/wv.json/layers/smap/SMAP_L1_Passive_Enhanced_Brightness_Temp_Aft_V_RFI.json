@@ -6,6 +6,9 @@
             "subtitle": "SMAP / Radiometer",
             "tags":     "enhanced",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL1CTB_E"
         }
     }

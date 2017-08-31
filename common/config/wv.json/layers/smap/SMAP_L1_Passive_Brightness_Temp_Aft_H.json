@@ -5,6 +5,9 @@
             "title":    "Uncorrected Brightness Temperature 36 km (L1, Passive, Aft, H Polarization)",
             "subtitle": "SMAP / Radiometer",
             "group":    "overlays",
+            "layergroup": [
+              "smap"
+            ],
             "product":  "SPL1CTB"
         }
     }
