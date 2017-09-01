@@ -508,6 +508,7 @@
         "MOPITT_CO_Monthly_Total_Column_Night",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
+        "MOPITT_CO_Daily_Total_Column_L2",
 
         "GLDAS_Surface_Total_Precipitation_Rate_Monthly",
         "GLDAS_Underground_Soil_Moisture_Monthly",
