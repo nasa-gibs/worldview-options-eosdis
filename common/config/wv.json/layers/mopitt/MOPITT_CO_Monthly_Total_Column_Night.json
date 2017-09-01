@@ -2,7 +2,7 @@
     "layers": {
         "MOPITT_CO_Monthly_Total_Column_Night": {
             "id":       "MOPITT_CO_Monthly_Total_Column_Night",
-            "title":    "Carbon Monoxide (Monthly, Night, Total Column)",
+            "title":    "Carbon Monoxide (L3, Monthly, Night, Total Column)",
             "subtitle": "Terra / MOPITT",
             "tags":     "co",
             "group":    "overlays",
