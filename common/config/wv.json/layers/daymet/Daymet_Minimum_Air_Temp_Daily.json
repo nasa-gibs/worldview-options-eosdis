@@ -4,7 +4,7 @@
             "id":       "Daymet_Minimum_Air_Temp_Daily",
             "title":    "Minimum Air Temperature (Daily)",
             "subtitle": "Daymet",
-            "description": "daymet/",
+            "description": "daymet/Daymet_Minimum_Air_Temp_Daily",
             "group":    "overlays",
             "layergroup": [
               "daymet"

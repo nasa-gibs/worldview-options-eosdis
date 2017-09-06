@@ -4,7 +4,7 @@
             "id":       "GMI_Rain_Rate_Dsc",
             "title":    "Rain Rate (Descending)",
             "subtitle": "GPM / GMI",
-            "description": "gpm/",
+            "description": "gpm/GMI_Rain_Rate_Dsc",
             "group":    "overlays",
             "layergroup": [
               "gpm"

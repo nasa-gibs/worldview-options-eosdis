@@ -4,7 +4,7 @@
             "id":       "MISR_Directional_Hemispherical_Reflectance_Average_Natural_Color_Monthly",
             "title":    "Directional Hemispheric Reflectance (DHR) Average (Monthly, Natural Color)",
             "subtitle": "Terra / MISR",
-            "description": "misr/",
+            "description": "misr/MISR_Directional_Hemispherical_Reflectance_Average_Natural_Color_Monthly",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

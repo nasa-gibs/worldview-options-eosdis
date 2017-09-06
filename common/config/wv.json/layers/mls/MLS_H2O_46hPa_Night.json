@@ -4,7 +4,7 @@
             "id":       "MLS_H2O_46hPa_Night",
             "title":    "Water Vapor (46 hPa, Night)",
             "subtitle": "Aura / MLS",
-            "description": "mls/",
+            "description": "mls/MLS_H2O_46hPa_Night",
             "tags":     "h2o",
             "group":    "overlays",
             "layergroup": [

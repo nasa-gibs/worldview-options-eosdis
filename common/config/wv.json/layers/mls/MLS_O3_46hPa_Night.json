@@ -4,7 +4,7 @@
             "id":       "MLS_O3_46hPa_Night",
             "title":    "Ozone (46 hPa, Night)",
             "subtitle": "Aura / MLS",
-            "description": "mls/",
+            "description": "mls/MLS_O3_46hPa_Night",
             "tags":     "o3",
             "group":    "overlays",
             "layergroup": [

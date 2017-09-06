@@ -4,7 +4,7 @@
             "id":       "ASTER_GDEM_Color_Index",
             "title":    "Global Digital Elevation Map (Color Index)",
             "subtitle": "Terra / ASTER",
-            "description": "aster/",
+            "description": "aster/ASTER_GDEM_Color_Index",
             "tags":     "gdem",
             "group":    "overlays",
             "type":     "wmts",

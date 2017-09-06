@@ -4,7 +4,7 @@
             "id":       "AMSR2_Columnar_Water_Vapor_Day",
             "title":    "Columnar Water Vapor (Day)",
             "subtitle": "GCOM-W1 / AMSR2",
-            "description": "amsr2/",
+            "description": "amsr2/AMSR2_Columnar_Water_Vapor_Day",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

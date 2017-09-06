@@ -4,7 +4,7 @@
             "id":       "AMSR2_Surface_Precipitation_Rate_Night",
             "title":    "Surface Precipitation Rate (Night)",
             "subtitle": "GCOM-W1 / AMSR2",
-            "description": "amsr2/",
+            "description": "amsr2/AMSR2_Surface_Precipitation_Rate_Night",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

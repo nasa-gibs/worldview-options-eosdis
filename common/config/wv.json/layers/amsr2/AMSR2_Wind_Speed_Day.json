@@ -4,7 +4,7 @@
             "id":       "AMSR2_Wind_Speed_Day",
             "title":    "Wind Speed (Day)",
             "subtitle": "GCOM-W1 / AMSR2",
-            "description": "amsr2/",
+            "description": "amsr2/AMSR2_Wind_Speed_Day",
             "group":    "overlays",
             "layergroup": [
               "amsr2"
