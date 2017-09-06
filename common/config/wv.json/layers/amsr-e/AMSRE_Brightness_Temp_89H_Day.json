@@ -4,7 +4,7 @@
             "id":       "AMSRE_Brightness_Temp_89H_Day",
             "title":    "Brightness Temperature (89H GHz B Scan, Day)",
             "subtitle": "Aqua / AMSR-E",
-            "description": "amsre/",
+            "description": "amsre/AMSRE_Brightness_Temp_89H_Day",
             "group":    "overlays",
             "product":  "AE_L2A_DAY",
             "layergroup": [
