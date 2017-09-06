@@ -4,7 +4,7 @@
             "id":       "MODIS_Fires_Aqua",
             "title":    "Fires and Thermal Anomalies (Day and Night)",
             "subtitle": "Aqua / MODIS",
-            "description": "modis/aqua/",
+            "description": "modis/aqua/MODIS_Fires_Aqua",
             "tags":     "hotspot",
             "group":    "overlays",
             "format":   "image/png",

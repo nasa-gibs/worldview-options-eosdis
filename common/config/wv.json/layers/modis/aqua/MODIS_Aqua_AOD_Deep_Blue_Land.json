@@ -4,7 +4,7 @@
             "id":       "MODIS_Aqua_AOD_Deep_Blue_Land",
             "title":    "Deep Blue Aerosol Optical Depth (Land)",
             "subtitle": "Aqua / MODIS",
-            "description": "modis/aqua/",
+            "description": "modis/aqua/MODIS_Aqua_AOD_Deep_Blue_Land",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

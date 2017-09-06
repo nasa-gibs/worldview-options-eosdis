@@ -4,7 +4,7 @@
             "id":       "MODIS_Terra_SurfaceReflectance_Bands721",
             "title":    "Land Surface Reflectance (Bands 7-2-1)",
             "subtitle": "Terra / MODIS",
-            "description": "modis/terra/",
+            "description": "modis/terra/MODIS_Terra_SurfaceReflectance_Bands721",
             "tags":     "lsr m11-i2-i1",
             "group":    "baselayers",
             "layergroup": [

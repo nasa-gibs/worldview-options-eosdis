@@ -4,7 +4,7 @@
             "id":       "MODIS_Terra_AOD_Deep_Blue_Combined",
             "title":    "Merged DT/DB Aerosol Optical Depth (Land and Ocean)",
             "subtitle": "Terra / MODIS",
-            "description": "modis/terra/",
+            "description": "modis/terra/MODIS_Terra_AOD_Deep_Blue_Combined",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

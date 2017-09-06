@@ -4,7 +4,7 @@
             "id":       "MODIS_Aqua_Angstrom_Exponent_Ocean",
             "title":    "Dark Target Aerosol Angstrom Exponent (Ocean)",
             "subtitle": "Aqua / MODIS",
-            "description": "modis/aqua/",
+            "description": "modis/aqua/MODIS_Aqua_Angstrom_Exponent_Ocean",
             "tags":     "aod",
             "group":    "overlays",
             "layergroup": [

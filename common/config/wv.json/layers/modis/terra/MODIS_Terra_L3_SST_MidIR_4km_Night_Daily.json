@@ -4,7 +4,6 @@
             "id":       "MODIS_Terra_L3_SST_MidIR_4km_Night_Daily",
             "title":    "Sea Surface Temperature (L3, Night, Daily, Mid Infrared, 4 km)",
             "subtitle": "Terra / MODIS",
-            "description": "modis/terra/",
             "group":    "overlays",
             "layergroup": [
               "modis",

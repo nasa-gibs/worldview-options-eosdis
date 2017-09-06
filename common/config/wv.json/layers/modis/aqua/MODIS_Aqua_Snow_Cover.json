@@ -4,7 +4,7 @@
             "id":       "MODIS_Aqua_Snow_Cover",
             "title":    "Snow Cover",
             "subtitle": "Aqua / MODIS",
-            "description": "modis/aqua/",
+            "description": "modis/aqua/MODIS_Aqua_Snow_Cover",
             "group":    "overlays",
             "layergroup": [
               "modis",

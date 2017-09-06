@@ -4,7 +4,7 @@
             "id":       "MODIS_Aqua_Land_Surface_Temp_Day",
             "title":    "Land Surface Temperature (Day)",
             "subtitle": "Aqua / MODIS",
-            "description": "modis/aqua/",
+            "description": "modis/aqua/MODIS_Aqua_Land_Surface_Temp_Day",
             "tags":     "lst",
             "group":    "overlays",
             "layergroup": [

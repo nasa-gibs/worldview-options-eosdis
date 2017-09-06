@@ -4,7 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Optical_Thickness_PCL",
             "title":    "Cloud Optical Thickness (PCL)",
             "subtitle": "Terra / MODIS",
-            "description": "modis/terra/",
+            "description": "modis/terra/MODIS_Terra_Cloud_Optical_Thickness_PCL",
             "group":    "overlays",
             "layergroup": [
               "modis",
