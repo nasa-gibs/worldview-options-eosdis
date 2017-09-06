@@ -4,7 +4,7 @@
             "id":       "MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",
             "title":    "Carbon Monoxide (Daily, Day, Surface Mixing Ratio)",
             "subtitle": "Terra / MOPITT",
-            "description": "mopitt/",
+            "description": "mopitt/MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [

@@ -4,7 +4,7 @@
             "id":       "MOPITT_CO_Daily_Total_Column_Night",
             "title":    "Carbon Monoxide (Daily, Night, Total Column)",
             "subtitle": "Terra / MOPITT",
-            "description": "mopitt/",
+            "description": "mopitt/MOPITT_CO_Daily_Total_Column_Night",
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [
