@@ -4,7 +4,7 @@
             "id":       "OMI_Aerosol_Optical_Depth",
             "title":    "Aerosol Optical Depth (Extinction, Near-UV, 388.0 nm)",
             "subtitle": "Aura / OMI",
-            "description": "omi/",
+            "description": "omi/OMI_Aerosol_Optical_Depth",
             "group":    "overlays",
             "layergroup": [
               "omi"

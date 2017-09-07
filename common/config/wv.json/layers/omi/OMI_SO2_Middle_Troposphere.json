@@ -4,7 +4,7 @@
             "id":       "OMI_SO2_Middle_Troposphere",
             "title":    "Sulfur Dioxide (Middle Troposphere)",
             "subtitle": "Aura / OMI",
-            "description": "omi/",
+            "description": "omi/OMI_SO2_Middle_Troposphere",
             "group":    "overlays",
             "layergroup": [
               "omi"

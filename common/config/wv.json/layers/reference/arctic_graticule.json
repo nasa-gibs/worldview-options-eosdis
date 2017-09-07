@@ -4,7 +4,6 @@
             "id":       "arctic_graticule",
             "title":    "Latitude-Longitude Lines (EPSG:3995, legacy)",
             "subtitle": "Polarview / Graticule",
-            "description": "reference/",
             "tags":     "lat lon lat-lon",
             "group":    "overlays",
             "format":   "image/png",

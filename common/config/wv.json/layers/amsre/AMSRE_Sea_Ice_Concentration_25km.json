@@ -8,7 +8,7 @@
             "group":    "overlays",
             "product":  "AE_SI25",
             "layergroup": [
-              "amsr-e"
+              "amsre"
             ],
             "inactive": true,
 

@@ -4,11 +4,11 @@
             "id":       "AMSRE_Surface_Rain_Rate_Day",
             "title":    "Surface Rain Rate (Day)",
             "subtitle": "Aqua / AMSR-E",
-            "description": "amsre/AMSRE_Surface_Rain_Rate_Day",
+            "description": "amsre/AMSRE_Surface_Rain_Rate_Day_v12_STD",
             "group":    "overlays",
             "product":  "AE_Rain",
             "layergroup": [
-              "amsr-e"
+              "amsre"
             ],
             "inactive": true
         }

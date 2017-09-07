@@ -4,7 +4,7 @@
             "id":       "Graticule",
             "tags":     "lat lon lat-lon",
             "title":    "Latitude-Longitude Lines",
-            "description": "reference/",
+            "description": "reference/Graticule",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [ 512, 512 ],

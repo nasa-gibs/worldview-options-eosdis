@@ -4,7 +4,7 @@
             "id":       "OMI_Ozone_TOMS_Total_Column",
             "title":    "Ozone (TOMS-Like)",
             "subtitle": "Aura / OMI",
-            "description": "omi/",
+            "description": "omi/OMI_Ozone_TOMS_Total_Column",
             "group":    "overlays",
             "layergroup": [
               "omi"

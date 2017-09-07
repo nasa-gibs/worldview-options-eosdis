@@ -8,7 +8,7 @@
             "group":    "overlays",
             "product":  "AE_L2A_NIGHT",
             "layergroup": [
-              "amsr-e"
+              "amsre"
             ],
             "inactive": true
         }

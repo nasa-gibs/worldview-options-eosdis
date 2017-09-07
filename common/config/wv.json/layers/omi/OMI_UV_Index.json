@@ -4,7 +4,7 @@
             "id":       "OMI_UV_Index",
             "title":    "UV Index (Local Noon)",
             "subtitle": "Aura / OMI",
-            "description": "omi/",
+            "description": "omi/OMI_UV_Index",
             "group":    "overlays",
             "layergroup": [
               "omi"
