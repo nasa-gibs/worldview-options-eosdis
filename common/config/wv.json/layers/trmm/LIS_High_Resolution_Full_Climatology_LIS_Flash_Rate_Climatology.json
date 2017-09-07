@@ -4,7 +4,7 @@
             "id":       "LIS_High_Resolution_Full_Climatology_LIS_Flash_Rate_Climatology",
             "title":    "Lightning Flash Rate",
             "subtitle": "TRMM / LIS",
-            "description": "trmm/",
+            "description": "trmm/LIS_High_Resolution_Full_Climatology_LIS_Flash_Rate_Climatology",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [
