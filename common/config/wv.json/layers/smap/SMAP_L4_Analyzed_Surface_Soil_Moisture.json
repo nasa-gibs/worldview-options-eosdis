@@ -4,7 +4,7 @@
             "id":       "SMAP_L4_Analyzed_Surface_Soil_Moisture",
             "title":    "Surface Soil Moisture 9 km (L4, 12z Instantaneous)",
             "subtitle": "SMAP / Model Value-Added",
-            "description": "smap/",
+            "description": "smap/SMAP_L4_Analyzed_Surface_Soil_Moisture",
             "group":    "overlays",
             "layergroup": [
               "smap"

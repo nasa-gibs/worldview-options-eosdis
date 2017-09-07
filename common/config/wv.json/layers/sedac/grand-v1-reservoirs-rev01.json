@@ -5,7 +5,7 @@
             "layer":    "grand-v1:grand-v1-reservoirs-rev01",
             "title":    "Reservoirs",
             "subtitle": "SEDAC Global Reservoir and Dam Database (GRanD), v 1.1",
-            "description": "sedac/",
+            "description": "sedac/grand-v1-reservoirs-rev01",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

@@ -5,7 +5,7 @@
             "layer":    "lulc:lulc-global-mangrove-forests-distribution-2000",
             "title":    "Forests, Mangrove",
             "subtitle": "SEDAC Global Mangrove Forests Distribution, v1 (2000)",
-            "description": "sedac/",
+            "description": "sedac/lulc-global-mangrove-forests-distribution-2000",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

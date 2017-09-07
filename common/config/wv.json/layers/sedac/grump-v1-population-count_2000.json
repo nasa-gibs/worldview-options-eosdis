@@ -4,7 +4,7 @@
             "id":       "grump-v1-population-count_2000",
             "title":    "Population Density",
             "subtitle": "SEDAC GRUMP v1 Population Density 2000",
-            "description": "sedac/",
+            "description": "sedac/grump-v1-population-count_2000",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

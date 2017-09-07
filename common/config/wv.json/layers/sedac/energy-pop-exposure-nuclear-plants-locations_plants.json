@@ -5,7 +5,7 @@
             "layer":    "energy:energy-pop-exposure-nuclear-plants-locations_plants",
             "title":    "Power Plants, Nuclear",
             "subtitle": "SEDAC Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations, v1 (1956 – 2012)",
-            "description": "sedac/",
+            "description": "sedac/energy-pop-exposure-nuclear-plants-locations_plants",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

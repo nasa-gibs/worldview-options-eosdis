@@ -4,7 +4,7 @@
             "id":       "ndh-cyclone-mortality-risks-distribution",
             "title":    "Cyclone Hazard: Mortality Risk",
             "subtitle": "SEDAC Global Cyclone Mortality Risks and Distribution, v1 (2000)",
-            "description": "sedac/",
+            "description": "sedac/ndh-cyclone-mortality-risks-distribution",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

@@ -4,7 +4,7 @@
             "id":       "SMAP_L1_Passive_Enhanced_Brightness_Temp_Aft_H",
             "title":    "Uncorrected Brightness Temperature 9 km (L1, Passive, Aft, H Polarization)",
             "subtitle": "SMAP / Radiometer",
-            "description": "smap/",
+            "description": "smap/SMAP_L1_Passive_Enhanced_Brightness_Temp_Aft_H",
             "tags":     "enhanced",
             "group":    "overlays",
             "layergroup": [
