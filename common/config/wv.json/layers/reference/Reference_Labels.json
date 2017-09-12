@@ -8,7 +8,6 @@
             "tags":     "osm reference",
             "group":    "overlays",
             "type":     "wmts",
-            "tags":     "country, countries, state, province, cities, city",
             "noTransition":     "true",
             "layergroup": [
               "reference"
