@@ -1,0 +1,31 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parserOptions": {
+      "ecmaVersion": 5,
+      "sourceType": "script",
+      "ecmaFeatures": {
+          "jsx": false
+      }
+  },
+  "rules": {
+      "strict": 0,
+      "semi": [2, "always"],
+      "indent": [2, 2, {"ObjectExpression": "1"}],
+      "key-spacing": ["error", {
+        "singleLine": {
+          "beforeColon": true,
+          "afterColon": true
+        },
+        "multiLine": {
+          "beforeColon": false,
+          "afterColon": true
+        },
+      }]
+  },
+  "plugins": [
+      "json"
+  ]
+}
