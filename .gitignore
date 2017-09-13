@@ -5,3 +5,4 @@ bitly.json
 #*
 .#*
 #*#
+/node_modules
