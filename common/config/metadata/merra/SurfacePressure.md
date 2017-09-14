@@ -5,4 +5,4 @@ The monthly surface pressure layer is an assimilated data from NASA second Moder
 
 This parameter (PS) was extracted from the product M2IMNPASM.5.12.4 (Monthly mean, Instantaneous, Pressure-Level, Assimilation, Assimilated Meteorological Fields).
 
-Data Source & References: [Modern-Era Retrospective analysis for Research and Applications, Version 2 Documentation](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/docs/)
+References: [Modern-Era Retrospective analysis for Research and Applications, Version 2 Documentation](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/docs/)

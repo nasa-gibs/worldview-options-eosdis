@@ -1,4 +1,4 @@
-### MLS Ozone (O3) Mixing Ratio 46hPa (Day/Night)
+### MLS Ozone (O3) Mixing Ratio 46hPa (Day)
 Temporal coverage: 9 May 2013 - present
 
 The Microwave Limb Sounder (MLS) Ozone (O3) Mixing Ratio layer at 46hPa (hectopascals) indicates ozone levels at the vertical atmospheric pressure level of 46hPa, and is measured in parts per billion by volume (ppbv).
@@ -7,6 +7,6 @@ Ozone plays important roles in atmospheric chemistry and radiative balance throu
 
 Ozone is a critical player in all three of the primary objectives of MLS: to track stability of the stratospheric ozone layer, to help improve predictions of climate change and variability, and to help improve understanding of global air quality. MLS ozone measurements contribute to understanding of processes that control the expected recovery of the ozone layer as abundances of human-produced, ozone depleting substances decline in the coming decades. Ozone, particularly in the upper troposphere (10 to 15 km), is an important greenhouse gas. While MLS does not measure ozone down to the Earth's surface, MLS measurements can be used to improve the vertical resolution of other sensors on the Aura satellite, allowing mid- and lower-tropospheric ozone to be distinguished from the large amounts of ozone in the stratosphere and upper troposphere. In the upper troposphere, ozone levels provide important information about the history of air parcels, with high ozone generally indicating descent from above and low ozone ascent from below.
 
-The MLS Ozone (O3) Mixing Ratio 46hPa layer is derived from the MLS Ozone product (ML2O3_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, temporal resolution is twice daily (day and night) and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 9 May 2013 - present.
+The MLS Ozone (O3) Mixing Ratio 46hPa layer is derived from the MLS Ozone product (ML2O3_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, and the temporal resolution is daily.
 
 References: [MLS - O3 Product](http://mls.jpl.nasa.gov/products/o3_product.php)

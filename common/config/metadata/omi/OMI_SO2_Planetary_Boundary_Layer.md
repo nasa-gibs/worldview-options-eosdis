@@ -8,4 +8,4 @@ Sulfur Dioxide (SO2) is one of the US Environmental Protection Agency's (EPA) si
 The OMSO2e product provides daily gridded global coverage with a temporal resolution of 1 day, imagery resolution of 2 km, and sensor/algorithm resolution of 0.25 x 0.25 degrees.
 
 
-Data Product & References: [OMSO2 Readme](http://so2.gsfc.nasa.gov/Documentation/OMSO2Readme_V120_20140926.htm); [OMSO2e Readme](https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_OMI_Level3/OMSO2e.003/doc/README.OMSO2e.pdf); DOI: [https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html](https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html)
+References: [OMSO2 Readme](http://so2.gsfc.nasa.gov/Documentation/OMSO2Readme_V120_20140926.htm); [OMSO2e Readme](https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_OMI_Level3/OMSO2e.003/doc/README.OMSO2e.pdf); DOI: [https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html](https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html)

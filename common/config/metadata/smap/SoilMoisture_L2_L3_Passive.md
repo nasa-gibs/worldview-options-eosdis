@@ -5,8 +5,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 36 km (L2, Passive, Day |
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
 
 Data field: soil_moisture_option1
 
@@ -17,8 +16,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture (L2, Passive, Day | Night
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
 
 Data field: soil_moisture_option2
 
@@ -29,8 +27,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 36 km (L2, Passive, Day |
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
+References: [SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP)
 
 Data field: soil_moisture_option3
 
@@ -41,8 +38,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 9 km (L2, Passive, Day | 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
+References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
 
 Data field: soil_moisture_option1
 
@@ -53,8 +49,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 9 km (L2, Passive, Day | 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
+References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
 
 Data field: soil_moisture_option2
 
@@ -65,8 +60,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 9 km (L2, Passive, Day | 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
+References: [SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL2SMP_E)
 
 Data field: soil_moisture_option3
 
@@ -77,8 +71,7 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 36 km (L3, Passive, Day |
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
+References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
 
 Data field: soil_moisture
 
@@ -89,7 +82,6 @@ The Soil Moisture Active Passive (SMAP) "Soil Moisture 9 km (L3, Passive, Day | 
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L3 Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP_E)
+References: [SMAP Enhanced L3 Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP_E)
 
 Data field: soil_moisture

@@ -1,11 +1,10 @@
-### Soil Moisture 9 km (L3, Passive, Day | Night)
-Temporal coverage: 31 March 2015 - present
+### Soil Moisture 9 km (L3, Active/Passive)
+Temporal coverage: 13 April 2015 - 7 July 2015
 
-The Soil Moisture Active Passive (SMAP) "Soil Moisture 9 km (L3, Passive, Day | Night)" layers display a daily global composite of surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> derived from the Single Channel Algorithm V-Pol (SCA-V), the baseline soil moisture algorithm, for the 6:00 a.m. descending (Day) and the 6:00 p.m. ascending (Night) half-orbit passes of the SMAP radiometer. To enhance the grid resolution, Backus-Gilbert optimal interpolation techniques are used to extract maximum information from SMAP antenna temperatures and convert them to brightness temperatures, which are posted to the 9 km EASE-Grid 2.0. The SMAP radiometer measures natural thermal emission emanating from the soil surface. The variation in the intensity of this radiation depends on the dielectric properties and temperature of the target medium, which for the near surface soil layer is a function of the amount of moisture present.
+The Soil Moisture Active Passive (SMAP) “Soil Moisture 9 km (L3, Active/Passive)” layer displays daily global composites of the surface soil moisture in cm<sup>3</sup>/cm<sup>3</sup> posted on a 9 km EASE-Grid 2.0 from the 6:00 a.m. descending half-orbit passes of the SMAP radar and radiometer. Utilizing a combination of the active radar backscatter estimates and the passive radiometer surface emissivity estimates provides greater accuracy and spatial resolution in measuring moisture in the upper 5 cm of soil than is possible with either of the individual instruments alone.  
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L3 Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP_E)
+References: [SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3smap/)
 
 Data field: soil_moisture

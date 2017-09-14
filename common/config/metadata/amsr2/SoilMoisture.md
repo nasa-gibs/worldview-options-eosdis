@@ -14,5 +14,4 @@ The Advanced Microwave Scanning Radiometer 2 (AMSR2) instrument provides global 
 
 Data Product and References:
 [NSIDC: AMSR-E/AMSR2 Unified L2B Half-Orbit 25 km EASE-Grid Surface Soil Moisture, Version 1](http://nsidc.org/data/au_land);
-[AMSR2 Global Soil Moisture Retrievals using the Normalized Polarization Difference (NPD) algorithm and Single Channel Algorithm (SCA) Algorithm Theoretical Basis Document
-](http://nsidc.org/sites/nsidc.org/files/technical-references/AMSR2_ATBD.DOCX)
+[AMSR2 Global Soil Moisture Retrievals using the Normalized Polarization Difference (NPD) algorithm and Single Channel Algorithm (SCA) Algorithm Theoretical Basis Document](http://nsidc.org/sites/nsidc.org/files/technical-references/AMSR2_ATBD.DOCX)

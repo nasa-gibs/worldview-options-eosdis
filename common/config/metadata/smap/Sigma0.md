@@ -5,8 +5,7 @@ The Soil Moisture Active Passive (SMAP) “Sigma0 3 km (L3, Active, HH Polarizat
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
+References: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
 
 Data fields: sigma0_hh_mean, sigma0_vv_mean, sigma0_xpol_mean
 
@@ -25,7 +24,6 @@ Within the image, green indicates that Sigma0 observations are free of RFI and a
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
+References: [SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture](http://nsidc.org/data/spl3sma/)
 
 Data fields: sigma0_qual_flag_hh, sigma0_qual_flag_vv, sigma0_qual_flag_xpol

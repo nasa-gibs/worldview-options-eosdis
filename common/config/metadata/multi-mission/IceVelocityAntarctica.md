@@ -7,4 +7,4 @@ An ice sheet is a mass of glacial land ice extending more than 50,000 square kil
 
 The MEaSUREs Ice Velocity (Antarctica) layer’s sensor and imagery resolution is 450 m, and the temporal resolution is 15 years.
 
-Data Product & References: [MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 1 (NSIDC-0484)](http://nsidc.org/data/nsidc-0484/versions/1); [NSIDC Quick Facts on Ice Sheets](https://nsidc.org/cryosphere/quickfacts/icesheets.html)
+References: [MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 1 (NSIDC-0484)](http://nsidc.org/data/nsidc-0484/versions/1); [NSIDC Quick Facts on Ice Sheets](https://nsidc.org/cryosphere/quickfacts/icesheets.html)

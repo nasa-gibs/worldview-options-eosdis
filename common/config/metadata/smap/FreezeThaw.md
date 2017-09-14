@@ -5,8 +5,7 @@ The Soil Moisture Active Passive (SMAP) “Freeze/Thaw 36 km (L3, Passive)” la
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radiometer Northern Hemisphere Daily 36 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3ftp)
+References: [SMAP L3 Radiometer Northern Hemisphere Daily 36 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3ftp)
 
 Data field : freeze_thaw
 
@@ -17,8 +16,7 @@ The Soil Moisture Active Passive (SMAP) “Freeze/Thaw 9 km (L3, Passive)” lay
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L3 Radiometer Northern Hemisphere Daily 9 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3ftp_e)
+References: [SMAP Enhanced L3 Radiometer Northern Hemisphere Daily 9 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3ftp_e)
 
 Data field : freeze_thaw
 
@@ -29,7 +27,6 @@ The Soil Moisture Active Passive (SMAP) “Freeze/Thaw 3 km (L3, Active)” laye
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3fta/)
+References: [SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State](http://nsidc.org/data/spl3fta/)
 
 Data field : freeze_thaw

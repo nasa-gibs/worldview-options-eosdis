@@ -5,4 +5,4 @@ Daymet is a computer program that uses observations from ground weather stations
 
 Daymet data products are used within a variety of studies that require daily continuous temperature data including, but not limited to, crop modelling, forest production, vector borne illnesses, and climate change adaptation.
 
-Data Product & References: [Daymet Data Set Home Page](https://daymet.ornl.gov/)
+References: [Daymet Data Set Home Page](https://daymet.ornl.gov/)

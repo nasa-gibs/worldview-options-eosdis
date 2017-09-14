@@ -5,8 +5,7 @@ The Soil Moisture Active Passive (SMAP) "Uncorrected Brightness Temperature 36 k
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
 
 Data fields: cell_tb_h_fore, cell_tb_h_aft, cell_tb_v_fore, cell_tb_v_aft
 
@@ -24,8 +23,7 @@ The Soil Moisture Active Passive (SMAP) "Uncorrected Brightness Temperature 36 k
 
 Within the image, green indicates that TB observations are free of RFI and approved for science use, yellow indicates that caution should be used with the TB observations as RFI was detected but mitigated, and red indicates that TB observations are flagged as bad due to RFI.
 
-#### Source
-Data Product & References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
+References: [SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB)
 
 Data fields: cell_tb_qual_flag_h_fore, cell_tb_qual_flag_h_aft, cell_tb_qual_flag_v_fore, cell_tb_qual_flag_v_aft
 
@@ -36,8 +34,7 @@ The Soil Moisture Active Passive (SMAP) "Uncorrected Brightness Temperature 9 km
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB_E)
+References: [SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB_E)
 
 Data fields: cell_tb_h_fore, cell_tb_h_aft, cell_tb_v_fore, cell_tb_v_aft
 
@@ -54,8 +51,7 @@ The Soil Moisture Active Passive (SMAP) "Uncorrected Brightness Temperature 9 km
 
 Within the image, green indicates that TB observations are free of RFI and approved for science use, yellow indicates that caution should be used with the TB observations as RFI was detected but mitigated, and red indicates that TB observations are flagged as bad due to RFI.
 
-#### Source
-Data Product & References: [SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB_E)
+References: [SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures](http://nsidc.org/data/SPL1CTB_E)
 
 Data fields: cell_tb_qual_flag_h_fore, cell_tb_qual_flag_h_aft, cell_tb_qual_flag_v_fore, cell_tb_qual_flag_v_aft
 
@@ -66,7 +62,6 @@ The Soil Moisture Active Passive (SMAP) "Corrected Brightness Temperature" layer
 
 The SMAP spacecraft carries two instruments, a radar (active) and a radiometer (passive), that together make global measurements of land surface soil moisture and freeze/thaw state. It is useful for monitoring and predicting natural hazards such as floods and droughts, understanding the linkages between Earth’s water, energy and carbon cycles, and reducing uncertainties in predicting weather and climate.
 
-#### Source
-Data Product & References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
+References: [SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture](http://nsidc.org/data/SPL3SMP)
 
 Data fields: tb_h_corrected, tb_v_corrected

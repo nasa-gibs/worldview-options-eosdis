@@ -1,5 +1,8 @@
-### OMI Upper tropospheric and Stratospheric SO2 column  
+### Sulfur Dioxide (SO2) Upper Troposphere and Stratosphere
+Temporal coverage: 1 January 2005 – present
 
-This is a gridded Level-2 OMI/Aura Sulphur Dioxide (SO2) Total Column (OMSO2) daily composite images of one of the 4 different estimates of the column density of SO2, STL (obtained by making different assumptions about the vertical distribution of the SO2).
+The OMI Sulfur Dioxide (SO2) Upper Troposphere and Stratosphere layer indicates the column density of sulfur dioxide in the upper troposphere and stratosphere (corresponding to 17 km center of mass altitude (CMA)) and is measured in Dobson Units (DU). Sulfur Dioxide and Aerosol Index products are used to monitor volcanic clouds and detect pre-eruptive volcanic degassing globally. This information is used by the Volcanic Ash Advisory Centers in advisories to airlines for operational decisions.
 
-Upper tropospheric and Stratospheric SO2 column (STL), usually produced by explosive volcanic eruption, corresponding to CMA of 17 km. Note that OMI becomes more sensitive to SO2 above clouds and snow/ice, and less sensitive to SO2 below clouds. The image data is composed by gridding the available Level 2 data for a day into ¼ degree by ¼ degree grid and when the Solar Zenith Angle is less than 84.0 degrees Latitude. When pixels overlaps the mean path length is used to choose the best pixel. In addition all data is filtered for the row anomaly. Image data is provided in Dobson Units.
+The OMI Sulfur Dioxide (SO2) Lower Troposphere layer is a science parameter of the Ozone Monitoring Instrument (OMI) Level 2 Total Column Sulfur Dioxide (OMSO2) dataset, available from the OMI instrument on the Aura satellite. The sensor resolution is 25 km, imagery resolution is 2 km, and the temporal resolution is daily.
+
+References: [OMSO2 Readme](http://so2.gsfc.nasa.gov/Documentation/OMSO2Readme_V120_20140926.htm); [OMSO2e Readme](https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_OMI_Level3/OMSO2e.003/doc/README.OMSO2e.pdf); DOI: [https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html](https://disc.gsfc.nasa.gov/datacollection/OMSO2e_V003.html)

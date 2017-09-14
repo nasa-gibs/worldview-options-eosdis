@@ -1,4 +1,4 @@
-### MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa (Day/Night)
+### MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa (Day | Night)
 Temporal coverage: 9 May 2013 - present
 
 The Microwave Limb Sounder (MLS) Sulfur Dioxide (SO2) Mixing Ratio layer at 147hPa (hectopascals) indicates sulfur dioxide levels at the vertical atmospheric pressure level of 147hPa, and is measured in parts per billion by volume (ppbv).
@@ -7,6 +7,6 @@ Sulfur Dioxide (SO2), a colorless gas with a pungent, suffocating odor, is a ver
 
 MLS can measure SO2 injected into the upper troposphere and lower stratosphere by explosive volcanoes. Starting with its reaction with OH, SO2 is converted into sulfate aerosol which can impact climate.
 
-The MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa layer is derived from the MLS Sulfur Dioxide product (ML2SO2_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, temporal resolution is twice daily (day and night) and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 9 May 2013 - present.
+The MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa layer is derived from the MLS Sulfur Dioxide product (ML2SO2_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, and the temporal resolution is twice daily (day and night).
 
 References: [MLS - SO2 Product](http://mls.jpl.nasa.gov/products/so2_product.php); [GES DISC - Sulfur Dioxide](http://disc.sci.gsfc.nasa.gov/data-holdings/PIP/sulfur_dioxide.shtml)

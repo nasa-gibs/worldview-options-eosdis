@@ -1,4 +1,4 @@
-### AIRS Precipitation Estimate (Day/Night)
+### AIRS Precipitation Estimate (Day | Night)
 Temporal coverage: 8 May 2012 - present
 
 The AIRS Precipitation Estimate Day/Night layer is an estimate of daily precipitation measured in millimeters (mm) using cloud-related parameters of cloud-top pressure, fractional cloud cover, and cloud-layer relative humidity.
@@ -10,4 +10,4 @@ AIRS, the Atmospheric Infrared Sounder is a facility instrument aboard the secon
 The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Precipitation Estimate (AIRG2SSD) layer is a is a variable of the AIRS Level 2 Support Retrieval (AIRS+AMSU) (AIRX2SUP_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 8 May 2012 - present.
 
 References: [GES DISC - AIRS NRT Products and Images](http://disc.sci.gsfc.nasa.gov/nrt/data-holdings/airs-nrt-products). For further description of the retrieval method, please refer to:
-Susskind, J., P. Piraino, L. Rokke, L. Iredell, and A. Mehta, 1997: Characteristics of the TOVS Pathfinder Path A Dataset. Bulletin of the American Meteorological Society, 78, 1449-1472.
+Susskind, J., P. Piraino, L. Rokke, L. Iredell, and A. Mehta, 1997: Characteristics of the TOVS Pathfinder Path A Dataset. Bulletin of the American Meteorological Society, 78, 1449-1472. [DOI:](https://doi.org/10.1175%2F1520-0477%281997%29078%3C1449%3ACOTTPP%3E2.0.CO%3B2)

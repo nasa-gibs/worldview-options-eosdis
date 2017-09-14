@@ -31,7 +31,7 @@ Temporal Coverage: 4 May 1995 - 31 December 2013 (Monthly)
 ### Seasonal Mean Lightning Flash Rate
 Temporal Coverage: 4 May 1995 - 31 December 2013 (Seasonal/3 Month)
 
-Data Product & References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA308);
+References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA308);
 [GHRC: Lighting Imaging Sensor (LIS) Overview](https://lightning.nsstc.nasa.gov/lis/overview_lis_instrument.html);
 [Albrecht, R.I., et al. The 13 years of TRMM Lightning Imaging Sensor: From individual flash characteristics to decadal tendencies. XIV International Conference on Atmospheric Electricity, August 8-12 2011, Rio de Janeiro, Brazil](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110015779.pdf);
 [Products in LIS-OTD gridded climatology files](https://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/LISOTD_Climo_prod_table.doc);

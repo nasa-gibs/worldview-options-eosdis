@@ -1,7 +1,10 @@
-### OMI Aerosol Optical Depth  
+### Aerosol Optical Depth (Extinction, Near-UV, 388.0 nm)
+Temporal Coverage: 1 October 2004 - Present
 
-This is a gridded Level-2 OMI/Aura Near-UV Aerosol Absorption and Extinction Optical Depth and Single Scattering Albedo (OMAERUV) daily composite images for aerosol extinction optical depth (AOD) at 354, 388 and 500 nm.
+The OMI Aerosol Optical Depth (Extinction, Near-UV, 388.0 nm) is one of the parameters contained in the Ozone Monitoring Instrument (OMI) Level-3 UV/VIS Aerosol product (OMAERUVd) product. The parameter is a dimensionless measure of the extinction of light by aerosols due to the combined effect of scattering and absorption. It indicates the level at which particles in the air (aerosols) prevent light (extinction of light) from traveling through the atmosphere.
 
-AOD is a dimensionless measure of the extinction of light by aerosols due to the combined effect of scattering and absorption, while AAOD is that due to aerosol absorption only. For environments where cloud free conditions prevail the AOD can be reliably retrieved. Cloud interference with satellite retrieval is minimal over arid and semi-arid regions where dust aerosols are commonly present. Clear skies are also frequent in areas of seasonal biomass burning and forest fires in the vicinity of the sources. As the plumes of dust and smoke aerosols drift away from their source regions, they mixed with clouds and the OMAERUV AOD retrieval becomes very challenging. The Level 2 data is filtered for Solar Zenith Angle less than 84.0 for for the row anomaly using the row anomaly.
+Aerosols absorb and scatter incoming sunlight, which reduces visibility and increases the optical depth. Aerosols have an effect on human health, weather and the climate. Sources of aerosols include pollution from factories, smoke from fires, dust from dust storms, sea salts, and volcanic ash and smog. Aerosols compromise human health when inhaled by people with asthma or other respiratory illnesses. Aerosols also have an affect on the weather and climate by cooling or warming the earth, helping or preventing clouds from forming.
 
-The map is refreshed every 100 minutes and the map is about 3 hours behind the real time.
+The OMAERUVd product provides daily gridded global coverage with a temporal resolution of 1 day, imagery resolution of 2 km and sensor/algorithm resolution of 1.0 x 1.0 degrees.
+
+References: [OMAERUVd README](http://acdisc.gsfc.nasa.gov/data/Aura_OMI_Level3/OMAERUVd.003/doc/OMAERUVd_OSIPS_README_V003.doc); DOI: [10.5067/Aura/OMI/DATA3003](https://disc.gsfc.nasa.gov/datacollection/OMAERUVd_V003.html)
