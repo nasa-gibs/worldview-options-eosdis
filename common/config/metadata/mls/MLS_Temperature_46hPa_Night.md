@@ -5,4 +5,4 @@ The Microwave Limb Sounder (MLS) Temperature layer indicates the temperature of 
 
 The MLS Temperature 46hPa layer is derived from the MLS Temperature product (ML2T_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, and the temporal resolution is daily.
 
-References: [MLS - Temperature Product](https://mls.jpl.nasa.gov/products/temp_product.php); [GES DISC - ML2T NRT](http://disc.sci.gsfc.nasa.gov/Aura/data-holdings/MLS/ml2t_nrt.003.shtml)
+References: [MLS - Temperature Product](https://mls.jpl.nasa.gov/products/temp_product.php); [GES DISC - ML2T NRT](https://disc.gsfc.nasa.gov/datasets/ML2T_NRT_003/summary)

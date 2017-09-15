@@ -10,8 +10,6 @@
               "landsat"
             ],
             "product":  "",
-            "startDate":"2008-12-01",
-            "endDate":  "2011-11-30",
             "inactive": true,
             "wrapadjacentdays": true
         }
