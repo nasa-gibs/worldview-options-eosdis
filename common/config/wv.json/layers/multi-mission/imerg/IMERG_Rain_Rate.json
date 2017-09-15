@@ -1,0 +1,16 @@
+{
+    "layers": {
+        "IMERG_Rain_Rate": {
+            "id":       "IMERG_Rain_Rate",
+            "title":    "Rain Rate (Early)",
+            "subtitle": "IMERG",
+            "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_imerg"
+            ],
+            "product": 	"GPM_3IMERGHHE",
+            "group":    "overlays"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "layers": {
+        "IMERG_Snow_Rate": {
+            "id":       "IMERG_Snow_Rate",
+            "title":    "Snow Rate (Early)",
+            "subtitle": "IMERG",
+            "tags":     "",
+            "layergroup": [
+              "multi-mission",
+              "multi-mission_imerg"
+            ],
+            "product": 	"GPM_3IMERGHHE",
+            "group":    "overlays"
+        }
+    }
+}
