@@ -10,8 +10,8 @@
     "node": "6.8.1"
   },
   "scripts": {
-    "test": "npm lint",
-    "eslint": "eslint . --ext=json -f stylish"
+    "test": "npm run lint",
+    "lint": "eslint . --ext=json -f stylish"
   },
   "devDependencies": {
     "eslint": "^4.6.1",
