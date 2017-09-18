@@ -4,6 +4,7 @@
             "id":       "MISR_AM1_Ellipsoid_Radiance_RGB_AF",
             "title":    "Color Radiance (Af, RGB)",
             "subtitle": "Terra / MISR",
+            "description": "misr/MISR_AM1_Ellipsoid_Radiance_RGB_AF",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [
