@@ -3,6 +3,7 @@
         "Coastlines": {
             "id":       "Coastlines",
             "title":    "Coastlines",
+            "description": "reference/Coastlines",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wmts",

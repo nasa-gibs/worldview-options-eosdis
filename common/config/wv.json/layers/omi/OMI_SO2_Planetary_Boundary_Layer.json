@@ -4,6 +4,7 @@
             "id":       "OMI_SO2_Planetary_Boundary_Layer",
             "title":    "Sulfur Dioxide (Planetary Boundary Layer)",
             "subtitle": "Aura / OMI",
+            "description": "omi/OMI_SO2_Planetary_Boundary_Layer",
             "group":    "overlays",
             "layergroup": [
               "omi"

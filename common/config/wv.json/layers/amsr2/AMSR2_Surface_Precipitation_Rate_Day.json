@@ -4,6 +4,7 @@
             "id":       "AMSR2_Surface_Precipitation_Rate_Day",
             "title":    "Surface Precipitation Rate (Day)",
             "subtitle": "GCOM-W1 / AMSR2",
+            "description": "amsr2/AMSR2_Surface_Precipitation_Rate_Day",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

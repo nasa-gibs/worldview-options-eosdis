@@ -4,6 +4,7 @@
             "id":       "AIRS_Temperature_850hPa_Night",
             "title":    "Temperature (850 hPa, Night)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/AIRS_Temperature_850hPa_Night",
             "group":    "overlays",
             "product":  "AIRX2RET_NIGHT",
 

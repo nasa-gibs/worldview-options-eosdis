@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Cloud_Top_Temp_Day",
             "title":    "Cloud Top Temperature (Day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/MODIS_Terra_Cloud_Top_Temp_Day",
             "group":    "overlays",
             "layergroup": [
               "modis",

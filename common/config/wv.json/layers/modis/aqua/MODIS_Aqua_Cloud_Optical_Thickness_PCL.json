@@ -3,7 +3,8 @@
         "MODIS_Aqua_Cloud_Optical_Thickness_PCL": {
             "id":       "MODIS_Aqua_Cloud_Optical_Thickness_PCL",
             "title":    "Cloud Optical Thickness (PCL)",
-            "subtitle": "Aqua/MODIS",
+            "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/MODIS_Aqua_Cloud_Optical_Thickness_PCL",
             "group":    "overlays",
             "layergroup": [
               "modis",

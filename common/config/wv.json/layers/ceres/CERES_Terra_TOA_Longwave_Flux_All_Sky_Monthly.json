@@ -10,8 +10,6 @@
               "ceres"
             ],
             "product":  "",
-            "startDate":"2000-03-01",
-            "endDate":  "2012-06-30",
             "inactive": true,
             "wrapadjacentdays": true
         }

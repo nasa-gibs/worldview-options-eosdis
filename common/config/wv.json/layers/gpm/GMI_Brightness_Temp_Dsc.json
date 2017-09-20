@@ -4,6 +4,7 @@
             "id":       "GMI_Brightness_Temp_Dsc",
             "title":    "Brightness Temperature (Descending)",
             "subtitle": "GPM / GMI",
+            "description": "gpm/GMI_Brightness_Temp_Dsc",
             "group":    "overlays",
             "layergroup": [
               "gpm"

@@ -4,6 +4,7 @@
             "id":       "AIRS_Dust_Score_Ocean_Night",
             "title":    "Dust Score (Night, Ocean)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/AIRS_Dust_Score_Ocean_Night",
             "group":    "overlays",
             "product":  "AIRIBQAP",
 

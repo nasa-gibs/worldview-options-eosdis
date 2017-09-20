@@ -4,6 +4,7 @@
             "id":       "ndh-flood-mortality-risks-distribution",
             "title":    "Flood Hazard: Mortality Risk",
             "subtitle": "SEDAC Global Flood Mortality Risks and Distribution, v1 (2000)",
+            "description": "sedac/ndh-flood-mortality-risks-distribution",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

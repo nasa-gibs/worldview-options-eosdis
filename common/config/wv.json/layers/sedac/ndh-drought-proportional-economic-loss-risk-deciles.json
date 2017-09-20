@@ -4,6 +4,7 @@
             "id":       "ndh-drought-proportional-economic-loss-risk-deciles",
             "title":    "Drought Hazard: Economic Risk",
             "subtitle": "SEDAC Global Drought Proportional Economic Loss Risk Deciles, v1 (2000)",
+            "description": "sedac/ndh-drought-proportional-economic-loss-risk-deciles",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

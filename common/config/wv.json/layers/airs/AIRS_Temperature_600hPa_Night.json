@@ -4,6 +4,7 @@
             "id":       "AIRS_Temperature_600hPa_Night",
             "title":    "Temperature (600 hPa, Night)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/AIRS_Temperature_600hPa_Night",
             "group":    "overlays",
             "product":  "AIRX2RET_NIGHT",
 

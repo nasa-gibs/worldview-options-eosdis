@@ -4,6 +4,7 @@
             "id":       "MLS_Temperature_46hPa_Night",
             "title":    "Temperature (46 hPa, Night)",
             "subtitle": "Aura / MLS",
+            "description": "mls/MLS_Temperature_46hPa_Night",
             "group":    "overlays",
             "layergroup": [
               "mls"

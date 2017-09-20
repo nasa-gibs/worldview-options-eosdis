@@ -4,6 +4,7 @@
             "id":       "ndh-drought-hazard-frequency-distribution",
             "title":    "Drought Hazard: Frequency and Distribution",
             "subtitle": "SEDAC Global Drought Hazard Frequency and Distribution, v1 (1980-2000)",
+            "description": "sedac/ndh-drought-hazard-frequency-distribution",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

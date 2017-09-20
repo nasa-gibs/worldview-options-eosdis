@@ -4,6 +4,7 @@
             "id":       "BlueMarble_ShadedRelief",
             "title":    "Blue Marble (August 2004, Shaded Relief)",
             "subtitle": "MODIS / NASA Earth Observatory",
+            "description": "reference/blue_marble/BlueMarble_ShadedRelief",
             "tags":     "bm bmng",
             "group":    "baselayers",
             "layergroup": [

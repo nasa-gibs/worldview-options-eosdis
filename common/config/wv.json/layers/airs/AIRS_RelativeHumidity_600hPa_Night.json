@@ -4,6 +4,7 @@
             "id":       "AIRS_RelativeHumidity_600hPa_Night",
             "title":    "Relative Humidity (600 hPa, Night)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/AIRS_RelativeHumidity_600hPa_Night",
             "tags":     "rh",
             "group":    "overlays",
             "product":  "AIRX2RET_NIGHT",

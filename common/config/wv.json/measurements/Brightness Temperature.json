@@ -60,7 +60,7 @@
                 "GPM/GMI": {
                     "id": "gpm-gmi",
                     "title": "GPM/GMI",
-                    "description": "gmi/BrightnessTemperature",
+                    "description": "gpm/BrightnessTemperature",
                     "image": "",
                     "settings": [
                         "GMI_Brightness_Temp_Asc",

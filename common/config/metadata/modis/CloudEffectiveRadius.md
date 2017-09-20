@@ -1,4 +1,4 @@
-# MODIS (Aqua/Terra) Cloud Effective Radius (PCL, 3.7 micron and 3.7 micron PCL)
+### MODIS (Aqua/Terra) Cloud Effective Radius (PCL, 3.7 micron and 3.7 micron PCL)
 Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 The MODIS Cloud Effective Radius layer is a measure of cloud particle size in microns (μm). It is retrieved globally during day time for liquid and ice phases. It is simultaneously retrieved with Cloud Optical Thickness by simultaneously measuring the reflection function of a non-absorbing and absorbing spectral channel (e.g., Visible/Near Infrared (VIS/NIR) and Shortwave Infrared (SWIR), respectively) and comparing the resulting measurements with theoretical forward model calculations. Generally, smaller the particle size, brighter and more reflective are the clouds. The smaller cloud particles tend to reflect and scatter more sunlight back into space.
@@ -7,4 +7,4 @@ The MODIS Cloud Particle Effective Radius layers available are: (1) the Cloud Ef
 
 The MODIS Cloud Effective Radius layers are available from both the Terra (MOD06) and Aqua (MYD06) satellites for daytime overpasses. The sensor/algorithm resolution is 1 km, imagery resolution is 1 km, and the temporal resolution is daily.
 
-Data Product & References: [MODIS Atmosphere - MOD06](http://modis-atmos.gsfc.nasa.gov/MOD06_L2/format.html);  [MODIS Cloud Optical Properties: User Guide for the Collection 6 Level-2 MOD06/MYD06 Product and Associated Level-3 Datasets: October 2015](http://modis-atmos.gsfc.nasa.gov/_docs/C6MOD06OPUserGuide.pdf); [Cloud Top Properties and Cloud Phase Algorithm Theoretical Basis Document: May 2015](http://modis-atmos.gsfc.nasa.gov/_docs/MOD06-ATBD_2015_05_01.pdf)
+References: [MODIS Atmosphere - Cloud (06_L2)](https://modis-atmos.gsfc.nasa.gov/products/cloud);  [MODIS Cloud Optical Properties: User Guide for the Collection 6 Level-2 MOD06/MYD06 Product and Associated Level-3 Datasets: October 2015](http://modis-atmos.gsfc.nasa.gov/_docs/C6MOD06OPUserGuide.pdf); [Cloud Top Properties and Cloud Phase Algorithm Theoretical Basis Document: May 2015](http://modis-atmos.gsfc.nasa.gov/_docs/MOD06-ATBD_2015_05_01.pdf)

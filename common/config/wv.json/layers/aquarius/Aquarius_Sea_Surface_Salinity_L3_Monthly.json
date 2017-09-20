@@ -3,7 +3,7 @@
         "Aquarius_Sea_Surface_Salinity_L3_Monthly": {
             "id":       "Aquarius_Sea_Surface_Salinity_L3_Monthly",
             "title":    "Sea Surface Salinity (L3, Monthly)",
-            "subtitle": "SAC-D/Aquarius",
+            "subtitle": "SAC-D / Aquarius",
             "tags":     "sss",
             "group":    "overlays",
             "layergroup": [

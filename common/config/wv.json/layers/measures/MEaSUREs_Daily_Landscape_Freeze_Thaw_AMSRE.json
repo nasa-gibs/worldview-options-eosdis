@@ -4,6 +4,7 @@
             "id":       "MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE",
             "title":    "Freeze/Thaw (Daily Landscape)",
             "subtitle": "Aqua / AMSR-E",
+            "description": "amsre/MEaSUREs_Daily_Landscape_Freeze_Thaw_AMSRE",
             "group":    "overlays",
             "layergroup": [
               "measures"

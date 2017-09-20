@@ -18,7 +18,7 @@
                 "GPM/GMI": {
                     "id": "gpm-gmi",
                     "title": "GPM / GMI",
-                    "description": "gmi/PrecipitationRate",
+                    "description": "gpm/PrecipitationRate",
                     "image": "",
                     "settings": [
                         "GMI_Rain_Rate_Asc",

@@ -4,6 +4,7 @@
             "id":       "AIRS_Dust_Score_Ocean_Day",
             "title":    "Dust Score (Day, Ocean)",
             "subtitle": "Aqua / AIRS",
+            "description": "airs/AIRS_Dust_Score_Ocean_Day",
             "group":    "overlays",
             "product":  "AIRIBQAP",
 

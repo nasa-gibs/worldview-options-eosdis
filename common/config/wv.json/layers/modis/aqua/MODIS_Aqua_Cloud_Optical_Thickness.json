@@ -3,7 +3,8 @@
         "MODIS_Aqua_Cloud_Optical_Thickness": {
             "id":       "MODIS_Aqua_Cloud_Optical_Thickness",
             "title":    "Cloud Optical Thickness",
-            "subtitle": "Aqua/MODIS",
+            "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/MODIS_Aqua_Cloud_Optical_Thickness",
             "group":    "overlays",
             "layergroup": [
               "modis",

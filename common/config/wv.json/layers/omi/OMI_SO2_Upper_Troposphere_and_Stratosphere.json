@@ -4,6 +4,7 @@
             "id":       "OMI_SO2_Upper_Troposphere_and_Stratosphere",
             "title":    "Sulfur Dioxide (Upper Troposphere and Stratosphere)",
             "subtitle": "Aura / OMI",
+            "description": "omi/OMI_SO2_Upper_Troposphere_and_Stratosphere",
             "group":    "overlays",
             "layergroup": [
               "omi"

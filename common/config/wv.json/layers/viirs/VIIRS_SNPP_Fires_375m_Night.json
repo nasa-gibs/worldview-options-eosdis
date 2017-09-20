@@ -4,6 +4,7 @@
             "id":       "VIIRS_SNPP_Fires_375m_Night",
             "title":    "Fires and Thermal Anomalies (Night, 375m)",
             "subtitle": "Suomi NPP / VIIRS",
+            "description": "viirs/VIIRS_SNPP_Fires_375m_Night",
             "tags":     "hotspot s-npp snpp",
             "layergroup": [
               "viirs"

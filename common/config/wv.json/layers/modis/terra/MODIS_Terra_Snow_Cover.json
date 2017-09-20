@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Snow_Cover",
             "title":    "Snow Cover",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/MODIS_Terra_Snow_Cover",
             "group":    "overlays",
             "layergroup": [
               "modis",

@@ -4,6 +4,7 @@
             "id":       "MODIS_Aqua_Land_Surface_Temp_Night",
             "title":    "Land Surface Temperature (Night)",
             "subtitle": "Aqua / MODIS",
+            "description": "modis/aqua/MODIS_Aqua_Land_Surface_Temp_Night",
             "tags":     "lst",
             "group":    "overlays",
             "layergroup": [

@@ -4,14 +4,13 @@
             "id":       "GLDAS_Underground_Soil_Moisture_Monthly",
             "title":    "Soil Moisture (Monthly, Underground, Noah LSM)",
             "subtitle": "GLDAS",
+            "description": "ldas/GLDAS_Underground_Soil_Moisture_Monthly",
             "tags":     "global land data assimilation system, land surface model",
             "group":    "overlays",
             "layergroup": [
               "ldas"
             ],
             "product":  "GLDAS_NOAH10_M.2.0",
-            "startDate":"1948-01-01",
-            "endDate":  "2010-12-31",
             "inactive": true,
             "wrapadjacentdays": true
         }

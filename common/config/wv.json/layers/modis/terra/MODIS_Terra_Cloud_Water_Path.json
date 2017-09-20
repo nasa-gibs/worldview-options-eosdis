@@ -3,7 +3,8 @@
         "MODIS_Terra_Cloud_Water_Path": {
             "id":       "MODIS_Terra_Cloud_Water_Path",
             "title":    "Cloud Water Path",
-            "subtitle": "Terra/MODIS",
+            "subtitle": "Terra / MODIS",
+            "description": "modis/terra/MODIS_Terra_Cloud_Water_Path",
             "group":    "overlays",
             "layergroup": [
               "modis",

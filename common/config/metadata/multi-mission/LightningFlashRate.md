@@ -1,11 +1,11 @@
-# Lightning Flash Rate (Combined)
+### Lightning Flash Rate (Combined)
 Temporal Coverage: 4 May 1995 - 31 December 2013 composite
 
 The TRMM/LIS, OrbView-1/OTD Lightning Flash Rate (Combined) layer indicates the average lightning flash rate over an area in number of flashes per square kilometers per year (Flashes/km<sup>2</sup>/year) from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Measuring Mission (TRMM) satellite and the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then calculated the frequency of each lightning flash.
 
 The LIS instrument contains a staring imager which is optimized to locate and detect lightning with storm-scale resolution of 3 to 6 kilometers over a large region of the Earth’s surface. The field-of-view is sufficient to observe a point on the Earth or a cloud for about 80 seconds, adequate to estimate the flashing rate of many storms. The instrument records the time of occurrence of a lightning event and estimates the location. The OTD instrument detects both intra-cloud and cloud-to-ground lightning discharges during day and night conditions with a high detection efficiency. The OTD located the lightning discharges that occurred within its field-of-view and marked the time of occurrence of the lightning.
 
-Data Product & References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA308);
+References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](http://dx.doi.org/10.5067/LIS/LIS-OTD/DATA308);
 [Christian, H.J., et al, Global frequency and distribution of lightning as observed from space by the Optical Transient Detector, J. Geophys. Res., 108(D1), 4005, 2003](https://dx.doi.org/10.1029/2002JD002347);
 [Products in LIS-OTD gridded climatology files](https://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/LISOTD_Climo_prod_table.doc);
 [Cecil, D.J., et al. Gridded lightning climatology from TRMM-LIS and OTD: Dataset description, Atmospheric Research, Volumes 135–136, January 2014, Pages 404–414](http://dx.doi.org/10.1016/j.atmosres.2012.06.028); [GHRC: Lighting Imaging Sensor (LIS) Overview](https://lightning.nsstc.nasa.gov/lis/overview_lis_instrument.html);

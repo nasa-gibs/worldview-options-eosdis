@@ -8,7 +8,7 @@
                 "Space-Track.org / Terra": {
                     "id": "space-track-org-terra",
                     "title": "Space-Track.org / Terra",
-                    "description": "orbitaltrack/Terra",
+                    "description": "reference/orbits/Terra",
                     "image": "",
                     "settings": [
                         "Terra_Orbit_Asc",
@@ -18,7 +18,7 @@
                 "Space-Track.org / Aqua": {
                     "id": "space-track-org-aqua",
                     "title": "Space-Track.org / Aqua",
-                    "description": "orbitaltrack/Aqua",
+                    "description": "reference/orbits/Aqua",
                     "image": "",
                     "settings": [
                         "Aqua_Orbit_Asc",
@@ -28,7 +28,7 @@
                 "Space-Track.org / Aura": {
                     "id": "space-track-org-aura",
                     "title": "Space-Track.org / Aura",
-                    "description": "orbitaltrack/Aura",
+                    "description": "reference/orbits/Aura",
                     "image": "",
                     "settings": [
                         "Aura_Orbit_Asc",
@@ -38,7 +38,7 @@
                 "Space-Track.org / CALIPSO": {
                     "id": "space-track-org-calipso",
                     "title": "Space-Track.org / CALIPSO",
-                    "description": "orbitaltrack/CALIPSO",
+                    "description": "reference/orbits/CALIPSO",
                     "image": "",
                     "settings": [
                         "Calipso_Orbit_Asc",
@@ -48,7 +48,7 @@
                 "Space-Track.org / GPM": {
                     "id": "space-track-org-gpm",
                     "title": "Space-Track.org / GPM",
-                    "description": "orbitaltrack/GPM",
+                    "description": "reference/orbits/GPM",
                     "image": "",
                     "settings": [
                         "GPM_Orbit_Asc",
@@ -58,7 +58,7 @@
                 "Space-Track.org / GCOM-W1": {
                     "id": "space-track-org-gcom",
                     "title": "Space-Track.org / GCOM-W1",
-                    "description": "orbitaltrack/GCOM-W1",
+                    "description": "reference/orbits/GCOM-W1",
                     "image": "",
                     "settings": [
                         "GCOM_W1_Orbit_Asc",
@@ -68,7 +68,7 @@
                 "Space-Track.org / Suomi NPP": {
                     "id": "space-track-org-suomi-npp",
                     "title": "Space-Track.org / Suomi NPP",
-                    "description": "orbitaltrack/SNPP",
+                    "description": "reference/orbits/SNPP",
                     "image": "",
                     "settings": [
                         "Suomi_NPP_Orbit_Asc",

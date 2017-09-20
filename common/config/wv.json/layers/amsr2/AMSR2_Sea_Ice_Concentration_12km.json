@@ -4,6 +4,7 @@
             "id":       "AMSR2_Sea_Ice_Concentration_12km",
             "title":    "Sea Ice Concentration 12km",
             "subtitle": "GCOM-W1 / AMSR2",
+            "description": "amsr2/AMSR2_Sea_Ice_Concentration_12km",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

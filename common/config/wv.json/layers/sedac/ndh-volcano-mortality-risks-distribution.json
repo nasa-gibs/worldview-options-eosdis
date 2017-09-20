@@ -4,6 +4,7 @@
             "id":       "ndh-volcano-mortality-risks-distribution",
             "title":    "Volcano Hazard: Mortality Risk",
             "subtitle": "SEDAC Global Volcano Mortality Risks and Distribution, v1 (2000)",
+            "description": "sedac/ndh-volcano-mortality-risks-distribution",
             "group":    "overlays",
             "format":   "image/png",
             "tileSize": [512, 512],

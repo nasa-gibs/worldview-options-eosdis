@@ -4,6 +4,7 @@
             "id":       "MODIS_Terra_Brightness_Temp_Band31_Day",
             "title":    "Brightness Temperature (Band 31-Day)",
             "subtitle": "Terra / MODIS",
+            "description": "modis/terra/MODIS_Terra_Brightness_Temp_Band31_Day",
             "group":    "overlays",
             "layergroup": [
               "modis",
