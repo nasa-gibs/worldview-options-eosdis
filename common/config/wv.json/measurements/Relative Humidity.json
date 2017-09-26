@@ -21,6 +21,8 @@
                         "AIRS_RelativeHumidity_700hPa_Night",
                         "AIRS_RelativeHumidity_850hPa_Day",
                         "AIRS_RelativeHumidity_850hPa_Night",
+                        "AIRS_Surface_Relative_Humidity_Monthly_Day",
+                        "AIRS_Surface_Relative_Humidity_Monthly_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
                     ]
