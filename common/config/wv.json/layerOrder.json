@@ -35,6 +35,8 @@
 	      "VIIRS_SNPP_Fires_375m_Night",
         "VIIRS_SNPP_DayNightBand_ENCC",
         "VIIRS_Night_Lights",
+        "VIIRS_SNPP_Brightness_Temp_BandI5_Day",
+        "VIIRS_SNPP_Brightness_Temp_BandI5_Night",
 
         "MODIS_Terra_Aerosol",
         "MODIS_Aqua_Aerosol",
