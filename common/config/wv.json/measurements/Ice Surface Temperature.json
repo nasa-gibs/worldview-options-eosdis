@@ -8,7 +8,7 @@
                     "Aqua/MODIS": {
                         "id": "aqua-modis",
                         "title": "Aqua/MODIS",
-                        "description": "",
+                        "description": "modis/IceSurfaceTemperature",
                         "image": "",
                         "settings": [
                             "MODIS_Aqua_Ice_Surface_Temp_Day",
@@ -18,7 +18,7 @@
                     "Terra/MODIS": {
                         "id": "terra-modis",
                         "title": "Terra/MODIS",
-                        "description": "",
+                        "description": "modis/IceSurfaceTemperature",
                         "image": "",
                         "settings": [
                             "MODIS_Terra_Ice_Surface_Temp_Day",
