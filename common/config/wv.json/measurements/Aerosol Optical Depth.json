@@ -69,7 +69,7 @@
                 "SeaWiFS Deep Blue": {
                     "id": "seawifs-deepblue",
                     "title": "SeaWiFS Deep Blue",
-                    "description": "seawifs/Aerosol",
+                    "description": "seawifs/SWDBAerosol",
                     "image": "",
                     "settings": [
                       "SWDB_Aerosol_Optical_Thickness_550nm_Daily",

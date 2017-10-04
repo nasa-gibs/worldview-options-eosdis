@@ -5,7 +5,7 @@
             "title":    "Aerosol Optical Thickness 550nm (Daily)",
             "subtitle": "SeaWiFS Deep Blue",
             "description": "seawifs/SWDB_Aerosol_Optical_Thickness_550nm_Daily",
-            "tags":     "",
+            "tags":     "swdb",
             "group":    "overlays",
             "layergroup": [
               "seawifs"

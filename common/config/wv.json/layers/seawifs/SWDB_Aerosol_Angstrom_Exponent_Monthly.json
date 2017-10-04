@@ -5,7 +5,7 @@
             "title":    "Aerosol Angstrom Exponent (Monthly)",
             "subtitle": "SeaWiFS Deep Blue",
             "description": "seawifs/SWDB_Aerosol_Angstrom_Exponent_Monthly",
-            "tags":     "",
+            "tags":     "swdb",
             "group":    "overlays",
             "layergroup": [
               "seawifs"
