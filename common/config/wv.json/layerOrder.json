@@ -357,6 +357,11 @@
         "GHRSST_L4_G1SST_Sea_Surface_Temperature",
         "GHRSST_L4_MUR_Sea_Surface_Temperature",
 
+        "SWDB_Aerosol_Optical_Thickness_550nm_Daily",
+        "SWDB_Aerosol_Angstrom_Exponent_Daily",
+        "SWDB_Aerosol_Optical_Thickness_550nm_Monthly",
+        "SWDB_Aerosol_Angstrom_Exponent_Monthly",
+
         "SSMI_DMSP_F8_Cloud_Liquid_Water_Over_Oceans_Ascending",
         "SSMI_DMSP_F8_Cloud_Liquid_Water_Over_Oceans_Descending",
         "SSMI_DMSP_F8_Water_Vapor_Over_Oceans_Ascending",
