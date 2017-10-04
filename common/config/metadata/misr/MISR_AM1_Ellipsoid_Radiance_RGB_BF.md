@@ -1,4 +1,4 @@
-### NRT Color Radiance (Bf, RGB)
+### Color Radiance (Bf, RGB)
 Temporal Coverage: 1 September 2017 - present
 
 The MISR NRT Color Radiance layer displays the daily radiance data captured by MISR’s Bf (45.6-degree forward-pointing) camera in the red, green, and blue bands created with near real-time processing. Radiance is a measure of the energy emitted and/or reflected by the Earth’s surface in a particular direction, per unit area, per wavelength. MISR’s radiances are reported in units of W m<sup>-2</sup> sr<sup>-1</sup> µm<sup>-1</sup>. MISR radiances are used to create natural-color images. Along with the measurements from MISR’s near-infrared band, these radiances are the base measurements from which all other MISR data products are produced.
