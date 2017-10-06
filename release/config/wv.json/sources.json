@@ -13,7 +13,7 @@
             "url": "//gibs-{a-c}.earthdata.nasa.gov/wms/wms.php"
         },
         "SEDAC:wms": {
-            "url": "http://sedac.ciesin.columbia.edu/geoserver/wms"
+            "url": "https://sedac.ciesin.columbia.edu/geoserver/wms"
         }
     }
 }
