@@ -2,7 +2,7 @@
     "layers": {
         "CCMP_REMSS_Meridional_Wind_Speed_Monthly": {
             "id":       "CCMP_REMSS_Meridional_Wind_Speed_Monthly",
-            "title":    "Wind Speed (Meridional, REMSS, Monthly)",
+            "title":    "Wind Speed (Meridional, Monthly)",
             "subtitle": "CCMP",
             "tags":     "",
             "layergroup": [
