@@ -3,7 +3,7 @@
         "Surface Flux": {
             "id": "surface-flux",
             "title":    "Surface Flux",
-            "subtitle": "Terra/CERES",
+            "subtitle": "Aqua and Terra/CERES, Terra/CERES",
             "sources": {
                 "Terra/CERES": {
                     "id": "terra-ceres",
@@ -27,9 +27,52 @@
                       "CERES_EBAF_Surface_Longwave_Flux_Up_All_Sky_Monthly",
                       "CERES_EBAF_Surface_Longwave_Flux_Down_All_Sky_Monthly",
                       "CERES_EBAF_Surface_Longwave_Flux_Up_Clear_Sky_Monthly",
-                      "CERES_EBAF_Surface_Longwave_Flux_Down_Clear_Sky_Monthly"
+                      "CERES_EBAF_Surface_Longwave_Flux_Down_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Up_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Down_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Longwave_Flux_Up_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Longwave_Flux_Down_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Window_Region_Flux_Up_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Window_Region_Flux_Down_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Direct_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Diffuse_All_Sky_Monthly",
+                      "CERES_Terra_Surface_UV_Index_All_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Up_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Down_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Longwave_Flux_Up_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Longwave_Flux_Down_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Window_Region_Flux_Up_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Window_Region_Flux_Down_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Direct_Clear_Sky_Monthly",
+                      "CERES_Terra_Surface_Shortwave_Flux_Diffuse_Clear_Sky_Monthly"
                     ]
-                  }
+                  },
+
+                      "Aqua and Terra/CERES": {
+                          "id": "aqua-terra-ceres",
+                          "title": "Aqua and Terra/CERES",
+                          "description": "",
+                          "image": "",
+                          "settings": [
+                            "CERES_Combined_Surface_Shortwave_Flux_Up_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Down_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Longwave_Flux_Up_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Longwave_Flux_Down_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Window_Region_Flux_Up_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Window_Region_Flux_Down_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Direct_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Diffuse_All_Sky_Monthly",
+                            "CERES_Combined_Surface_UV_Index_All_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Up_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Down_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Longwave_Flux_Up_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Longwave_Flux_Down_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Window_Region_Flux_Up_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Window_Region_Flux_Down_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Direct_Clear_Sky_Monthly",
+                            "CERES_Combined_Surface_Shortwave_Flux_Diffuse_Clear_Sky_Monthly"
+                          ]
+                      }
             }
         }
     }
