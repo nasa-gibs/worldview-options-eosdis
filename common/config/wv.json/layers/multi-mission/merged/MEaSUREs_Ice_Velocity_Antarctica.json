@@ -12,8 +12,6 @@
             ],
             "product": 	"NSIDC-0484",
             "group":    "overlays",
-            "startDate":"1996-01-01",
-            "endDate":  "2011-12-31",
             "inactive": true
         }
     }

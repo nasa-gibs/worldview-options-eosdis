@@ -11,8 +11,6 @@
               "multi-mission_merged"
             ],
             "product": 	"rss1windnv7r01",
-            "startDate":"1988-01-01",
-            "endDate":  "2016-08-31",
             "group":    "overlays",
             "inactive": true,
             "wrapadjacentdays": true
