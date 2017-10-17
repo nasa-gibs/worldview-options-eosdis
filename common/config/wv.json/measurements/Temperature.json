@@ -3,7 +3,7 @@
         "Temperature": {
             "id": "temperature",
             "title":    "Temperature",
-            "subtitle": "Aqua / AIRS, Aura / MLS, GLDAS, NLDAS, Daymet",
+            "subtitle": "Aqua / AIRS, Aura / MLS, GLDAS, NLDAS, Daymet, MERRA-2",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
@@ -21,6 +21,8 @@
                         "AIRS_Temperature_700hPa_Night",
                         "AIRS_Temperature_850hPa_Day",
                         "AIRS_Temperature_850hPa_Night",
+                        "AIRS_Surface_Air_Temperature_Monthly_Day",
+                        "AIRS_Surface_Air_Temperature_Monthly_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
                     ]
@@ -64,8 +66,16 @@
                       "Daymet_Maximum_Air_Temp_Daily",
                       "Daymet_Minimum_Air_Temp_Daily"
                     ]
-                }
-
+                },
+                    "MERRA-2": {
+                        "id": "merra-2",
+                        "title": "MERRA-2",
+                        "description": "merra/SurfaceSkinTemperature",
+                        "image": "",
+                        "settings": [
+                            "MERRA2_Surface_Skin_Temperature_Monthly"
+                        ]
+                      }
             }
         }
     }
