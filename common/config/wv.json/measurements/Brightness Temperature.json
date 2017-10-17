@@ -3,7 +3,7 @@
         "Brightness Temperature": {
             "id": "brightness-temperature",
             "title":    "Brightness Temperature",
-            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GCOM-W1/AMSR2, GPM/GMI, SMAP/Radar/Radiometer",
+            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GCOM-W1/AMSR2, GPM/GMI, SMAP/Radar/Radiometer, Suomi NPP/VIIRS",
             "sources": {
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
@@ -115,6 +115,18 @@
                         "SMAP_L3_Passive_Brightness_Temp_V",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
+                    ]
+                },
+                "SNPP/VIIRS": {
+                    "id": "snpp-viirs",
+                    "title": "Suomi NPP/VIIRS",
+                    "description": "viirs/BrightnessTemperature",
+                    "image": "",
+                    "settings": [
+                        "VIIRS_SNPP_Brightness_Temp_BandI5_Day",
+                        "VIIRS_SNPP_Brightness_Temp_BandI5_Night",
+                        "Suomi_NPP_Orbit_Asc",
+                        "Suomi_NPP_Orbit_Dsc"
                     ]
                 }
             }
