@@ -21,13 +21,13 @@
                 },
                 "arctic": {
                     "layer":        "OSM_Land_Water_Map",
-                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
+                    "subtitle":     "&copy; OpenStreetMap contributors",
                     "source":       "GIBS:arctic",
                     "matrixSet":    "250m"
                 },
                 "geographic": {
                     "layer":        "OSM_Land_Water_Map",
-                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
+                    "subtitle":     "&copy; OpenStreetMap contributors",
                     "source":       "GIBS:geographic",
                     "matrixSet":    "250m"
                 }
