@@ -3,7 +3,7 @@
         "Reference_Features": {
             "id":       "Reference_Features",
             "title":    "Coastlines / Borders / Roads",
-            "subtitle": "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>, Natural Earth",
+            "subtitle": "&copy; OpenStreetMap contributors, Natural Earth",
             "description": "reference/Reference_Features",
             "tags":     "osm reference",
             "group":    "overlays",

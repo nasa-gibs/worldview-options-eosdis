@@ -18,11 +18,11 @@
                     "tags":         "borders reference"
                 },
                 "geographic": {
-                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
+                    "subtitle":     "&copy; OpenStreetMap contributors",
                     "tags":         "borders reference osm"
                 },
                 "arctic": {
-                    "subtitle":     "&copy; OpenStreetMap <a target='_blank' href='http://www.openstreetmap.org/copyright'>(license)</a>",
+                    "subtitle":     "&copy; OpenStreetMap contributors",
                     "tags":         "borders reference osm"
                 }
             }
