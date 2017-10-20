@@ -1,0 +1,20 @@
+{
+    "measurements": {
+        "Land Cover": {
+            "id": "land-cover",
+            "title":    "Land Cover",
+            "subtitle": "Landsat / WELD",
+            "sources": {
+                "Landsat/WELD": {
+                    "id": "landsat-weld",
+                    "title": "Landsat / WELD",
+                    "description": "landsat/LandCover",
+                    "image": "",
+                    "settings": [
+                        "WELD_CONUS_5_Year_Tree_Cover"
+                    ]
+                }
+            }
+        }
+    }
+}
