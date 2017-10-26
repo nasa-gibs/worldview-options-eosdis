@@ -1,0 +1,16 @@
+{
+    "layers": {
+        "blue_marble": {
+            "id":       "blue_marble",
+            "title":    "Blue Marble MODIS",
+            "subtitle": "MODIS",
+            "description": "none",
+            "group":    "baselayers",
+            "layergroup": [
+              "modis"
+            ],
+            "inactive": true,
+            "wrapadjacentdays": true
+        }
+    }
+}
