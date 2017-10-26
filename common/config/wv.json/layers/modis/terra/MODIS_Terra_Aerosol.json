@@ -12,11 +12,7 @@
               "modis_terra"
             ],
             "product":  "MOD04_L2",
-            "wrapadjacentdays": true,
-
-            "metadata": "modis/Aerosol",
-            "palette": {
-                "recommended":  ["orange_1"]
+            "wrapadjacentdays": true
             }
         }
     }
