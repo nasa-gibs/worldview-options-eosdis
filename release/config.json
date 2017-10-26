@@ -12,6 +12,10 @@
         {
             "from": "https://gibs.earthdata.nasa.gov/wmts/epsg3031/best/wmts.cgi?request=GetCapabilities",
             "to": "gibs-antarctic.xml"
+        },
+        {
+            "from": "http://localhost:8080/onearth/wmts/epsg4326/wmts.cgi?Request=GetCapabilities",
+            "to": "gibs-geographic-ncar.xml"
         }
     ],
     "wv-options-wmts": [
@@ -35,6 +39,13 @@
             "to": "gibs-antarctic.json",
             "projection": "antarctic",
             "maxResolution": 8192.0
+        },
+        {
+            "source": "GIBS:epsg4326:ncar",
+            "from": "gibs-geographic-ncar.xml",
+            "to": "gibs-geographic-ncar.json",
+            "projection": "geographic",
+            "maxResolution": 0.5625
         }
     ]
 }
