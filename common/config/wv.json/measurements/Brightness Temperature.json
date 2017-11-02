@@ -3,7 +3,7 @@
         "Brightness Temperature": {
             "id": "brightness-temperature",
             "title":    "Brightness Temperature",
-            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GCOM-W1/AMSR2, GPM/GMI, SMAP/Radar/Radiometer, Suomi NPP/VIIRS",
+            "subtitle": "Aqua/AMSR-E, Aqua/MODIS, Terra/MODIS, GCOM-W1/AMSR2, GPM/GMI, SMAP/Radar/Radiometer, Suomi NPP/VIIRS, AMSU-A/NOAA-15, AMSU-A/NOAA-16, AMSU-A/NOAA-17",
             "sources": {
                 "Aqua/AMSR-E": {
                     "id": "aqua-amsre",
@@ -127,6 +127,75 @@
                         "VIIRS_SNPP_Brightness_Temp_BandI5_Night",
                         "Suomi_NPP_Orbit_Asc",
                         "Suomi_NPP_Orbit_Dsc"
+                    ]
+                },
+                "AMSU-A/NOAA-15": {
+                    "id": "amsua-noaa15",
+                    "title": "AMSU-A/NOAA-15",
+                    "description": "amsua/BrightnessTemperature",
+                    "image": "",
+                    "settings": [
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_1",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_2",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_3",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_4",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_5",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_6",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_7",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_8",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_9",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_10",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_11",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_12",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_13",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_14",
+                      "AMSUA_NOAA15_Brightness_Temp_Channel_15"
+                    ]
+                },
+                "AMSU-A/NOAA-16": {
+                    "id": "amsua-noaa16",
+                    "title": "AMSU-A/NOAA-16",
+                    "description": "amsua/BrightnessTemperature",
+                    "image": "",
+                    "settings": [
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_1",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_2",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_3",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_4",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_5",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_6",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_7",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_8",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_9",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_10",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_11",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_12",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_13",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_14",
+                      "AMSUA_NOAA16_Brightness_Temp_Channel_15"
+                    ]
+                },
+                "AMSU-A/NOAA-17": {
+                    "id": "amsua-noaa17",
+                    "title": "AMSU-A/NOAA-17",
+                    "description": "amsua/BrightnessTemperature",
+                    "image": "",
+                    "settings": [
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_1",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_2",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_3",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_4",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_5",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_6",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_7",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_8",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_9",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_10",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_11",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_12",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_13",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_14",
+                      "AMSUA_NOAA17_Brightness_Temp_Channel_15"
                     ]
                 }
             }
