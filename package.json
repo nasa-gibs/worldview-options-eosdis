@@ -7,14 +7,14 @@
     "url": "https://github.com/nasa-gibs/worldview-options-eosdis.git"
   },
   "engines": {
-    "node": "6.8.1"
+    "node": "8.8.1"
   },
   "scripts": {
     "test": "npm run lint",
     "lint": "eslint . --ext=json"
   },
   "devDependencies": {
-    "eslint": "^4.6.1",
+    "eslint": "^4.10.0",
     "eslint-plugin-json": "^1.2.0"
   }
 }
