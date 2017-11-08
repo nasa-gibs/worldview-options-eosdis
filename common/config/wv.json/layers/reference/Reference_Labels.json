@@ -5,7 +5,7 @@
             "title":    "Place Labels",
             "subtitle": "&copy; OpenStreetMap contributors, Natural Earth",
             "description": "reference/Reference_Labels",
-            "tags":     "osm reference",
+            "tags":     "osm reference, country, countries, state, province, cities, city",
             "group":    "overlays",
             "type":     "wmts",
             "noTransition":     "true",
