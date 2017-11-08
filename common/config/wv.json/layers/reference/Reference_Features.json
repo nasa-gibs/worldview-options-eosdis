@@ -5,7 +5,7 @@
             "title":    "Coastlines / Borders / Roads",
             "subtitle": "&copy; OpenStreetMap contributors, Natural Earth",
             "description": "reference/Reference_Features",
-            "tags":     "osm reference",
+            "tags":     "osm reference, country, countries, state, province",
             "group":    "overlays",
             "type":     "wmts",
             "noTransition":     "true",
