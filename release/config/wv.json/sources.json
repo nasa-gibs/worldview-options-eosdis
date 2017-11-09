@@ -14,6 +14,9 @@
         },
         "SEDAC:wms": {
             "url": "https://sedac.ciesin.columbia.edu/geoserver/wms"
+        },
+        "WDPA:wms": {
+            "url": "http://gis.unep-wcmc.org:6080/arcgis/services/wdpa/public/MapServer/WMSServer"
         }
     }
 }

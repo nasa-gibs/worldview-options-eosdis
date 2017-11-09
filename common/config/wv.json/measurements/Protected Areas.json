@@ -1,0 +1,20 @@
+{
+    "measurements": {
+        "Protected Areas": {
+            "id": "protected-areas",
+            "title":    "Protected Areas",
+            "subtitle": "Protected Planet: World Database on Protected Areas",
+            "sources": {
+                "WDPA": {
+                    "id": "wdpa",
+                    "title": "Protected Planet: World Database on Protected Areas",
+                    "description": "reference/Protected_Areas",
+                    "image": "",
+                    "settings": [
+                        "0"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "layers": {
+        "0": {
+            "id":       "0",
+            "title":    "Protected Areas (Polygons)",
+            "subtitle": "Protected Planet: World Database on Protected Areas",
+            "description": "reference/Protected_Areas",
+            "group":    "overlays",
+            "format":   "image/png",
+            "tileSize": [512, 512],
+            "type":     "wms",
+            "layergroup": [
+              "reference"
+            ],
+            "product":  "",
+
+            "projections": {
+                "geographic": {
+                    "source": "WDPA:wms"
+                }
+              },
+
+              "palette": {
+                    "id":           "Protected_Areas",
+                    "immutable":    true
+                }
+        }
+    }
+}
