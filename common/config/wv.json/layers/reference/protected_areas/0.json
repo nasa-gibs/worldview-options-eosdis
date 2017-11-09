@@ -17,12 +17,13 @@
             "projections": {
                 "geographic": {
                     "source": "WDPA:wms"
-                },
-
-                "palette": {
-                    "id":           "Protected_Areas"
                 }
-            }
+              },
+
+              "palette": {
+                    "id":           "Protected_Areas",
+                    "immutable":    true
+                }
         }
     }
 }
