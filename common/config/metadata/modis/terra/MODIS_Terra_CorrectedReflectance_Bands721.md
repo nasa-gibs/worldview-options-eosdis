@@ -1,5 +1,5 @@
 ### MODIS (Terra) Corrected Reflectance (Bands 7,2,1)
-Temporal Coverage: 1 January 2009 - present
+Temporal Coverage: 1 January 2007 - present
 
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
