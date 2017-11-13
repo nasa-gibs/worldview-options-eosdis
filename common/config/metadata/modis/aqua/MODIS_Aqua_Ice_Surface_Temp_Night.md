@@ -1,5 +1,5 @@
 ### MODIS (Aqua) Ice Surface Temperature (Night)
-Temporal Coverage: 1 January 2009 - Present
+Temporal Coverage: 1 January 2007 - Present
 
 The MODIS Sea Ice Surface Temperature layer shows the surface temperature of Arctic and Antarctic sea ice estimated using the thermal emissive bands in the MODIS instrument. The Ice surface temperature is estimated for the cloud free ocean pixels only. Ice Surface Temperature (IST) controls snow metamorphosis and melt, the rate of sea ice growth, and air–sea heat exchange and is an important parameter in large-scale modeling.
 

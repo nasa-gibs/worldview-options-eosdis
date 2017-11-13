@@ -1,5 +1,5 @@
 ### MODIS (Terra) Land Surface Reflectance (True Color)
-Temporal Coverage: 1 January 2009 - present
+Temporal Coverage: 1 January 2007 - present
 
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
