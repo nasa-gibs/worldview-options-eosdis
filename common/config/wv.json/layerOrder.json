@@ -421,6 +421,9 @@
         "GHRSST_L4_G1SST_Sea_Surface_Temperature",
         "GHRSST_L4_MUR_Sea_Surface_Temperature",
 
+        "CALIPSO_Wide_Field_Camera_Radiance_v3-01",
+        "CALIPSO_Wide_Field_Camera_Radiance_v3-02",
+
         "SWDB_Aerosol_Optical_Thickness_550nm_Daily",
         "SWDB_Aerosol_Angstrom_Exponent_Daily",
         "SWDB_Aerosol_Optical_Thickness_550nm_Monthly",
