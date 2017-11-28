@@ -592,6 +592,7 @@
         "CERES_Combined_TOA_Window_Region_Flux_All_Sky_Monthly",
         "CERES_Combined_TOA_Window_Region_Flux_Clear_Sky_Monthly",
 
+        "MOPITT_CO_Daily_Total_Column_L2",
         "MOPITT_CO_Daily_Total_Column_Day",
         "MOPITT_CO_Daily_Total_Column_Night",
         "MOPITT_CO_Daily_Surface_Mixing_Ratio_Day",
@@ -600,7 +601,6 @@
         "MOPITT_CO_Monthly_Total_Column_Night",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Day",
         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
-        "MOPITT_CO_Daily_Total_Column_L2",
 
         "GLDAS_Surface_Total_Precipitation_Rate_Monthly",
         "GLDAS_Underground_Soil_Moisture_Monthly",
