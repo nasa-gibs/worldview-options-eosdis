@@ -4,14 +4,12 @@
     "node": true
   },
   "parserOptions": {
-      "ecmaVersion": 5,
-      "sourceType": "script",
-      "ecmaFeatures": {
-          "jsx": false
-      }
+    "ecmaVersion": 5,
+    "sourceType": "script",
+    "ecmaFeatures": {
+      "jsx": false
+    }
   },
   "extends": "eslint:recommended",
-  "plugins": [
-      "json"
-  ]
+  "plugins": [ "json" ]
 }
