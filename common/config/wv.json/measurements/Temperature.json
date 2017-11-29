@@ -21,6 +21,8 @@
                         "AIRS_Temperature_700hPa_Night",
                         "AIRS_Temperature_850hPa_Day",
                         "AIRS_Temperature_850hPa_Night",
+                        "AIRS_Surface_Air_Temperature_Daily_Day",
+                        "AIRS_Surface_Air_Temperature_Daily_Night",
                         "AIRS_Surface_Air_Temperature_Monthly_Day",
                         "AIRS_Surface_Air_Temperature_Monthly_Night",
                         "Aqua_Orbit_Asc",

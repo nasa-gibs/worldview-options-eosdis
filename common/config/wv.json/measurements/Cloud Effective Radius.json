@@ -11,10 +11,10 @@
                     "description": "modis/CloudEffectiveRadius",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Cloud_Effective_Radius_37_PCL",
-                        "MODIS_Aqua_Cloud_Effective_Radius_37",
-                        "MODIS_Aqua_Cloud_Effective_Radius_PCL",
                         "MODIS_Aqua_Cloud_Effective_Radius",
+                        "MODIS_Aqua_Cloud_Effective_Radius_PCL",
+                        "MODIS_Aqua_Cloud_Effective_Radius_37",
+                        "MODIS_Aqua_Cloud_Effective_Radius_37_PCL",
                         "Aqua_Orbit_Asc"
                     ]
                 },
@@ -24,10 +24,10 @@
                     "description": "modis/CloudEffectiveRadius",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Cloud_Effective_Radius_37_PCL",
-                        "MODIS_Terra_Cloud_Effective_Radius_37",
-                        "MODIS_Terra_Cloud_Effective_Radius_PCL",
                         "MODIS_Terra_Cloud_Effective_Radius",
+                        "MODIS_Terra_Cloud_Effective_Radius_PCL",
+                        "MODIS_Terra_Cloud_Effective_Radius_37",
+                        "MODIS_Terra_Cloud_Effective_Radius_37_PCL",
                         "Terra_Orbit_Dsc"
                     ]
 

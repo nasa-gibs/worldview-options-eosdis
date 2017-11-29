@@ -11,7 +11,7 @@
                     "description": "smap/PercentPotentialVegetationLightUseEfficiency",
                     "image": "",
                     "settings": [
-			"SMAP_L4_Emult_Average"
+			                 "SMAP_L4_Emult_Average"
                     ]
                   }
             }

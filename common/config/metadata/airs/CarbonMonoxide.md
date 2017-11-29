@@ -9,3 +9,6 @@ The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satel
 
 References: [GCMD Entry - Aqua AIRS Near Real Time (NRT) Level 2 Standard Physical Retrieval (AIRS+AMSU) V006 (AIRX2RET_NRT)](http://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&EntryId=GES_DISC_AIRX2RET_NRT_V006&MetadataView=Full); [
 GES DISC - AIRX2RET_NRT Version 006](http://disc.sci.gsfc.nasa.gov/datacollection/AIRX2RET_NRT_V006.html); [AIRS: Atmospheric Infrared Sounder Brochure](http://issuu.com/atmospheric-infrared-sounder/docs/airs-dataproducts-brochure-2012)
+
+### Carbon Monoxide (500 hPa, Day | Night, Daily | Monthly)
+Temporal coverage: 1 September 2002 - present or most recent complete month

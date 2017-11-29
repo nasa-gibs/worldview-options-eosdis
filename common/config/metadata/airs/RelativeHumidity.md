@@ -6,3 +6,6 @@ The AIRS Relative Humidity layer indicates the percent relative humidity at vary
 The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Relative Humidity science parameter is a parameter of the AIRS Level 2 standard retrieval product using AIRS and AMSU (AIRX2RET_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution is twice daily (day and night) and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 16 July 2013 - present.
 
 References: [NOAA National Weather Service - Radiosonde Observations](http://www.ua.nws.noaa.gov/factsheet.htm); [AIRS - The AIRS instrument suite physical retrievals](http://airs.jpl.nasa.gov/data/physical_retrievals)
+
+### Surface Relative Humidity (Day | Night, Daily | Monthly)
+Temporal coverage: 1 September 2002 - present or most recent complete month
