@@ -4,7 +4,7 @@
             "id":       "CERES_Terra_Surface_Shortwave_Flux_Down_All_Sky_Monthly",
             "title":    "Untuned Shortwave Surface Flux (Monthly, Down, All-Sky)",
             "subtitle": "Terra / CERES",
-            "description": "ceres/",
+            "description": "",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [
