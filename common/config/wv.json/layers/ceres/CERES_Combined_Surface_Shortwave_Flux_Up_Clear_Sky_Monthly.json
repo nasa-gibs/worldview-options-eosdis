@@ -4,7 +4,7 @@
             "id":       "CERES_Combined_Surface_Shortwave_Flux_Up_Clear_Sky_Monthly",
             "title":    "Untuned Shortwave Surface Flux (Monthly, Up, Clear-Sky)",
             "subtitle": "Terra and Aqua/ CERES",
-            "description": "ceres/",
+            "description": "",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

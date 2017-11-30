@@ -4,7 +4,7 @@
             "id":       "CERES_Combined_Surface_Longwave_Flux_Up_All_Sky_Monthly",
             "title":    "Untuned Longwave Surface Flux (Monthly, Up, All-Sky)",
             "subtitle": "Terra and Aqua/ CERES",
-            "description": "ceres/",
+            "description": "",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [

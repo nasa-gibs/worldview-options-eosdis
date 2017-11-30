@@ -4,7 +4,7 @@
             "id":       "CERES_Combined_Surface_UV_Index_All_Sky_Monthly",
             "title":    "Surface UV Index (Monthly, All-Sky)",
             "subtitle": "Terra and Aqua/ CERES",
-            "description": "ceres/",
+            "description": "",
             "tags":     "",
             "group":    "overlays",
             "layergroup": [
