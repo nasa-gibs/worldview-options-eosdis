@@ -280,7 +280,7 @@
         "SMAP_L1_Passive_Enhanced_Brightness_Temp_Fore_V_QA",
         "SMAP_L1_Passive_Enhanced_Brightness_Temp_Aft_V_QA",
 
-        "SMAP_Sentinal-1_L2_Active_Passive_Soil_Moisture",
+        "SMAP_Sentinel-1_L2_Active_Passive_Soil_Moisture",
         "SMAP_L2_Passive_Day_Soil_Moisture_Option1",
         "SMAP_L2_Passive_Day_Soil_Moisture_Option2",
         "SMAP_L2_Passive_Day_Soil_Moisture_Option3",

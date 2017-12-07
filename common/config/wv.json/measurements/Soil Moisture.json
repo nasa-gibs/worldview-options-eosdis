@@ -58,7 +58,7 @@
                     "description": "smap/SoilMoisture_L2_SMAPandSentinel-1",
                     "image": "",
                     "settings": [
-                        "SMAP_Sentinal-1_L2_Active_Passive_Soil_Moisture"
+                        "SMAP_Sentinel-1_L2_Active_Passive_Soil_Moisture"
                     ]
                 },
                 "SMAP/Radar/Radiometer": {
