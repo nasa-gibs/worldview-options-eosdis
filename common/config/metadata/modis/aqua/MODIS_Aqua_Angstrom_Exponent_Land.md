@@ -1,5 +1,5 @@
 ### MODIS (Aqua) Deep Blue Aerosol Ångström Exponent (Land)
-Temporal Coverage:3 July 2002 - present
+Temporal Coverage: 3 July 2002 - present
 
 The MODIS Deep Blue Aerosol Ångström Exponent layer can be used to provide additional information related to the aerosol particle size over land. This layer is created from the Deep Blue (DB) algorithm, originally developed for retrieving over desert/arid land (bright in the visible wavelengths). The Ångström exponent provides additional information on the particle size (larger the exponent, the smaller the particle size). Values < 1 suggest optical dominance of coarse particles (e.g. dust) and values > 1 suggest optical dominance of fine particles (e.g. smoke).
 
