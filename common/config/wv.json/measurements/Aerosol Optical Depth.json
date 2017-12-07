@@ -3,7 +3,7 @@
         "Aerosol Optical Depth": {
             "id": "aerosol-optical-depth",
             "title":    "Aerosol Optical Depth",
-            "subtitle": "Aura/OMI, Aqua/MODIS, Terra/MODIS, Aqua and Terra/MODIS, Terra/MISR, SeaWiFS Deep Blue",
+            "subtitle": "Aura/OMI, Suomi-NPP/OMPS, Aqua/MODIS, Terra/MODIS, Aqua and Terra/MODIS, Terra/MISR, SeaWiFS Deep Blue",
             "sources": {
                 "Aura/OMI": {
                     "id": "aura-omi",
@@ -16,6 +16,15 @@
                         "OMI_Absorbing_Aerosol_Optical_Thickness_MW_388",
                         "OMI_Aerosol_Index",
                         "Aura_Orbit_Asc"
+                    ]
+                },
+                "Suomi NPP/OMPS": {
+                    "id": "suominpp-omps",
+                    "title": "Suomi NPP/OMPS",
+                    "description": "omps/Aerosol",
+                    "image": "",
+                    "settings": [
+                        "OMPS_Aerosol_Index"
                     ]
                 },
                 "Aqua/MODIS": {

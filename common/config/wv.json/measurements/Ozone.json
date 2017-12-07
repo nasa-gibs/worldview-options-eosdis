@@ -3,7 +3,7 @@
         "Ozone": {
             "id": "ozone",
             "title":    "Ozone",
-            "subtitle": "Aura/MLS, Aura/OMI",
+            "subtitle": "Aura/MLS, Aura/OMI, Suomi NPP / OMPS",
             "sources": {
                 "Aura/MLS": {
                     "id": "aura-mls",
@@ -26,6 +26,16 @@
                         "OMI_Ozone_DOAS_Total_Column",
                         "OMI_Ozone_TOMS_Total_Column",
                         "Aura_Orbit_Asc"
+                    ]
+                }
+                ,
+                "Suomi NPP/OMPS": {
+                    "id": "suominpp-omps",
+                    "title": "Suomi NPP/OMPS",
+                    "description": "omps/Ozone",
+                    "image": "",
+                    "settings": [
+                        "OMPS_Ozone_Total_Column"
                     ]
                 }
             }

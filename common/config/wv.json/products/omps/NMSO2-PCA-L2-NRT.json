@@ -1,0 +1,11 @@
+{
+    "products": {
+        "NMSO2-PCA-L2-NRT": {
+            "name": "OMPS/NPP PCA SO2 Total Column 1-Orbit L2 Swath 50x50km NRT",
+            "handler": "List",
+            "query": {
+                "shortName": "NMSO2-PCA-L2-NRT"
+            }
+        }
+    }
+}
