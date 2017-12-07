@@ -3,7 +3,7 @@
         "Soil Moisture": {
             "id": "soil-moisture",
             "title":    "Soil Moisture",
-            "subtitle": "GCOM-W1/AMSR2, SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SAC-D/Aquarius, GLDAS, NLDAS",
+            "subtitle": "GCOM-W1/AMSR2, SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SMAP/Radiometer and Sentinel-1/Radar, SAC-D/Aquarius, GLDAS, NLDAS",
             "sources": {
               "GCOM-W1/AMSR2": {
                   "id": "gcom-w1-amsr2",
@@ -50,6 +50,15 @@
                         "SMAP_L3_Passive_Enhanced_Night_Soil_Moisture",
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
+                    ]
+                },
+                "SMAP/Sentinel-1": {
+                    "id": "smap-sentinel1",
+                    "title": "SMAP / Sentinel-1",
+                    "description": "smap/SoilMoisture_L2_SMAPandSentinel-1",
+                    "image": "",
+                    "settings": [
+                        "SMAP_Sentinel-1_L2_Active_Passive_Soil_Moisture"
                     ]
                 },
                 "SMAP/Radar/Radiometer": {
