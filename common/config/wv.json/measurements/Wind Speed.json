@@ -109,7 +109,7 @@
                 "SAC-D/Aquarius": {
                     "id": "sac-d-aquarius",
                     "title": "SAC-D/Aquarius",
-                    "description": "",
+                    "description": "aquarius/WindSpeed",
                     "image": "",
                     "settings": [
                        "Aquarius_Wind_Speed_L3_Daily",
@@ -119,7 +119,7 @@
             "CCMP": {
                 "id": "ccmp",
                 "title": "CCMP",
-                "description": "",
+                "description": "multi-mission/merged/WindSpeed",
                 "image": "",
                 "settings": [
                   "CCMP_REMSS_Meridional_Wind_Speed_Monthly",

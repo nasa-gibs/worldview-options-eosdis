@@ -8,7 +8,7 @@
                 "SAC-D/Aquarius": {
                     "id": "sac-d-aquarius",
                     "title": "SAC-D/Aquarius",
-                    "description": "",
+                    "description": "aquarius/SeaSurfaceSalinity",
                     "image": "",
                     "settings": [
                       "Aquarius_Sea_Surface_Salinity_L3_Daily",
