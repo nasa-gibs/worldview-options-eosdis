@@ -1,5 +1,5 @@
 ### MODIS (Aqua) Aerosol Optical Depth
-Temporal Coverage: 3 July 2012 - present
+Temporal Coverage: 3 July 2002 - present
 
 The Aerosol Optical Depth layer is useful for studying aerosol optical depth over the ocean as well as vegetation/dark-soiled land, which are both dark in the visible wavelengths. It is produced using two “Dark Target” (DT) algorithms for retrieving (1) over ocean (dark in visible and longer wavelengths) and (2) over vegetated/dark-soiled land (dark in the visible). Note: The algorithm is not applied over sunglint ocean regions or bright (desert) land regions, therefore gaps will occur at those locations.
 

@@ -8,11 +8,15 @@
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
                     "title": "Aqua/AIRS",
-                    "description": "",
+                    "description": "airs/OutgoingLongwaveRadiation",
                     "image": "",
                     "settings": [
+                      "AIRS_All_Sky_Outgoing_Longwave_Radiation_Daily_Day",
+                      "AIRS_All_Sky_Outgoing_Longwave_Radiation_Daily_Night",
                       "AIRS_All_Sky_Outgoing_Longwave_Radiation_Monthly_Day",
                       "AIRS_All_Sky_Outgoing_Longwave_Radiation_Monthly_Night",
+                      "AIRS_Clear_Sky_Outgoing_Longwave_Radiation_Daily_Day",
+                      "AIRS_Clear_Sky_Outgoing_Longwave_Radiation_Daily_Night",
                       "AIRS_Clear_Sky_Outgoing_Longwave_Radiation_Monthly_Day",
                       "AIRS_Clear_Sky_Outgoing_Longwave_Radiation_Monthly_Night"
                     ]

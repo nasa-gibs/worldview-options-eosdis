@@ -1,5 +1,5 @@
 ### MODIS (Terra/Aqua) Corrected Reflectance (True Color)
-Temporal Coverage: 1 January 2007 - present
+Temporal Coverage: 1 January 2003 - present
 
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
@@ -11,7 +11,7 @@ References: [NASA Earthdata - Rapid Response FAQ](https://earthdata.nasa.gov/faq
 [AMNH - Biodiversity Informatics, Band Combination](http://biodiversityinformatics.amnh.org/interactives/bandcombination.php)
 
 ### MODIS (Terra/Aqua) Corrected Reflectance (Bands 7,2,1)
-Temporal Coverage: 1 January 2007 - present
+Temporal Coverage: 1 January 2003 - present
 
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
@@ -29,7 +29,7 @@ Burned areas or fire-affected areas are characterized by deposits of charcoal an
 Liquid water on the ground appears very dark since it absorbs in the red and the SWIR. Sediments in water appear dark blue. Ice and snow appear as bright turquoise. Clouds comprised of small water droplets scatter light equally in both the visible and the SWIR and will appear white. These clouds are usually lower to the ground and warmer. High and cold clouds are comprised of ice crystals and will appear turquoise.
 
 ### MODIS (Terra) Corrected Reflectance (Bands 3,6,7)
-Temporal Coverage: 1 January 2007 - present
+Temporal Coverage: 1 January 2003 - present
 
 False Color: Red = Band 3, Green = Band 6, Blue = Band 7
 

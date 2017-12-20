@@ -11,9 +11,9 @@
                     "description": "modis/CloudOpticalThickness",
                     "image": "",
                     "settings": [
-                        "MODIS_Aqua_Cloud_Optical_Thickness_PCL",
                         "MODIS_Aqua_Cloud_Optical_Thickness",
-                        "Aqua_Orbit_Asc"
+                        "MODIS_Aqua_Cloud_Optical_Thickness_PCL",
+                          "Aqua_Orbit_Asc"
                     ]
                 },
                 "Terra/MODIS": {
@@ -22,8 +22,8 @@
                     "description": "modis/CloudOpticalThickness",
                     "image": "",
                     "settings": [
-                        "MODIS_Terra_Cloud_Optical_Thickness_PCL",
                         "MODIS_Terra_Cloud_Optical_Thickness",
+                        "MODIS_Terra_Cloud_Optical_Thickness_PCL",
                         "Terra_Orbit_Dsc"
                     ]
 
