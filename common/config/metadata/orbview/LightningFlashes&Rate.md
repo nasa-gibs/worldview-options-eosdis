@@ -23,3 +23,6 @@ References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](ht
 Christian, H.J., et al, Global frequency and distribution of lightning as observed from space by the Optical Transient Detector, J. Geophys. Res., 108(D1), 4005, 2003, [doi:10.1029/2002JD002347](https://dx.doi.org/10.1029/2002JD002347);
 [Products in LIS-OTD gridded climatology files](https://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/LISOTD_Climo_prod_table.doc);
 Cecil, D.J., et al. Gridded lightning climatology from TRMM-LIS and OTD: Dataset description, Atmospheric Research, Volumes 135–136, January 2014, Pages 404–414, [doi:10.1016/j.atmosres.2012.06.028](http://dx.doi.org/10.1016/j.atmosres.2012.06.028)
+
+### Calibrated Flash Radiance (OTD / Microlab-1)
+Temporal coverage: 13 April 1995 - 23 March 2000
