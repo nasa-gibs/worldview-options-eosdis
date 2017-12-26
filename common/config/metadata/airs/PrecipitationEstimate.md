@@ -7,7 +7,9 @@ The precipitation algorithm is a regression between these parameters and some ob
 
 AIRS, the Atmospheric Infrared Sounder is a facility instrument aboard the second Earth Observing System polar-orbiting platform, EOS Aqua. In combination with the Advanced Microwave Sounding Unit (AMSU) and the Humidity Sounder for Brazil (HSB, non-operational since February 2003), AIRS constitutes an innovative atmospheric sounding group of visible, infrared, and microwave sensors. AIRS data are generated continuously. Global coverage is obtained twice daily (day and night) on a 1:30pm sun synchronous orbit from a 705 km altitude.
 
-The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Precipitation Estimate (AIRG2SSD) layer is a is a variable of the AIRS Level 2 Support Retrieval (AIRS+AMSU) (AIRX2SUP_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution daily and temporal availability for viewing in Worldview/Global Imagery Browse Services (GIBS) is 8 May 2012 - present.
+The Atmospheric Infrared Sounder (AIRS) is an instrument on board the Aqua satellite. The AIRS Precipitation Estimate (AIRG2SSD) layer is a is a variable of the AIRS Level 2 Near Real Time Support Retrieval (AIRS) (AIR2SUP_NRT). The imagery resolution is 2 km and sensor resolution is 45 km. The temporal resolution is daily.
 
-References: [GES DISC - AIRS NRT Products and Images](http://disc.sci.gsfc.nasa.gov/nrt/data-holdings/airs-nrt-products). For further description of the retrieval method, please refer to:
+References: [GES DISC - AIRS2SUP_NRT: AIRS/Aqua L2 Near Real Time (NRT) Support Retrieval (AIRS-only) V006](https://disc.gsfc.nasa.gov/datasets/AIRS2SUP_NRT_V006/summary?AIRS2SUP_NRT); [GES DISC - Near Real-Time Data](https://disc.gsfc.nasa.gov/information/glossary/5810f92b698c14087bab4c5f/near-real-time-data?page=1)
+
+For further description of the retrieval method, please refer to:
 Susskind, J., P. Piraino, L. Rokke, L. Iredell, and A. Mehta, 1997: Characteristics of the TOVS Pathfinder Path A Dataset. Bulletin of the American Meteorological Society, 78, 1449-1472. [DOI:](https://doi.org/10.1175%2F1520-0477%281997%29078%3C1449%3ACOTTPP%3E2.0.CO%3B2)
