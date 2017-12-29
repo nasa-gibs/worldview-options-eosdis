@@ -4,6 +4,7 @@
             "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal",
             "title":    "TOA Reflectance (True Color, CONUS, Seasonal, V1.5)",
             "subtitle": "Landsat / WELD",
+            "description": "landsat/Landsat_WELD_CorrectedReflectance_TrueColor_CONUS_Seasonal",
             "tags":     "corrected, top of atmosphere",
             "group":    "baselayers",
             "layergroup": [
