@@ -18,7 +18,7 @@
                 "Landsat/WELD": {
                       "id": "landsat-weld",
                       "title": "Landsat/WELD",
-                      "description": "",
+                      "description": "landsat/NDVI",
                       "image": "",
                       "settings": [
                           "Landsat_WELD_NDVI_Global_Monthly",

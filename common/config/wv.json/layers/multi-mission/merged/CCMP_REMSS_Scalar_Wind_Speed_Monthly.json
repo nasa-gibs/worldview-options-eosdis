@@ -4,6 +4,7 @@
             "id":       "CCMP_REMSS_Scalar_Wind_Speed_Monthly",
             "title":    "Wind Speed (Scalar, Monthly)",
             "subtitle": "CCMP",
+            "description": "CCMP_REMSS_Scalar_Wind_Speed_Monthly",
             "tags":     "",
             "layergroup": [
               "multi-mission",
