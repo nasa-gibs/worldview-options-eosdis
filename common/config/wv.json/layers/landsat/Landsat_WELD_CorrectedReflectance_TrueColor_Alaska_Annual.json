@@ -4,6 +4,7 @@
             "id":       "Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Annual",
             "title":    "TOA Reflectance (True Color, Alaska, Annual, V1.5)",
             "subtitle": "Landsat / WELD",
+            "description": "landsat/Landsat_WELD_CorrectedReflectance_TrueColor_Alaska_Annual",
             "tags":     "corrected, top of atmosphere",
             "group":    "baselayers",
             "layergroup": [
