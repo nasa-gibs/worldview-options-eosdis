@@ -36,3 +36,6 @@ References: [GHRC: LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC)](ht
 [Albrecht, R.I., et al. The 13 years of TRMM Lightning Imaging Sensor: From individual flash characteristics to decadal tendencies. XIV International Conference on Atmospheric Electricity, August 8-12 2011, Rio de Janeiro, Brazil](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110015779.pdf);
 [Products in LIS-OTD gridded climatology files](https://ghrc.nsstc.nasa.gov/pub/doc/lis_climatology/LISOTD_Climo_prod_table.doc);
 [Cecil, D.J., et al. Gridded lightning climatology from TRMM-LIS and OTD: Dataset description, Atmospheric Research, Volumes 135–136, January 2014, Pages 404–414](http://dx.doi.org/10.1016/j.atmosres.2012.06.028)
+
+### Flash Radiance (Level 2, Standard)
+Temporal coverage: 1 January 1998 - 8 April 2015
