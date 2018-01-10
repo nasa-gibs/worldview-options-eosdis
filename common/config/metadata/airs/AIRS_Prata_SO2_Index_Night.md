@@ -1,6 +1,3 @@
-### AIRS Prata Sulfur Dioxide (SO2) Index (Night)
-Temporal coverage:  8 May 2012 - present
-
 The AIRS Prata SO2 Index (Night) layer indicates Sulfur Dioxide column amounts in the atmosphere, measured in Dobson Units (DU).  
 
 Sulfur Dioxide (SO2), is a colorless gas with a pungent, suffocating odor that is water soluble to produce the acid, H2SO3. SO2 is one of the US Environmental Protection Agency's (EPA) six major regulated criteria pollutants (Tropospheric Ozone, Nitrogen dioxide, Sulfur dioxide, Lead, PM2.5 and PM10 particulates). It irritates the eyes, nose, and lungs. High concentrations of SO2 can result in temporary breathing impairment. It is produced by combustion of coal, fuel oil, and gasoline, since these fuels contain sulfur in the combustion, and in the oxidation of naturally occurring sulfur gases. It is a precursor to sulfuric acid, which is a major constituent of acid rain. SO2 is injected into the stratosphere by volcanic eruptions. SO2 also is a major precursor to PM2.5 (Particulate Matter up to 2.5 micrometers in size), which is a significant health concern, and a main contributor to poor visibility. These data are used by the Volcanic Ash Advisory Centers in advisories to airlines for operational decisions.

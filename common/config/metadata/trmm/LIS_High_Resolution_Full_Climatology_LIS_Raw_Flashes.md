@@ -1,6 +1,3 @@
-### Lightning Flashes (Raw)
-Temporal Coverage: 4 May 1995 - 31 December 2013 composite
-
 The TRMM/LIS Lightning Flashes (Raw) layer indicates the average number of total raw lightning flashes from 4 May 1995 to 31 December 2013. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Lightning Imaging Sensor (LIS) on the Tropical Rainfall Measuring Mission (TRMM) satellite.
 
 The LIS instrument contains a staring imager which is optimized to locate and detect lightning with storm-scale resolution of 3 to 6 kilometers over a large region of the Earth’s surface. The field-of-view is sufficient to observe a point on the Earth or a cloud for about 80 seconds, adequate to estimate the flashing rate of many storms. The instrument records the time of occurrence of a lightning event and estimates the location.

@@ -1,6 +1,3 @@
-### Aerosol Optical Depth (Absorbing, Near-UV, 388.0 nm)
-Temporal Coverage: 1 October 2004 - Present
-
 The OMI Aerosol Optical Depth (Absorbing, Near-UV, 388.0 nm) is one of the parameters contained in the Ozone Monitoring Instrument (OMI) Level-3 UV/VIS Aerosol product (OMAERUVd) product, using a near-UV algorithm. This layer displays the degree to which airborne particles (aerosols) prevent the transmission of light through the process of absorption (attenuation) and is a unitless quantity. The aerosols that are most prevalent in this layer are desert dust and aerosols related to biomass burning.
 
 Aerosols absorb and scatter incoming sunlight, which reduces visibility and increases the optical depth. Aerosols have an effect on human health, weather and the climate. Sources of aerosols include pollution from factories, smoke from fires, dust from dust storms, sea salts, and volcanic ash and smog. Aerosols compromise human health when inhaled by people with asthma or other respiratory illnesses. Aerosols also have an affect on the weather and climate by cooling or warming the earth, helping or preventing clouds from forming.

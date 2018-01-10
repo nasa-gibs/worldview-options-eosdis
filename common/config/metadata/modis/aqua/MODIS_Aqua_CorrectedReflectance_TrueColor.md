@@ -1,6 +1,3 @@
-### MODIS (Aqua) Corrected Reflectance (True Color)
-Temporal Coverage: 3 July 2002 - present
-
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
 These images are called true-color or natural color because this combination of wavelengths is similar to what the human eye would see. The images are natural-looking images of land surface, oceanic and atmospheric features. The downside of this set of bands is that they tend to produce a hazy image.

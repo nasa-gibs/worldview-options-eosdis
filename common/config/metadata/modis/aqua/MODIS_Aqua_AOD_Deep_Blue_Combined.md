@@ -1,6 +1,3 @@
-### MODIS (Aqua) Merged DT/DB Aerosol Optical Depth (Land and Ocean)
-Temporal Coverage: 3 July 2002 - present
-
 The merged Dark Target/Deep Blue Aerosol Optical Depth layer provides a more global, synoptic view of aerosol optical depth over land and ocean. This layer is created from three algorithms: two “Dark Target” (DT) algorithms for retrieving (1) over ocean (dark in visible and longer wavelengths) and (2) over vegetated/dark-soiled land (dark in the visible) and the Deep Blue (DB) algorithm, originally developed for retrieving (3) over desert/arid land (bright in the visible wavelengths). Which algorithm is used for a particular location on the Earth depends on its surface cover.
 
 The MODIS Merged DT/DB Aerosol Optical Depth (Land and Ocean) layer is available from both the Terra (MOD04_L2) and Aqua (MYD04_L2) satellites for daytime overpasses. The sensor/algorithm resolution is 10 km at nadir, the imagery resolution is 2 km at nadir, and the temporal resolution is daily. Resolution is much coarser out toward the edge of the swath.
