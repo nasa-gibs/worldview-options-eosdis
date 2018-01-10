@@ -1,6 +1,3 @@
-### DMSP-F13 SSMI Wind Speed Over Oceans (Descending)
-Temporal Coverage: 3 May 1995 - 4 November 2009
-
 The DMSP-F13 SSMI Wind Speed Over Oceans layer indicates the wind speed in meters per second (m/s) over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM. This layer was constructed by the Special Sensor Microwave/Imager (SSM/I) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F13 spacecraft using a unified, physically based algorithm to retrieve wind speed measurements.
 
 The F13 spacecraft is flown by the DMSP on the two operational polar orbiting platforms and had an orbit that was near-circular, sun-synchronous, and near-polar with an altitude of about 850 kilometers. The SSM/I sensor consisted of 7 separate total-power radiometers measuring the intensity of radiation coming from its Earth-viewing reflector operating at four different frequencies: 19.35, 22.235, 37, and 85.5 gigahertz.

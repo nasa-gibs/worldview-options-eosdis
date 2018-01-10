@@ -1,6 +1,3 @@
-### Sea Surface Temperature (L3, Night, Monthly, Mid Infrared, 4 km)
-Temporal coverage: 1 July 2002 - most recent complete month
-
 The MODIS L3 SST 4km layer shows global nighttime sea surface temperature (SST) at a depth of a few micrometers with ranges from -1.8 to 32 degree Celsius. The SST is derived with a Mid-Infrared (Short–Wave) SST Algorithm that uses MODIS bands 22 and 23 at 3.959 and 4.050 μm. This Level 3 product is derived from native 1 km Level 2 SST observations that are mapped to a global 4.63 km grid. The temporal resolution of this MODIS L3 SST is monthly.
 
 References:

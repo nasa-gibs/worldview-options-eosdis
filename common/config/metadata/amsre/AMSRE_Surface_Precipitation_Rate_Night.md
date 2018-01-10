@@ -1,6 +1,3 @@
-### AMSR-E Surface Precipitation Rate (Night)
-Temporal coverage: 1 June 2002 - 4 October 2011
-
 The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Surface Precipitation Rate (Night)" layer displays instantaneous total precipitation (solid and liquid) rate in millimeters per hour (mm/hr) at the surface for the 1:30 p.m. descending (night) half-orbit passes of the AMSR-E B feedhorn.
 
 Surface precipitation rate is derived from brightness temperatures by modeling the absorption and scattering effects of precipitation on microwave emissions for specified cloud temperatures, water vapor, and hydro meteor profiles. Ice and snow are efficient scatterers of microwave radiation compared with rain.

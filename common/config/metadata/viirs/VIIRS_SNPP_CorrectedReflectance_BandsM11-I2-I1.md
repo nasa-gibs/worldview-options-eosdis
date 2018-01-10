@@ -1,6 +1,3 @@
-### VIIRS Corrected Reflectance (Bands M11-I2-I1)
-Temporal coverage: 24 November 2015 - present
-
 False Color: Red = M11, Green = I2, Blue = I1
 
 This combination is most useful for distinguishing burn scars from naturally low vegetation or bare soil and enhancing floods.

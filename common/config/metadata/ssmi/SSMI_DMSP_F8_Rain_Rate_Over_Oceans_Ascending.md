@@ -1,6 +1,3 @@
-### DMSP-F8 SSMI Rain Rate Over Oceans (Ascending)
-Temporal Coverage: 9 July 1987 - 31 December 1991
-
 The DMSP-F8 Rain Rate Over Oceans layer indicates the rain rate in millimeters per hour (mm/hr) over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local AM and descending, local PM. This layer was constructed by the Special Sensor Microwave/Imager (SSM/I) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F08 spacecraft using a unified, physically based algorithm to retrieve rain rate measurements.
 
 The F08 spacecraft is flown by the DMSP on two operational polar orbiting platforms and had an orbit that was near-circular, sun-synchronous, and near-polar with an altitude of about 860 ± 25 kilometers. The SSM/I sensor consisted of 7 separate total-power radiometers measuring the intensity of radiation coming from its Earth-viewing reflector operating at four different frequencies: 19.35, 22.235, 37, and 85.5 gigahertz.

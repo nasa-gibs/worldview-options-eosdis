@@ -1,6 +1,3 @@
-### GMI Snow Rate (Descending)
-Temporal Coverage: 4 March 2014 - present
-
 The Global Precipitation Measurement (GPM) Microwave Imager (GMI) Snow Rate (Descending) layer provides the rate at with frozen precipitation reaches the earth's surface in millimeters per hour (mm/hr). The Snow Rate layer provides snapshots of individual storms.
 
 The GPM Microwave Imager (GMI) has a total of 13 channels, each observing the earth at a different frequency (10-183 GHz) or at a different polarization (vertical or horizontal).  Each channel measures the natural emission from the earth's surface, atmospheric gases, and precipitation. The GPM Microwave Imager sees through the tops of clouds to observe how much and where precipitation occurs.  The highest frequency channels on GMI are designed to detect falling snow and ice.

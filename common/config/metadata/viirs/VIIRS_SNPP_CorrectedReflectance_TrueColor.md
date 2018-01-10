@@ -1,6 +1,3 @@
-### VIIRS Corrected Reflectance (True Color)
-Temporal coverage: 24 November 2015 - present
-
 True Color: Red = Band I1, Green = Band M4, Blue = Band M3
 
 These images are called true-color or natural color because this combination of wavelengths is similar to what the human eye would see. The images are natural-looking images of land surface, oceanic and atmospheric features.
