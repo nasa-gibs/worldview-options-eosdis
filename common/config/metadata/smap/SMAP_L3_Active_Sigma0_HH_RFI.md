@@ -1,6 +1,3 @@
-### Sigma0 3 km RFI (L3, Active, HH Polarization)
-
-
 The Soil Moisture Active Passive (SMAP) "Sigma0 3 km RFI (L3, Active, HH Polarization)" layer displays Radio Frequency Interference (RFI) quality flags of backscatter posted on a 3 km EASE-Grid 2.0 for the horizontal transmit and the horizontal receive (HH) polarizations from the SMAP radar. RFI refers to the interference in measurements from other transmitters operating at frequencies in and adjacent to the SMAP L-band frequency.
 
 Within the image, green indicates that Sigma0 observations are free of RFI and approved for science use, yellow indicates that caution should be used with the Sigma0 observations as RFI was detected but mitigated, and red indicates that Sigma0 observations are flagged as bad due to RFI.

@@ -1,6 +1,3 @@
-### Sea Surface Temperature (L3, Night, 8 Day, Mid Infrared, 9 km)
-Temporal coverage: 26 February 2000 - present
-
 The MODIS L3 SST 9km layer shows global nighttime sea surface temperature (SST) at a depth of a few micrometers with ranges from -1.8 to 32 degree Celsius. The SST is derived with a Mid-Infrared (Short–Wave) SST Algorithm that uses MODIS bands 22 and 23 at 3.959 and 4.050 μm. This Level 3 product is derived from native 1 km Level 2 SST observations that are mapped to a global 9 km grid. The temporal resolution of this MODIS L3 SST is 8-Day.
 
 References:

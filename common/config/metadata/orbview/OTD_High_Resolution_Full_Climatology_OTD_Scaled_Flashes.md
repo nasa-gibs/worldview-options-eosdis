@@ -1,6 +1,3 @@
-### Lightning Flashes (Scaled)
-Temporal Coverage: 4 May 1995 - 31 December 2013 composite
-
 The OrbView-1/ OTD Lightning Flashes (Scaled) layer indicates the average number of total scaled lightning flashes from 4 May 1995 to 31 December 20133. The scaled flashes are the raw lightning flashes that have been scaled by detection efficiency values of the instruments, which varies throughout the day since lightning is easier to detect at night than during the day. The imagery resolution is 3 to 6 kilometers and is available as a single layer for viewing in Worldview/Global Imagery Browse Services (GIBS). This layer was constructed through the detection of total lightning occurring in the Earth’s tropical and subtropical regions by the Optical Transient Detector (OTD) on the OrbView-1 satellite, and then were scaled to be more regional measurements.
 
 The OTD instrument detects both intra-cloud and cloud-to-ground lightning discharges during day and night conditions with a high detection efficiency. The OTD located the lightning discharges that occurred within its field-of-view and marked the time of occurrence of the lightning.

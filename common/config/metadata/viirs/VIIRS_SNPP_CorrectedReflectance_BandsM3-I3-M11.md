@@ -1,6 +1,3 @@
-### VIIRS Corrected Reflectance (Bands M3-I3-M11)
-Temporal coverage: 24 November 2015 - present
-
 False Color: Red = M3, Green = I3, Blue = M11
 
 This combination is used to map snow and ice. Snow and ice are very reflective in the visible part of the spectrum (Band M3), and very absorbent in Bands I3 and M11 (short-wave infrared, or SWIR). This band combination is good for distinguishing liquid water from frozen water, for example, clouds over snow, ice cloud versus water cloud; or floods from dense vegetation.

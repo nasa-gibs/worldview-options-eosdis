@@ -1,6 +1,3 @@
-### MODIS (Aqua) Deep Blue Aerosol Optical Depth (Land)
-Temporal Coverage: 3 July 2002 - present
-
 The Deep Blue Aerosol Optical Depth layer is useful for studying aerosol optical depth over land surfaces. This layer is created from the Deep Blue (DB) algorithm, originally developed for retrieving over desert/arid land (bright in the visible wavelengths) where Dark Target approaches fail.
 
 The MODIS Deep Blue Aerosol Optical Depth (Land) layer is available from both the Terra (MOD04_L2) and Aqua (MYD04_L2) satellites for daytime overpasses. The sensor/algorithm resolution is 10 km at nadir,  imagery resolution is 2 km at nadir, and the temporal resolution is daily. Resolution is much coarser out toward the edge of the swath.

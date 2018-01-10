@@ -1,6 +1,3 @@
-### AMSR-E Sea Ice Concentration, 25 km
-Temporal coverage: 18 June 2002 - 4 October 2011
-
 The Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E) "Sea Ice Concentration, 25 km" layer displays the percent of sea ice concentration in the Polar regions as a daily composite of the 1:30 a.m. ascending and 1:30 p.m. descending half-orbit passes of the AMSR-E B feedhorn at a 25 km resolution.
 
 Sea ice concentration describes the relative amount of area covered by ice, compared to some reference area and usually reported as a percentage. In this case, the relative area is 25 km x 25 km swath.

@@ -12,6 +12,7 @@
             ],
             "product":  "MYD10_L2",
             "wrapadjacentdays": true,
+            "inactive": true,
 
             "palette": {
                 "recommended":  ["blue_4"]

@@ -1,6 +1,3 @@
-### MLS Nitrous Oxide (N2O) Mixing Ratio 46hPa (Day)
-Temporal coverage: 9 May 2013 - present
-
 The Microwave Limb Sounder (MLS) Nitrous Oxide (N2O) Mixing Ratio layer at 46hPa (hectopascals) indicates nitrous oxide levels at the vertical atmospheric pressure level of 46hPa, and is measured in parts per billion by volume (ppbv).
 
 Nitrous oxide (N2O) is produced almost entirely at the Earth's surface, about 70% from biological processes (natural decay process of land and ocean) and the rest from human activities (e.g. agricultural fertilization and fossil-fuel burning) Since the 1950's an increase in N2O of about 0.3%/year has been seen in this important greenhouse gas.

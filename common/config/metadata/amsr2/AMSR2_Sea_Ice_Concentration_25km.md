@@ -1,6 +1,3 @@
-### AMSR2 Sea Ice Concentration, 25 km
-Temporal coverage: 13 January 2016 - present
-
 The Advanced Microwave Scanning Radiometer 2 (AMSR2) "Sea Ice Concentration, 25 km" layer displays the percent of sea ice concentration in the Polar regions at a 25 km resolution.
 
 Sea ice concentration describes the relative amount of area covered by ice, compared to some reference area and usually reported as a percentage. In this case, the relative area is 25 km x 25 km swath.

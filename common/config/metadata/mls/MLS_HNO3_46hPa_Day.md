@@ -1,6 +1,3 @@
-### MLS Nitric Acid (HNO3) Mixing Ratio 46hPa (Day)
-Temporal coverage: 9 May 2013 - present
-
 The Microwave Limb Sounder (MLS) Nitric Acid (HNO3) Mixing Ratio layer at 46hPa (hectopascals) indicates nitric acid levels at the vertical atmospheric pressure level of 46hPa, and is measured in parts per billion by volume (ppbv).
 
 Nitric acid (HNO3) is a very water soluble, acidic gas. In the atmosphere it is formed by the conversion of nitrogen monoxide into nitrogen dioxide, and ultimately into nitric acid. It readily reacts with atmospheric water to produce acidic precipitation. Nitric acid also reacts with gaseous ammonia to form particulate or aerosol nitrate, which in turn is removed by wet and dry deposition of the particles. In the clean background troposphere, its removal in precipitation acts as a sink for odd hydrogen and nitrogen compounds and limits the formation of ozone.

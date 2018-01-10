@@ -1,6 +1,3 @@
-### DMSP-F17 SSMIS Rain Rate Over Oceans (Ascending)
-Temporal Coverage: 14 December 2006 - present
-
 The DMSP-F17 SSMIS Rain Rate Over Oceans layer indicates the rain rates in millimeters per hour (mm/hr) over oceans. The imagery resolution is about 0.25 degrees, or about 28 kilometers, and the temporal resolution is daily. This is available in two layers, ascending, local PM and descending, local AM. This layer was constructed by the Special Sensor Microwave Imager Sounder (SSMIS) sensor that flew on the Defense Meteorological Satellite Program (DMSP) F17 spacecraft using a unified, physically based algorithm that was carefully intercalibrated on the brightness temperature level with the previous SSM/I data to retrieve rain rate measurements.
 
 The F17 spacecraft is flown by the DMSP and had an orbit that was near-circular, sun-synchronous, and near-polar with an altitude of about 850 kilometers. The SSMIS sensor collects data forward of nadir at 21 frequencies and 24 channel microwave radiometers ranging from 54 to 183 gigahertz bands, as well as collected microwave energy measurements from the surface and the atmosphere of the Earth with a rotating 24-inch parabolic reflector.
