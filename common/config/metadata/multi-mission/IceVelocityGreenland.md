@@ -1,6 +1,3 @@
-### Ice Velocity (Greenland)
-Temporal Coverage: 3 September 2000-24 January 2001; 13 December 2005-20 April 2006; 18 December 2006-15 April 2007; 1 November 2007-30 April 2008; 1 December 2008-28 February 2009
-
 This MEaSUREs Ice Velocity (Greenland) layer reports seasonal (winter) ice-sheet-wide velocity maps for Greenland derived from Interferometric Synthetic Aperture Radar (InSAR) data obtained by RADARSAT-1, the Advanced Land Observation Satellite (ALOS), and the TerraSAR-X satellite.
 
 An ice sheet is a mass of glacial land ice extending more than 50,000 square kilometers (20,000 square miles) and forms in areas where snow that falls in winter does not melt entirely over the summer. Over thousands of years, the layers of snow pile up into thick masses of ice, growing thicker and denser as the weight of new snow and ice layers compresses the older layers. Ice sheets are constantly in motion, slowly flowing downhill under their own weight. Near the coast, most of the ice moves through relatively fast-moving outlets called ice streams, glaciers, and ice shelves. Within the image, the various colors, ranging from dark blue (0 m/y) to dark red (1600 m/y), indicate the velocity of the various ice outlets.  

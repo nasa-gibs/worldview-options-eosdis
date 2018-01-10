@@ -1,6 +1,3 @@
-### MODIS (Aqua) Land Surface Reflectance (Bands 7, 2, 1)
-Temporal Coverage: 3 July 2002 - present
-
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
 This combination is most useful for distinguishing burn scars from naturally low vegetation or bare soil and enhancing floods. Vegetation will appear green and burned areas will appear reddish.

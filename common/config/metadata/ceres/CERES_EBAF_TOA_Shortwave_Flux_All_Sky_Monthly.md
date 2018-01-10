@@ -1,6 +1,3 @@
-### TOA Shortwave Flux (Monthly, Energy Balanced and Filled, All-Sky)
-Temporal Coverage: March 2000 - December 2016
-
 The TOA Shortwave Flux (Monthly, Energy Balanced and Filled, All-Sky) layer shows Top of the Atmosphere (TOA, which CERES defines as the effective Earth-atmosphere disc found at 20 km altitude that captures the Sun's energy) outgoing radiance corresponding to the shortwave (0.2-5 µm) broadband channel and to all-sky conditions. CERES footprints (20 km nominal resolution) are classified as clear if they contain 99% of pixels identified as clear by the CERES-MODIS clear-sky mask.
 
 The CERES Energy Balanced and Filled (EBAF) layers are derived from CERES SYN1Deg products, and provide monthly mean radiative fluxes corresponding to collection either at the Earth’s surface (EBAF-Surface) or top-of-the-atmosphere (EBAF-TOA). EBAF-products were designed for climate model evaluation, estimating the Earth's global mean energy budget, and to infer meridional heat transport. For some climate modelers, the products address the need for a net imbalance constrained to the ocean heat storage term.

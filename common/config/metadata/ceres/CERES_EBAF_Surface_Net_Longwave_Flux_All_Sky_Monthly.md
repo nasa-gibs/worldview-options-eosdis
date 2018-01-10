@@ -1,6 +1,3 @@
-### Surface Net Longwave Flux (Monthly, Energy Balanced and Filled, All-Sky)
-Temporal Coverage: March 2000 - December 2016
-
 The CERES Surface Net Longwave Flux (Monthly, Energy Balanced and Filled, All-Sky) layer shows the parameterized broadband longwave (3.5-50 µm) downwelling minus upwelling flux at the surface (W/m<sup>2</sup>), from the CERES EBAF product for all-sky conditions (whereas the Surface CRE Net parameters show the difference between the two). CERES footprints (20 km nominal resolution) are classified as clear if they contain 99% of pixels identified as clear by the CERES-MODIS clear-sky mask.
 
 Surface Net Flux aids in calculating the energy budget at Earth’s surface, an indicator of how much energy is available to evaporate water and moisten the atmosphere. It also allows study of air-sea energy interactions, which set the thermal structure of the oceans and in turn results in the redistribution of energy around the planet, with many important consequences for climate.

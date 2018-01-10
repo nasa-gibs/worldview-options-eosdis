@@ -1,6 +1,3 @@
-### Carbon Monoxide (Monthly, Night, Total Column)
-Temporal Coverage: March 2000 - present
-
 The MOPITT Carbon Monoxide (CO) (Monthly, Night, Total Column) layer shows the amount of carbon monoxide present in the total vertical column of the lower atmosphere (troposphere) and is measured in mole per square centimeter (mol/cm<sup>2</sup>). CO is a trace gas produced by methane oxidation, fossil fuel consumption (emitted from factories and cars) and biomass burning (from forest fires and agricultural burning). These measurements are useful for analyzing the distribution, transport, sources and sinks of CO in the troposphere and can be used to observe how it interacts with land and ocean biospheres. CO hinders the atmosphere’s natural ability to rid itself of harmful pollutants.
 
 The MOPITT Carbon Monoxide (Monthly, Night, Total Column) layer is available from the Measurements of Pollution in the Troposphere (MOPITT) instrument on the Terra satellite. The total column is calculated by integrating the retrieved mixing ratio profiles from the 9 standard MOPITT pressure levels, 900, 800, 700, 600, 500, 400, 300, 200, and 100 hPa and at the surface and are not retrieved independently. The sensor resolution is 22 km at nadir, imagery resolution is 2 km, and the temporal resolution is monthly.
