@@ -9,10 +9,10 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES Surface CRE Net Longwave | Shortwave | Total Flux layers are available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-sfc_cre_net_lw_mon - Surface CRE Net Longwave Flux, Monthly means
-sfc_cre_net_sw_mon - Surface CRE Net Shortwave Flux, Monthly means
-sfc_cre_net_tot_mon - Surface CRE Net Total Flux, Monthly means
+Data parameters:  
+sfc_cre_net_lw_mon - Surface CRE Net Longwave Flux, Monthly means  
+sfc_cre_net_sw_mon - Surface CRE Net Shortwave Flux, Monthly means  
+sfc_cre_net_tot_mon - Surface CRE Net Total Flux, Monthly means  
 
 Data product: CERES_EBAF-Sfc_Edition2.8
 
@@ -29,14 +29,14 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES Longwave | Shortwave Flux (Monthly, Energy Balanced and Filled, Up | Down, All-Sky | Clear-Sky) layers are available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-Sfc_lw_up_all_mon - Surface Longwave Flux Up, Monthly Means, All-Sky conditions
-Sfc_lw_up_clr_mon - Surface Longwave Flux Up, Monthly Means, Clear-Sky conditions
-Sfc_lw_down_all_mon - Surface Longwave Flux Down, Monthly Means, All-Sky conditions
-Sfc_lw_down_clr_mon - Surface Longwave Flux Down, Monthly Means, Clear-Sky conditions
-Sfc_sw_up_all_mon - Surface Shortwave Flux Up, Monthly Means, All-Sky conditions
-Sfc_sw_up_clr_mon - Surface Shortwave Flux Up, Monthly Means, Clear-Sky conditions
-Sfc_sw_down_all_mon - Surface Shortwave Flux Down, Monthly Means, All-Sky conditions
+Data parameters:  
+Sfc_lw_up_all_mon - Surface Longwave Flux Up, Monthly Means, All-Sky conditions  
+Sfc_lw_up_clr_mon - Surface Longwave Flux Up, Monthly Means, Clear-Sky conditions  
+Sfc_lw_down_all_mon - Surface Longwave Flux Down, Monthly Means, All-Sky conditions  
+Sfc_lw_down_clr_mon - Surface Longwave Flux Down, Monthly Means, Clear-Sky conditions  
+Sfc_sw_up_all_mon - Surface Shortwave Flux Up, Monthly Means, All-Sky conditions  
+Sfc_sw_up_clr_mon - Surface Shortwave Flux Up, Monthly Means, Clear-Sky conditions  
+Sfc_sw_down_all_mon - Surface Shortwave Flux Down, Monthly Means, All-Sky conditions  
 Sfc_sw_down_clr_mon - Surface Shortwave Flux Down, Monthly Means, Clear-Sky conditions
 
 Data product: CERES_EBAF-SFC_Edition2.8
@@ -56,12 +56,12 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES Surface Net Longwave | Shortwave | Total Flux (Monthly, Energy Balanced and Filled, All-Sky | Clear-Sky) layer is available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-Sfc_net_lw_all_mon - Surface Net Longwave Flux, Monthly Means, All-Sky conditions
-Sfc_net_lw_clr_mon - Surface Net Longwave Flux, Monthly Means, Clear-Sky conditions
-Sfc_net_sw_all_mon - Surface Net Shortwave Flux, Monthly Means, All-Sky conditions
-Sfc_net_sw_clr_mon - Surface Net Shortwave Flux, Monthly Means, Clear-Sky conditions
-Sfc_net_tot_all_mon - Surface Net Total Flux, Monthly Means, All-Sky conditions
-Sfc_net_tot_clr_mon - Surface Net Total Flux, Monthly Means, Clear-Sky conditions
+Data parameters:  
+Sfc_net_lw_all_mon - Surface Net Longwave Flux, Monthly Means, All-Sky conditions  
+Sfc_net_lw_clr_mon - Surface Net Longwave Flux, Monthly Means, Clear-Sky conditions  
+Sfc_net_sw_all_mon - Surface Net Shortwave Flux, Monthly Means, All-Sky conditions  
+Sfc_net_sw_clr_mon - Surface Net Shortwave Flux, Monthly Means, Clear-Sky conditions  
+Sfc_net_tot_all_mon - Surface Net Total Flux, Monthly Means, All-Sky conditions  
+Sfc_net_tot_clr_mon - Surface Net Total Flux, Monthly Means, Clear-Sky conditions  
 
 Data product: CERES_EBAF-SFC_Edition2.8

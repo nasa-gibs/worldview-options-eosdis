@@ -7,12 +7,12 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES TOA Longwave | Shortwave | Window-Region Flux (Monthly, All-Sky | Clear-Sky) layers are available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-LW_TOA_Total_Sky - TOA Longwave Flux, Monthly Means, All-Sky conditions
-LW_TOA_Clear_Sky - TOA Longwave Flux, Monthly Means, Clear-Sky conditions
-SW_TOA_Total_Sky - TOA Shortwave Flux, Monthly Means, All-Sky conditions
-SW_TOA_Clear_Sky - TOA Shortwave Flux, Monthly Means, Clear-Sky conditions
-WN_TOA_Total_Sky - TOA Window-Region Flux, Monthly Means, All-Sky conditions
+Data parameters:  
+LW_TOA_Total_Sky - TOA Longwave Flux, Monthly Means, All-Sky conditions  
+LW_TOA_Clear_Sky - TOA Longwave Flux, Monthly Means, Clear-Sky conditions  
+SW_TOA_Total_Sky - TOA Shortwave Flux, Monthly Means, All-Sky conditions  
+SW_TOA_Clear_Sky - TOA Shortwave Flux, Monthly Means, Clear-Sky conditions  
+WN_TOA_Total_Sky - TOA Window-Region Flux, Monthly Means, All-Sky conditions  
 WN_TOA_Clear_Sky - TOA Window-Region Flux, Monthly Means, Clear-Sky conditions
 
 Data product: CER_SYN1deg-Month_Terra-MODIS_Edition3A
@@ -32,13 +32,13 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES Longwave | Shortwave | Net Flux (Monthly, Energy Balanced and Filled, All-Sky | Clear-Sky) layers are available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-toa_lw_all_mon - TOA Longwave Flux, Monthly means, All-Sky conditions
-toa_lw_clr_mon - TOA Longwave Flux, Monthly means, Clear-Sky conditions
-toa_sw_all_mon - TOA Shortwave Flux, Monthly means, All-Sky conditions
-toa_sw_clr_mon - TOA Shortwave Flux, Monthly means, Clear-Sky conditions
-toa_net_all_mon - TOA Net Flux, Monthly means, All-Sky conditions
-toa_net_clr_mon - TOA Net Flux, Monthly means, Clear-Sky conditions
+Data parameters:  
+toa_lw_all_mon - TOA Longwave Flux, Monthly means, All-Sky conditions  
+toa_lw_clr_mon - TOA Longwave Flux, Monthly means, Clear-Sky conditions  
+toa_sw_all_mon - TOA Shortwave Flux, Monthly means, All-Sky conditions  
+toa_sw_clr_mon - TOA Shortwave Flux, Monthly means, Clear-Sky conditions  
+toa_net_all_mon - TOA Net Flux, Monthly means, All-Sky conditions  
+toa_net_clr_mon - TOA Net Flux, Monthly means, Clear-Sky conditions  
 
 Data product: CERES_EBAF-SFC_Edition2.8
 
@@ -55,10 +55,10 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES Longwave | Shortwave | Net Flux (Monthly, Energy Balanced and Filled) layers are available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-toa_cre_lw_mon - TOA CRE Longwave Flux, Monthly Means
-toa_cre_sw_mon - TOA CRE Shortwave Flux, Monthly Means
-toa_cre_net_mon - TOA CRE Net Flux, Monthly Means
+Data parameters:  
+toa_cre_lw_mon - TOA CRE Longwave Flux, Monthly Means  
+toa_cre_sw_mon - TOA CRE Shortwave Flux, Monthly Means  
+toa_cre_net_mon - TOA CRE Net Flux, Monthly Means  
 
 Data product: CERES_EBAF-SFC_Edition2.8
 

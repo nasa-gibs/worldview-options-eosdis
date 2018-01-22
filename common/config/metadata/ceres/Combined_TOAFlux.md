@@ -1,5 +1,4 @@
 ### TOA Longwave | Shortwave | Window-Region Flux (Monthly, All-Sky | Clear-Sky)
-Temporal coverage: July 2002 - February 2016
 
 The CERES TOA Longwave | Shortwave | Window-Region Flux (Monthly, Clear-Sky) layers show CERES-observed temporally interpolated and spatially gridded top-of-atmosphere (TOA) outgoing observed flux or radiance (W/m<sup>2</sup>) contained within the SYN1deg product, which is a primary input to the EBAF product. These layers are for the longwave broadband channel (3.5-50 µm), shortwave broadband channel (0.2-5 µm), or atmospheric thermal window-region (8-12 µm), under either all-sky and clear-sky conditions. CERES footprints (20 km nominal resolution) are classified as clear if they contain 99% of pixels identified as clear by the CERES-MODIS clear-sky mask.
 
@@ -7,12 +6,12 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 
 The CERES TOA Longwave | Shortwave | Window-Region Flux (Monthly, Clear-Sky) layers are available from the CERES instruments on the Terra and Aqua satellites. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
-Data parameters:
-LW_TOA_Total_Sky - TOA Longwave Flux, Monthly means, All-Sky conditions
-LW_TOA_Clear_Sky  - TOA Longwave Flux, Monthly means, Clear-Sky conditions
-SW_TOA_Total_Sky - TOA Shortwave Flux, Monthly means, All-Sky conditions
-SW_TOA_Clear_Sky - TOA Shortwave Flux, Monthly means, Clear-Sky conditions
-WN_TOA_Total_Sky - TOA Window-Region Flux, Monthly means, All-Sky conditions
-WN_TOA_Clear_Sky - TOA Window-Region Flux, Monthly means, Clear-Sky conditions
+Data parameters:  
+LW_TOA_Total_Sky - TOA Longwave Flux, Monthly means, All-Sky conditions  
+LW_TOA_Clear_Sky  - TOA Longwave Flux, Monthly means, Clear-Sky conditions  
+SW_TOA_Total_Sky - TOA Shortwave Flux, Monthly means, All-Sky conditions  
+SW_TOA_Clear_Sky - TOA Shortwave Flux, Monthly means, Clear-Sky conditions  
+WN_TOA_Total_Sky - TOA Window-Region Flux, Monthly means, All-Sky conditions  
+WN_TOA_Clear_Sky - TOA Window-Region Flux, Monthly means, Clear-Sky conditions  
 
 Data product: CER_SYN1deg-Month_Terra-Aqua-MODIS_Edition3A
