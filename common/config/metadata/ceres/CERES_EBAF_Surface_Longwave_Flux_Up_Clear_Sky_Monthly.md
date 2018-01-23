@@ -1,7 +1,7 @@
 ### Surface Longwave Flux (Monthly, Energy Balanced and Filled, Up, Clear-Sky)
 Temporal coverage: March 2000 - December 2016
 
-The CERES Surface Longwave Flux (Monthly, Energy Balanced and Filled, Up, Clear-Sky) layer show the EBAF Monthly Mean parameterized broadband thermal longwave (3.5-50 µm) upwelling (up, defined as positive) flux at the Earth’s surface, for clear-sky conditions (W/m<sup>2</sup>). CERES footprints (20 km nominal resolution) are classified as clear if they contain 99% of pixels identified as clear by the CERES-MODIS clear-sky mask.
+The CERES Surface Longwave Flux (Monthly, Energy Balanced and Filled, Up, Clear-Sky) layer shows the EBAF Monthly Mean parameterized broadband thermal longwave (3.5-50 µm) upwelling (up, defined as positive) flux at the Earth’s surface, for clear-sky conditions (W/m<sup>2</sup>). CERES footprints (20 km nominal resolution) are classified as clear if they contain 99% of pixels identified as clear by the CERES-MODIS clear-sky mask.
 
 The CERES Energy Balanced and Filled (EBAF) layers are derived from CERES SYN1Deg products, and provide monthly mean radiative fluxes corresponding to collection either at the Earth’s surface (EBAF-Surface) or top-of-the-atmosphere (EBAF-TOA). EBAF-products were designed for climate model evaluation, estimating the Earth's global mean energy budget, and to infer meridional heat transport. For some climate modelers, the products address the need for a net imbalance constrained to the ocean heat storage term.
 
@@ -12,4 +12,4 @@ The Clouds and the Earth’s Radiant Energy System (CERES) instruments are a col
 The CERES Surface Longwave Flux (Monthly, Energy Balanced and Filled, Up, Clear-Sky) layer is available from the CERES instruments on the Terra satellite. The sensor resolution is 1 degree, imagery resolution is 2 km, and the temporal resolution is monthly.
 
 Data parameter: Sfc_lw_up_clr_mon  
-Product: CERES_EBAF-SFC_Edition2.8
+Data product: CERES_EBAF-SFC_Edition2.8
