@@ -2,7 +2,7 @@
 
 # Welcome to @NAME@
 
-This tool from NASA's [EOSDIS](https://earthdata.nasa.gov/about) provides the capability to interactively browse global, full-resolution satellite imagery and then download the underlying data. Most of the 400+ available products are updated within three hours of observation, essentially showing the entire Earth as it looks "right now".  This supports time-critical application areas such as wildfire management, air quality measurements, and flood monitoring. Arctic and Antarctic views of several products are also available for a "full globe" perspective. Browsing on tablet and smartphone devices is generally supported for mobile access to the imagery.
+This app from NASA's [EOSDIS](https://earthdata.nasa.gov/about) provides the capability to interactively browse over 600 global, full-resolution satellite imagery layers and then download the underlying data. Many of the available imagery layers are updated within three hours of observation, essentially showing the entire Earth as it looks "right now". This supports time-critical application areas such as wildfire management, air quality measurements, and flood monitoring. Arctic and Antarctic views of several products are also available for a "full globe" perspective. Browsing on tablet and smartphone devices is generally supported for mobile access to the imagery.
 
 <div class="right">
   <a href="https://earthdata.nasa.gov/gibs" class="gibs-logo"></a>
@@ -61,5 +61,4 @@ This software is licensed under the [NASA Open Source Software Agreement, Versio
 <hr/>
 
 @BUILD_TIMESTAMP@ <br/>
-Development Lead: [Benjamin King](mailto:benjamin.a.king@nasa.gov) <br/>
 Responsible NASA Official: [Ryan Boller](mailto:ryan.a.boller@nasa.gov)
