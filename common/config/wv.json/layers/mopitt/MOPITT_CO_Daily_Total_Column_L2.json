@@ -8,7 +8,7 @@
             "tags":     "co",
             "group":    "overlays",
             "layergroup": [
-		"mopitt"
+		          "mopitt"
             ],
             "product":  "MOP02R_NRT"
         }
