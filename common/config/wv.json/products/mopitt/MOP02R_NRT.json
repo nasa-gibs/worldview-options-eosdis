@@ -1,0 +1,11 @@
+{
+    "products": {
+        "MOP02R_NRT": {
+            "name": "MOP02R_NRT",
+            "handler": "List",
+            "query": {
+                "shortName": "MOP02R_NRT"
+            }
+        }
+    }
+}
