@@ -1,5 +1,5 @@
 ### MODIS (Aqua) Corrected Reflectance (True Color)
-Temporal Coverage: 1 January 2003 - present
+Temporal Coverage: 3 July 2002 - present
 
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 

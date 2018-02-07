@@ -1,5 +1,5 @@
 ### MODIS (Terra) Corrected Reflectance (True Color)
-Temporal Coverage: 1 January 2003 - present
+Temporal Coverage: 24 February 2000 - present
 
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
