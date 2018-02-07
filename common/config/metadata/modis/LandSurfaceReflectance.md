@@ -1,5 +1,5 @@
 ### MODIS (Terra/Aqua) Land Surface Reflectance (True Color)
-Temporal Coverage: 1 January 2003 - present
+Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
@@ -8,7 +8,7 @@ These images are called true-color or natural color because this combination of 
 The MODIS Land Surface Reflectance product is available from both the Terra (MOD09) and Aqua (MYD09) satellites. The sensor resolution is 500 m, imagery resolution is 500 m, and the temporal resolution is daily.
 
 ### MODIS (Terra/Aqua) Land Surface Reflectance (Bands 7, 2, 1)
-Temporal Coverage: 1 January 2003  - present
+Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
@@ -26,7 +26,7 @@ When vegetation burns, burned area or fire-affected areas become characterized b
 Liquid water on the ground will be very dark since it absorbs in the red and the SWIR. Sediments in water appear dark blue. Ice and snow appear as bright turquoise. Clouds comprised of small water droplets scatter light equally in both the visible and the SWIR and will appear white. These clouds are usually lower to the ground and warmer. High and cold clouds are comprised of ice crystals and will appear turquoise.
 
 ### MODIS (Terra/Aqua) Land Surface Reflectance (Bands 1, 2, 1)
-Temporal Coverage: 1 January 2003 - present
+Temporal Coverage: 24 February 2000 - present (Terra); 3 July 2002 - present (Aqua)
 
 False Color: Red= Band 1, Green = Band 2, Blue = Band 1
 
