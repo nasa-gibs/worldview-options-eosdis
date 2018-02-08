@@ -1,4 +1,4 @@
-Carbon Monoxide (L2, Daily, Day/Night, Total Column)
+### Carbon Monoxide (L2, Daily, Day/Night, Total Column)
 
 The MOPITT Carbon Monoxide (Level 2, Daily, Day/Night, Total Column) layer shows the amount of carbon monoxide (CO) present in the total vertical column of the lower atmosphere (troposphere) and is measured in mole per square centimeter (mol/cm<sup>2</sup>) for the Day and Night overpasses, in near real-time. MOPITT Near Real Time (NRT) measurements use thermal-infrared radiation at 4.7 µm to produce CO total column abundance. CO is a trace gas produced by methane oxidation, fossil fuel consumption (emitted from factories and cars) and biomass burning (from forest fires and agricultural burning). These measurements are useful for analyzing the distribution, transport, sources and sinks of CO in the troposphere and can be used to observe how it interacts with land and ocean biospheres. CO hinders the atmosphere’s natural ability to rid itself of harmful pollutants.
 
