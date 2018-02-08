@@ -51,7 +51,7 @@
                       "Aqua and Terra/CERES": {
                           "id": "aqua-terra-ceres",
                           "title": "Aqua and Terra/CERES",
-                          "description": "",
+                          "description": "ceres/Combined_SurfaceFlux",
                           "image": "",
                           "settings": [
                             "CERES_Combined_Surface_Shortwave_Flux_Up_All_Sky_Monthly",
