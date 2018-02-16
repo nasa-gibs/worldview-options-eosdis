@@ -2,9 +2,9 @@
     "layers": {
         "SMAP_Orbit_Dsc": {
             "id":       "SMAP_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Day)",
+            "title":    "SMAP Orbital Track (Descending/Day)",
             "subtitle": "Space-Track.org / SMAP",
-            "description": "",
+            "description": "reference/orbits/SMAP_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",

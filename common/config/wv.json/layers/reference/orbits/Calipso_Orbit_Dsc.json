@@ -2,7 +2,7 @@
     "layers": {
         "Calipso_Orbit_Dsc": {
             "id":       "Calipso_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
+            "title":    "CALIPSO Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / CALIPSO",
             "description": "reference/orbits/Calipso_Orbit_Dsc",
             "group":    "overlays",

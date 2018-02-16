@@ -2,7 +2,7 @@
     "layers": {
         "Terra_Orbit_Asc": {
             "id":       "Terra_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Night)",
+            "title":    "Terra Orbital Track (Ascending/Night)",
             "subtitle": "Space-Track.org / Terra",
             "description": "reference/orbits/Terra_Orbit_Asc",
             "group":    "overlays",

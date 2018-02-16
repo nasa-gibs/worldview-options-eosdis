@@ -2,8 +2,8 @@
     "layers": {
         "Suomi_NPP_Orbit_Asc": {
             "id":       "Suomi_NPP_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / Suomi NPP",
+            "title":    "Suomi NPP Orbital Track (Ascending/Day)",
+            "subtitle": "Space-Track.org / Suomi-NPP",
             "description": "reference/orbits/Suomi_NPP_Orbit_Asc",
             "group":    "overlays",
             "tags":     "snpp s-npp",

@@ -2,7 +2,7 @@
     "layers": {
         "OCO_2_Orbit_Dsc": {
             "id":       "OCO_2_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
+            "title":    "OCO-2 Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / OCO-2",
             "description": "",
             "group":    "overlays",

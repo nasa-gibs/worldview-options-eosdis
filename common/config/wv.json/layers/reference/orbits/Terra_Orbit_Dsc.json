@@ -2,7 +2,7 @@
     "layers": {
         "Terra_Orbit_Dsc": {
             "id":       "Terra_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Day)",
+            "title":    "Terra Orbital Track (Descending/Day)",
             "subtitle": "Space-Track.org / Terra",
             "description": "reference/orbits/Terra_Orbit_Dsc",
             "group":    "overlays",
