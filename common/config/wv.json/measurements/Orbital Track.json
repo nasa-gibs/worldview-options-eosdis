@@ -78,7 +78,7 @@
                 "Space-Track.org / SMAP": {
                     "id": "space-track-org-smap",
                     "title": "Space-Track.org / SMAP",
-                    "description": "",
+                    "description": "reference/orbits/SMAP",
                     "image": "",
                     "settings": [
                         "SMAP_Orbit_Asc",
@@ -88,7 +88,7 @@
                 "Space-Track.org / Landsat 8": {
                     "id": "space-track-org-landsat-8",
                     "title": "Space-Track.org / Landsat 8",
-                    "description": "",
+                    "description": "reference/orbits/Landsat_8",
                     "image": "",
                     "settings": [
                         "Landsat_8_Orbit_Asc",

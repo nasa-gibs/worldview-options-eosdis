@@ -2,7 +2,7 @@
     "layers": {
         "GCOM_W1_Orbit_Dsc": {
             "id":       "GCOM_W1_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
+            "title":    "GCOM_W1 Orbital Track (Descending/Night)",
             "subtitle": "Space-Track.org / GCOM-W1",
             "description": "reference/orbits/GCOM_W1_Orbit_Dsc",
             "group":    "overlays",

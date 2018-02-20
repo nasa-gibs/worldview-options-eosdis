@@ -2,7 +2,7 @@
     "layers": {
         "GPM_Orbit_Asc": {
             "id":       "GPM_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
+            "title":    "GPM Orbital Track (Ascending)",
             "subtitle": "Space-Track.org / GPM",
             "description": "reference/orbits/GPM_Orbit_Asc",
             "group":    "overlays",

@@ -2,7 +2,7 @@
     "layers": {
         "ISS_Orbit_Dsc": {
             "id":       "ISS_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
+            "title":    "ISS Orbital Track (Descending)",
             "subtitle": "Space-Track.org / Int'l Space Station",
             "description": "",
             "tags":     "iss international",

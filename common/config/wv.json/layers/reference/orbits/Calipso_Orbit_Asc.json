@@ -2,7 +2,7 @@
     "layers": {
         "Calipso_Orbit_Asc": {
             "id":       "Calipso_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
+            "title":    "CALIPSO Orbital Track (Ascending/Day)",
             "subtitle": "Space-Track.org / CALIPSO",
             "description": "reference/orbits/Calipso_Orbit_Asc",
             "group":    "overlays",

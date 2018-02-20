@@ -2,7 +2,7 @@
     "layers": {
         "ISS_Orbit_Asc": {
             "id":       "ISS_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
+            "title":    "ISS Orbital Track (Ascending)",
             "subtitle": "Space-Track.org / Int'l Space Station",
             "description": "",
             "tags":     "iss international",

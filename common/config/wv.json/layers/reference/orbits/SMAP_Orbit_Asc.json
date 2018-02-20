@@ -2,9 +2,9 @@
     "layers": {
         "SMAP_Orbit_Asc": {
             "id":       "SMAP_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Night)",
+            "title":    "SMAP Orbital Track (Ascending/Night)",
             "subtitle": "Space-Track.org / SMAP",
-            "description": "",
+            "description": "reference/orbits/SMAP_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
