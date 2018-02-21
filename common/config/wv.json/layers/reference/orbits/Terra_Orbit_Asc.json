@@ -3,7 +3,7 @@
         "Terra_Orbit_Asc": {
             "id":       "Terra_Orbit_Asc",
             "title":    "Terra Orbital Track (Ascending/Night)",
-            "subtitle": "Space-Track.org / Terra",
+            "subtitle": "Terra / Space-Track.org",
             "description": "reference/orbits/Terra_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",

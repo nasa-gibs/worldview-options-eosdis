@@ -3,7 +3,7 @@
         "Terra_Orbit_Dsc": {
             "id":       "Terra_Orbit_Dsc",
             "title":    "Terra Orbital Track (Descending/Day)",
-            "subtitle": "Space-Track.org / Terra",
+            "subtitle": "Terra / Space-Track.org",
             "description": "reference/orbits/Terra_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",

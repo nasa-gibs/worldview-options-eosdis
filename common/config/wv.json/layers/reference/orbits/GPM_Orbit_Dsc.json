@@ -3,7 +3,7 @@
         "GPM_Orbit_Dsc": {
             "id":       "GPM_Orbit_Dsc",
             "title":    "GPM Orbital Track (Descending)",
-            "subtitle": "Space-Track.org / GPM",
+            "subtitle": "GPM / Space-Track.org",
             "description": "reference/orbits/GPM_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",

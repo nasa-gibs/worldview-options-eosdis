@@ -3,7 +3,7 @@
         "SMAP_Orbit_Asc": {
             "id":       "SMAP_Orbit_Asc",
             "title":    "SMAP Orbital Track (Ascending/Night)",
-            "subtitle": "Space-Track.org / SMAP",
+            "subtitle": "SMAP / Space-Track.org",
             "description": "reference/orbits/SMAP_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",

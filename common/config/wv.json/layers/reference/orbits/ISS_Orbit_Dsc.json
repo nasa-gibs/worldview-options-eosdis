@@ -3,7 +3,7 @@
         "ISS_Orbit_Dsc": {
             "id":       "ISS_Orbit_Dsc",
             "title":    "ISS Orbital Track (Descending)",
-            "subtitle": "Space-Track.org / Int'l Space Station",
+            "subtitle": "Int'l Space Station / Space-Track.org",
             "description": "",
             "tags":     "iss international",
             "group":    "overlays",
