@@ -3,7 +3,7 @@
         "OCO_2_Orbit_Asc": {
             "id":       "OCO_2_Orbit_Asc",
             "title":    "OCO-2 Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / OCO-2",
+            "subtitle": "OCO-2 / Space-Track.org",
             "description": "",
             "group":    "overlays",
             "format":   "image/png",

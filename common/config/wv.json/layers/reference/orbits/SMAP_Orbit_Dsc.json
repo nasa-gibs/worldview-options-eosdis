@@ -3,7 +3,7 @@
         "SMAP_Orbit_Dsc": {
             "id":       "SMAP_Orbit_Dsc",
             "title":    "SMAP Orbital Track (Descending/Day)",
-            "subtitle": "Space-Track.org / SMAP",
+            "subtitle": "SMAP / Space-Track.org",
             "description": "reference/orbits/SMAP_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
