@@ -2,8 +2,8 @@
     "layers": {
         "Aura_Orbit_Asc": {
             "id":       "Aura_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / Aura",
+            "title":    "Aura Orbital Track (Ascending/Day)",
+            "subtitle": "Aura / Space-Track.org",
             "description": "reference/orbits/Aura_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",

@@ -5,9 +5,9 @@
             "title":    "Orbital Track",
             "subtitle": "Space-Track.org / Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, SMAP, Landsat 8, ISS, GOSAT",
             "sources": {
-                "Space-Track.org / Terra": {
+                "Terra / Space-Track.org": {
                     "id": "space-track-org-terra",
-                    "title": "Space-Track.org / Terra",
+                    "title": "Terra / Space-Track.org",
                     "description": "reference/orbits/Terra",
                     "image": "",
                     "settings": [
@@ -15,9 +15,9 @@
                         "Terra_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / Aqua": {
+                "Aqua / Space-Track.org": {
                     "id": "space-track-org-aqua",
-                    "title": "Space-Track.org / Aqua",
+                    "title": "Aqua / Space-Track.org",
                     "description": "reference/orbits/Aqua",
                     "image": "",
                     "settings": [
@@ -25,9 +25,9 @@
                         "Aqua_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / Aura": {
+                "Aura / Space-Track.org": {
                     "id": "space-track-org-aura",
-                    "title": "Space-Track.org / Aura",
+                    "title": "Aura / Space-Track.org",
                     "description": "reference/orbits/Aura",
                     "image": "",
                     "settings": [
@@ -35,9 +35,9 @@
                         "Aura_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / CALIPSO": {
+                "CALIPSO / Space-Track.org": {
                     "id": "space-track-org-calipso",
-                    "title": "Space-Track.org / CALIPSO",
+                    "title": "CALIPSO / Space-Track.org",
                     "description": "reference/orbits/CALIPSO",
                     "image": "",
                     "settings": [
@@ -45,9 +45,9 @@
                         "Calipso_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / GPM": {
+                "GPM / Space-Track.org": {
                     "id": "space-track-org-gpm",
-                    "title": "Space-Track.org / GPM",
+                    "title": "GPM / Space-Track.org",
                     "description": "reference/orbits/GPM",
                     "image": "",
                     "settings": [
@@ -55,9 +55,9 @@
                         "GPM_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / GCOM-W1": {
+                "GCOM-W1 / Space-Track.org": {
                     "id": "space-track-org-gcom",
-                    "title": "Space-Track.org / GCOM-W1",
+                    "title": "GCOM-W1 / Space-Track.org",
                     "description": "reference/orbits/GCOM-W1",
                     "image": "",
                     "settings": [
@@ -65,9 +65,9 @@
                         "GCOM_W1_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / Suomi NPP": {
+                "Suomi-NPP / Space-Track.org": {
                     "id": "space-track-org-suomi-npp",
-                    "title": "Space-Track.org / Suomi NPP",
+                    "title": "Suomi-NPP / Space-Track.org",
                     "description": "reference/orbits/SNPP",
                     "image": "",
                     "settings": [
@@ -75,29 +75,29 @@
                         "Suomi_NPP_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / SMAP": {
+                "SMAP / Space-Track.org": {
                     "id": "space-track-org-smap",
-                    "title": "Space-Track.org / SMAP",
-                    "description": "",
+                    "title": "SMAP / Space-Track.org",
+                    "description": "reference/orbits/SMAP",
                     "image": "",
                     "settings": [
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / Landsat 8": {
+                "Landsat 8 / Space-Track.org": {
                     "id": "space-track-org-landsat-8",
-                    "title": "Space-Track.org / Landsat 8",
-                    "description": "",
+                    "title": "Landsat 8 / Space-Track.org",
+                    "description": "reference/orbits/Landsat_8",
                     "image": "",
                     "settings": [
                         "Landsat_8_Orbit_Asc",
                         "Landsat_8_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / ISS": {
+                "ISS / Space-Track.org": {
                     "id": "space-track-org-iss",
-                    "title": "Space-Track.org / ISS",
+                    "title": "ISS / Space-Track.org",
                     "description": "",
                     "image": "",
                     "settings": [
@@ -105,9 +105,9 @@
                         "ISS_Orbit_Dsc"
                     ]
                 },
-                "Space-Track.org / GOSAT": {
+                "GOSAT / Space-Track.org": {
                     "id": "space-track-org-gosat",
-                    "title": "Space-Track.org / GOSAT",
+                    "title": "GOSAT / Space-Track.org",
                     "description": "",
                     "image": "",
                     "settings": [

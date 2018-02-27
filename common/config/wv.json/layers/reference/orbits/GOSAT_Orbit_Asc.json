@@ -2,8 +2,8 @@
     "layers": {
         "GOSAT_Orbit_Asc": {
             "id":       "GOSAT_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / GOSAT",
+            "title":    "GOSAT Orbital Track (Ascending/Day)",
+            "subtitle": "GOSAT / Space-Track.org",
             "description": "",
             "group":    "overlays",
             "format":   "image/png",

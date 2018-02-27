@@ -2,8 +2,8 @@
     "layers": {
         "GPM_Orbit_Dsc": {
             "id":       "GPM_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Day)",
-            "subtitle": "Space-Track.org / GPM",
+            "title":    "GPM Orbital Track (Descending)",
+            "subtitle": "GPM / Space-Track.org",
             "description": "reference/orbits/GPM_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
@@ -14,7 +14,7 @@
               "reference",
               "reference_orbits"
             ],
-            "daynight": "day",
+            "daynight": "",
             "track": "descending",
             "startDate": "2014-02-27",
 

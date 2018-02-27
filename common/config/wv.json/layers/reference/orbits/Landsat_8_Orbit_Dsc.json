@@ -2,9 +2,9 @@
     "layers": {
         "Landsat_8_Orbit_Dsc": {
             "id":       "Landsat_8_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / Landsat 8",
-            "description": "",
+            "title":    "Landsat 8 Orbital Track (Descending/Night)",
+            "subtitle": "Landsat 8 / Space-Track.org",
+            "description": "reference/orbits/Landsat_8_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
