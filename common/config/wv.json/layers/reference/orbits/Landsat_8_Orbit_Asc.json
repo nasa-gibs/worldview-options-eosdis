@@ -2,9 +2,9 @@
     "layers": {
         "Landsat_8_Orbit_Asc": {
             "id":       "Landsat_8_Orbit_Asc",
-            "title":    "Orbital Track (Ascending/Day)",
-            "subtitle": "Space-Track.org / Landsat 8",
-            "description": "",
+            "title":    "Landsat 8 Orbital Track (Ascending/Day)",
+            "subtitle": "Landsat 8 / Space-Track.org",
+            "description": "reference/orbits/Landsat_8_Orbit_Asc",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",

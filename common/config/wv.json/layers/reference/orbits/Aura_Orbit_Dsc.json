@@ -2,8 +2,8 @@
     "layers": {
         "Aura_Orbit_Dsc": {
             "id":       "Aura_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / Aura",
+            "title":    "Aura Orbital Track (Descending/Night)",
+            "subtitle": "Aura / Space-Track.org",
             "description": "reference/orbits/Aura_Orbit_Dsc",
             "group":    "overlays",
             "format":   "image/png",

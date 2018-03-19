@@ -2,8 +2,8 @@
     "layers": {
         "GOSAT_Orbit_Dsc": {
             "id":       "GOSAT_Orbit_Dsc",
-            "title":    "Orbital Track (Descending/Night)",
-            "subtitle": "Space-Track.org / GOSAT",
+            "title":    "GOSAT Orbital Track (Descending/Night)",
+            "subtitle": "GOSAT / Space-Track.org",
             "description": "",
             "group":    "overlays",
             "format":   "image/png",

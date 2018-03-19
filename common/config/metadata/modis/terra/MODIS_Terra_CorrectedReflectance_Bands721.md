@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+### MODIS (Terra) Corrected Reflectance (Bands 7,2,1)
+Temporal Coverage: 24 February 2000 - present
+
+>>>>>>> master
 False Color: Red = Band 7, Green = Band 2, Blue = Band 1
 
 This combination is most useful for distinguishing burn scars from naturally low vegetation or bare soil and enhancing floods. This combination can also be used to distinguish snow and ice from clouds. Snow and ice are very reflective in the visible part of the spectrum (Band 1), and absorbent in Bands 2 (near infrared) and 7 (short-wave infrared, or SWIR). Thick ice and snow appear vivid sky blue, while small ice crystals in high-level clouds will also appear blueish, and water clouds will appear white.
