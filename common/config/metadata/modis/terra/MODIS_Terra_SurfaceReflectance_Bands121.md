@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-### MODIS (Terra) Land Surface Reflectance (Bands 1, 2, 1)
-Temporal Coverage: 24 February 2000 - present
-
->>>>>>> master
 False Color: Red= Band 1, Green = Band 2, Blue = Band 1
 
 Vegetation is very reflective in the near infrared (Band 2), and absorbent in Band 1. Assigning band 2 to green means even the smallest hint of vegetation will appear bright green in the image. Liquid water on the ground will be very dark since it absorbs in the red and the SWIR and sediments in water appear pink. This band combination is good for identifying vegetation changes, drought and floods.

@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-=======
-### MODIS (Terra) Land Surface Reflectance (True Color)
-Temporal Coverage: 24 February 2000 - present
-
->>>>>>> master
-True Color: Red = Band 1, Green = Band 4, Blue = Band 3
+ True Color: Red = Band 1, Green = Band 4, Blue = Band 3
 
 These images are called true-color or natural color because this combination of wavelengths is similar to what the human eye would see. The images are natural-looking images of land surface, oceanic and atmospheric features.
 

@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-The Sea Ice Concentration and Snow Extent layer (also known as the Near-real-time Ice and Snow Extent (NISE) data set) provides daily imagery of sea ice concentrations and snow extent for the polar regions from the SSM/I and SSMIS passive microwave sensors on board the DMSP 5D-2/F13, DMSP 5D-3/F17 and DMSP 5D-3/F18 platforms. This imagery is meant to provide a best estimate of current ice and snow conditions based on information and algorithms available at the time the data are acquired. These data are not suitable for time series, anomalies, or trends analyses.
-=======
-### Sea Ice Concentration
-Temporal Coverage: 26 October 1978 – 31 December 2015; 1 January 2015 – present
-
 The Sea Ice Concentration layer provides daily sea ice concentrations for the polar regions from a combination of two data sets from two time periods - Sea Ice Concentrations from Nimbus-7 SMMR and SSM/I-SSMIS passive microwave instruments on the DMSP 5D-2/F11, DMSP 5D-2/F13, DMSP 5D-2/F8, DMSP 5D-3/F17 platforms for 26 October 1978 to 31 December 2015 and Near-Real-Time DMSP SSMIS Daily Polar Gridded Sea Ice Concentrations from the SSM/I-SSMIS passive microwave instruments on DMSP 5D-3/F17 and DMSP 5D-3/F18 for 1 January 2015 to present. This imagery provides a best estimate of ice conditions based on information and algorithms available at the time the data are acquired. These data are not suitable for time series, anomalies, or trends analyses.
->>>>>>> master
 
 The sensor/algorithm resolution is 25 km, imagery resolution is 1 km, and the temporal resolution is daily.
 

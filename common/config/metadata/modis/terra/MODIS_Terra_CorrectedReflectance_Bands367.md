@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-### MODIS (Terra) Corrected Reflectance (Bands 3,6,7)
-Temporal Coverage: 24 February 2000 - present
-
->>>>>>> master
 False Color: Red = Band 3, Green = Band 6, Blue = Band 7
 
 This combination is used to map snow and ice. Snow and ice are very reflective in the visible part of the spectrum (Band 3), and very absorbent in Bands 6 and 7 (short-wave infrared, or SWIR). This band combination is good for distinguishing liquid water from frozen water, for example, clouds over snow, ice cloud versus water cloud; or floods from dense vegetation. This band combination is only available for MODIS (Terra) because 70% of the band 6 sensors on the MODIS instrument on the Aqua satellite failed shortly after launch.
