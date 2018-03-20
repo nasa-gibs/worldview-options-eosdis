@@ -4,6 +4,6 @@ Sulfur Dioxide (SO2), a colorless gas with a pungent, suffocating odor, is a ver
 
 MLS can measure SO2 injected into the upper troposphere and lower stratosphere by explosive volcanoes. Starting with its reaction with OH, SO2 is converted into sulfate aerosol which can impact climate.
 
-The MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa layer is derived from the MLS Sulfur Dioxide product (ML2SO2_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, and the temporal resolution daily.
+The MLS Sulfur Dioxide (SO2) Mixing Ratio 147hPa layer is derived from the MLS Sulfur Dioxide product (ML2SO2_NRT) available from the Microwave Limb Sounder (MLS) instrument on the Aura satellite. The sensor resolution is 5 km, imagery resolution is 2 km, and the temporal resolution is daily.
 
-RReferences: [ML2SO2_NRT: MLS/Aura Near-Real-Time L2 Sulfur Dioxide (SO2) Mixing Ratio V004](https://disc.gsfc.nasa.gov/datasets/ML2SO2_NRT_004/summary); [MLS - SO2 Product](http://mls.jpl.nasa.gov/products/so2_product.php); [GES DISC - Sulfur Dioxide](https://disc.gsfc.nasa.gov/information/glossary/581a44615fa71421a68e6405/sulfur-dioxide?keywords=sulfur%20dioxide)
+References: [ML2SO2_NRT: MLS/Aura Near-Real-Time L2 Sulfur Dioxide (SO2) Mixing Ratio V004](https://disc.gsfc.nasa.gov/datasets/ML2SO2_NRT_004/summary); [MLS - SO2 Product](http://mls.jpl.nasa.gov/products/so2_product.php); [GES DISC - Sulfur Dioxide](https://disc.gsfc.nasa.gov/information/glossary/581a44615fa71421a68e6405/sulfur-dioxide?keywords=sulfur%20dioxide)
