@@ -7,7 +7,6 @@
         "tour": true,
         "whatsNew": true,
         "feedback": true,
-        "arcticProjectionChange": true,
         "googleAnalytics": {
             "id": "UA-88182106-1"
         },
