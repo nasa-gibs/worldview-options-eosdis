@@ -1,0 +1,12 @@
+{
+    "products": {
+        "VNP14IMG_NRT_NIGHT": {
+            "name": "VIIRS/NPP Active Fires 6-Min L2 Swath 375m NRT",
+            "handler": "VIIRSSwath",
+            "query": {
+                "shortName": "VNP14IMG_NRT",
+                "dayNightFlag": "NIGHT"
+            }
+        }
+    }
+}
