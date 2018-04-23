@@ -9,7 +9,7 @@
             "layergroup": [
               "viirs"
             ],
-            "product":  "VNP14IMG_NRT",
+            "product":  "VNP14IMG_NRT_DAY",
             "group":    "overlays",
             "format":   "image/png",
             "period":   "daily",
