@@ -6,6 +6,10 @@
             "query": {
                 "shortName": "VNP14IMG_NRT",
                 "dayNightFlag": "DAY"
+            },
+            "urs": {
+                "by": "constant",
+                "value": "true"
             }
         }
     }
