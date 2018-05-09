@@ -1,10 +1,11 @@
 {
     "layers": {
-        "Landsat_8_Orbit_Dsc": {
-            "id":       "Landsat_8_Orbit_Dsc",
-            "title":    "Landsat 8 Orbital Track (Descending/Day)",
-            "subtitle": "Landsat 8 / Space-Track.org",
-            "description": "reference/orbits/Landsat_8_Orbit_Dsc",
+        "Sentinel_2A_Orbit_Dsc": {
+            "id":       "Sentinel_2A_Orbit_Dsc",
+            "title":    "Sentinel 2A Orbital Track (Descending/Day)",
+            "subtitle": "Sentinel 2A / Space-Track.org",
+            "description": "",
+            "tags":     "",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
@@ -17,7 +18,7 @@
             ],
             "daynight": "day",
             "track": "descending",
-            "startDate": "2013-02-11",
+            "startDate": "2015-06-24",
 
             "projections": {
                 "antarctic": {
@@ -32,7 +33,7 @@
             },
 
             "palette": {
-                "id":     "Landsat_8_Orbit_Asc",
+                "id":     "Sentinel_2A_Orbit_Dsc",
                 "immutable": true
             }
         }

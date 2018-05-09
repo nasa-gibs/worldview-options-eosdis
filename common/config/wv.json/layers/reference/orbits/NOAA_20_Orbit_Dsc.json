@@ -1,23 +1,23 @@
 {
     "layers": {
-        "Landsat_8_Orbit_Dsc": {
-            "id":       "Landsat_8_Orbit_Dsc",
-            "title":    "Landsat 8 Orbital Track (Descending/Day)",
-            "subtitle": "Landsat 8 / Space-Track.org",
-            "description": "reference/orbits/Landsat_8_Orbit_Dsc",
+        "NOAA_20_Orbit_Dsc": {
+            "id":       "NOAA_20_Orbit_Dsc",
+            "title":    "NOAA 20 Orbital Track (Descending/Night)",
+            "subtitle": "NOAA 20 / Space-Track.org",
+            "description": "",
+            "tags":     "JPSS 1",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
             "tileSize": [512, 512],
             "period":   "daily",
-            "wrapadjacentdays": true,
             "layergroup": [
               "reference",
               "reference_orbits"
             ],
-            "daynight": "day",
+            "daynight": "night",
             "track": "descending",
-            "startDate": "2013-02-11",
+            "startDate": "2017-11-19",
 
             "projections": {
                 "antarctic": {
@@ -32,7 +32,7 @@
             },
 
             "palette": {
-                "id":     "Landsat_8_Orbit_Asc",
+                "id":     "NOAA_20_Orbit_Dsc",
                 "immutable": true
             }
         }
