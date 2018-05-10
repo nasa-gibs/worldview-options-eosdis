@@ -32,7 +32,7 @@
             },
 
             "palette": {
-                "id": "Landsat_8_Orbit_Asc",
+                "id": "Landsat_8_Orbit_Dsc",
                 "immutable": true
             }
         }
