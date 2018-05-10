@@ -32,7 +32,7 @@
             },
 
             "palette": {
-                "id":     "NOAA_20_Orbit_Dsc",
+                "id": "NOAA_20_Orbit_Dsc",
                 "immutable": true
             }
         }

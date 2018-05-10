@@ -33,7 +33,7 @@
             },
 
             "palette": {
-                "id":     "NOAA_20_Orbit_Asc",
+                "id": "NOAA_20_Orbit_Asc",
                 "immutable": true
             }
         }

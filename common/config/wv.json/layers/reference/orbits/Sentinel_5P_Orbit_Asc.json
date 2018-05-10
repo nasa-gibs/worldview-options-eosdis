@@ -33,7 +33,7 @@
             },
 
             "palette": {
-                "id":     "Sentinel_5P_Orbit_Asc",
+                "id": "Sentinel_5P_Orbit_Asc",
                 "immutable": true
             }
         }

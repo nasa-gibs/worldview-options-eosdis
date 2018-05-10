@@ -31,7 +31,7 @@
             },
 
             "palette": {
-                "id":     "Landsat_7_Orbit_Asc",
+                "id": "Landsat_7_Orbit_Asc",
                 "immutable": true
             }
         }
