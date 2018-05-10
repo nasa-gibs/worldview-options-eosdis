@@ -4,7 +4,7 @@
             "id":       "Sentinel_2B_Orbit_Asc",
             "title":    "Sentinel 2B Orbital Track (Ascending/Night)",
             "subtitle": "Sentinel 2B / Space-Track.org",
-            "description": "",
+            "description": "reference/orbits/Sentinel_2B_Orbit_Asc",
             "tags":     "",
             "group":    "overlays",
             "format":   "image/png",

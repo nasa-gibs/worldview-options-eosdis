@@ -4,7 +4,7 @@
             "id":       "Sentinel_5P_Orbit_Asc",
             "title":    "Sentinel 5P Orbital Track (Ascending/Day)",
             "subtitle": "Sentinel 5P / Space-Track.org",
-            "description": "",
+            "description": "reference/orbits/Sentinel_5P_Orbit_Asc",
             "tags":     "",
             "group":    "overlays",
             "format":   "image/png",
