@@ -65,6 +65,36 @@
                         "GCOM_W1_Orbit_Dsc"
                     ]
                 },
+                "Sentinel 2A / Space-Track.org": {
+                    "id": "space-track-org-sentinel-2a",
+                    "title": "Sentinel 2A / Space-Track.org",
+                    "description": "reference/orbits/Sentinel-2A",
+                    "image": "",
+                    "settings": [
+                        "Sentinel_2A_Orbit_Asc",
+                        "Sentinel_2A_Orbit_Dsc"
+                    ]
+                },
+                "Sentinel 2B / Space-Track.org": {
+                    "id": "space-track-org-sentinel-2b",
+                    "title": "Sentinel 2B / Space-Track.org",
+                    "description": "reference/orbits/Sentinel-2B",
+                    "image": "",
+                    "settings": [
+                        "Sentinel_2B_Orbit_Asc",
+                        "Sentinel_2B_Orbit_Dsc"
+                    ]
+                },
+                "Sentinel 5P / Space-Track.org": {
+                    "id": "space-track-org-sentinel-5p",
+                    "title": "Sentinel 5P / Space-Track.org",
+                    "description": "reference/orbits/Sentinel-5P",
+                    "image": "",
+                    "settings": [
+                        "Sentinel_5P_Orbit_Asc",
+                        "Sentinel_5P_Orbit_Dsc"
+                    ]
+                },
                 "Suomi-NPP / Space-Track.org": {
                     "id": "space-track-org-suomi-npp",
                     "title": "Suomi-NPP / Space-Track.org",
@@ -75,6 +105,16 @@
                         "Suomi_NPP_Orbit_Dsc"
                     ]
                 },
+                "NOAA 20 / Space-Track.org": {
+                    "id": "space-track-org-noaa-20",
+                    "title": "NOAA 20 / Space-Track.org",
+                    "description": "reference/orbits/NOAA-20",
+                    "image": "",
+                    "settings": [
+                        "NOAA_20_Orbit_Asc",
+                        "NOAA_20_Orbit_Dsc"
+                    ]
+                },
                 "SMAP / Space-Track.org": {
                     "id": "space-track-org-smap",
                     "title": "SMAP / Space-Track.org",
@@ -83,6 +123,16 @@
                     "settings": [
                         "SMAP_Orbit_Asc",
                         "SMAP_Orbit_Dsc"
+                    ]
+                },
+                "Landsat 7 / Space-Track.org": {
+                    "id": "space-track-org-landsat-7",
+                    "title": "Landsat 7 / Space-Track.org",
+                    "description": "reference/orbits/Landsat_7",
+                    "image": "",
+                    "settings": [
+                        "Landsat_7_Orbit_Asc",
+                        "Landsat_7_Orbit_Dsc"
                     ]
                 },
                 "Landsat 8 / Space-Track.org": {
