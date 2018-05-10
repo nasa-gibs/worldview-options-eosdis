@@ -4,7 +4,7 @@
             "id":       "NOAA_20_Orbit_Dsc",
             "title":    "NOAA 20 Orbital Track (Descending/Night)",
             "subtitle": "NOAA 20 / Space-Track.org",
-            "description": "",
+            "description": "reference/orbits/NOAA_20_Orbit_Dsc",
             "tags":     "JPSS 1",
             "group":    "overlays",
             "format":   "image/png",

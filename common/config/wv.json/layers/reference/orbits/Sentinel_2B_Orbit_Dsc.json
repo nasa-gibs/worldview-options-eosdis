@@ -4,7 +4,7 @@
             "id":       "Sentinel_2B_Orbit_Dsc",
             "title":    "Sentinel 2B Orbital Track (Descending/Day)",
             "subtitle": "Sentinel 2B / Space-Track.org",
-            "description": "",
+            "description": "reference/orbits/Sentinel_2B_Orbit_Dsc",
             "tags":     "",
             "group":    "overlays",
             "format":   "image/png",

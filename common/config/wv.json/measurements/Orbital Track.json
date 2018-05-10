@@ -3,7 +3,7 @@
         "Orbital Track": {
             "id": "orbital-track",
             "title":    "Orbital Track",
-            "subtitle": "Space-Track.org / Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, SMAP, Landsat 8, ISS, GOSAT",
+            "subtitle": "Space-Track.org / Aqua, Terra, Aura, CALIPSO, GPM, GCOM-W1, Suomi NPP, NOAA 20, SMAP, Landsat 7, Landsat 8, Sentinel 2A, Sentinel 2B, Sentinel 5P, ISS, GOSAT",
             "sources": {
                 "Terra / Space-Track.org": {
                     "id": "space-track-org-terra",
@@ -68,7 +68,7 @@
                 "Sentinel 2A / Space-Track.org": {
                     "id": "space-track-org-sentinel-2a",
                     "title": "Sentinel 2A / Space-Track.org",
-                    "description": "reference/orbits/Sentinel-2A",
+                    "description": "reference/orbits/Sentinel_2A",
                     "image": "",
                     "settings": [
                         "Sentinel_2A_Orbit_Asc",
@@ -78,7 +78,7 @@
                 "Sentinel 2B / Space-Track.org": {
                     "id": "space-track-org-sentinel-2b",
                     "title": "Sentinel 2B / Space-Track.org",
-                    "description": "reference/orbits/Sentinel-2B",
+                    "description": "reference/orbits/Sentinel_2B",
                     "image": "",
                     "settings": [
                         "Sentinel_2B_Orbit_Asc",
@@ -88,7 +88,7 @@
                 "Sentinel 5P / Space-Track.org": {
                     "id": "space-track-org-sentinel-5p",
                     "title": "Sentinel 5P / Space-Track.org",
-                    "description": "reference/orbits/Sentinel-5P",
+                    "description": "reference/orbits/Sentinel_5P",
                     "image": "",
                     "settings": [
                         "Sentinel_5P_Orbit_Asc",
@@ -108,7 +108,7 @@
                 "NOAA 20 / Space-Track.org": {
                     "id": "space-track-org-noaa-20",
                     "title": "NOAA 20 / Space-Track.org",
-                    "description": "reference/orbits/NOAA-20",
+                    "description": "reference/orbits/NOAA_20",
                     "image": "",
                     "settings": [
                         "NOAA_20_Orbit_Asc",
