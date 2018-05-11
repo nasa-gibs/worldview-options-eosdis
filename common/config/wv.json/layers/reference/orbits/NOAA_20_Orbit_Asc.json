@@ -5,7 +5,7 @@
             "title":    "NOAA-20 Orbital Track (Ascending/Day)",
             "subtitle": "NOAA-20 / Space-Track.org",
             "description": "reference/orbits/NOAA_20_Orbit_Asc",
-            "tags":     "JPSS 1",
+            "tags":     "JPSS-1",
             "group":    "overlays",
             "format":   "image/png",
             "type":     "wms",
