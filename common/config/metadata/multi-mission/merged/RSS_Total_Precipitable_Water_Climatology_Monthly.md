@@ -8,6 +8,6 @@ The Special Sensor Microwave/Imager (SSM/I) is a seven channel passive microwave
 References: [GHRC: RSS Monthly 1-Deg Microwave Total Precipitable Water NetCDF V7R01](http://dx.doi.org/10.5067/MEASURES/MULTIPLE/WATER_VAPOR/DATA302);
 [RSS: Merged Total Precipitable Water 1-deg Monthly Climate Product](http://www.remss.com/measurements/atmospheric-water-vapor/tpw-1-deg-product);
 [RSS: AMSR2/AMSRE](http://www.remss.com/missions/amsr);
-[RSS: SSMI/SSMIS](http://www.ssmi.com/ssmi/);
+[RSS: SSMI/SSMIS](http://www.remss.com/missions/ssmi/);
 [GCOM-W1: AMSR2](http://suzaku.eorc.jaxa.jp/GCOM_W/w_amsr2/whats_amsr2.html);
 [WindSat Quick Guide by NASA / SPoRT](https://weather.msfc.nasa.gov/sport/survey/windSat/WindSat_Reference_Guide.pdf)
