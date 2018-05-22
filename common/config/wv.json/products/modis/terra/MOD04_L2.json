@@ -17,9 +17,9 @@
                 "value": "LANCEMODIS"
             },
             "tagVersionRegex": {
-                "regex": "[^\\.]+\\.[^\\.]+\\.[^\\.]+\\.([^\\.]+)\\.",
                 "field": "producer_granule_id",
-                "parseVersion": "ParseMODISVersion"
+                "namedRegex": "MODISProducerGranuleID",
+                "parseVersion": "MODIS"
             }
         }
     }
