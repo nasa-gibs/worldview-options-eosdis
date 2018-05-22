@@ -16,6 +16,11 @@
                 "by": "value",
                 "field": "data_center",
                 "value": "LANCEMODIS"
+            },
+            "tagVersionRegex": {
+                "field": "producer_granule_id",
+                "namedRegex": "MODISProducerGranuleID",
+                "parseVersion": "MODIS"
             }
         }
     }
