@@ -5,6 +5,7 @@
             "title":    "Sea Ice Concentration 25km",
             "subtitle": "GCOM-W1 / AMSR2",
             "description": "amsr2/AMSR2_Sea_Ice_Concentration_25km",
+            "tags":     "amsr-2",
             "group":    "overlays",
             "layergroup": [
               "amsr2"
