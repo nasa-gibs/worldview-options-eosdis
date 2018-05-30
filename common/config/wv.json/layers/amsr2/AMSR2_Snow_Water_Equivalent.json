@@ -5,6 +5,7 @@
             "title":    "Snow Water Equivalent",
             "subtitle": "GCOM-W1 / AMSR2",
             "description": "amsr2/AMSR2_Snow_Water_Equivalent",
+            "tags":     "amsr-2",
             "group":    "overlays",
             "layergroup": [
               "amsr2"
