@@ -5,6 +5,7 @@
             "title":    "Sea Ice Brightness Temperature 6km 89H",
             "subtitle": "GCOM-W1 / AMSR2",
             "description": "amsr2/AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
+            "tags":     "amsr-2",
             "group":    "overlays",
             "layergroup": [
               "amsr2"

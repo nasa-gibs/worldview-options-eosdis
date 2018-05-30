@@ -7,5 +7,5 @@ References:
 [WMO Observing System Capability Analysis and Review Tool (OSCAR) - Satellite: DMSP-F16](https://www.wmo-sat.info/oscar/satellites/view/63);
 [WMO Observing System Capability Analysis and Review Tool (OSCAR) - Instrument: SSMIS](https://www.wmo-sat.info/oscar/instruments/view/536);
 [NSIDC: Special Sensor Microwave Imager/Sounder (SSMIS)](https://nsidc.org/data/docs/daac/ssmis_instrument/);
-[Algorithm and Data User Manual (ADUM) for the Special Sensor Microwave Imager/Sounder (SSMIS) Technical Report, 2002](https://www.ncdc.noaa.gov/oa/rsad/ssmi/swath/adum-ssmis-description.pdf);
+[Algorithm and Data User Manual (ADUM) for the Special Sensor Microwave Imager/Sounder (SSMIS) Technical Report, 2002](http://rain.atmos.colostate.edu/FCDR/ssmis.html);
 [SSM/I and SSMIS Data in NetCDF User's Guide, Global Hydrology Research Center, The University of Alabama in Huntsville, 2012.](https://ghrc.nsstc.nasa.gov/pub/doc/ssmi_netcdf/SSMI_Data_in_NetCDF.docx)
