@@ -7,7 +7,7 @@
                 "description": "",
                 "image": "drought.jpg",
                 "measurements": [
-                  "Corrected Reflectance",
+                    "Corrected Reflectance",
                     "Dams",
                     "Drought Hazard",
                     "Land Surface Reflectance",

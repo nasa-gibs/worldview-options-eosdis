@@ -13,7 +13,8 @@
                     "settings": [
                         "ndh-drought-hazard-frequency-distribution",
                         "ndh-drought-mortality-risks-distribution",
-                        "ndh-drought-proportional-economic-loss-risk-deciles"
+                        "ndh-drought-proportional-economic-loss-risk-deciles",
+                        "NDH_Drought_Hazard_Frequency_Distribution_1980-2000"
                     ]
                 }
             }
