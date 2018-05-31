@@ -14,7 +14,11 @@
                       "AMSRU2_Soil_Moisture_NPD_Day",
                       "AMSRU2_Soil_Moisture_NPD_Night",
                       "AMSRU2_Soil_Moisture_SCA_Day",
-                      "AMSRU2_Soil_Moisture_SCA_Night"
+                      "AMSRU2_Soil_Moisture_SCA_Night",
+                      "LPRM_AMSR2_Surface_Soil_Moisture_C1_Band_Day_Daily",
+                      "LPRM_AMSR2_Surface_Soil_Moisture_C1_Band_Night_Daily",
+                      "LPRM_AMSR2_Downscaled_Surface_Soil_Moisture_C1_Band_Day_Daily",
+                      "LPRM_AMSR2_Downscaled_Surface_Soil_Moisture_C1_Band_Night_Daily"
                   ]
               },
                 "SMAP/Radar": {

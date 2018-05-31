@@ -3,7 +3,7 @@
         "Land Cover": {
             "id": "land-cover",
             "title":    "Land Cover",
-            "subtitle": "Landsat / WELD",
+            "subtitle": "Landsat / WELD, SEDAC",
             "sources": {
                 "Landsat/WELD": {
                     "id": "landsat-weld",
@@ -12,6 +12,16 @@
                     "image": "",
                     "settings": [
                         "Landsat_WELD_CONUS_5_Year_Tree_Cover"
+                    ]
+                },
+                "SEDAC": {
+                    "id": "sedac",
+                    "title": "SEDAC",
+                    "description": "sedac/LandCover",
+                    "image": "",
+                    "settings": [
+                        "Anthropogenic_Biomes_of_the_World_2001-2006",
+                        "Agricultural_Lands_Croplands_2000"
                     ]
                 }
             }
