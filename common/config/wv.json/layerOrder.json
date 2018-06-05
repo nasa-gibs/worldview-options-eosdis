@@ -751,9 +751,5 @@
 		    "OCO_2_Orbit_Dsc",
         "GOSAT_Orbit_Asc",
         "GOSAT_Orbit_Dsc"
-    ],
-    "layerOrderExceptions": [
-        "SCAR_Land_Mask",
-        "SCAR_Land_Water_Map"
     ]
 }
