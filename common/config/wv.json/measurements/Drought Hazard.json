@@ -11,10 +11,10 @@
                     "description": "sedac/DroughtHazard",
                     "image": "",
                     "settings": [
-                        "ndh-drought-hazard-frequency-distribution",
+                        "NDH_Drought_Hazard_Frequency_Distribution_1980-2000",
                         "ndh-drought-mortality-risks-distribution",
-                        "ndh-drought-proportional-economic-loss-risk-deciles",
-                        "NDH_Drought_Hazard_Frequency_Distribution_1980-2000"
+                        "ndh-drought-proportional-economic-loss-risk-deciles"
+
                     ]
                 }
             }
