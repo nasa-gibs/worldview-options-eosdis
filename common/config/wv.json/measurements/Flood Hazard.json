@@ -11,9 +11,9 @@
                     "description": "sedac/FloodHazard",
                     "image": "",
                     "settings": [
-                        "ndh-flood-hazard-frequency-distribution",
-                        "ndh-flood-mortality-risks-distribution",
-                        "ndh-flood-proportional-economic-loss-risk-deciles"
+                      "NDH_Flood_Hazard_Frequency_Distribution_1985-2003",
+                      "ndh-flood-mortality-risks-distribution",
+                      "ndh-flood-proportional-economic-loss-risk-deciles"
                     ]
                 }
             }

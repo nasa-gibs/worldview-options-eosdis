@@ -11,7 +11,7 @@
                     "description": "sedac/Forest_Mangrove",
                     "image": "",
                     "settings": [
-                        "lulc-global-mangrove-forests-distribution-2000"
+                        "Mangrove_Forest_Distribution_2000"
                     ]
                 }
             }

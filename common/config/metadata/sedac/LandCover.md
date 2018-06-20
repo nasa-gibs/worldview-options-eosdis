@@ -3,6 +3,8 @@ The Croplands layer is part of the Global Agricultural Lands, v1 (2000) data set
 
 References: [doi:10.7927/H4C8276G](https://dx.doi.org/10.7927/H4C8276G)
 
+### SEDAC Pastures
+
 ### SEDAC Anthropogenic Biomes
 The Anthropogenic Biomes layer is a part of the Anthropogenic Biomes of the World, v1 (2001-2006) data set which describes globally-significant ecological patterns within the terrestrial biosphere caused by sustained direct human interaction with ecosystems, including agriculture, urbanization, forestry and other land uses. Conventional biomes, such as tropical rainforests or grasslands, are based on global vegetation patterns related to climate. Now that humans have fundamentally altered global patterns of ecosystem form, process, and biodiversity, anthropogenic biomes provide a contemporary view of the terrestrial biosphere in its human-altered form. Anthropogenic biomes may also be termed "anthromes" to distinguish them from conventional biome systems, or "human biomes" (a simpler but less precise term).
 
