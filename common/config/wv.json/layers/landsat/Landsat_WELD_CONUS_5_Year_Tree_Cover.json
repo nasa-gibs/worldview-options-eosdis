@@ -6,7 +6,7 @@
             "subtitle": "Landsat / WELD",
             "description": "landsat/Landsat_WELD_CONUS_5_Year_Tree_Cover",
             "tags":     "conterminous usa, continental usa",
-            "group":    "baselayers",
+            "group":    "overlays",
             "layergroup": [
               "landsat"
             ],
