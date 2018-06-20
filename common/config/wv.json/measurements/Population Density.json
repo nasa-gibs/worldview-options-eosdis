@@ -12,7 +12,11 @@
                     "image": "",
                     "settings": [
                         "grump-v1-population-count_2000",
-                        "GPW_Population_Density_2015"
+                        "GPW_Population_Density_2000",
+                        "GPW_Population_Density_2005",
+                        "GPW_Population_Density_2010",
+                        "GPW_Population_Density_2015",
+                        "GPW_Population_Density_2020"
                     ]
                 }
             }

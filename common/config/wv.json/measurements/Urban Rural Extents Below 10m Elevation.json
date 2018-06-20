@@ -1,8 +1,8 @@
 {
     "measurements": {
-        "Urban Rural Extents in the 10m Low Elevation Zone": {
-            "id": "urban-rural-extents-low",
-            "title": "Urban-Rural Extents in the 10m Low Elevation Zone",
+        "Urban Rural Extents Below 10m Elevation": {
+            "id": "urban-rural-extents-below-10m",
+            "title": "Urban Rural Extents Below 10m Elevation",
             "subtitle": "SEDAC",
             "sources": {
                 "SEDAC": {
@@ -11,7 +11,7 @@
                     "description": "sedac/UrbanRuralExtent_LowElevation",
                     "image": "",
                     "settings": [
-                        "lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m"
+                        "LECZ_Urban_Rural_Extents_Below_10m"
                     ]
                 }
             }

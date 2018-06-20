@@ -11,7 +11,7 @@
                     "description": "sedac/UrbanExtents",
                     "image": "",
                     "settings": [
-                        "grump-v1-urban-extents"
+                        "GRUMP_Urban_Extents_Grid_1995"
                     ]
                 }
             }

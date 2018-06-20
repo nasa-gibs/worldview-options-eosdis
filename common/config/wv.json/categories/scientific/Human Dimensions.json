@@ -13,14 +13,19 @@
                     "Earth at Night",
                     "Fires and Thermal Anomalies",
                     "Flood Hazard",
+                    "Human Footprint",
                     "Land Cover",
+                    "Land Surface Temperature",
+                    "Landslide Hazard",
                     "Net Migration",
+                    "Particulate Matter",
                     "Population Density",
                     "Power Plants, Nuclear",
                     "Reservoirs",
                     "Settlements",
+                    "Urban Expansion",
                     "Urban Extents",
-                    "Urban Rural Extents in the 10m Low Elevation Zone",
+                    "Urban Rural Extents Below 10m Elevation",
                     "Volcano Hazard"
                 ]
             }

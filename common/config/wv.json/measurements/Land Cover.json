@@ -21,7 +21,8 @@
                     "image": "",
                     "settings": [
                         "Anthropogenic_Biomes_of_the_World_2001-2006",
-                        "Agricultural_Lands_Croplands_2000"
+                        "Agricultural_Lands_Croplands_2000",
+                        "Agricultural_Lands_Pastures_2000"
                     ]
                 }
             }
