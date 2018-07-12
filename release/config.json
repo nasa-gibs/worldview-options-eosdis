@@ -1,5 +1,4 @@
 {
-    "warnOnUnexpectedLayer": "true",
     "wv-options-fetch": [
         {
             "from": "https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/wmts.cgi?request=GetCapabilities",
