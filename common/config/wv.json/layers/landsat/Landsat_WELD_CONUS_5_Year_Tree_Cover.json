@@ -11,7 +11,10 @@
               "landsat"
             ],
             "product":  "WELDLCLUC",
-            "inactive": true
+            "inactive": true,
+            "palette": {
+                "immutable": true
+            }
         }
     }
 }
