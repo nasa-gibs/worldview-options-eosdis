@@ -1,0 +1,29 @@
+{
+  "layers": {
+    "World_Database_on_Protected_Areas": {
+      "id": "World_Database_on_Protected_Areas",
+      "layer": "0,1",
+      "title": "The World Database on Protected Areas (WDPA)",
+      "subtitle": "UNEP-WCMC and IUCN, Protected Planet",
+      "group": "overlays",
+      "format": "image/png",
+      "tileSize": [
+        512,
+        512
+      ],
+      "type": "wms",
+      "layergroup": [
+        "wdpa"
+      ],
+      "projections": {
+        "geographic": {
+          "source": "WDPA:wms"
+        }
+      },
+      "palette": {
+        "id": "World_Database_on_Protected_Areas",
+        "immutable": true
+      }
+    }
+  }
+}

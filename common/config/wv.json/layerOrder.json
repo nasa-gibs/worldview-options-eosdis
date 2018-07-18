@@ -812,7 +812,8 @@
 	 	    "OCO_2_Orbit_Asc",
 		    "OCO_2_Orbit_Dsc",
         "GOSAT_Orbit_Asc",
-        "GOSAT_Orbit_Dsc"
+        "GOSAT_Orbit_Dsc",
+        "World_Database_on_Protected_Areas"
     ],
     "layerOrderExceptions": [
         "SCAR_Land_Mask",
