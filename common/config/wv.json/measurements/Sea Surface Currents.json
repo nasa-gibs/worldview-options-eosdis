@@ -1,0 +1,21 @@
+{
+    "measurements": {
+        "Sea Surface Currents": {
+            "id": "sea-surface-currents",
+            "title":    "Sea Surface Currents",
+            "subtitle": "OSCAR",
+            "sources": {
+                "OSCAR": {
+                    "id": "oscar",
+                    "title": "OSCAR",
+                    "description": "oscar/SeaSurfaceCurrents",
+                    "image": "",
+                    "settings": [
+                      "OSCAR_Sea_Surface_Currents_Zonal",
+                      "OSCAR_Sea_Surface_Currents_Meridional"
+                    ]
+                }
+            }
+        }
+    }
+}
