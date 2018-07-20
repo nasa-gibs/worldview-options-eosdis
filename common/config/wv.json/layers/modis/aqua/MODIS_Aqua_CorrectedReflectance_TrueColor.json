@@ -11,7 +11,8 @@
               "modis",
               "modis_aqua"
             ],
-            "wrapadjacentdays": true
+            "wrapadjacentdays": true,
+            "product": ["MYD021KM_DAY", "MYD02HKM_DAY", "MYD02QKM_DAY", "MYD03_DAY"]
         }
     }
 }
