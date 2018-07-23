@@ -26,7 +26,9 @@
 
             "sedac_bound":              "Coastlines",
             "cartographic:esri-administrative-boundaries_level-1": "Reference_Features",
-            "cartographic:00-global-labels": "Reference_Labels"
+            "cartographic:00-global-labels": "Reference_Labels",
+
+            "grump-v1-population-count_2000": "GPW_Population_Density_2000"
         }
     }
 }
