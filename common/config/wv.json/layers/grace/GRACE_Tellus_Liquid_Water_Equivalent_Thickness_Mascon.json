@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "GRACE_Tellus_Liquid_Water_Equivalent_Thickness_Mascon": {
+      "id": "GRACE_Tellus_Liquid_Water_Equivalent_Thickness_Mascon",
+      "title": "Liquid Water Equivalent Thickness (Mascon)",
+      "subtitle": "GRACE Tellus",
+      "description": "grace/GRACE_Tellus_Liquid_Water_Equivalent_Thickness_Mascon",
+      "tags": "",
+      "layergroup": [
+        "grace"
+      ],
+      "group": "overlays"
+    }
+  }
+}
