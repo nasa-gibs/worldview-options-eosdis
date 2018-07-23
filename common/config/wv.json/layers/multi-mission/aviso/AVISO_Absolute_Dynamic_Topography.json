@@ -1,0 +1,16 @@
+{
+  "layers": {
+    "AVISO_Absolute_Dynamic_Topography": {
+      "id": "AVISO_Absolute_Dynamic_Topography",
+      "title": "Absolute Dynamic Topography (AVISO ADT)",
+      "subtitle": "AVISO",
+      "description": "multi-mission/aviso/AVISO_Absolute_Dynamic_Topography",
+      "tags": "",
+      "layergroup": [
+        "multi-mission",
+        "multi-mission_aviso"
+      ],
+      "group": "overlays"
+    }
+  }
+}
