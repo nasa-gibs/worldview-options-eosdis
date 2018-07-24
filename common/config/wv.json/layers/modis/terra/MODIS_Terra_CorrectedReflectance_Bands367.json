@@ -7,7 +7,8 @@
             "description": "modis/terra/MODIS_Terra_CorrectedReflectance_Bands367",
             "tags":     "cr m3-i3-m11",
             "group":    "baselayers",
-            "wrapadjacentdays": true
+            "wrapadjacentdays": true,
+            "product": ["MOD021KM_DAY", "MOD02HKM_DAY", "MOD02QKM_DAY", "MOD03_DAY"]
         }
     }
 }

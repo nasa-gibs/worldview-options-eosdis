@@ -1,0 +1,27 @@
+{
+  "products": {
+    "MOD03_DAY": {
+      "name": "MODIS/Terra Geolocation Fields 5-Min L1A Swath 1km, Day",
+      "handler": "TerraSwathMultiDay",
+      "query": {
+        "shortName": "MOD03",
+        "day_night_flag": "day"
+      },
+      "nrt": {
+        "by": "value",
+        "field": "data_center",
+        "value": "LANCEMODIS"
+      },
+      "urs": {
+        "by": "value",
+        "field": "data_center",
+        "value": "LANCEMODIS"
+      },
+      "tagVersionRegex": {
+        "field": "producer_granule_id",
+        "namedRegex": "MODISProducerGranuleID",
+        "parseVersion": "MODIS"
+      }
+    }
+  }
+}
