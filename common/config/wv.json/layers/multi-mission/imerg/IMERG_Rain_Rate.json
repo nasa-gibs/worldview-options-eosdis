@@ -4,7 +4,7 @@
             "id":       "IMERG_Rain_Rate",
             "title":    "Rain Rate (Early)",
             "subtitle": "IMERG",
-            "description": "",
+            "description": "multi-mission/imerg/IMERG_Rain_Rate",
             "tags":     "precipitation",
             "layergroup": [
               "multi-mission",
