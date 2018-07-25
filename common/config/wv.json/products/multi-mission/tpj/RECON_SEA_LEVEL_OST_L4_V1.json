@@ -1,10 +1,10 @@
 {
     "products": {
-        "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY": {
-            "name": "PODAAC-USWCD-ALT01",
+        "RECON_SEA_LEVEL_OST_L4_V1": {
+            "name": "PODAAC-RECSL-000V1",
             "handler": "List",
             "query": {
-                "shortName": "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY"
+                "shortName": "RECON_SEA_LEVEL_OST_L4_V1"
             }
         }
     }

@@ -6,10 +6,12 @@
       "subtitle": "GRACE Tellus",
       "description": "grace/GRACE_Tellus_Liquid_Water_Equivalent_Thickness_Mascon_CRI",
       "tags": "",
+      "group": "overlays",
       "layergroup": [
         "grace"
       ],
-      "group": "overlays"
+      "product": "TELLUS_GRACE_MASCON_CRI_GRID_RL05_V1",
+      "inactive": true
     }
   }
 }

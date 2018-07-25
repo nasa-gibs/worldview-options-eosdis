@@ -6,10 +6,12 @@
       "subtitle": "GRACE Tellus",
       "description": "grace/GRACE_Tellus_Liquid_Water_Equivalent_Thickness_Ocean_GFZ",
       "tags": "",
+      "group": "overlays",
       "layergroup": [
         "grace"
       ],
-      "group": "overlays"
+      "product": "",
+      "inactive": true
     }
   }
 }

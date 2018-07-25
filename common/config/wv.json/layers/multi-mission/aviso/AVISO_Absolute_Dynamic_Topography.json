@@ -6,11 +6,14 @@
       "subtitle": "AVISO",
       "description": "multi-mission/aviso/AVISO_Absolute_Dynamic_Topography",
       "tags": "",
+      "group": "overlays",
       "layergroup": [
         "multi-mission",
         "multi-mission_aviso"
       ],
-      "group": "overlays"
+      "product": "AVISO_L4_DYN_TOPO_1DEG_1MO",
+      "wrapadjacentdays": true,
+      "inactive": true
     }
   }
 }

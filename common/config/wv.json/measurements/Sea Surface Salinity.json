@@ -17,7 +17,19 @@
                       "Aquarius_Sea_Surface_Salinity_L3_Monthly",
                       "Aquarius_Sea_Surface_Salinity_L3_3Month"
                     ]
-                }
+                },
+                    "SMAP/Radiometer": {
+                        "id": "smap-radiometer",
+                        "title": "SMAP / Radiometer",
+                        "description": "smap/SeaSurfaceSalinity",
+                        "image": "",
+                        "settings": [
+                          "SMAP_L3_Sea_Surface_Salinity_REMSS_Monthly",
+                          "SMAP_L3_Sea_Surface_Salinity_REMSS_8Day_RunningMean",
+                          "SMAP_L3_Sea_Surface_Salinity_CAP_Monthly",
+                          "SMAP_L3_Sea_Surface_Salinity_CAP_8Day_RunningMean"
+                        ]
+                    }
             }
         }
     }
