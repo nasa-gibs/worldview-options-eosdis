@@ -75,7 +75,10 @@
                         "description": "merra/SurfaceSkinTemperature",
                         "image": "",
                         "settings": [
-                            "MERRA2_Surface_Skin_Temperature_Monthly"
+                            "MERRA2_Surface_Skin_Temperature_Monthly",
+                            "MERRA2_2m_Air_Temperature_Monthly",
+                            "MERRA2_2m_Air_Temperature_Assimilated_Monthly",
+                            "MERRA2_Air_Temperature_250hPa_Monthly"
                         ]
                       }
             }
