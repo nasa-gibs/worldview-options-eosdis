@@ -3,7 +3,7 @@
         "Carbon Monoxide": {
             "id": "carbon-monoxide",
             "title":    "Carbon Monoxide",
-            "subtitle": "Aqua/AIRS, Aura/MLS, Terra/MOPITT",
+            "subtitle": "Aqua/AIRS, Aura/MLS, Terra/MOPITT, MERRA-2",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
@@ -48,6 +48,16 @@
                         "MOPITT_CO_Monthly_Surface_Mixing_Ratio_Night",
                         "MOPITT_CO_Monthly_Total_Column_Day",
                         "MOPITT_CO_Monthly_Total_Column_Night"
+
+                    ]
+                },
+                "MERRA-2": {
+                    "id": "merra2",
+                    "title": "MERRA-2",
+                    "description": "merra/CarbonMonoxide",
+                    "image": "",
+                    "settings": [
+                        "MERRA2_Carbon_Monoxide_Emission_Monthly"
 
                     ]
                 }

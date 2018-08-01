@@ -3,7 +3,7 @@
         "Soil Moisture": {
             "id": "soil-moisture",
             "title":    "Soil Moisture",
-            "subtitle": "GCOM-W1/AMSR2, SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SMAP/Radiometer and Sentinel-1/Radar, SAC-D/Aquarius, GLDAS, NLDAS",
+            "subtitle": "GCOM-W1/AMSR2, SMAP/Radar, SMAP/Radiometer, SMAP/Model Value-Added, SMAP/Radiometer and Sentinel-1/Radar, SAC-D/Aquarius, GLDAS, NLDAS, MERRA-2",
             "sources": {
               "GCOM-W1/AMSR2": {
                   "id": "gcom-w1-amsr2",
@@ -114,6 +114,15 @@
 			                  "NLDAS_Underground_Soil_Moisture_Mosaic_Monthly",
                         "NLDAS_Underground_Soil_Moisture_Noah_Monthly",
                         "NLDAS_Underground_Soil_Moisture_VIC_Monthly"
+                    ]
+                },
+                "MERRA-2": {
+                    "id": "merra2",
+                    "title": "MERRA-2",
+                    "description": "merra/SoilWaterRootZone",
+                    "image": "",
+                    "settings": [
+			                  "MERRA2_Soil_Water_Root_Zone_Monthly"
                     ]
                 }
             }

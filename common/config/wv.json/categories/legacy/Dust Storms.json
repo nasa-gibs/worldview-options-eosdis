@@ -8,7 +8,7 @@
                 "description": "",
                 "measurements": [
                     "Aerosol Optical Depth",
-                    "Dust Score",
+                    "Dust",
                     "Corrected Reflectance",
                     "Land Surface Reflectance"
 

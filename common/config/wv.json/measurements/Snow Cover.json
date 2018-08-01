@@ -12,7 +12,6 @@
                     "image": "",
                     "settings": [
                         "MODIS_Aqua_NDSI_Snow_Cover"
-
                     ]
                 },
                 "Terra/MODIS": {
@@ -22,7 +21,6 @@
                     "image": "",
                     "settings": [
                         "MODIS_Terra_NDSI_Snow_Cover"
-
                     ]
                 }
             }

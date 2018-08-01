@@ -8,7 +8,7 @@
               "IMERG": {
                   "id": "imerg",
                   "title": "IMERG",
-                  "description": "",
+                  "description": "multi-mission/imerg/Precipitation",
                   "image": "",
                   "settings": [
                       "IMERG_Rain_Rate",
@@ -17,7 +17,7 @@
               },
                 "GPM/GMI": {
                     "id": "gpm-gmi",
-                    "title": "GPM / GMI",
+                    "title": "GPM/GMI",
                     "description": "gpm/PrecipitationRate",
                     "image": "",
                     "settings": [
@@ -31,7 +31,7 @@
                 },
                 "GCOM-W1/AMSR2": {
                     "id": "gcom-w1-amsr2",
-                    "title": "GCOM-W1 / AMSR2",
+                    "title": "GCOM-W1/AMSR2",
                     "description": "amsr2/PrecipitationRate",
                     "image": "",
                     "settings": [
@@ -45,7 +45,7 @@
                   },
                   "Aqua/AMSR-E": {
                       "id": "aqua-amsr-e",
-                      "title": "Aqua / AMSR-E",
+                      "title": "Aqua/AMSR-E",
                       "description": "amsre/SurfacePrecipitationRate",
                       "image": "",
                       "settings": [

@@ -3,7 +3,7 @@
         "Ozone": {
             "id": "ozone",
             "title":    "Ozone",
-            "subtitle": "Aura/MLS, Aura/OMI, Suomi NPP / OMPS",
+            "subtitle": "Aura/MLS, Aura/OMI, Suomi NPP/OMPS, MERRA-2",
             "sources": {
                 "Aura/MLS": {
                     "id": "aura-mls",
@@ -27,8 +27,7 @@
                         "OMI_Ozone_TOMS_Total_Column",
                         "Aura_Orbit_Asc"
                     ]
-                }
-                ,
+                },
                 "Suomi NPP/OMPS": {
                     "id": "suominpp-omps",
                     "title": "Suomi NPP/OMPS",
@@ -36,6 +35,15 @@
                     "image": "",
                     "settings": [
                         "OMPS_Ozone_Total_Column"
+                    ]
+                },
+                "MERRA-2": {
+                    "id": "merra2",
+                    "title": "MERRA-2",
+                    "description": "merra/Ozone",
+                    "image": "",
+                    "settings": [
+                        "MERRA2_Ozone_Mixing_Ratio_50hPa_Monthly"
                     ]
                 }
             }

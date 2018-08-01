@@ -3,7 +3,7 @@
         "Relative Humidity": {
             "id": "relative-humidity",
             "title":    "Relative Humidity",
-            "subtitle": "Aqua / AIRS",
+            "subtitle": "Aqua / AIRS, MERRA-2",
             "sources": {
                 "Aqua/AIRS": {
                     "id": "aqua-airs",
@@ -27,6 +27,15 @@
                         "AIRS_Surface_Relative_Humidity_Monthly_Night",
                         "Aqua_Orbit_Asc",
                         "Aqua_Orbit_Dsc"
+                    ]
+                },
+                "MERRA-2": {
+                    "id": "merra2",
+                    "title": "MERRA-2",
+                    "description": "merra/RelativeHumidity",
+                    "image": "",
+                    "settings": [
+                        "MERRA2_Relative_Humidity_After_Moist_700hPa_Monthly"
                     ]
                 }
             }
