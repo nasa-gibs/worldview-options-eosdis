@@ -5,6 +5,7 @@
       "title": "Sea Surface Salinity (L3, Monthly, Radiometer)",
       "subtitle": "SMAP",
       "description": "smap/SMAP_L3_Sea_Surface_Salinity_REMSS_Monthly",
+      "tags":     "sss",
       "group": "overlays",
       "layergroup": [
         "smap"
