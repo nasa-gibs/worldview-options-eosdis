@@ -3,7 +3,7 @@
         "Sea Surface Salinity": {
             "id": "sea-surface-salinity",
             "title":    "Sea Surface Salinity",
-            "subtitle": "SAC-D/Aquarius",
+            "subtitle": "SAC-D/Aquarius, SMAP/Radiometer",
             "sources": {
                 "SAC-D/Aquarius": {
                     "id": "sac-d-aquarius",
@@ -20,7 +20,7 @@
                 },
                     "SMAP/Radiometer": {
                         "id": "smap-radiometer",
-                        "title": "SMAP / Radiometer",
+                        "title": "SMAP/Radiometer",
                         "description": "smap/SeaSurfaceSalinity",
                         "image": "",
                         "settings": [

@@ -3,7 +3,7 @@
         "Sea Surface Currents": {
             "id": "sea-surface-currents",
             "title":    "Sea Surface Currents",
-            "subtitle": "OSCAR",
+            "subtitle": "OSCAR, TOPEX/POSEIDON, JASON-1, OSTM/Jason-2",
             "sources": {
                 "OSCAR": {
                     "id": "oscar",
