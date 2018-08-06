@@ -16,7 +16,8 @@
                         "Reference_Labels",
                         "Coastlines",
                         "Land_Mask",
-                        "Land_Water_Map"
+                        "Land_Water_Map",
+                        "World_Database_on_Protected_Areas"
                     ]
                 }
             }

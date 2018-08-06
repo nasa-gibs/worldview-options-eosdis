@@ -6,6 +6,7 @@
       "title": "The World Database on Protected Areas (WDPA)",
       "subtitle": "UNEP-WCMC and IUCN, Protected Planet",
       "group": "overlays",
+      "tags": "pa national park",
       "format": "image/png",
       "tileSize": [
         512,
