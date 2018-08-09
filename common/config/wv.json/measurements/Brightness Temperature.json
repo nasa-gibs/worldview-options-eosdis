@@ -53,6 +53,8 @@
                     "settings": [
                         "AMSR2_Sea_Ice_Brightness_Temp_6km_89H",
                         "AMSR2_Sea_Ice_Brightness_Temp_6km_89V",
+                        "AMSRU2_Sea_Ice_Brightness_Temp_89H",
+                        "AMSRU2_Sea_Ice_Brightness_Temp_89V",
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]
