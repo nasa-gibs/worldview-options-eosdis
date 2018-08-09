@@ -47,6 +47,8 @@
                     "settings": [
                         "AMSR2_Sea_Ice_Concentration_12km",
                         "AMSR2_Sea_Ice_Concentration_25km",
+                        "AMSRU2_Sea_Ice_Concentration_12km",
+                        "AMSRU2_Sea_Ice_Concentration_25km",
                         "GCOM_W1_Orbit_Asc",
                         "GCOM_W1_Orbit_Dsc"
                     ]
