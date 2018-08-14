@@ -20,6 +20,9 @@
       "projections": {
         "geographic": {
           "source": "WDPA:wms"
+        },
+        "arctic": {
+          "source": "WDPA:wms"
         }
       },
       "palette": {
