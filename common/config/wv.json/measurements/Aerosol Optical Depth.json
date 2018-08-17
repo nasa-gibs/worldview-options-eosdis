@@ -24,7 +24,8 @@
                     "description": "omps/Aerosol",
                     "image": "",
                     "settings": [
-                        "OMPS_Aerosol_Index"
+                        "OMPS_Aerosol_Index",
+                        "OMPS_Aerosol_Index_PyroCumuloNimbus"
                     ]
                 },
                 "Aqua/MODIS": {

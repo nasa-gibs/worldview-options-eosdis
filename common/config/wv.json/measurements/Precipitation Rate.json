@@ -168,7 +168,7 @@
                 "MERRA-2": {
                     "id": "merra2",
                     "title": "MERRA-2",
-                    "description": "merra/precipitation",
+                    "description": "merra/Precipitation",
                     "image": "",
                     "settings": [
                         "MERRA2_Precipitation_Bias_Corrected_Monthly",
