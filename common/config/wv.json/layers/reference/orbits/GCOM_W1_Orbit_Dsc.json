@@ -2,7 +2,7 @@
     "layers": {
         "GCOM_W1_Orbit_Dsc": {
             "id":       "GCOM_W1_Orbit_Dsc",
-            "title":    "GCOM-W1 Orbital Track (Descending/Night)",
+            "title":    "GCOM-W1 Orbital Track & Overpass Time (Descending/Night)",
             "subtitle": "GCOM-W1 / Space-Track.org",
             "description": "reference/orbits/GCOM_W1_Orbit_Dsc",
             "group":    "overlays",

@@ -2,7 +2,7 @@
     "layers": {
         "Aura_Orbit_Dsc": {
             "id":       "Aura_Orbit_Dsc",
-            "title":    "Aura Orbital Track (Descending/Night)",
+            "title":    "Aura Orbital Track & Overpass Time (Descending/Night)",
             "subtitle": "Aura / Space-Track.org",
             "description": "reference/orbits/Aura_Orbit_Dsc",
             "group":    "overlays",

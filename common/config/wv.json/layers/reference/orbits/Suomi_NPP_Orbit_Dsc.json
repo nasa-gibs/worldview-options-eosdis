@@ -2,7 +2,7 @@
     "layers": {
         "Suomi_NPP_Orbit_Dsc": {
             "id":       "Suomi_NPP_Orbit_Dsc",
-            "title":    "Suomi-NPP Orbital Track (Descending/Night)",
+            "title":    "Suomi-NPP Orbital Track & Overpass Time (Descending/Night)",
             "subtitle": "Suomi-NPP / Space-Track.org",
             "description": "reference/orbits/Suomi_NPP_Orbit_Dsc",
             "group":    "overlays",

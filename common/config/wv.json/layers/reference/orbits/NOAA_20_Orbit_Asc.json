@@ -2,7 +2,7 @@
     "layers": {
         "NOAA_20_Orbit_Asc": {
             "id":       "NOAA_20_Orbit_Asc",
-            "title":    "NOAA-20 Orbital Track (Ascending/Day)",
+            "title":    "NOAA-20 Orbital Track & Overpass Time (Ascending/Day)",
             "subtitle": "NOAA-20 / Space-Track.org",
             "description": "reference/orbits/NOAA_20_Orbit_Asc",
             "tags":     "JPSS-1",

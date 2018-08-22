@@ -2,7 +2,7 @@
     "layers": {
         "Sentinel_2B_Orbit_Asc": {
             "id":       "Sentinel_2B_Orbit_Asc",
-            "title":    "Sentinel-2B Orbital Track (Ascending/Night)",
+            "title":    "Sentinel-2B Orbital Track & Overpass Time (Ascending/Night)",
             "subtitle": "Sentinel-2B / Space-Track.org",
             "description": "reference/orbits/Sentinel_2B_Orbit_Asc",
             "tags":     "",

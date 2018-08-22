@@ -2,9 +2,9 @@
     "layers": {
         "ISS_Orbit_Dsc": {
             "id":       "ISS_Orbit_Dsc",
-            "title":    "ISS Orbital Track (Descending)",
+            "title":    "ISS Orbital Track & Overpass Time (Descending)",
             "subtitle": "Int'l Space Station / Space-Track.org",
-            "description": "",
+            "description": "reference/orbits/ISS_Orbit_Dsc",
             "tags":     "iss international",
             "group":    "overlays",
             "format":   "image/png",

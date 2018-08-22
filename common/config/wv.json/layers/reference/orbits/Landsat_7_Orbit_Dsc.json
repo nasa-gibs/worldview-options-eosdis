@@ -2,7 +2,7 @@
     "layers": {
         "Landsat_7_Orbit_Dsc": {
             "id":       "Landsat_7_Orbit_Dsc",
-            "title":    "Landsat 7 Orbital Track (Descending/Day)",
+            "title":    "Landsat 7 Orbital Track & Overpass Time (Descending/Day)",
             "subtitle": "Landsat 7 / Space-Track.org",
             "description": "reference/orbits/Landsat_7_Orbit_Dsc",
             "group":    "overlays",

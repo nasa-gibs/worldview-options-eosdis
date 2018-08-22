@@ -2,7 +2,7 @@
     "layers": {
         "Aqua_Orbit_Asc": {
             "id":       "Aqua_Orbit_Asc",
-            "title":    "Aqua Orbital Track (Ascending/Day)",
+            "title":    "Aqua Orbital Track & Overpass Time (Ascending/Day)",
             "subtitle": "Aqua / Space-Track.org",
             "description": "reference/orbits/Aqua_Orbit_Asc",
             "group":    "overlays",
