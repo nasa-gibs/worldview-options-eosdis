@@ -2,7 +2,7 @@
     "layers": {
         "Landsat_7_Orbit_Asc": {
             "id":       "Landsat_7_Orbit_Asc",
-            "title":    "Landsat 7 Orbital Track (Ascending/Night)",
+            "title":    "Landsat 7 Orbital Track & Overpass Time (Ascending/Night)",
             "subtitle": "Landsat 7 / Space-Track.org",
             "description": "reference/orbits/Landsat_7_Orbit_Asc",
             "group":    "overlays",

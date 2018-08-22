@@ -2,7 +2,7 @@
     "layers": {
         "GCOM_W1_Orbit_Asc": {
             "id":       "GCOM_W1_Orbit_Asc",
-            "title":    "GCOM-W1 Orbital Track (Ascending/Day)",
+            "title":    "GCOM-W1 Orbital Track & Overpass Time (Ascending/Day)",
             "subtitle": "GCOM-W1 / Space-Track.org",
             "description": "reference/orbits/GCOM_W1_Orbit_Asc",
             "group":    "overlays",

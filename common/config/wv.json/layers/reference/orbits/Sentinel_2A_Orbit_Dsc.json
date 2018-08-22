@@ -2,7 +2,7 @@
     "layers": {
         "Sentinel_2A_Orbit_Dsc": {
             "id":       "Sentinel_2A_Orbit_Dsc",
-            "title":    "Sentinel-2A Orbital Track (Descending/Day)",
+            "title":    "Sentinel-2A Orbital Track & Overpass Time (Descending/Day)",
             "subtitle": "Sentinel-2A / Space-Track.org",
             "description": "reference/orbits/Sentinel_2A_Orbit_Dsc",
             "tags":     "",

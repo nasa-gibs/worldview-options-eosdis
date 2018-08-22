@@ -2,7 +2,7 @@
     "layers": {
         "Sentinel_5P_Orbit_Dsc": {
             "id":       "Sentinel_5P_Orbit_Dsc",
-            "title":    "Sentinel-5P Orbital Track (Descending/Night)",
+            "title":    "Sentinel-5P Orbital Track & Overpass Time (Descending/Night)",
             "subtitle": "Sentinel-5P / Space-Track.org",
             "description": "reference/orbits/Sentinel_5P_Orbit_Dsc",
             "tags":     "",
