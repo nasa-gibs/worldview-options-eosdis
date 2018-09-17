@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-volcano-proportional-economic-loss-risk-deciles",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

@@ -27,7 +27,8 @@
             "palette": {
                 "id":           "grand-v1-dams-rev01",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

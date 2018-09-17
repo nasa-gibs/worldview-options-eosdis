@@ -25,7 +25,8 @@
                     "subtitle":     "&copy; OpenStreetMap contributors",
                     "tags":         "borders reference osm"
                 }
-            }
+            },
+            "wrapX": true
         }
     }
 }

@@ -11,7 +11,8 @@
             "layergroup": [
               "aster"
             ],
-            "product":  "ASTGTM"
+            "product":  "ASTGTM",
+            "wrapX": true
         }
     }
 }

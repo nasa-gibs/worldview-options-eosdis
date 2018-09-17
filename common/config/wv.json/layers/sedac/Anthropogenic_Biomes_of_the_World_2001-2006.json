@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_SEDAC_ANTHROMES_v1",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }

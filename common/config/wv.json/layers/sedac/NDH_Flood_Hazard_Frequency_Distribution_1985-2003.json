@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_CHRR_NDH_FLOOD_HFD",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }

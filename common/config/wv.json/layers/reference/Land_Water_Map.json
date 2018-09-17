@@ -31,7 +31,8 @@
                     "source":       "GIBS:geographic",
                     "matrixSet":    "250m"
                 }
-            }
+            },
+            "wrapX": true
         }
     }
 }

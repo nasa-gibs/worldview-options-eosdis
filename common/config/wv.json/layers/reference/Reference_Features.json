@@ -11,7 +11,8 @@
             "noTransition":     "true",
             "layergroup": [
               "reference"
-            ]
+            ],
+            "wrapX": true
         }
     }
 }

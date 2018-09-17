@@ -27,7 +27,8 @@
             "palette": {
                 "id":           "grand-v1-reservoirs-rev01",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }
