@@ -8,6 +8,7 @@
                 "description": "",
                 "measurements": [
                   "Absolute Dynamic Topography",
+                  "Aerosol Index",
                   "Aerosol Optical Depth",
                   "Aerosol Albedo",
                   "Amphibian Richness",

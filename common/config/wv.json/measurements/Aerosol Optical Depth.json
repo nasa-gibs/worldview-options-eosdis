@@ -14,18 +14,7 @@
                         "OMI_Aerosol_Optical_Depth",
                         "OMI_Absorbing_Aerosol_Optical_Depth",
                         "OMI_Absorbing_Aerosol_Optical_Thickness_MW_388",
-                        "OMI_Aerosol_Index",
                         "Aura_Orbit_Asc"
-                    ]
-                },
-                "Suomi NPP/OMPS": {
-                    "id": "suominpp-omps",
-                    "title": "Suomi NPP/OMPS",
-                    "description": "omps/Aerosol",
-                    "image": "",
-                    "settings": [
-                        "OMPS_Aerosol_Index",
-                        "OMPS_Aerosol_Index_PyroCumuloNimbus"
                     ]
                 },
                 "Aqua/MODIS": {
