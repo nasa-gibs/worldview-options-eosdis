@@ -10,7 +10,8 @@
             "layergroup": [
               "reference",
               "reference_bluemarble"
-            ]
+            ],
+            "wrapX": true
         }
     }
 }

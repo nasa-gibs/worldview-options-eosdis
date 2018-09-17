@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-drought-proportional-economic-loss-risk-deciles",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

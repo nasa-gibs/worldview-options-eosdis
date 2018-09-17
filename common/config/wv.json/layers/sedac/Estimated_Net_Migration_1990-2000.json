@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_SEDAC_PD_NETMIG_1970_2000",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }

@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-flood-mortality-risks-distribution",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

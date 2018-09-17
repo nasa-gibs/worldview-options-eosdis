@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-volcano-hazard-frequency-distribution",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

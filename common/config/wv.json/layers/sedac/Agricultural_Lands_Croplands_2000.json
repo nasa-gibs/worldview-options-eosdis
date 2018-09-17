@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_SEDAC_AGLANDS_CROP2000",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }

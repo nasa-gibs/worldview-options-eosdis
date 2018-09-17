@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_SEDAC_SPECIES_MAM_RICH15",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }

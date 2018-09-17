@@ -28,7 +28,8 @@
             "palette": {
                 "id":           "grump-v1-settlement-points",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

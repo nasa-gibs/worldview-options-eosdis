@@ -27,7 +27,8 @@
             "palette": {
                 "id":           "energy-pop-exposure-nuclear-plants-locations_plants",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

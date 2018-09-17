@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-volcano-mortality-risks-distribution",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

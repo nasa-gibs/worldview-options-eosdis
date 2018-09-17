@@ -12,7 +12,8 @@
             ],
             "palette": {
                 "id":     "MODIS_Water_Mask"
-            }
+            },
+            "wrapX": true
         }
     }
 }

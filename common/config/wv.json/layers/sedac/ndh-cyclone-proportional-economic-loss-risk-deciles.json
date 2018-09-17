@@ -23,7 +23,8 @@
             "palette": {
             	"id":			"ndh-cyclone-proportional-economic-loss-risk-deciles",
                 "immutable":    true
-            }
+            },
+            "wrapX": true
         }
     }
 }

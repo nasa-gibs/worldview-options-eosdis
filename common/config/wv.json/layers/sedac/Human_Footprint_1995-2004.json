@@ -12,7 +12,7 @@
             ],
             "product":  "CIESIN_SEDAC_LWP2_HF_GEOG",
             "inactive": true,
-            "wrapadjacentdays": true
+            "wrapX": true
         }
     }
 }
