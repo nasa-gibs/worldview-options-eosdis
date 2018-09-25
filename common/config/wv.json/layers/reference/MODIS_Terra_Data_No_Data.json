@@ -9,7 +9,7 @@
             "layergroup": [
               "reference"
             ],
-            "wrapX": true
+            "wrapadjacentdays": true
         }
     }
 }
