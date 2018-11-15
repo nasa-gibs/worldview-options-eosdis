@@ -1,6 +1,6 @@
 # worldview-options-eosdis
 
-Visit Worldview at https://worldview.earthdata.nasa.gov
+Note: `worldview-options-eosdis` is now a part of `worldview` core. Please refer to the [worldview repository](https://github.com/nasa-gibs/worldview) to continue using these components.
 
 ## About
 
